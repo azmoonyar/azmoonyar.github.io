@@ -1,53 +1,38 @@
 /* Installable web app: registers the service worker (sw.js) and drives the "add to home screen" button.
  *
- * Chrome, Edge and Samsung Internet offer their own install dialog (beforeinstallprompt); the button opens it.
- * iOS / iPadOS and other browsers have no such dialog, so the button shows short steps for the browser menu.
+ * The button is shown whenever the app is not already running installed. Where the browser offers its own
+ * install dialog (beforeinstallprompt: Chrome, Edge, Samsung Internet) the button opens it; everywhere else it
+ * shows short steps for that browser (iOS / Android menus, desktop Chrome / Edge, Safari on macOS).
  */
 
-const INSTALLED_KEY = "ayeen.installed.v1";
 const userAgent = navigator.userAgent;
 const isAndroid = /android/i.test(userAgent);
 // iPadOS reports itself as a Mac; a touch screen tells them apart.
 const isIos = !isAndroid && (/iphone|ipad|ipod/i.test(userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1));
 const isMacSafari = !isIos && /macintosh/i.test(userAgent) && Number(userAgent.match(/version\/(\d+)[\d.]* safari/i)?.[1]) >= 17
   && !/chrome|chromium|crios|edg|firefox|fxios|opr/i.test(userAgent);
+const isDesktopChromium = !isIos && !isAndroid && /chrome|chromium|edg\//i.test(userAgent);
 
 let deferredPrompt = null;
+let installedHere = false; // installed from this page just now; the button hides until the next visit
 const listeners = new Set();
-
-function remembered() {
-  try {
-    return window.localStorage.getItem(INSTALLED_KEY) === "1";
-  } catch {
-    return false;
-  }
-}
-
-function remember(installed) {
-  try {
-    if (installed) window.localStorage.setItem(INSTALLED_KEY, "1");
-    else window.localStorage.removeItem(INSTALLED_KEY);
-  } catch {
-    // Storage may be unavailable; the button then simply stays visible.
-  }
-}
 
 const notify = () => listeners.forEach((listener) => listener());
 
 export const isStandalone = () => window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
 
 /**
- * How the app can be installed here: "prompt" (the browser's own dialog), "ios" / "android" / "mac" (steps in the
- * browser menu), or null when it is already installed or the browser cannot install web apps.
+ * How the app can be installed here: "prompt" (the browser's own dialog), steps for "ios" / "android" / "mac" /
+ * "desktop" (Chrome, Edge), "other" (browsers that cannot install web apps), or null when running installed.
  */
 export function installMode() {
-  if (isStandalone()) return null;
+  if (isStandalone() || installedHere) return null;
   if (deferredPrompt) return "prompt";
-  if (remembered()) return null;
   if (isIos) return "ios";
   if (isAndroid) return "android";
   if (isMacSafari) return "mac";
-  return null;
+  if (isDesktopChromium) return "desktop";
+  return "other";
 }
 
 /** Phones and tablets add to the home screen; computers install an app. */
@@ -61,7 +46,7 @@ export async function promptInstall() {
   prompt.prompt();
   try {
     const { outcome } = await prompt.userChoice;
-    if (outcome === "accepted") remember(true);
+    if (outcome === "accepted") installedHere = true;
   } finally {
     notify();
   }
@@ -96,6 +81,21 @@ const STEPS = {
     title: "نصب آزمون‌یار روی مک",
     steps: [`در نوار منوی Safari، منوی «File» را باز کنید.`, `«Add to Dock» را بزنید و تأیید کنید.`],
   },
+  desktop: {
+    title: "نصب آزمون‌یار روی کامپیوتر",
+    steps: [
+      `در انتهای نوار آدرس، روی آیکون نصب <span class="install-key">${ICON_INSTALL}</span> بزنید.`,
+      `اگر آیکون دیده نمی‌شود، از منوی مرورگر <span class="install-key">⋮</span> گزینهٔ «Install» (نصب) یا در Edge «Apps → Install this site as an app» را بزنید.`,
+      `نصب را تأیید کنید؛ آزمون‌یار در پنجرهٔ خودش باز می‌شود.`,
+    ],
+  },
+  other: {
+    title: "نصب آزمون‌یار",
+    steps: [
+      `این مرورگر نصب وب‌اپ را پشتیبانی نمی‌کند؛ آزمون‌یار را در Chrome یا Edge باز کنید و همین دکمه را بزنید.`,
+      `روی گوشی: در Safari یا Chrome، گزینهٔ «افزودن به صفحهٔ اصلی» را بزنید.`,
+    ],
+  },
 };
 
 /** The button for the start page, or an empty string when there is nothing to install. */
@@ -128,6 +128,7 @@ function showInstallSteps(mode) {
     <h2 id="install-help-title">${title}</h2>
     <p>آزمون‌یار مثل یک برنامه، تمام‌صفحه و بدون نوار مرورگر از صفحهٔ اصلی باز می‌شود و بدون اینترنت هم اجرا می‌شود.</p>
     <ol class="install-steps">${steps.map((step, index) => `<li><span class="install-step-number">${(index + 1).toLocaleString("fa-IR")}</span><span>${step}</span></li>`).join("")}</ol>
+    <p class="install-note">اگر قبلاً نصبش کرده‌اید، آزمون‌یار را از صفحهٔ اصلی گوشی یا فهرست برنامه‌ها باز کنید.</p>
     <button type="button" class="button button-primary" data-install-close>متوجه شدم</button>
   </div>`;
   if (typeof dialog.showModal === "function") dialog.showModal();
@@ -142,13 +143,12 @@ function closeDialog(dialog) {
 window.addEventListener("beforeinstallprompt", (event) => {
   event.preventDefault(); // keep the dialog for the button instead of the browser's mini banner
   deferredPrompt = event;
-  remember(false); // the browser offers installation, so the app is not installed (any more)
   notify();
 });
 
 window.addEventListener("appinstalled", () => {
   deferredPrompt = null;
-  remember(true);
+  installedHere = true;
   notify();
 });
 

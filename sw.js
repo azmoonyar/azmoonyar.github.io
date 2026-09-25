@@ -9,7 +9,7 @@
  *
  * Bump VERSION only when this file's logic changes; app updates need no change here.
  */
-const VERSION = "2026-09-25.1";
+const VERSION = "2026-09-25.2";
 const APP_CACHE = `ayeen-app-${VERSION}`;
 const IMAGE_CACHE = "ayeen-images-v1";
 const FONT_CACHE = "ayeen-fonts-v1";
@@ -90,7 +90,11 @@ async function networkFirst(request, url) {
   const isPage = request.mode === "navigate";
   // Only the start page is stored for navigations, so opening another file directly never replaces it.
   const isStartPage = isPage && (url.pathname === scope.pathname || url.pathname === `${scope.pathname}index.html`);
-  const network = fetch(request).then((response) => {
+  // Revalidate with the server even when the HTTP cache still counts the file as fresh (GitHub Pages allows
+  // 10 minutes), so the page and its modules always come from the same deploy. A navigation request cannot be
+  // copied with new options, so it is re-created from its URL.
+  const fresh = isPage ? new Request(request.url, { cache: "no-cache", credentials: "same-origin" }) : new Request(request, { cache: "no-cache" });
+  const network = fetch(fresh).then((response) => {
     if (response.ok && response.type === "basic" && (!isPage || isStartPage)) cache.put(isStartPage ? scope.href : request, response.clone());
     return response;
   });

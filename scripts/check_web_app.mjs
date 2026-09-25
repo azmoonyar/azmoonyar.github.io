@@ -1,6 +1,7 @@
-// Checks the installable web app: the manifest and its icons, the page's install tags, and that every file the
-// page loads exists. The service worker (sw.js) caches exactly these files for offline use, found by following
-// the same references, so a broken reference here would also break opening the app offline.
+// Checks the installable web app: the manifest and its icons, the page's install tags, that every file the page
+// loads exists, and that the search-engine / link-preview tags, sitemap, robots.txt and 404 page all point at the
+// same published address (the canonical link). The service worker (sw.js) caches exactly the files the page loads
+// for offline use, found by following the same references, so a broken reference would also break offline use.
 // usage: node scripts/check_web_app.mjs
 import fs from "node:fs";
 import path from "node:path";
@@ -64,6 +65,36 @@ for (const [label, pattern] of [
 }
 if (pngSize("icons/apple-touch-icon.png") !== "180x180") failures.push("icons/apple-touch-icon.png is not 180x180");
 if (!/serviceWorker\.register\("\.\/sw\.js"/.test(read("pwa.js"))) failures.push("pwa.js does not register ./sw.js");
+
+// ---- Search engines and link previews: every absolute address must point at the same published site. ----
+const meta = (attribute, name) => page.match(new RegExp(`<meta ${attribute}="${name}" content="([^"]*)"`))?.[1];
+const site = page.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+if (!site || !/^https:\/\/.+\/$/.test(site)) failures.push("index.html: canonical must be an absolute https URL ending in /");
+else {
+  const title = page.match(/<title>([^<]+)<\/title>/)?.[1] ?? "";
+  if (!title.includes("آیین‌نامه")) failures.push("index.html: <title> should name the exam (آیین‌نامه)");
+  const description = meta("name", "description") ?? "";
+  if (description.length < 70 || description.length > 320) failures.push(`index.html: meta description length ${description.length} (want 70-320)`);
+  for (const property of ["og:title", "og:description", "og:image", "og:url", "og:locale"]) {
+    if (!meta("property", property)) failures.push(`index.html: missing ${property}`);
+  }
+  if (meta("property", "og:url") !== site) failures.push("index.html: og:url differs from the canonical address");
+  if (meta("name", "twitter:card") !== "summary_large_image") failures.push("index.html: twitter:card should be summary_large_image");
+  for (const image of [meta("property", "og:image"), meta("name", "twitter:image")]) {
+    if (!image?.startsWith(site) || !fs.existsSync(path.join(root, image.slice(site.length)))) failures.push(`preview image not in the site: ${image}`);
+  }
+  try {
+    const data = JSON.parse(page.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
+    if (data.url !== site || !data.image?.startsWith(site)) failures.push("structured data: url / image differ from the canonical address");
+  } catch {
+    failures.push("index.html: structured data (application/ld+json) missing or not valid JSON");
+  }
+  const repository = page.match(/<footer class="site-footer">[\s\S]*?href="(https:\/\/github\.com\/[^"]+)"/)?.[1];
+  if (!repository) failures.push("index.html: the footer does not link to the GitHub repository");
+  if (!read("robots.txt").includes(`Sitemap: ${site}sitemap.xml`)) failures.push("robots.txt: Sitemap does not point at the site");
+  if (!read("sitemap.xml").includes(`<loc>${site}</loc>`)) failures.push("sitemap.xml: <loc> is not the canonical address");
+  if (!read("404.html").includes(`href="${site}"`)) failures.push("404.html: does not link back to the site");
+}
 
 console.log(JSON.stringify({ filesCachedForOffline: seen.size - failures.filter((f) => f.startsWith("missing file")).length, failures }, null, 1));
 process.exitCode = failures.length ? 1 : 0;

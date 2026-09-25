@@ -104,3 +104,25 @@ body { padding-right: env(safe-area-inset-right); padding-left: env(safe-area-in
 
 /* App logo in the page headers (replaces the old «آ» text mark). */
 .brand-logo { display: block; flex: none; width: 32px; height: 32px; filter: drop-shadow(0 6px 12px rgba(69, 89, 230, .25)); }
+.install-sheet .install-note { color: var(--muted); font-size: .76rem; }
+
+/* Start-page content in index.html, shown until the app starts (and to search engines). */
+.static-features { display: grid; gap: 8px; max-width: 460px; margin: 0 auto 18px; padding: 0; list-style: none; text-align: right; }
+.static-features li { padding: 10px 14px; border: 1px solid var(--line); border-radius: 12px; background: #fff; font-size: .88rem; }
+.static-loading { margin: 0; color: var(--muted); font-size: .84rem; }
+
+/* Site footer with the link to the source repository. */
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6px 16px;
+  padding: 20px 16px calc(20px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  background: var(--canvas);
+  font-size: .78rem;
+}
+.site-footer a { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); font-weight: 700; text-decoration: none; }
+.site-footer a:hover { color: var(--primary); }
