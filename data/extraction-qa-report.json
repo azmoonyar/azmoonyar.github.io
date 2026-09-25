@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-09-24T22:48:28+01:00",
+  "status": "pass",
+  "summary": {
+    "rawSourceRecords": 2011,
+    "uniqueQuestions": 1540,
+    "duplicateSourceRecordsMerged": 471,
+    "questionsWithImages": 821,
+    "distinctReferencedAssets": 819,
+    "totalQuestionAssetsOnDisk": 904,
+    "retainedSourceSpecificAssets": 85,
+    "resolvedAnswers": 1540,
+    "unresolvedAnswers": 0,
+    "pendingReviewItems": 0
+  },
+  "checks": {
+    "invalidQuestionSchemas": 0,
+    "duplicateQuestionIds": 0,
+    "missingReferencedAssets": 0,
+    "corruptPngAssets": 0,
+    "tinyPngAssets": 0,
+    "extremeAspectRatioAssets": 0,
+    "missingImageAltText": 0,
+    "sourceMetadataIssues": 0,
+    "duplicateCountMismatches": 0
+  },
+  "visualAssetQa": {
+    "referencedAssetsRankedForInspection": 819,
+    "highRiskContactSheetCandidatesReviewed": 80,
+    "sourceDerivedCropsRegenerated": 57,
+    "remainingKnownAnswerLeaks": 0
+  },
+  "browserVerification": {
+    "introQuestionCount": "pass",
+    "timerStartsAfterExamStart": "pass",
+    "correctAnswerLocks": "pass",
+    "wrongAnswerRevealsCorrectOption": "pass",
+    "directQuestionNavigation": "pass",
+    "resultPage": "pass",
+    "answerReview": "pass",
+    "realQuestionImagesLoad": "pass",
+    "correctedSourceCropsLoad": "pass",
+    "desktopNavigatorKeepsCurrentQuestionVisible": "pass",
+    "mobileNavigatorKeepsCurrentQuestionVisible": "pass"
+  },
+  "notes": [
+    "The 85 unreferenced PNG files are retained source-specific crops for questions merged as exact duplicates; they are not broken references.",
+    "The crop for source page 2 question 9 was tightened to remove a stray text fragment without clipping the illustration.",
+    "Referenced assets were ranked for edge-red and crop-leak risk; 80 high-risk candidates were reviewed in contact sheets.",
+    "57 referenced crops were regenerated from original PDF page renders to remove answer marks, adjacent text, or incorrect associations.",
+    "No local OCR was used during extraction or QA."
+  ]
+}

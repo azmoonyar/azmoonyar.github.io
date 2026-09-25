@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-visual-e15-p031-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e3-p006-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e8-p016-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p069-n29",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «آدمکِ بدون خط‌کشی = عبور عابر پیاده» is stated without limiting it to the warning triangle; a walking figure without markings in a red-bordered circle is «عبور پیاده ممنوع» (book p34), which is one of this question's options.",
+  "suggestedHint": "در مثلث هشدار، آدمک روی خط‌کشی عابر یعنی «گذرگاه عابر پیاده» و آدمک بدون خط‌کشی «عبور عابر پیاده»؛ همین آدمک در دایرهٔ حاشیه‌قرمز یعنی «عبور پیاده ممنوع»."
+ },
+ {
+  "id": "q-600-e17-p071-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p074-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p081-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p085-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p022-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p027-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e7-p033-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p037-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e02-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e03-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e06-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e07-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e08-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p034-n005",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p034-n006",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p041-n033",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p043-n040",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p045-n050",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p047-n054",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p069-n130",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p069-n131",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p077-n160",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p081-n175",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p083-n182",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p084-n186",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p089-n204",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p096-n231",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p104-n258",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «دو آدمک کوچک و بزرگ که کنار هم راه می‌روند = عبور اطفال» is not limited to the warning triangle; the blue circle with an adult and a child walking hand in hand is «فقط عبور پیاده» (book p36).",
+  "suggestedHint": "دو آدمک کوچک و بزرگ که در مثلث هشدار کنار هم راه می‌روند، نماد «عبور اطفال» است؛ عبور پیاده ممنوع، دایره‌ای با حاشیهٔ قرمز است نه مثلث."
+ },
+ {
+  "id": "q-tablo-p108-n270",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p108-n272",
+  "verdict": "fix",
+  "problem": "Over-general and misleading here: «عابر بدون خط‌کشی یعنی عبور عابر پیاده» would also label the two-figure triangle in this picture (عبور اطفال), and it is false for the red-circle «عبور پیاده ممنوع» (p34). Limit it to the single-figure triangle. The rest is correct.",
+  "suggestedHint": "عابر روی خط‌کشی یعنی گذرگاه، چه در مثلث با حاشیهٔ قرمز (اخطاری) چه در مربع آبی (اخباری)؛ در مثلث، آدمک تنها بدون خط‌کشی «عبور عابر پیاده» است و دو آدمک «عبور اطفال»."
+ },
+ {
+  "id": "q-tablo-p110-n277",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p114-n292",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p118-n301",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p023-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p031-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e2-p004-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e5-p010-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-24d2d2cd",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n13",
+  "verdict": "fix",
+  "problem": "Over-general contrast: «اگر به‌جای نرده قطار کشیده شده باشد، تقاطع بدون راهبند است» also matches the tram sign «تقاطع مسیر قطار شهری» (book p32 shows a tram in a red-bordered triangle). The book's no-barrier sign shows a locomotive on rails. The first clause is correct.",
+  "suggestedHint": "نردهٔ سیاه (راهبند) در مثلث هشدار یعنی «تقاطع راه‌آهن با راهبند»؛ در همین مثلث، لوکوموتیو روی ریل یعنی تقاطع راه‌آهن بدون راهبند و تراموا یعنی تقاطع مسیر قطار شهری."
+ },
+ {
+  "id": "q-600-e12-p053-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p057-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p059-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p061-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e4-p021-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p028-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e10-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p036-n015",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p037-n018",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p044-n045",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p071-n138",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p075-n153",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p075-n155",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p078-n166",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p088-n202",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p090-n208",
+  "verdict": "fix",
+  "problem": "Visual cue is ambiguous/over-general: «راهی که شاخه‌ای مورب در سمت چپ به آن وصل شده» also describes «ورود به راه اصلی از چپ» on the same book page (p31), where a narrow road joins a wide, pointed main road diagonally from the lower left. The cue should say the road is plain and the branch leaves its middle toward the upper left.",
+  "suggestedHint": "راه ساده‌ای که از میانه‌اش شاخه‌ای مورب رو به بالا و چپ جدا می‌شود، در کتاب یکی از طرح‌های «تقاطع» است؛ در «ورود به راه اصلی»، راه اصلی پهن و نوک‌تیز است."
+ },
+ {
+  "id": "q-tablo-p091-n210",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p091-n212",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p092-n214",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p100-n241",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p107-n269",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p111-n279",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e12-p024-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ }
+]

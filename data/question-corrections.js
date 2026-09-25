@@ -1,0 +1,63 @@
+// Documented, evidence-backed corrections applied after merging duplicates (see questions.js).
+// Only the `image` field may be corrected here (swapped, removed or added); question text,
+// options, answer key and sources are never changed. Each entry keeps the value it replaces
+// in `previousImage`, so scripts/tiering/validate_study_bank.mjs can prove that nothing else
+// differs from the pre-change baseline (data/question-bank-baseline.json).
+
+const asset = (file, alt) => ({ src: `./assets/questions/${file}`, alt });
+const TABLO_ALT = "تصویر تابلوی مربوط به سؤال";
+
+// tablo.pdf prints these questions as text only (verified on the rendered source pages); the
+// extraction had attached a neighbouring sign, a text fragment or an advertisement banner.
+const textOnlyTabloQuestions = {
+  "q-tablo-p075-n152": ["q-src-tablo-p075-n152.png", "tablo.pdf page 75 q152: text-only; attached crop was blank page margin"],
+  "q-tablo-p081-n174": ["q-src-tablo-p081-n174.png", "tablo.pdf page 81 q174: text-only; attached crop was the no-motor-vehicles sign of another question"],
+  "q-tablo-p091-n213": ["q-src-tablo-p091-n213.png", "tablo.pdf page 91 q213: text-only; attached crop was a fragment of the question text"],
+  "q-tablo-p097-n232": ["q-src-tablo-p097-n232.png", "tablo.pdf page 97 q232: text-only; attached crop was a fragment of the question text"],
+  "q-tablo-p098-n236": ["q-src-tablo-p098-n236.png", "tablo.pdf page 98 q236: text-only; attached crop was the truck-route sign of another question"],
+  "q-tablo-p102-n248": ["q-src-tablo-p102-n248.png", "tablo.pdf page 102 q248: text-only; attached crop was a fragment of the question text"],
+  "q-tablo-p103-n254": ["q-src-tablo-p103-n254.png", "tablo.pdf page 103 q254: text-only; attached crop was the page watermark"],
+  "q-tablo-p104-n256": ["q-src-tablo-p104-n256.png", "tablo.pdf page 104 q256 (ایستادن ممنوع): text-only; attached crop was the children-crossing sign of q258"],
+  "q-tablo-p107-n267": ["q-src-tablo-p107-n267.png", "tablo.pdf page 107 q267: text-only; attached crop was the merge sign of q265"],
+  "q-tablo-p114-n290": ["q-src-tablo-p114-n290.png", "tablo.pdf page 114 q290: text-only; attached crop was the crossroads sign of another question"],
+  "q-tablo-p116-n297": ["q-src-tablo-p116-n297.png", "tablo.pdf page 116 q297 (shape of the stop sign): text-only; attached crop was an advertisement banner"],
+};
+
+export const questionCorrections = {
+  "q-600-e7-p033-n30": {
+    image: asset("q-src-ayin1-e06-p17-n01.png", "چهار تابلوی مرتبط با جاده دوطرفه"),
+    previousImage: asset("q-src-600-driveing-p033-n30.png", "چهار تابلوی مرتبط با جاده دوطرفه"),
+    reason: "Merged question (600-driveing p33 q30 + ایین نامه-1 p17 q1) showed the 600-driveing picture, where the two-way-road triangle is option 3, while its key is b. In ایین نامه-1 p17 q1 the same four signs are ordered so that option 2 is the two-way-road triangle (green check), matching key b.",
+    evidence: ["ایین نامه-1.pdf page 17, exam 6, question 1: green check on option ۲ (triangle ↓↑)", "600-driveing.pdf page 33, question 30: asterisk on option ۳ (same triangle)", "main book p32: «جاده دو طرفه» is the triangle ↓↑"],
+  },
+  "q-ayin1-e12-n01": {
+    image: asset("q-src-ayin1-e12-p35-n01.png", "چهار تابلوی جهت عبور از مانع"),
+    previousImage: asset("q-src-600-driveing-p055-n15.png", "چهار تابلوی جهت عبور از مانع"),
+    reason: "Cloned from 600-driveing exam 13 q15 with the ayin1 key c, but kept the 600-driveing picture where 'pass on either side' is option 1.",
+    evidence: ["ایین نامه-1.pdf page 35, exam 12, question 1: green check on option ۳ (pass on either side)"],
+  },
+  "q-ayin1-e13-n01": {
+    image: asset("q-src-ayin1-e13-p38-n01.png", "چهار تابلوی جهت حرکت"),
+    previousImage: asset("q-src-600-driveing-p053-n30.png", "چهار تابلوی جهت حرکت"),
+    reason: "Cloned from 600-driveing exam 12 q30 with the ayin1 key b, but kept the 600-driveing picture where the 'only right' sign is option 1.",
+    evidence: ["ایین نامه-1.pdf page 38, exam 13, question 1: green check on option ۲ (straight right arrow)"],
+  },
+  "q-ayin1-e13-n24": {
+    image: asset("q-src-ayin1-e13-p38-n24.png", "چهار نشان مرتبط با رانندگی افراد دارای معلولیت"),
+    previousImage: asset("q-src-600-driveing-p051-n10.png", "چهار نشان مرتبط با رانندگی افراد دارای معلولیت"),
+    reason: "Cloned from 600-driveing exam 12 q10 with the ayin1 key c, but kept the 600-driveing picture where the disabled-driver sign is option 2.",
+    evidence: ["ایین نامه-1.pdf page 38, exam 13, question 24: green check on option ۳ (wheelchair sign)"],
+  },
+  "q-b2-16": {
+    image: asset("q-src-4-5888983329180487891-1-p004-n16.png", "خودرویی در حال پارک میان دو خودروی پارک‌شده"),
+    previousImage: null,
+    reason: "The question says «در این شکل» but had no picture; the source prints the parking figure in the question cell.",
+    evidence: ["4_5888983329180487891-1.pdf page 4, question 16: figure of a car parking between two parked cars"],
+  },
+  ...Object.fromEntries(Object.entries(textOnlyTabloQuestions).map(([id, [file, evidence]]) => [id, {
+    image: null,
+    previousImage: asset(file, TABLO_ALT),
+    reason: "Text-only question in the source; the attached picture was unrelated to the question.",
+    evidence: [evidence],
+  }])),
+};

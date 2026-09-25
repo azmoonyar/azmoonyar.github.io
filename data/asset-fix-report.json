@@ -1,0 +1,812 @@
+{
+ "generatedAt": "2026-09-25T13:54:02+00:00",
+ "method": "Problems were found by pixel scans (red/green/dark marks on the page background, thin red text, text-only crops) and every candidate was checked visually on contact sheets; boxes were measured with a coordinate ruler. No OCR.",
+ "distinctFilesRewritten": 130,
+ "originalsKeptIn": "tmp/asset-originals/",
+ "note": "extraction-qa-report.json (2026-09-24) recorded 0 remaining answer leaks after an 80-candidate review; this full pass found and fixed the ones listed here.",
+ "groups": {
+  "scripts/assets/fix_option_grid_assets.py": {
+   "reason": "4_5888 four-option sign composites: tiles were offset (half signs, blank tiles, red «گزینه» answer label)",
+   "files": [
+    {
+     "file": "q-src-4-5888983329180487891-1-p004-n01.png",
+     "questions": [
+      "q-visual-e2-p004-n01"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p004-n02.png",
+     "questions": [
+      "q-visual-e2-p004-n02"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p004-n10.png",
+     "questions": [
+      "q-visual-e2-p004-n10"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p006-n05.png",
+     "questions": [
+      "q-visual-e3-p006-n05"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p006-n06.png",
+     "questions": [
+      "q-visual-e3-p006-n06"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p008-n06.png",
+     "questions": [
+      "q-visual-e4-p008-n06"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p010-n05.png",
+     "questions": [
+      "q-visual-e5-p010-n05"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p010-n06.png",
+     "questions": [
+      "q-visual-e5-p010-n06"
+     ]
+    }
+   ],
+   "count": 8
+  },
+  "scripts/assets/fix_answer_leak_assets.py": {
+   "reason": "answer markers (asterisk / check / red answer text) or neighbouring option text inside the crop; masked or cropped to the figure",
+   "files": [
+    {
+     "file": "q-src-4-5888983329180487891-1-p002-n07.png",
+     "questions": [
+      "q-5f1301a7"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p013-n25.png",
+     "questions": [
+      "q-e6-p013-n25"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p011-n15.png",
+     "questions": [
+      "q-600-e2-p011-n15"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p014-n02.png",
+     "questions": [
+      "q-600-e3-p014-n02"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p014-n05.png",
+     "questions": [
+      "q-600-e3-p014-n05"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p015-n11.png",
+     "questions": [
+      "q-600-e3-p015-n11"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p017-n23.png",
+     "questions": [
+      "q-600-e3-p017-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p022-n02.png",
+     "questions": [
+      "q-600-e5-p022-n02"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p022-n07.png",
+     "questions": [
+      "q-600-e5-p022-n07"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p027-n09.png",
+     "questions": [
+      "q-600-e6-p027-n09"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p033-n24.png",
+     "questions": [
+      "q-600-e7-p033-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p035-n12.png",
+     "questions": [
+      "q-600-e8-p035-n12"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p037-n26.png",
+     "questions": [
+      "q-600-e8-p037-n26"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p037-n30.png",
+     "questions": [
+      "q-600-e8-p037-n30"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p041-n25.png",
+     "questions": [
+      "q-600-e9-p041-n25"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p041-n29.png",
+     "questions": [
+      "q-600-e9-p041-n29"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p043-n15.png",
+     "questions": [
+      "q-600-e10-p043-n15"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p046-n08.png",
+     "questions": [
+      "q-600-e11-p046-n08"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p047-n09.png",
+     "questions": [
+      "q-600-e11-p047-n09"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p048-n23.png",
+     "questions": [
+      "q-600-e11-p048-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p048-n24.png",
+     "questions": [
+      "q-600-e11-p048-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p049-n27.png",
+     "questions": [
+      "q-600-e11-p049-n27"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p049-n30.png",
+     "questions": [
+      "q-600-e11-p049-n30"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p051-n09.png",
+     "questions": [
+      "q-600-e12-p051-n09"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p051-n10.png",
+     "questions": []
+    },
+    {
+     "file": "q-src-600-driveing-p051-n13.png",
+     "questions": [
+      "q-600-e12-p051-n13"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p052-n23.png",
+     "questions": [
+      "q-600-e12-p052-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p052-n24.png",
+     "questions": [
+      "q-600-e12-p052-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p053-n25.png",
+     "questions": [
+      "q-600-e12-p053-n25"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p053-n27.png",
+     "questions": [
+      "q-600-e12-p053-n27"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p053-n30.png",
+     "questions": [
+      "q-600-e12-p053-n30"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p055-n10.png",
+     "questions": [
+      "q-600-e13-p055-n10"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p055-n15.png",
+     "questions": [
+      "q-600-e13-p055-n15"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p059-n12.png",
+     "questions": [
+      "q-600-e14-p059-n12"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p060-n15.png",
+     "questions": [
+      "q-600-e14-p060-n15"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p060-n23.png",
+     "questions": [
+      "q-600-e14-p060-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p060-n24.png",
+     "questions": [
+      "q-600-e14-p060-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p063-n16.png",
+     "questions": [
+      "q-600-e15-p063-n16"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p064-n23.png",
+     "questions": [
+      "q-600-e15-p064-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p064-n24.png",
+     "questions": [
+      "q-600-e15-p064-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p065-n27.png",
+     "questions": [
+      "q-600-e15-p065-n27"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p065-n30.png",
+     "questions": [
+      "q-600-e15-p065-n30"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p069-n25.png",
+     "questions": [
+      "q-600-e16-p069-n25"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p069-n30.png",
+     "questions": [
+      "q-600-e16-p069-n30"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p071-n09.png",
+     "questions": [
+      "q-600-e17-p071-n09"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p071-n11.png",
+     "questions": [
+      "q-600-e17-p071-n11"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p071-n15.png",
+     "questions": [
+      "q-600-e17-p071-n15"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p072-n23.png",
+     "questions": [
+      "q-600-e17-p072-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p073-n29.png",
+     "questions": [
+      "q-600-e17-p073-n29"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p074-n01.png",
+     "questions": [
+      "q-600-e18-p074-n01"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p074-n03.png",
+     "questions": [
+      "q-600-e18-p074-n03"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p074-n07.png",
+     "questions": [
+      "q-600-e18-p074-n07"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p074-n08.png",
+     "questions": [
+      "q-600-e18-p074-n08"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p075-n11.png",
+     "questions": [
+      "q-600-e18-p075-n11"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p075-n12.png",
+     "questions": [
+      "q-600-e18-p075-n12"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p076-n17.png",
+     "questions": [
+      "q-600-e18-p076-n17"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p077-n27.png",
+     "questions": [
+      "q-600-e18-p077-n27"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p078-n05.png",
+     "questions": [
+      "q-600-e19-p078-n05"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p079-n09.png",
+     "questions": [
+      "q-600-e19-p079-n09"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p079-n14.png",
+     "questions": [
+      "q-600-e19-p079-n14"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p079-n16.png",
+     "questions": [
+      "q-600-e19-p079-n16"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p080-n23.png",
+     "questions": [
+      "q-600-e19-p080-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p080-n24.png",
+     "questions": [
+      "q-600-e19-p080-n24"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p083-n12.png",
+     "questions": [
+      "q-600-e20-p083-n12"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p084-n23.png",
+     "questions": [
+      "q-600-e20-p084-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p084-n24.png",
+     "questions": [
+      "q-600-e20-p084-n24"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e01-p02-n29.png",
+     "questions": [
+      "q-ayin1-e01-n29"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e01-p03-n07.png",
+     "questions": [
+      "q-ayin1-e01-n07"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e01-p03-n08.png",
+     "questions": [
+      "q-ayin1-e01-n08"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e02-p05-n23.png",
+     "questions": [
+      "q-ayin1-e02-n23"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e02-p06-n07.png",
+     "questions": [
+      "q-ayin1-e02-n07"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e02-p06-n08.png",
+     "questions": [
+      "q-ayin1-e02-n08"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e02-p06-n12.png",
+     "questions": [
+      "q-ayin1-e02-n12"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e03-p08-n04.png",
+     "questions": [
+      "q-ayin1-e03-n04"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e03-p08-n06.png",
+     "questions": [
+      "q-ayin1-e03-n06"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e04-p11-n05.png",
+     "questions": [
+      "q-ayin1-e04-n05"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e05-p14-n23.png",
+     "questions": [
+      "q-ayin1-e05-n23"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e05-p14-n24.png",
+     "questions": [
+      "q-ayin1-e05-n24"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e05-p14-n29.png",
+     "questions": [
+      "q-ayin1-e05-n29"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e05-p15-n07.png",
+     "questions": [
+      "q-ayin1-e05-n07"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e06-p17-n24.png",
+     "questions": [
+      "q-ayin1-e06-n24"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e06-p17-n30.png",
+     "questions": [
+      "q-ayin1-e06-n30"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e06-p18-n07.png",
+     "questions": [
+      "q-ayin1-e06-n07"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e07-p21-n08.png",
+     "questions": [
+      "q-ayin1-e07-n08"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n03.png",
+     "questions": [
+      "q-ayin1-e08-n03"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n04.png",
+     "questions": [
+      "q-ayin1-e08-n04"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n23.png",
+     "questions": [
+      "q-ayin1-e08-n23"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n28.png",
+     "questions": [
+      "q-ayin1-e08-n28"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p24-n22.png",
+     "questions": [
+      "q-ayin1-e08-n22"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e09-p26-n28.png",
+     "questions": [
+      "q-ayin1-e09-n28"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e09-p27-n07.png",
+     "questions": [
+      "q-ayin1-e09-n07"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e09-p27-n08.png",
+     "questions": [
+      "q-ayin1-e09-n08"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e09-p27-n16.png",
+     "questions": [
+      "q-ayin1-e09-n16"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e10-p29-n05.png",
+     "questions": [
+      "q-ayin1-e10-n05"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e11-p32-n04.png",
+     "questions": [
+      "q-ayin1-e11-n04"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e11-p33-n12.png",
+     "questions": [
+      "q-ayin1-e11-n12"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p034-n006.png",
+     "questions": [
+      "q-tablo-p034-n006"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p070-n135.png",
+     "questions": [
+      "q-tablo-p070-n135"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p096-n230.png",
+     "questions": [
+      "q-tablo-p096-n230"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p101-n246.png",
+     "questions": [
+      "q-tablo-p101-n246"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p113-n287.png",
+     "questions": [
+      "q-tablo-p113-n287"
+     ]
+    }
+   ],
+   "count": 101
+  },
+  "scripts/assets/fix_ayin1_option_images.py": {
+   "reason": "ایین نامه-1 pictures rebuilt from the page renders: option order matching the question's key, and green answer checks removed",
+   "files": [
+    {
+     "file": "q-src-ayin1-e01-p02-n02.png",
+     "questions": [
+      "q-ayin1-e01-n02"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e03-p08-n01.png",
+     "questions": [
+      "q-ayin1-e03-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e06-p17-n01.png",
+     "questions": [
+      "q-600-e7-p033-n30"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n06.png",
+     "questions": [
+      "q-ayin1-e08-n06"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e08-p23-n27.png",
+     "questions": [
+      "q-ayin1-e08-n27"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e09-p26-n01.png",
+     "questions": [
+      "q-ayin1-e09-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e10-p29-n01.png",
+     "questions": [
+      "q-ayin1-e10-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e11-p32-n01.png",
+     "questions": [
+      "q-ayin1-e11-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e11-p32-n28.png",
+     "questions": [
+      "q-ayin1-e11-n28"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e11-p32-n29.png",
+     "questions": [
+      "q-ayin1-e11-n29"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e12-p35-n01.png",
+     "questions": [
+      "q-ayin1-e12-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e13-p38-n01.png",
+     "questions": [
+      "q-ayin1-e13-n01"
+     ]
+    },
+    {
+     "file": "q-src-ayin1-e13-p38-n24.png",
+     "questions": [
+      "q-ayin1-e13-n24"
+     ]
+    }
+   ],
+   "count": 13
+  },
+  "scripts/assets/fix_broken_question_images.py": {
+   "reason": "crop missed the stimulus (showed option text, another question or half a sign); re-cropped from the source page",
+   "files": [
+    {
+     "file": "q-src-4-5888983329180487891-1-p004-n16.png",
+     "questions": [
+      "q-b2-16"
+     ]
+    },
+    {
+     "file": "q-src-4-5888983329180487891-1-p008-n07.png",
+     "questions": [
+      "q-visual-e4-p008-n07"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p044-n23.png",
+     "questions": [
+      "q-600-e10-p044-n23"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p065-n26.png",
+     "questions": [
+      "q-600-e15-p065-n26"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p079-n11.png",
+     "questions": [
+      "q-600-e19-p079-n11"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p081-n27.png",
+     "questions": [
+      "q-600-e19-p081-n27"
+     ]
+    },
+    {
+     "file": "q-src-600-driveing-p083-n14.png",
+     "questions": [
+      "q-600-e20-p083-n14"
+     ]
+    },
+    {
+     "file": "q-src-tablo-p110-n278.png",
+     "questions": [
+      "q-tablo-p110-n278"
+     ]
+    }
+   ],
+   "count": 8
+  }
+ },
+ "questionLevelCorrections": "data/question-corrections.js"
+}

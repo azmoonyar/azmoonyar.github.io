@@ -1,0 +1,809 @@
+[
+ {
+  "id": "q-31ecfe3f",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز سرویس (ترمز پایی) مطابق با الزامات استانداردهای خودرویی باید بر تمامی چرخها عمل کند",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n23",
+  "bookPage": 129,
+  "confidence": "low",
+  "supportingText": "با فشردن پدال کلاچ، انتقال قدرت میان موتور و گیربکس قطع می شود و در نتیجه هیچ نیرویی به پشت چرخهای محرک منتقل نمی شود.",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book only says pressing the clutch cuts power to the drive wheels; reduced driver control is not stated"
+ },
+ {
+  "id": "q-e4-p009-n19",
+  "bookPage": 154,
+  "confidence": "medium",
+  "supportingText": "در صورتی که فرمان دارای خلاصی نباشد و یا میزان خلاصی آن بیشتر از حد مجاز باشد، نشان دهنده",
+  "bookReference": "لقی فرمان",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "sentence continues on p155: «معیوب بودن سیستم هدایت و فرمان پذیری خودرو می باشد»"
+ },
+ {
+  "id": "q-e5-p011-n28",
+  "bookPage": 137,
+  "confidence": "high",
+  "supportingText": "ترمز ABS یا ضد قفل، نوع پیشرفته ای از ترمز است",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n22",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد. یک سیستم تعلیق خوب، تاثیر بسیار زیادی در ممانعت از واژگونی خودرو",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p045-n30",
+  "bookPage": 140,
+  "confidence": "high",
+  "supportingText": "دینام وظیفه تولید برق در خودرو را دارد.",
+  "bookReference": "سیستم برق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p067-n10",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی بخشی از سیستم اگزوز در خودروهای پیشرفته امروزی است.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p012-n19",
+  "bookPage": 140,
+  "confidence": "high",
+  "supportingText": "مقدار ولتاژ باتری در خودروهای معمول سواری ۱۲ ولت است.",
+  "bookReference": "سیستم برق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-26",
+  "bookPage": 141,
+  "confidence": "low",
+  "supportingText": "بخش مهم دیگر سیستم اگزوز صدا خفه کن می باشد. همانطور که از نام این بخش مشخص است، صدای نابهنجار موتور در حین کار کردن، در این قسمت به شدت کاسته می شود.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   140
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book_conflict: book assigns engine-noise reduction to the exhaust muffler (صدا خفه کن), while the radiator is described only as the cooling-water tank (p133); stem likely means the muffler (انباری)"
+ },
+ {
+  "id": "q-e10-p021-n25",
+  "bookPage": 140,
+  "confidence": "high",
+  "supportingText": "مقدار ولتاژ باتری در خودروهای معمول سواری ۱۲ ولت است.",
+  "bookReference": "سیستم برق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n21",
+  "bookPage": 140,
+  "confidence": "high",
+  "supportingText": "باتری ها امرزوه در دو نوع تولید می شوند. یک نوع از آنها باتری خشک است که معروف به باتری اتمی می باشد. نوع دیگری از آنها باتری های معمولی هستند",
+  "bookReference": "سیستم برق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p027-n27",
+  "bookPage": 140,
+  "confidence": "high",
+  "supportingText": "دینام وظیفه تولید برق در خودرو را دارد.",
+  "bookReference": "سیستم برق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n24",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "در این بخش گازهای مضر با مواد موجود در کاتالیست ترکیب شده و طی فرآیندهایی شیمیایی به گازها یا مواد بی ضرر تبدیل می شوند.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   219
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p050-n06",
+  "bookPage": 142,
+  "confidence": "high",
+  "supportingText": "فعال شدن کیسه هوا در حالتی که کمربند ایمنی بسته نشده باشد، نه تنها باعث نجات سرنشین نخواهد شد بلکه به طور بر عکس با توجه به ضربه ای که حاصل برخورد فرد با کیسه هوا است، نتایج مخرب تری خواهد داشت.",
+  "bookReference": "کیسه هوا",
+  "secondaryPages": [
+   141
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p025-n25",
+  "bookPage": 142,
+  "confidence": "high",
+  "supportingText": "فعال شدن کیسه هوا در حالتی که کمربند ایمنی بسته نشده باشد، نه تنها باعث نجات سرنشین نخواهد شد بلکه به طور بر عکس با توجه به ضربه ای که حاصل برخورد فرد با کیسه هوا است، نتایج مخرب تری خواهد داشت.",
+  "bookReference": "کیسه هوا",
+  "secondaryPages": [
+   141
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n19",
+  "bookPage": 142,
+  "confidence": "high",
+  "supportingText": "فعال شدن کیسه هوا در حالتی که کمربند ایمنی بسته نشده باشد، نه تنها باعث نجات سرنشین نخواهد شد بلکه به طور بر عکس با توجه به ضربه ای که حاصل برخورد فرد با کیسه هوا است، نتایج مخرب تری خواهد داشت.",
+  "bookReference": "کیسه هوا",
+  "secondaryPages": [
+   141
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n27",
+  "bookPage": 142,
+  "confidence": "high",
+  "supportingText": "فعال شدن کیسه هوا در حالتی که کمربند ایمنی بسته نشده باشد، نه تنها باعث نجات سرنشین نخواهد شد بلکه به طور بر عکس با توجه به ضربه ای که حاصل برخورد فرد با کیسه هوا است، نتایج مخرب تری خواهد داشت.",
+  "bookReference": "کیسه هوا",
+  "secondaryPages": [
+   141
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-2d6fd65b",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک بار به وسیله سیم یا گیج روغن، سطح روغن موتور را کنترل نمایید.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n20",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک بار به وسیله سیم یا گیج روغن، سطح روغن موتور را کنترل نمایید.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p054-n06",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "روغنهای معمولی در حدود ۸ تا ۱۰ هزار کیلومتر کارآیی دارند.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n19",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "روغنهای معمولی در حدود ۸ تا ۱۰ هزار کیلومتر کارآیی دارند.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p031-n12",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک بار به وسیله سیم یا گیج روغن، سطح روغن موتور را کنترل نمایید.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n19",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "روغنهای معمولی در حدود ۸ تا ۱۰ هزار کیلومتر کارآیی دارند.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n19",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک بار به وسیله سیم یا گیج روغن، سطح روغن موتور را کنترل نمایید.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n21",
+  "bookPage": 153,
+  "confidence": "low",
+  "supportingText": "روغن ترمز دارای مخزن پلاستیکی کوچکی است که سطح روغن داخل آن را همواره باید در نظر داشت.",
+  "bookReference": "روغن ترمز",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book gives no weekly interval for brake fluid (p153 «همواره», p135 «به طور دوره ای»); weekly checks are stated only for engine oil (p144) and radiator water (p146)"
+ },
+ {
+  "id": "q-e9-p019-n22",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "روغنهای معمولی در حدود ۸ تا ۱۰ هزار کیلومتر کارآیی دارند.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p019-n17",
+  "bookPage": 151,
+  "confidence": "high",
+  "supportingText": "محل تایرها را در خودرو باید در هر ۵۰۰۰ کیلومتر تعویض نمود تا تمام آنها به طور یکسان تحت سایش قرار گیرند.",
+  "bookReference": "تایرها",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n19",
+  "bookPage": 128,
+  "confidence": "medium",
+  "supportingText": "نمایی از موتور و قسمتهایی داخل آن",
+  "bookReference": "موتور",
+  "secondaryPages": [
+   139
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "engine cut-away figure labels سرسیلندر، فلایویل (چرخ طیار)، میل لنگ; سیبک appears only as a label of the steering-system figure on p139"
+ },
+ {
+  "id": "q-e10-p021-n29",
+  "bookPage": 145,
+  "confidence": "high",
+  "supportingText": "وظیفه فیلتر یا صافی روغن، ممانعت از ورود ذرات ناخالصی و معلق به داخل مجراهای روغن کاری و بخشهای مختلف موتور می باشد.",
+  "bookReference": "فیلتر روغن",
+  "secondaryPages": [
+   132
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p027-n26",
+  "bookPage": 128,
+  "confidence": "medium",
+  "supportingText": "نمایی از موتور و قسمتهایی داخل آن",
+  "bookReference": "موتور",
+  "secondaryPages": [
+   139
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "engine cut-away figure labels سرسیلندر، فلایویل (چرخ طیار)، میل لنگ; سیبک appears only as a label of the steering-system figure on p139"
+ },
+ {
+  "id": "q-e4-p009-n25",
+  "bookPage": 145,
+  "confidence": "high",
+  "supportingText": "البته بعد از هر ۳۰ هزار کیلومتر پیمایش (به طور تقریبی معادل یک سال) توصیه می شود که روغن جعبه دنده به طور کلی عوض شود.",
+  "bookReference": "روغن گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n24",
+  "bookPage": 155,
+  "confidence": "low",
+  "supportingText": "در هر ۱۰ هزار کیلومتر پیمایش خودرو، شمعها را از موتور باز نمایید",
+  "bookReference": "شمع",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book gives 10,000 km only for removing/cleaning the spark plugs; spark-plug wires (وایر) are not mentioned"
+ },
+ {
+  "id": "q-e6-p013-n25",
+  "bookPage": 151,
+  "confidence": "high",
+  "supportingText": "محل تایرها را در خودرو باید در هر ۵۰۰۰ کیلومتر تعویض نمود تا تمام آنها به طور یکسان تحت سایش قرار گیرند.",
+  "bookReference": "تایرها",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p006-n03",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک مرتبه در رادیاتور را باز کنید و سطح آب داخل آن را کنترل نمایید.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p082-n06",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "استفاده از ضدیخ به همراه آب ضروری است.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p034-n05",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "استفاده از ضدیخ به همراه آب ضروری است.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n28",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک مرتبه در رادیاتور را باز کنید و سطح آب داخل آن را کنترل نمایید.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n19",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "استفاده از ضدیخ به همراه آب ضروری است.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n26",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "از یخ زدگی آب در سرما جلوگیری می کند، در به تاخیر اندازی نقطه جوش آب نیز تاثیر مهمی دارد. عدم استفاده از ضدیخ در تابستان می تواند منجر به جوش آوردن زودتر موتور شود. ضدیخ همچنین در جلوگیری از زنگ زدگی رادیاتور",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n29",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک مرتبه در رادیاتور را باز کنید و سطح آب داخل آن را کنترل نمایید.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n26",
+  "bookPage": 146,
+  "confidence": "high",
+  "supportingText": "استفاده از ضدیخ به همراه آب ضروری است.",
+  "bookReference": "ضدیخ و کنترل آب رادیاتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p050-n07",
+  "bookPage": 196,
+  "confidence": "medium",
+  "supportingText": "سه موقعیت اورژانسی که فرد به علت فقدان نیازهای حیاتی در معرض خطر قرار میگیرد عبارتند از: - فقدان تنفس و یا فقدان ضربان قلب - خونریزی شدید",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "the other three options are listed as immediate life-threatening emergencies; high body temperature is not"
+ },
+ {
+  "id": "q-e5-p011-n30",
+  "bookPage": 196,
+  "confidence": "medium",
+  "supportingText": "سه موقعیت اورژانسی که فرد به علت فقدان نیازهای حیاتی در معرض خطر قرار میگیرد عبارتند از: - فقدان تنفس و یا فقدان ضربان قلب - خونریزی شدید",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "the other three options are listed as immediate life-threatening emergencies; high body temperature is not"
+ },
+ {
+  "id": "q-600-e18-p075-n16",
+  "bookPage": 133,
+  "confidence": "high",
+  "supportingText": "سیستم خنک کاری موتور دارای اجزای مختلفی است که مهمترین آنها عبارتند از رادیاتور، در رادیاتور، واترپمپ (پمپ آب)، ترموستات، پروانه یا فن الکتریکی.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p038-n06",
+  "bookPage": 133,
+  "confidence": "high",
+  "supportingText": "سیستم خنک کاری موتور دارای اجزای مختلفی است که مهمترین آنها عبارتند از رادیاتور، در رادیاتور، واترپمپ (پمپ آب)، ترموستات، پروانه یا فن الکتریکی.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n26",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "فن بعد از خاموش کردن موتور و تا زمان خنک شدن موتور به کار خود ادامه می دهد. همچنین در زمستان و در هوای سرد که نیازی به چرخش مداوم پروانه نمی باشد، فن تا زمانی که موتور داغ نکرده است خاموش باقی می ماند.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [
+   148
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n28",
+  "bookPage": 147,
+  "confidence": "medium",
+  "supportingText": "در صورت خنک شدن موتور به اندازه کافی، می توان در رادیاتور را نیز باز نمود و در صورت نیاز به آن آب اضافه نمود.",
+  "bookReference": "آمپر آب",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book_conflict: book says not to switch off an overheated engine quickly and never to open the radiator cap while hot; cap may be opened and water added only after the engine has cooled, and the engine is switched off if the fan belt is broken"
+ },
+ {
+  "id": "q-600-e20-p082-n04",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "به طور کلی می توان گفت که سیستم انتقال قدرت دارای ۳ بخش اصلی کلاچ، گیربکس و دیفرانسیل است.",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n20",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "به طور کلی می توان گفت که سیستم انتقال قدرت دارای ۳ بخش اصلی کلاچ، گیربکس و دیفرانسیل است.",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n18",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "به طور کلی می توان گفت که سیستم انتقال قدرت دارای ۳ بخش اصلی کلاچ، گیربکس و دیفرانسیل است.",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n24",
+  "bookPage": 135,
+  "confidence": "medium",
+  "supportingText": "بعضی از رانندگان حرفه ای در قدیم به تجربه دریافته بودند که در ترمزگیری های شدید به منظور ممانعت از قفل شدن چرخها، باید به طور منقطع ترمزگیری کنند؛",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book describes intermittent (pumping) braking as the pre-ABS technique and says it is unnecessary with ABS; it does not state it as the rule for non-ABS cars explicitly"
+ },
+ {
+  "id": "q-e13-p027-n25",
+  "bookPage": 149,
+  "confidence": "high",
+  "supportingText": "توصیه می شود دست کم در هر بار تعویض روغن موتور، فیلتر هوا نیز تعویض گردد.",
+  "bookReference": "فیلتر هوا",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book states the interval for replacing (تعویض) the air filter"
+ },
+ {
+  "id": "q-e9-p019-n23",
+  "bookPage": 149,
+  "confidence": "high",
+  "supportingText": "در این نوع خودروها برای چرخش دینام از تسمه دینام استفاده می شود.",
+  "bookReference": "فن یا پروانه",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n24",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "به طور کلی می توان گفت که سیستم انتقال قدرت دارای ۳ بخش اصلی کلاچ، گیربکس و دیفرانسیل است.",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-f4baf744",
+  "bookPage": 149,
+  "confidence": "high",
+  "supportingText": "عمر این تسمه بسته به نوع خودرو می‌تواند بین ۶۰ تا ۹۰ هزار کیلومتر باشد.",
+  "bookReference": "تسمه تایم",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e10-p021-n24",
+  "bookPage": 152,
+  "confidence": "medium",
+  "supportingText": "تاثیر فشار باد در وضعیت و شکل تایر",
+  "bookReference": "تایرها",
+  "secondaryPages": [
+   151
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question image matches the book figure of three tyre cross-sections (high / low / correct pressure, full tread contact = correct)"
+ },
+ {
+  "id": "q-600-e10-p044-n19",
+  "bookPage": 128,
+  "confidence": "medium",
+  "supportingText": "نمایی از موتور و قسمتهایی داخل آن",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "engine cut-away figure labels میل لنگ and فلایویل (چرخ طیار); tyres are covered separately under «تایرها»"
+ },
+ {
+  "id": "q-600-e3-p017-n30",
+  "bookPage": 152,
+  "confidence": "high",
+  "supportingText": "در صورتی که باد تایر بیش از حد مجاز باشد، سطح اتصال تایر با زمین در کمترین حد خود قرار خواهد گرفت.",
+  "bookReference": "تایرها",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-bd477cc0",
+  "bookPage": 152,
+  "confidence": "high",
+  "supportingText": "در صورتی که باد تایر بیش از حد مجاز باشد، سطح اتصال تایر با زمین در کمترین حد خود قرار خواهد گرفت.",
+  "bookReference": "تایرها",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p055-n15",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "عبور از هر دو سمت مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e12-n01",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "عبور از هر دو سمت مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Image corrected in data/question-corrections.js: the picture is now the ایین نامه-1 p35 composite, where keyed option 3 is «عبور از هر دو سمت مجاز» (p36).",
+  "revisedAfterImageCorrection": true
+ },
+ {
+  "id": "q-e6-p013-n26",
+  "bookPage": 139,
+  "confidence": "high",
+  "supportingText": "مزیت فرمانهای هیدرولیکی، راحتی کار با آنها و چرخش آسان غربیلک فرمان می باشد.",
+  "bookReference": "سیستم هدایت و فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p072-n24",
+  "bookPage": 128,
+  "confidence": "medium",
+  "supportingText": "نمایی از موتور و قسمتهایی داخل آن",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question image is this book figure (four-cylinder cut-away engine); cylinder count is shown only in the figure"
+ },
+ {
+  "id": "q-600-e19-p078-n07",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی بخشی از سیستم اگزوز در خودروهای پیشرفته امروزی است.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p038-n05",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی بخشی از سیستم اگزوز در خودروهای پیشرفته امروزی است.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n27",
+  "bookPage": 155,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی یا کاتالیست کانورتور که در سیستم اگزوز قرار دارد، بعد از طی مسافتی در حدود ۶۰ تا ۸۰ هزار کیلومتر خاصیت خود را از دست می دهد و نیاز به تعویض دارد.",
+  "bookReference": "مبدل کاتالیستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n24",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی بخشی از سیستم اگزوز در خودروهای پیشرفته امروزی است.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n27",
+  "bookPage": 141,
+  "confidence": "high",
+  "supportingText": "مبدل کاتالیستی بخشی از سیستم اگزوز در خودروهای پیشرفته امروزی است.",
+  "bookReference": "سیستم اگزوز",
+  "secondaryPages": [
+   155
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p066-n06",
+  "bookPage": 156,
+  "confidence": "high",
+  "supportingText": "عمر مفید کنیستر در حدود ۲ سال است و بعد از آن خاصیت خود را از دست می‌دهد.",
+  "bookReference": "کنیستر",
+  "secondaryPages": [
+   219
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p072-n20",
+  "bookPage": 156,
+  "confidence": "high",
+  "supportingText": "کنیستر که جزو سیستم سوخت رسانی به موتور محسوب می شود، از ورود بخارهای بنزین به فضای آزاد جلوگیری به عمل می آورد.",
+  "bookReference": "کنیستر",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

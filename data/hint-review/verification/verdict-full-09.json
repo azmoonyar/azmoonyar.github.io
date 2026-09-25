@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-600-e16-p069-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e17-p071-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p078-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p081-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n10",
+  "verdict": "fix",
+  "problem": "Over-general visual rule: «red bars on a white background = railway crossing» is false for the edge-marker signs (حاشیه‌نما, white with red diagonal stripes, p.44). State it in the safe direction, limited to the railway distance board (p.32).",
+  "suggestedHint": "مستطیل بلند آبی با عدد ۲۰۰ و دو نوار مورب سفید یعنی ۲۰۰ متر تا خروجی آزادراه؛ تابلوی فاصله تا تقاطع راه‌آهن سفید است و نوارهای مورب قرمز دارد."
+ },
+ {
+  "id": "q-600-e5-p022-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e03-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-efb654c7",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p044-n044",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p054-n082",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p057-n091",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p063-n112",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p081-n176",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p092-n216",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p098-n237",
+  "verdict": "fix",
+  "problem": "Over-general rule: «a truck on a red-bordered circle = no trucks» is false in the book for other red-circle truck signs (e.g. سبقت برای کامیون ممنوع, عبور کامیون با طول بیش از ۱۰ متر ممنوع, p.33-35). Limit it to truck prohibitions in general.",
+  "suggestedHint": "نماد کامیون روی مربع آبی (تابلوی اخباری) مسیر توصیه‌شده برای وسایل سنگین است؛ ممنوعیت‌های کامیون روی دایرهٔ حاشیه‌قرمز می‌آیند."
+ },
+ {
+  "id": "q-tablo-p112-n282",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n02",
+  "verdict": "fix",
+  "problem": "Over-general rule: «a blue square is an informational sign» is false in the book — several regulatory (انتظامی) signs are blue squares (راه یکطرفه, حق تقدم عبور با شما, پیش انتخاب مسیر, p.33/37). Limit the statement to this sign.",
+  "suggestedHint": "مربع آبی با نماد سفید کامیون، تابلوی اخباری «مسیر توصیه‌شده برای وسایل سنگین» است؛ تابلوهای اخباری توصیه‌ای عمومی دارند."
+ },
+ {
+  "id": "q-visual-e11-p022-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p031-n21",
+  "verdict": "fix",
+  "problem": "Over-general closing rule «a plain red bar = dead end»: in the book a red bar/line also means «end of» on blue signs (پایان آزاد راه, پایان تونل, پایان شهر), which a learner could confuse with dead end. Limit it to a road or branch ending in a red bar.",
+  "suggestedHint": "در تابلوی خط عبور برای گریز، یکی از دو شاخهٔ جادهٔ سفید به مانع شطرنجی قرمز و سفید می‌رسد؛ اگر جاده یا شاخه به نوار قرمز ساده برسد، بن‌بست است."
+ },
+ {
+  "id": "q-visual-e9-p018-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p039-n027",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p043-n041",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p050-n066",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p052-n073",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p053-n075",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p053-n076",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p053-n077",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p090-n209",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n10",
+  "verdict": "fix",
+  "problem": "Over-general closing rule: «upward arrows are exclusive to the danger-zone-length plate» is false in the book (white lane signs such as افزایش خطوط عبور on p.40 and many blue mandatory signs have upward arrows). Limit it to the plate.",
+  "suggestedHint": "پیکان افقی همراه عدد متر روی پلاک مکمل سفید، طول ممنوعیت یا محدودیت پارکینگ را نشان می‌دهد؛ پلاک طول محدودهٔ خطر، دو پیکان رو به بالا در دو طرف دارد."
+ },
+ {
+  "id": "q-600-e12-p053-n25",
+  "verdict": "fix",
+  "problem": "Over-general closing rule: «a horizontal arrow with metres = parking» is false in the book — the prohibition sign عبور کامیون با طول بیش از ۱۰ متر ممنوع (p.34) has a horizontal arrow with 10m. Limit it to the supplementary plate.",
+  "suggestedHint": "پلاک مکمل با دو پیکان رو به بالا و «کیلومتر...» طول محدودهٔ خطر است؛ پلاک مکمل با پیکان افقی و عدد متر، طول ممنوعیت یا محدودیت پارکینگ را نشان می‌دهد."
+ },
+ {
+  "id": "q-600-e13-p057-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e4-p018-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p022-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-b65c58a1",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p099-n239",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p104-n257",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n02",
+  "verdict": "fix",
+  "problem": "Over-general rule with an unsupported «فقط»: it says any white plate with a vehicle picture makes the sign apply ONLY to that group, but the same book page shows the tram plate with «به غیر از» (all except that group) under the same caption. Limit it to this plate and use the book's wording (اختصاص).",
+  "suggestedHint": "پلاک مکمل سفید با کامیون یدک‌دار، علامت انتظامی همراهش را به این گروه از وسایل نقلیه اختصاص می‌دهد؛ عبور کامیون یدک‌دار ممنوع، دایرهٔ حاشیه‌قرمز است."
+ },
+ {
+  "id": "q-visual-e3-p006-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e6-p012-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e8-p016-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n04",
+  "verdict": "fix",
+  "problem": "Over-general opening rule «a red-bordered triangle = warning»: the yield sign (رعایت حق تقدم) is also a red-bordered triangle but point-down and not a warning (book p.21/33). Limit it to the triangle standing on its base.",
+  "suggestedHint": "مثلث حاشیه‌قرمز نشسته بر قاعده هشدار است؛ وقتی راهی از کنار به پیکان مستقیم می‌پیوندد، دو جریان ترافیک یکی می‌شوند: جریان همگرا."
+ },
+ {
+  "id": "q-600-e7-p033-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p037-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e01-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e06-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e07-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p094-n222",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p106-n262",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p106-n265",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e8-p016-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p018-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p044-n21",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p048-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p059-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p068-n19",
+  "verdict": "fix",
+  "problem": "Over-general contrast «a wheelchair = disabled driver»: the disabled-parking sign (P + wheelchair, p.41) also carries a wheelchair, and the bank uses «راننده معلولین» as a distractor for exactly that sign. Tie the contrast to the blue-square sticker.",
+  "suggestedHint": "گوش خط‌خورده یعنی ناشنوایی؛ این برچسب مربع آبی راننده ناشنوا را معرفی می‌کند، در حالی که برچسب مربع آبی با صندلی چرخدار سفید، راننده معلول است."
+ },
+ {
+  "id": "q-600-e4-p019-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e13-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-d32f8beb",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p038-n019",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p067-n126",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e5-p010-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n02",
+  "verdict": "fix",
+  "problem": "Over-general contrast «the wheelchair is exclusive (مخصوص) to the disabled driver»: the disabled-parking sign (P + wheelchair, p.41) also has a wheelchair, and «راننده معلولین» is a common distractor for it. Tie the contrast to the blue-square sticker.",
+  "suggestedHint": "عنوان این برچسب «راننده ناشنوا» است؛ گوش با خط مورب روی مربع آبی یعنی ناشنوایی، و برچسب مربع آبی با صندلی چرخدار سفید، راننده معلول است."
+ },
+ {
+  "id": "q-600-e5-p023-n12",
+  "verdict": "fix",
+  "problem": "States the keep-right rule as having a single exception («مگر هنگام سبقت»), but the book (p.46) lists three exceptions (overtaking, right side blocked, turning left); a learner could carry the wrong rule into the related exception questions. Say overtaking is one of the exceptions.",
+  "suggestedHint": "باید از خط سمت راست رفت، مگر در مواردی مانند سبقت؛ پس خط چپ آزادراه برای سبقت است، با حداکثر سرعتی که علائم برای همان خط تعیین کرده‌اند."
+ },
+ {
+  "id": "q-e13-p027-n23",
+  "verdict": "fix",
+  "problem": "Labelled «قاعدهٔ کتاب» but misquotes it: the book (p.46/98) lists three exceptions to keeping right (overtaking, right side blocked, turning left), not only overtaking. Say overtaking is one of the exceptions.",
+  "suggestedHint": "باید از خط سمت راست رفت، مگر در مواردی مانند سبقت؛ حداکثر سرعت هر خط آزادراه را علائم تعیین می‌کنند، پس خط چپ برای سبقت با سرعت مجاز همان خط است."
+ },
+ {
+  "id": "q-600-e1-p008-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p044-n17",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p048-n17",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p068-n17",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p082-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p023-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p026-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p040-n18",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ }
+]

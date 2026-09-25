@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-600-e14-p059-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p017-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e02-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e12-p052-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p057-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p019-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p084-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e2-p010-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p029-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e3-p006-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p077-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p080-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-e8-p017-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e6-p012-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p027-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-bf0f554e",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p018-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p068-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p060-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p029-n27",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «مثلث‌ها هشداردهنده‌اند» is false for the book as a whole (the inverted triangle «رعایت حق تقدم» belongs to the regulatory group, p.21/p.28/p.33). Limit it to the two triangles in the picture.",
+  "suggestedHint": "تابلوهای بازدارنده بیشتر دایره با حاشیهٔ قرمزند؛ دایرهٔ سفید خالی با حاشیهٔ قرمز یعنی «ورود از هر دو طرف ممنوع». دو مثلث این شکل هشداردهنده‌اند."
+ },
+ {
+  "id": "q-ayin1-e01-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n27",
+  "verdict": "fix",
+  "problem": "Two over-general sign rules: «مثلث‌ها هشدار می‌دهند» (false for the inverted yield triangle, which the book puts in the regulatory group, p.28/p.33) and «دایرهٔ خط‌خورده پایان سبقت ممنوع است» (a crossed-out circle is also e.g. «توقف ممنوع» or «پایان محدودیت سرعت», p.35). Limit both to the signs in the picture.",
+  "suggestedHint": "دایرهٔ خالی با حاشیهٔ قرمز («ورود از هر دو طرف ممنوع») بازدارنده است؛ دو مثلث این شکل هشداری‌اند و دایرهٔ دو سواری با نوار مورب، پایان سبقت ممنوع است."
+ },
+ {
+  "id": "q-ayin1-e09-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e10-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-e14-p029-n24",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-e17-p037-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p075-n152",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p088-n200",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p097-n232",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p107-n267",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n09",
+  "verdict": "fix",
+  "problem": "Drops the book's qualifier «بیشتر»: the hint defines warning signs as red-bordered white triangles, but the book also has other warning shapes (pentagon school sign, rectangular/yellow work-zone warnings, p.20-21). Keep «بیشتر» as in the book and the question.",
+  "suggestedHint": "هشداردهنده همان اخطاری است: این تابلوها بیشتر مثلث با نوار حاشیهٔ قرمز و زمینهٔ سفیدند و نوعی خطر را هشدار می‌دهند."
+ },
+ {
+  "id": "q-visual-e16-p034-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e2-p004-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e6-p012-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-4e2086a1",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n16",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e12-p053-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p055-n16",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «مثلث قرمز یعنی هشدار» is false for the inverted red-bordered triangle «رعایت حق تقدم», which the book puts in the regulatory group (p.21, p.28, p.33). Limit the remark to this sign.",
+  "suggestedHint": "خط سیاهی که از پایین بالا می‌رود و به چپ خم می‌شود، هشدار «پیچ به چپ» است؛ این مثلث هشداری است، نه تابلوی ممنوعیت گردش."
+ },
+ {
+  "id": "q-600-e13-p057-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p059-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p074-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p083-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p085-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e7-p030-n03",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «مثلث با حاشیهٔ قرمز یعنی هشدار» is false for the inverted red-bordered triangle «رعایت حق تقدم» (regulatory group, p.21/p.28/p.33). Use the book's wording: a triangle standing on its base = warning.",
+  "suggestedHint": "مثلث نشسته روی قاعده با حاشیهٔ قرمز یعنی هشدار؛ خطی که از پایین بالا رفته و به چپ خم می‌شود، از «پیچ به چپ» در پیش رو خبر می‌دهد."
+ },
+ {
+  "id": "q-600-e7-p033-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p036-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e06-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e08-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e10-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p033-n001",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p033-n002",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p033-n003",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p034-n004",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p035-n010",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p036-n011",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p042-n036",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p050-n065",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p056-n089",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p073-n145",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p073-n146",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p074-n150",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p076-n156",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p076-n157",
+  "verdict": "fix",
+  "problem": "Over-general sign rule: «مثلث قرمز هشدار است، نه ممنوعیت» is false for the inverted red-bordered triangle «رعایت حق تقدم», a regulatory sign in the book (p.21/p.28/p.33). Limit the remark to this sign.",
+  "suggestedHint": "این مثلث هشداری است، نه ممنوعیت؛ خط سیاهی که از پایین بالا رفته و به چپ می‌پیچد، «پیچ به چپ» را خبر می‌دهد."
+ },
+ {
+  "id": "q-tablo-p088-n199",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p103-n253",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p105-n259",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p107-n266",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e12-p024-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ }
+]

@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-tablo-p110-n276",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p110-n278",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'white circle with red border and a black number = maximum speed' is false for other book signs with black numbers in a red ring (5T weight, 2m width, 3.5m height, 70m distance, p34). Limit it to this sign.",
+  "suggestedHint": "عدد ۳۰ در دایرهٔ سفید حاشیه‌قرمز، مثل تابلوی سرعت بیش از ۵۰ کیلومتر ممنوع، سقف سرعت است؛ پس حداکثر با ۳۰ برانید و تا پایان محدودیت سرعت را بالا نبرید."
+ },
+ {
+  "id": "q-tablo-p113-n286",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'prohibition-of-passage signs show only one vehicle' is false in the book (p34: all-vehicles-prohibited and motor-vehicles-prohibited signs show two or three vehicles). Limit it to the car/truck distractors.",
+  "suggestedHint": "دو سواری کنار هم (چپی قرمز) در دایرهٔ حاشیه‌قرمز یعنی سبقت ممنوع؛ در سبقت برای کامیون ممنوع وسیلهٔ قرمز کامیون است و عبور سواری یا کامیون ممنوع فقط یک وسیلهٔ سیاه دارد."
+ },
+ {
+  "id": "q-tablo-p115-n295",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p116-n296",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n07",
+  "verdict": "fix",
+  "problem": "Ambiguous rule: 'a white circle without a symbol = end of all restrictions' also matches the red-bordered empty white circle (no entry from both sides, p33); it must mention the hatched band.",
+  "suggestedHint": "پایان منطقه توقف ممنوع: مربع سفید قاب‌دار با نماد بی‌رنگ توقف ممنوع و نوار هاشورخورده روی کل صفحه؛ دایرهٔ سفیدی که فقط نوار هاشورخورده دارد، پایان تمام محدودیت‌هاست."
+ },
+ {
+  "id": "q-visual-e2-p004-n01",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'two opposite arrows = priority to the oncoming vehicle' also matches the blue square 'priority is yours' (p33) and the two-way-road warning triangle (p32); it must be limited to the red-bordered circle.",
+  "suggestedHint": "سبقت ممنوع: دو سواری کنار هم (چپی قرمز) در دایرهٔ حاشیه‌قرمز؛ کامیون قرمز یعنی سبقت برای کامیون ممنوع و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یعنی حق تقدم با وسیلهٔ مقابل."
+ },
+ {
+  "id": "q-visual-e6-p012-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e6-p012-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p018-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e12-p053-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p055-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p069-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n14",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'signs with two opposite arrows are right-of-way signs' is false for the two-way-road warning triangle (p32) and the divider signs (p44); limit it to the red-bordered circle / blue square.",
+  "suggestedHint": "دایرهٔ آبی با یک فلش سفید رو به بالا فقط جهت حرکت را تعیین می‌کند (فقط عبور مستقیم مجاز)؛ مثلث وارونه و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یا مربع آبی، تابلوهای حق تقدم‌اند."
+ },
+ {
+  "id": "q-600-e20-p085-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p022-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e01-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e02-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e03-n01",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'right-of-way signs have an inverted triangle or two opposite arrows' ignores the main-road diamond (p21, p33) and wrongly includes the two-way-road triangle with opposite arrows (p32); limit it to the signs shown.",
+  "suggestedHint": "مثلث وارونه و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یا مربع آبی، تابلوهای حق تقدم‌اند؛ دایرهٔ آبی با یک فلش سفید رو به بالا فقط عبور مستقیم را مجاز می‌کند و دربارهٔ حق تقدم نیست."
+ },
+ {
+  "id": "q-ayin1-e04-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e13-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p040-n030",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p068-n127",
+  "verdict": "fix",
+  "problem": "Over-general rule: the rising-then-left arrow is stated without the blue disc; the same arrow in a red ring with a red diagonal means left turn prohibited (p34), so the rule must be tied to the blue disc.",
+  "suggestedHint": "در دایرهٔ آبی، فلشی که از پایین بالا می‌آید و به چپ می‌پیچد یعنی فقط گردش به چپ مجاز؛ فلش افقی رو به چپ «فقط عبور به چپ» و فلش مورب «عبور از سمت چپ» است."
+ },
+ {
+  "id": "q-tablo-p070-n134",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p071-n137",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p074-n148",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p076-n158",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p077-n161",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p077-n162",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p077-n163",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p078-n164",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'a black number in a red-bordered circle = maximum speed' is false for other book signs with black numbers in a red ring (5T, 2m, 3.5m, 70m, p34); state it in the true direction (the speed limit is shown this way).",
+  "suggestedHint": "رنگ، معنای عدد را عوض می‌کند: عدد سفید روی دایرهٔ آبی حداقل سرعت است، اما سقف سرعت با عدد سیاه در دایرهٔ حاشیه‌قرمز نشان داده می‌شود."
+ },
+ {
+  "id": "q-tablo-p083-n181",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p084-n185",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p085-n188",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p088-n201",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p089-n205",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p089-n206",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p091-n211",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p092-n217",
+  "verdict": "fix",
+  "problem": "Over-general wording: «مثلث حاشیه‌قرمز، هشدار پیچ» reads as 'any red-bordered triangle = bend warning'; all warning signs are red-bordered triangles (p28-32). Tie it to the curved-line symbol.",
+  "suggestedHint": "تابلوی فقط به راست مجاز دایرهٔ آبی با فلش سفید افقی رو به راست است؛ مستطیل آبی با همین فلش خیابان یک‌طرفه است و مثلث حاشیه‌قرمز با خط خمیده، هشدار پیچ."
+ },
+ {
+  "id": "q-tablo-p100-n242",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p103-n251",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p104-n255",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p109-n273",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p112-n283",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p118-n300",
+  "verdict": "fix",
+  "problem": "Over-general wording: «مثلث حاشیه‌قرمز، هشدار عبور عابر» reads as 'any red-bordered triangle = pedestrian warning'; every warning sign is a red-bordered triangle (p28-32). Tie it to the walking-figure symbol.",
+  "suggestedHint": "دایرهٔ آبی با بزرگسال و کودکِ دست‌دردست یعنی فقط عبور پیاده؛ مربع آبی با عابر روی خط‌کشی، گذرگاه پیاده است و مثلث حاشیه‌قرمز با آدمک عابر، هشدار عبور عابر."
+ },
+ {
+  "id": "q-visual-e10-p020-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e12-p024-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p031-n22",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'signs with two opposite arrows determine right of way' is false for the two-way-road warning triangle (p32) and the divider signs (p44); limit it to the red-bordered circle / blue square.",
+  "suggestedHint": "دایرهٔ آبی با پیکان سفید رو به بالا فقط دستور «عبور مستقیم» است، نه حق تقدم؛ مثلث وارونه و دو پیکان مخالف در دایرهٔ حاشیه‌قرمز یا مربع آبی، حق تقدم را تعیین می‌کنند."
+ },
+ {
+  "id": "q-visual-e2-p004-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p049-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e17-p071-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p074-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p079-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e4-p021-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p024-n20",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p024-n21",
+  "verdict": "fix",
+  "problem": "Misdescribes the picture: in this image the keyed sign's arrow is pale yellow (tint artifact; the other options' arrows are white), so «پیکان ... سفید» does not match what the learner sees; the colour is not needed to identify the sign.",
+  "suggestedHint": "مربع آبی با تنها یک پیکان پهن رو به بالا یعنی راه یک‌طرفه؛ اگر کنارش پیکان قرمز رو به پایین باشد، تابلوی «حق تقدم عبور با شما» است."
+ },
+ {
+  "id": "q-600-e6-p027-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e03-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-cfd0b0d5",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p051-n067",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p056-n090",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p061-n104",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p066-n120",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p066-n121",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p067-n123",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p070-n135",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p080-n173",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p094-n224",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p101-n244",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p109-n275",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p115-n293",
+  "verdict": "fix",
+  "problem": "Over-general rule: the closing clause 'a number without a red border shows the minimum speed' is not tied to the lane arrows and is false in the book (recommended-speed sign: blue square with white 60, p41; distance numbers). Anchor it to the blue circles on the lane arrows.",
+  "suggestedHint": "دایره‌های حاشیه‌قرمز با اعداد ۱۰۰، ۸۰ و ۵۰ روی پیکان‌ها، حداکثر سرعت مجاز هر خط عبورند؛ عدد سفید در دایرهٔ آبی روی پیکان، حداقل سرعت آن خط را نشان می‌دهد."
+ },
+ {
+  "id": "q-visual-e15-p030-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p031-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n26",
+  "verdict": "fix",
+  "problem": "Misdescribes the picture / unflagged key-book conflict: the pictured plate is complete (bottom border visible) and has no hours text under the emblem, even at high contrast, so the reviewNote's 'crop hides the hours' is wrong. By p38 the «محدوده» plate without hours is «محدوده توقف ممنوع در طول شبانه روز»; the hours version is the keyed one. The hint claims hours are written under the emblem. Suggest basis book_conflict with a neutral hint.",
+  "suggestedHint": "پاسخ نمونه‌آزمون‌ها «محدوده توقف ممنوع در ساعات معین» است؛ در کتاب، نسخهٔ ساعات معین زیر نشان توقف ممنوع ساعت دارد و تابلوی «محدوده» بدون ساعت، توقف ممنوع در طول شبانه‌روز است."
+ }
+]

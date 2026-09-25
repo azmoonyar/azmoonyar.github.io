@@ -1,0 +1,814 @@
+[
+ {
+  "id": "q-e12-p025-n18",
+  "bookPage": 85,
+  "confidence": "medium",
+  "supportingText": "باعث می شود توانایی ذهنی، هوشیاری و دید انسان کاهش یابد. همچنین مواد مخدر تاثیرات مشابهی بسته به نوع آنها روی بدن انسان خواهد گذاشت.",
+  "bookReference": "تاثیر الکل و مواد مخدر در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "partial: book states reduced alertness (drugs act like alcohol); \"false self-confidence\" is not mentioned"
+ },
+ {
+  "id": "q-e7-p015-n26",
+  "bookPage": 85,
+  "confidence": "high",
+  "supportingText": "باعث می شود توانایی ذهنی، هوشیاری و دید انسان کاهش یابد. همچنین مواد مخدر تاثیرات مشابهی بسته به نوع آنها روی بدن انسان خواهد گذاشت.",
+  "bookReference": "تاثیر الکل و مواد مخدر در رانندگی",
+  "secondaryPages": [
+   86
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "list on p85-86 also names speed control, concentration and recognising dangerous situations"
+ },
+ {
+  "id": "q-e8-p016-n14",
+  "bookPage": 85,
+  "confidence": "high",
+  "supportingText": "رانندگی برای افرادی که نوشابه الکلی و یا مواد مخدر و داروهای خواب اور مصرف نموده اند تا رفع کامل آثار آن ممنوع است.",
+  "bookReference": "مواد مخدر و نوشیدنی های الکلی",
+  "secondaryPages": [
+   59
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p043-n10",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "حرکت کردن از روی خطوط هاشور در حاشیه راهها که معمولا در کناره شبکه معابر، آزادراهها، بزرگراهها و تونل‌ها کشیده می شوند و مخصوص عبور اضطراری وسایل نقلیه امدادی می باشد ممنوع است.",
+  "bookReference": "خطوط اضطرار",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p055-n14",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ب: مقابل ورودی خیابان ها و جاده ها و کوچه ها یا ورودی و خروجی اتومبیل رو ساختمان ها . - پ : داخل تقاطع . - ت : در فاصله ۱۵ متری میدان یا تقاطع یا سه راهها یا تقاطع راه آهن . - ث : در فاصله ۱۵ متری شیرهای آب آتش نشانی",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   57
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "list header \"ایستادن یا توقف وسایل نقلیه در محلهای زیر ممنوع است\" is on p57"
+ },
+ {
+  "id": "q-600-e16-p068-n24",
+  "bookPage": 27,
+  "confidence": "high",
+  "supportingText": "تراکم خودروها در یک تقاطع زیاد بوده و امکان تخلیه وجود نداشته باشد. در چنین شرایطی عبور از روی این خطوط ممنوع است و رانندگان موظفند قبل از خطوط شطرنجی متوقف و مسیر حرکت خودروهای دیگر را باز نگه دارند.",
+  "bookReference": "خطوط شطرنجی",
+  "secondaryPages": [
+   15
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p018-n03",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "برخی افراد که دچار ناتوانایی های جسمی نظیر ضعف بینایی ، ضعف شنوایی و ... می باشند باید با توجه به نوع ضعف خود بر اساس محدودیتهای قانونی رانندگی نمایند.",
+  "bookReference": "محدودیت های روحی و جسمی راننده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p036-n21",
+  "bookPage": 86,
+  "confidence": "high",
+  "supportingText": "طبق قانون بستن کمربند ایمنی برای سرنشینان ردیف جلو و عقب الزامی است.",
+  "bookReference": "کمربند ایمنی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n08",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "حرکت کردن از روی خطوط هاشور در حاشیه راهها که معمولا در کناره شبکه معابر، آزادراهها، بزرگراهها و تونل‌ها کشیده می شوند و مخصوص عبور اضطراری وسایل نقلیه امدادی می باشد ممنوع است.",
+  "bookReference": "خطوط اضطرار",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n22",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "برخی افراد که دچار ناتوانایی های جسمی نظیر ضعف بینایی ، ضعف شنوایی و ... می باشند باید با توجه به نوع ضعف خود بر اساس محدودیتهای قانونی رانندگی نمایند.",
+  "bookReference": "محدودیت های روحی و جسمی راننده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p026-n16",
+  "bookPage": 86,
+  "confidence": "high",
+  "supportingText": "طبق قانون بستن کمربند ایمنی برای سرنشینان ردیف جلو و عقب الزامی است.",
+  "bookReference": "کمربند ایمنی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n29",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "موتور خودرو حادثه‌دیده را خاموش کنید و در صورت امکان باطری آن را قطع کنید.",
+  "bookReference": "احتیاطهای لازم",
+  "secondaryPages": [
+   191
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "keyed option \"پیش نگه داشتن\" looks like a typo for \"روشن نگه داشتن\"; other options are listed as correct precautions"
+ },
+ {
+  "id": "q-visual-e16-p034-n30",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "حرکت کردن از روی خطوط هاشور در حاشیه راهها که معمولا در کناره شبکه معابر، آزادراهها، بزرگراهها و تونل‌ها کشیده می شوند و مخصوص عبور اضطراری وسایل نقلیه امدادی می باشد ممنوع است.",
+  "bookReference": "خطوط اضطرار",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n21",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "موتور خودرو حادثه‌دیده را خاموش کنید و در صورت امکان باطری آن را قطع کنید.",
+  "bookReference": "احتیاطهای لازم",
+  "secondaryPages": [
+   191
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p031-n08",
+  "bookPage": 87,
+  "confidence": "high",
+  "supportingText": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است.",
+  "bookReference": "حمل مسافر در قسمت بار یا صندوق عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p032-n21",
+  "bookPage": 87,
+  "confidence": "high",
+  "supportingText": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است.",
+  "bookReference": "حمل مسافر در قسمت بار یا صندوق عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p026-n11",
+  "bookPage": 87,
+  "confidence": "high",
+  "supportingText": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است.",
+  "bookReference": "حمل مسافر در قسمت بار یا صندوق عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n19",
+  "bookPage": 87,
+  "confidence": "high",
+  "supportingText": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است.",
+  "bookReference": "حمل مسافر در قسمت بار یا صندوق عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p052-n18",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p023-n10",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "استفاده از تلفن همراه در حین رانندگی ممنوع می باشد. این ممنوعیت صرفا شامل صحبت کردن با تلفن همراه نبوده و مواردی نظیر ارسال پیامک، دیدن تصاویر و ... را نیز شامل می شود.",
+  "bookReference": "استفاده از تلفن همراه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p023-n14",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p026-n06",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p035-n10",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n11",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n10",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n24",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p020-n10",
+  "bookPage": 71,
+  "confidence": "medium",
+  "supportingText": "استفاده از تلفن همراه یا وسایل ارتباطی مشابه در حین رانندگی در سرعت بالای ۶۰ کیلو متر",
+  "bookReference": "جدول نمره منفی برای تخلفات رانندگی پرخطر",
+  "secondaryPages": [
+   88
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "phone use is a row of the \"high-risk driving violations\" table (at >60 km/h); p88 bans phone use while driving"
+ },
+ {
+  "id": "q-e3-p007-n28",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n17",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "استفاده از تلفن همراه در حین رانندگی ممنوع می باشد. این ممنوعیت صرفا شامل صحبت کردن با تلفن همراه نبوده و مواردی نظیر ارسال پیامک، دیدن تصاویر و ... را نیز شامل می شود.",
+  "bookReference": "استفاده از تلفن همراه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n26",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "خستگی باعث کاهش سطح هوشیاری و ایجاد خواب آلودگی شده و این امر سرعت واکنش فرد را در برابر خطرات کاهش می دهد.",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p018-n13",
+  "bookPage": 88,
+  "confidence": "high",
+  "supportingText": "- حرکات نوسانی سر و گردن - احساس سنگینی در پلکها - عدم تمرکز روی رانندگی و رویا پردازی در ذهن - عدم توانایی کنترل خودرو بین خطوط - کاهش سرعت واکنش نسبت به شرایط - عدم کنترل آگاهانه بر روی سرعت خودرو",
+  "bookReference": "رانندگی در حالت خستگی و خواب آلودگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p010-n06",
+  "bookPage": 89,
+  "confidence": "high",
+  "supportingText": "احتمال عبور عابرین پیاده در محلهای زیر بیشتر است: ۱- خط کشی عابر پیاده ۲- تقاطعها ۳- فضاهای بین خودروهای پارک شده و یا پشت اتوبوسها ۴- نزدیک مدارس و فضاهای بازی کودکان ۵- نزدیک مراکز تجمع نظیر مراکز خرید",
+  "bookReference": "عابرین پیاده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n10",
+  "bookPage": 89,
+  "confidence": "high",
+  "supportingText": "باید دقت کرد که موتور سواران و دوچرخه سواران از ایمنی کمتری نسبت به خودروها برخوردارند.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n10",
+  "bookPage": 89,
+  "confidence": "high",
+  "supportingText": "باید دقت کرد که موتور سواران و دوچرخه سواران از ایمنی کمتری نسبت به خودروها برخوردارند.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p024-n09",
+  "bookPage": 89,
+  "confidence": "high",
+  "supportingText": "باید دقت کرد که موتور سواران و دوچرخه سواران از ایمنی کمتری نسبت به خودروها برخوردارند.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p028-n12",
+  "bookPage": 89,
+  "confidence": "high",
+  "supportingText": "احتمال عبور عابرین پیاده در محلهای زیر بیشتر است: ۱- خط کشی عابر پیاده ۲- تقاطعها ۳- فضاهای بین خودروهای پارک شده و یا پشت اتوبوسها ۴- نزدیک مدارس و فضاهای بازی کودکان ۵- نزدیک مراکز تجمع نظیر مراکز خرید",
+  "bookReference": "عابرین پیاده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p079-n10",
+  "bookPage": 90,
+  "confidence": "high",
+  "supportingText": "در هنگام گردش مراقب باشید فضای کافی برای آنها را در نظر بگیرید.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p035-n09",
+  "bookPage": 90,
+  "confidence": "high",
+  "supportingText": "در هنگام گردش مراقب باشید فضای کافی برای آنها را در نظر بگیرید.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e11-p022-n12",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید، حتی اگر شما قصد گردش داشته باشید یا بخواهید به طور مستقیم به راه خود ادامه دهید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "applied to the figure: bicycle (from top) has nobody on its right, motorcycle yields to it, left-turning car yields to both"
+ },
+ {
+  "id": "q-visual-e6-p012-n11",
+  "bookPage": 90,
+  "confidence": "high",
+  "supportingText": "در هنگام گردش مراقب باشید فضای کافی برای آنها را در نظر بگیرید.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-5f1301a7",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "به دلیل کوچک بودن ابعاد موتورسیکلتها و دوچرخه ها احتمال دارد به راحتی در نقاط کور شما قرار بگیرند.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p060-n23",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "به دلیل کوچک بودن ابعاد موتورسیکلتها و دوچرخه ها احتمال دارد به راحتی در نقاط کور شما قرار بگیرند.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p068-n22",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "تمام وسایل نقلیه حتی موتور سیکلتها دارای نقاط کور برای راننده می باشند.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p080-n21",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "با تنظیم دقیق آینه ها می توان میزان نقاط کور را کاهش داد",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p017-n23",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "به دلیل کوچک بودن ابعاد موتورسیکلتها و دوچرخه ها احتمال دارد به راحتی در نقاط کور شما قرار بگیرند.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p022-n13",
+  "bookPage": 91,
+  "confidence": "medium",
+  "supportingText": "تمام وسایل نقلیه حتی موتور سیکلتها دارای نقاط کور برای راننده می باشند.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: keyed option is a double negative (\"not without blind spot\") that literally agrees with the book; intended claim \"motorcycles have no blind spot\" is refuted by the book"
+ },
+ {
+  "id": "q-e12-p024-n11",
+  "bookPage": 91,
+  "confidence": "high",
+  "supportingText": "با تنظیم دقیق آینه ها می توان میزان نقاط کور را کاهش داد",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n23",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "محدوده نقاط کور در خودروهای سنگین. (محدوده های قرمز رنگ)",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   91
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p070-n07",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "- به فضای پشت نگاه کنید و میدان دید عقب را کنترل کنید - به آرامی در دنده عقب حرکت کنید",
+  "bookReference": "ایمنی حرکت در دید عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p076-n17",
+  "bookPage": 106,
+  "confidence": "medium",
+  "supportingText": "ت ـ در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "figure is a T-junction: the red cars go straight on the through road, the blue car enters from the side road (same layout as the p106 figure)"
+ },
+ {
+  "id": "q-600-e2-p010-n05",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "راننده نمی تواند پشت سر خود را به درستی و کامل ببیند از این رو حرکت با دنده عقب خطرناک است.",
+  "bookReference": "ایمنی حرکت در دید عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-visual-e1-p006-n08",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "محدوده نقاط کور در خودروهای سنگین. (محدوده های قرمز رنگ)",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   91
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n23",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "محدوده نقاط کور در خودروهای سنگین. (محدوده های قرمز رنگ)",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   91
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n26",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "راننده نمی تواند پشت سر خود را به درستی و کامل ببیند از این رو حرکت با دنده عقب خطرناک است.",
+  "bookReference": "ایمنی حرکت در دید عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n10",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "راننده نمی تواند پشت سر خود را به درستی و کامل ببیند از این رو حرکت با دنده عقب خطرناک است.",
+  "bookReference": "ایمنی حرکت در دید عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n18",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "- به فضای پشت نگاه کنید و میدان دید عقب را کنترل کنید - به آرامی در دنده عقب حرکت کنید",
+  "bookReference": "ایمنی حرکت در دید عقب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e17-p035-n12",
+  "bookPage": 106,
+  "confidence": "medium",
+  "supportingText": "ت ـ در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "figure is a T-junction: the red cars go straight on the through road, the blue car enters from the side road (same layout as the p106 figure)"
+ },
+ {
+  "id": "q-visual-e6-p012-n07",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "محدوده نقاط کور در خودروهای سنگین. (محدوده های قرمز رنگ)",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   91
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p006-n07",
+  "bookPage": 92,
+  "confidence": "medium",
+  "supportingText": "شما باید از خودروی جلویی با فاصله طولی ایمن حرکت کنید. این کار باعث می شود تا بدون برخورد و سانحه در مواقع ضروری بتوانید توقف نمایید.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   165
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book says keep a safe following distance to avoid collisions; p165 photo caption links short gaps in dense traffic to crash risk"
+ },
+ {
+  "id": "q-600-e14-p061-n27",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "برای تعیین و تخمین میزان فاصله با خودروی جلویی می توان از قانون ۲ ثانیه زمان استفاده نمود.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   93
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p013-n24",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "برای تعیین و تخمین میزان فاصله با خودروی جلویی می توان از قانون ۲ ثانیه زمان استفاده نمود.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   93
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-8f8f6787",
+  "bookPage": 92,
+  "confidence": "medium",
+  "supportingText": "شما باید از خودروی جلویی با فاصله طولی ایمن حرکت کنید. این کار باعث می شود تا بدون برخورد و سانحه در مواقع ضروری بتوانید توقف نمایید.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   165
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book says keep a safe following distance to avoid collisions; p165 photo caption links short gaps in dense traffic to crash risk"
+ },
+ {
+  "id": "q-ayin1-e02-n24",
+  "bookPage": 92,
+  "confidence": "medium",
+  "supportingText": "شما باید از خودروی جلویی با فاصله طولی ایمن حرکت کنید. این کار باعث می شود تا بدون برخورد و سانحه در مواقع ضروری بتوانید توقف نمایید.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   165
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book says keep a safe following distance to avoid collisions; p165 photo caption links short gaps in dense traffic to crash risk"
+ },
+ {
+  "id": "q-ayin1-e03-n24",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "برای تعیین و تخمین میزان فاصله با خودروی جلویی می توان از قانون ۲ ثانیه زمان استفاده نمود.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   93
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e15-p031-n20",
+  "bookPage": 93,
+  "confidence": "medium",
+  "supportingText": "شرایط جاده | ۱۵ km/h | ۳۰ km/h | ۴۵ km/h | ۶۰ km/h | ۷۵ km/h خشک | ۱ | ۲ | ۳ | ۴ | ۵ مرطوب | ۲ | ۴ | ۶ | ۸ | ۱۰ ماسه و شن | ۲ | ۴ | ۶ | ۸ | ۱۰ برف | ۳ | ۶ | ۹ | ۱۲",
+  "bookReference": "روش یک طول خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: table gives 9 car lengths for snow at 45 km/h (verified on the page image); 5 is the dry-road value at 75 km/h"
+ },
+ {
+  "id": "q-e8-p017-n28",
+  "bookPage": 92,
+  "confidence": "high",
+  "supportingText": "برای تعیین و تخمین میزان فاصله با خودروی جلویی می توان از قانون ۲ ثانیه زمان استفاده نمود.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   93
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e5-p010-n10",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "در این صورت شما باید به خودروهای ۱ و ۳ اجازه عبور دهید. خودرو ۲ نیز باید به شما و خودروهای ۱ و ۳ اجازه عبور دهد.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: same figure in the book (stop signs for 2 and circled car 4): order is 1 & 3, then 4, then 2; keyed \"3 and 4 together-2-1\" differs"
+ },
+ {
+  "id": "q-600-e11-p046-n06",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "مجموع مسافت ترمز و مسافتی که در زمان واکنش طی می شود، مسافت توقف خواهد بود.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p056-n23",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "در جاده هایی که از لحاظ آسفالت شرایط مطلوبی نداشته یا آغشته به قیر بوده یا شن و ماسه در سطح آسفالت وجود دارد یا در شرایط بد آب و هوایی، مسافت توقف افزایش خواهد یافت.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p077-n25",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "زمانی که طول می کشد تا خودروی شما متوقف شود به عوامل زیر بستگی دارد: ۱- زمان واکنش:",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "the three listed factors: reaction time, braking distance, stopping distance"
+ }
+]

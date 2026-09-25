@@ -1,0 +1,140 @@
+{
+ "schemaVersion": 1,
+ "updatedAt": "2026-09-25T13:57:27+00:00",
+ "status": "complete",
+ "phases": {
+  "bookStructure": {
+   "status": "complete",
+   "notes": "TOC read visually from PDF page 3. Printed page numbers verified visually on every page: bookPage = pdfPage - 2 for PDF pages 3-222; PDF pages 1-2 are cover/advertisement and carry no book page number."
+  },
+  "bookTranscription": {
+   "status": "complete",
+   "method": "PDF rendered to PNG with PDFKit (scripts/render_pdf_pages.swift) and read visually by the model; no local OCR; the PDF text layer contains only dots and URLs.",
+   "pagesTotal": 220,
+   "pagesDone": 220,
+   "output": "data/book-pages.json, data/book-structure.json",
+   "pageTranscripts": "tmp/book-transcripts/page-XXX.json (one per PDF page, assembled into data/book-pages.json)"
+  },
+  "questionReferenceMapping": {
+   "status": "complete",
+   "questionsTotal": 1540,
+   "questionsDone": 1540,
+   "method": "lexical candidates (scripts/tiering/retrieve_candidates.py) + per-question review; results validated by scripts/tiering/merge_references.py",
+   "batches": 22,
+   "batchSize": 70,
+   "batchesDone": 22,
+   "confidence": {
+    "high": 1358,
+    "medium": 143,
+    "low": 38,
+    "not_found": 1
+   },
+   "validationIssues": {},
+   "output": "data/book-references.json (validated) → data/question-metadata.js",
+   "reviewResults": "data/book-reference-review/result-01.json … result-22.json"
+  },
+  "tierClassification": {
+   "status": "complete",
+   "output": "data/question-metadata.js, data/tier-classification-report.json",
+   "script": "scripts/tiering/build_metadata.py"
+  },
+  "ui": {
+   "status": "complete",
+   "files": [
+    "app.js",
+    "exam-builder.js",
+    "styles-tiers.css",
+    "styles-navigator.css",
+    "index.html"
+   ],
+   "notes": "Frontend shows importance levels as «سطح ۱…۵». Question navigator redesigned (2026-09-25): sticky side panel with filters (همه / بی‌پاسخ / غلط / سطح ۱), pages of 40, next-unanswered jump; on screens ≤820px a sticky compact bar opens it as a bottom sheet. styles-overrides.css (old navigator rules) was removed. After answering, a study panel shows a short hint (نکتهٔ آموزشی) and the book source: both open by default after a wrong answer (or an unanswered question in review), both collapsed after a correct answer."
+  },
+  "validation": {
+   "status": "complete",
+   "output": "data/study-validation-report.json",
+   "script": "scripts/tiering/validate_study_bank.mjs"
+  },
+  "assetFixes": {
+   "status": "complete",
+   "scripts": [
+    "scripts/assets/fix_option_grid_assets.py",
+    "scripts/assets/fix_answer_leak_assets.py",
+    "scripts/assets/fix_ayin1_option_images.py",
+    "scripts/assets/fix_broken_question_images.py"
+   ],
+   "corrections": "data/question-corrections.js"
+  },
+  "manualReview": {
+   "status": "open items listed",
+   "output": "data/manual-review.json",
+   "counts": {
+    "answerKeyConflictsWithBook": 31,
+    "sameFigureDifferentKeys": 3,
+    "sourceTextIssues": 9,
+    "referenceNotFound": 0,
+    "lowConfidenceReferences": 38
+   }
+  },
+  "studyHints": {
+   "status": "complete",
+   "output": "data/question-hints.js",
+   "report": "data/hint-report.json",
+   "sources": "data/hint-review (hints-01..20.json, HINT_INSTRUCTIONS.md, README.md)",
+   "verification": "data/hint-review/verification (every hint re-checked against the book page, the key and the picture)",
+   "scripts": [
+    "scripts/tiering/merge_hints.py",
+    "scripts/tiering/apply_hint_verdicts.py"
+   ],
+   "counts": {
+    "questions": 1539,
+    "withHint": 1539,
+    "basis": {
+     "book": 1485,
+     "book_conflict": 32,
+     "answer": 22
+    },
+    "checked": 1540,
+    "okOnCheck": 1441,
+    "revisedAfterCheck": 99
+   },
+   "notes": "Hints load lazily (not needed for the first render). One question (q-600-e15-p065-n26) was found during the check to have a picture/key mismatch with the book and was added to data/manual-review.json; its key is unchanged."
+  },
+  "webApp": {
+   "status": "complete",
+   "files": [
+    "manifest.json",
+    "sw.js",
+    "pwa.js",
+    "styles-app.css",
+    "icons/",
+    "branding/",
+    "index.html",
+    "app.js"
+   ],
+   "scripts": [
+    "scripts/build_brand_assets.mjs (logo, app icons, favicon, README lockups, GitHub social preview; headless Chrome)",
+    "scripts/check_web_app.mjs (manifest, icons, every file the page loads exists)"
+   ],
+   "notes": "Installable web app (2026-09-25). sw.js: app files network-first with cached fallback (precached on install by following the page's references, no file list to maintain), question pictures cached when shown (never preloaded; offline placeholder otherwise), Google Fonts cached on first use. Start page shows «افزودن به صفحهٔ اصلی» / «نصب برنامه»: the browser's own install dialog where available (Chrome, Edge, Samsung Internet), otherwise short menu steps (iOS / Android / macOS Safari); hidden when running installed. The running exam is saved in localStorage (ayeen.session.v1) and resumed on reopen. Installing on a phone with offline support needs HTTPS hosting."
+  },
+  "questionRemovals": {
+   "status": "complete",
+   "file": "data/question-removals.js",
+   "removed": [
+    "q-tablo-p085-n189"
+   ],
+   "notes": "2026-09-25, at the owner's request: the only question without a textbook source (blue «300 متر به محل دور زدن» sign, not in the book; single source tablo.pdf p85 q189, level 5) was removed as probably outdated. questions.js filters documented removals; source transcriptions, picture and review records are kept, and the validator allows only documented removals. Bank: 1539 questions, all with a book reference. No other question's level, reference or hint changed (compared before/after)."
+  },
+  "branding": {
+   "status": "complete",
+   "master": "branding/logo.svg",
+   "notes": "Logo (2026-09-25): the letter «آ» drawn as a road running into the distance (white alef with lane dashes, running off the tile's bottom edge) under an amber madda, on the indigo brand tile. All icons and images are generated from one geometry by scripts/build_brand_assets.mjs; the app headers show icons/icon.svg next to the live-text name. README.md, .gitignore (pdf's/, tmp/ stay local) and .nojekyll prepare the GitHub repository."
+  },
+  "repository": {
+   "status": "complete",
+   "remote": "https://github.com/MahdiGraph/azmoonyar (public)",
+   "notes": "2026-09-25: published to GitHub. Not in the repository (gitignored, kept on this computer): pdf's/ (sample exams, textbook), data/book-pages.json (full textbook transcription, copyrighted), tmp/ (renders, originals, review batches). Scripts are grouped: scripts/tiering (study pipeline), scripts/assets (picture repairs), scripts/extraction (one-off bank extraction), plus the web-app and brand scripts (scripts/README.md). validate_study_bank.mjs runs in a fresh clone; only its verbatim-excerpt check needs the local transcription."
+  }
+ },
+ "resume": "Rebuild after any change: node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/merge_references.py BANK.json data/book-reference-review && python3 scripts/tiering/build_metadata.py BANK.json && node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/build_manual_review.py BANK.json && python3 scripts/tiering/merge_hints.py BANK.json data/hint-review && node scripts/tiering/validate_study_bank.mjs  (bump the hints import version in app.js and app.js?v= in index.html when question-hints.js changes)"
+}

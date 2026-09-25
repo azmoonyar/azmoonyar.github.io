@@ -1,0 +1,788 @@
+[
+ {
+  "id": "q-tablo-p060-n103",
+  "bookPage": 33,
+  "confidence": "medium",
+  "supportingText": "پایان خیابان اصلی",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   43
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Composite sign: end-of-main-street diamond (p33) with a \"200 m\" supplementary distance plate (p43: فاصله از محل نصب تابلو تا شروع قسمت خطر)."
+ },
+ {
+  "id": "q-tablo-p063-n110",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ایست",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Latin \"STOP\" octagon; p21 states the octagon is used only for stop signs."
+ },
+ {
+  "id": "q-tablo-p064-n113",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p066-n119",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود از هر دو طرف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p079-n169",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "عبور دوچرخه ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p095-n225",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود از هر دو طرف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p095-n227",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p21: inverted triangle is used solely for yield."
+ },
+ {
+  "id": "q-tablo-p099-n240",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "عبور دوچرخه ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p101-n247",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "عبور سواری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p105-n260",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p105-n261",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p21: inverted triangle is used solely for yield."
+ },
+ {
+  "id": "q-tablo-p106-n264",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود از هر دو طرف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p108-n271",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود از هر دو طرف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p109-n274",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "خیابان اصلی",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p114-n291",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با وسیله نقلیه مقابل است",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p116-n297",
+  "bookPage": 21,
+  "confidence": "high",
+  "supportingText": "هشت گوشه: تنها برای تابلوهای ایست( توقف)",
+  "bookReference": "مفهوم شکل ها در علائم عبور و مرور",
+  "secondaryPages": [
+   33
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Text-only question (attached image is unrelated); p33 shows the octagonal stop signs."
+ },
+ {
+  "id": "q-tablo-p116-n299",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ایست",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p21: octagon is used only for stop signs."
+ },
+ {
+  "id": "q-visual-e12-p024-n02",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p21: inverted triangle is used solely for yield."
+ },
+ {
+  "id": "q-visual-e3-p006-n04",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "خیابان اصلی",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e6-p012-n05",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با وسیله نقلیه مقابل است",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n04",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "ورود ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n05",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "عبور سواری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n09",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "ت : در سه راه ها حق تقدم عبور با وسیله نقلیه ای است که به طور مستقیم ودر سمت و مسیر مجاز حرکت میکند حتی اگر عرض خیابانی که مسیر آن است از عرض راه تلاقی کننده کمتر باشد .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Image-based T-junction scenario; the order follows from the three-way rule (straight vehicle first) and the main-road-over-side-road rule on the same page; p106 repeats the rule with a T-junction figure."
+ },
+ {
+  "id": "q-600-e10-p043-n14",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور گاری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p047-n12",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور کامیون با طول بیش از ۱۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p053-n27",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به راست ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p059-n12",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه باوزن بیش از ۵ تن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p060-n15",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور خودروی کشاورزی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p065-n27",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با ارتفاع بیش از ۳/۵ متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p077-n28",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "رعایت فاصله کمتر از ۷۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p081-n25",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p011-n12",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "رعایت فاصله کمتر از ۷۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p083-n16",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به چپ ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p014-n05",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p018-n07",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور چرخ دستی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p036-n15",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به چپ ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p041-n30",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه با محموله خطرناک ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-6a8eb9c2",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به راست ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n05",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "رعایت فاصله کمتر از ۷۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه با محموله خطرناک ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e10-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با ارتفاع بیش از ۳/۵ متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n01",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور خودروی کشاورزی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه باوزن بیش از ۵ تن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p044-n046",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور پیاده ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p045-n048",
+  "bookPage": 34,
+  "confidence": "medium",
+  "supportingText": "عبور کامیون با طول بیش از ۱۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Same length-limit sign; the question version shows only \"10m\" with a double arrow (no truck), the book version includes a truck and its caption says کامیون."
+ },
+ {
+  "id": "q-tablo-p047-n055",
+  "bookPage": 34,
+  "confidence": "medium",
+  "supportingText": "عبور وسائط نقلیه باوزن بیش از ۵ تن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Same weight-limit sign type; the question sign shows 5.5 t, the book example shows 5 t."
+ },
+ {
+  "id": "q-tablo-p048-n057",
+  "bookPage": 34,
+  "confidence": "medium",
+  "supportingText": "عبور با بار بیش‌از ۲ تن بر هر محور ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Same axle-load sign type; the question sign shows 2.4 t per axle, the book example shows 2 t."
+ },
+ {
+  "id": "q-tablo-p049-n061",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور خودرو با یدک ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p049-n062",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور کلیه وسایط نقلیه ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Question pictogram (car, moped, tractor, bicycle) is a variant of the book version (motorcycle, car, horse cart); caption matches the answer."
+ },
+ {
+  "id": "q-tablo-p049-n063",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با ارتفاع بیش از ۳/۵ متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p059-n099",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به چپ ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p059-n100",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "گردش به راست ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p068-n128",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور خودروی کشاورزی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p068-n129",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p072-n140",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور گاری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p080-n172",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور چرخ دستی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p081-n177",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p082-n178",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "رعایت فاصله کمتر از ۷۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Question pictogram shows two trucks; the book version shows two cars; caption matches the answer."
+ },
+ {
+  "id": "q-tablo-p085-n190",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه با محموله خطرناک ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p099-n238",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور چرخ دستی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p101-n245",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p102-n250",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با ارتفاع بیش از ۳/۵ متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e10-p020-n01",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور خودروی کشاورزی ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e12-p024-n08",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با عرض بیش از۲متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e13-p026-n06",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور گاری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e14-p028-n02",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه باوزن بیش از ۵ تن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p030-n06",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور کامیون با طول بیش از ۱۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e2-p004-n05",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسائط نقلیه با محموله خطرناک ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e5-p010-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "رعایت فاصله کمتر از ۷۰مترممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

@@ -1,0 +1,541 @@
+[
+ {
+  "id": "q-600-e7-p033-n30",
+  "hint": "مثلث با حاشیهٔ قرمز و دو فلش سیاه در خلاف جهت هم، بدون جداکننده میانشان، یعنی «جاده دوطرفه»؛ دو فلش مخالف در دایره یا مربع، تابلوی حق تقدم است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general visual rule: 'red-bordered triangle with two opposite black arrows = two-way road' also fits the p44 signs شروع/پایان جداکننده (two opposite black arrows with a separator between them). Limit it to two plain arrows with no separator.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p037-n30",
+  "hint": "جفت تابلوی مستطیلی با یک نوار مورب قرمز یعنی تقاطع جاده و راه‌آهن در ۱۰۰ متری؛ دو نوار ۲۰۰ و سه نوار ۳۰۰ متر را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p041-n29",
+  "hint": "قطار از نمای جلو در مثلث، روی پایهٔ سه‌نوار قرمز، یعنی تقاطع راه‌آهن بدون راهبند در ۳۰۰ متری؛ نرده یعنی با راهبند و تراموای نیم‌رخ، مسیر قطار شهری.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule 'a train in the warning triangle = crossing without barrier': the tram-in-triangle distractor in this same picture is «تقاطع مسیر قطار شهری» (p32). Tie the cue to the front-view train on the three-stripe post and name the tram.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n02",
+  "hint": "جفت تابلوی مستطیلی قاب‌دار با نوارهای مورب قرمز، فاصله تا تقاطع جاده و راه‌آهن را نشان می‌دهد و جزو حاشیه‌نماها نیست.",
+  "basis": "book",
+  "note": "Railway countdown markers (p.32) vs edge markers (p.44); stripe count omitted because the photo is blurry.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n28",
+  "hint": "تابلوی «خطر» مثلثی با حاشیهٔ قرمز است که فقط یک علامت تعجب سیاه در وسط دارد؛ مثلث وارونهٔ خالی مخصوص رعایت حق تقدم است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e07-n01",
+  "hint": "تعداد نوارهای مورب قرمز روی این تابلوها، فاصله تا تقاطع جاده و راه‌آهن را برحسب صد متر می‌گوید؛ تک نوار یعنی ۱۰۰ متری.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e08-n01",
+  "hint": "تصویر لوکوموتیو در مثلث یعنی تقاطع راه‌آهن بدون راهبند (نماد نرده یعنی با راهبند)؛ سه نوار مورب قرمز روی پایهٔ سفید هم فاصلهٔ ۳۰۰ متری را نشان می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check (2026-09-25)",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p035-n009",
+  "hint": "مثلث با حاشیهٔ قرمز هشدار می‌دهد؛ واگن قطار شهری با پانتوگراف روی سقف یعنی «تقاطع مسیر قطار شهری»، نه ایستگاه آن.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p040-n029",
+  "hint": "علامت تعجب سیاه درون مثلث با حاشیهٔ قرمز یعنی «خطر»؛ مثلث نشسته روی قاعده، شکل تابلوهای هشداردهندهٔ خطر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p040-n031",
+  "hint": "مثلث نشسته روی قاعده با حاشیهٔ قرمز هشدار است، نه ممنوعیت؛ سه خودروی پشت‌سرهم در صف درون آن یعنی «تراکم ترافیک».",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'a triangle means warning, not prohibition' is false for the inverted triangle, which the book reserves for رعایت حق تقدم and places in the regulatory group (p21, p28). Limit it to the upright red-bordered triangle.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p041-n034",
+  "hint": "نام این تابلوی هشدار در کتاب «جاده دوطرفه» است: مثلث با حاشیهٔ قرمز و دو فلش سیاه مخالف‌جهت که رفت‌وآمد از دو سو را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p043-n039",
+  "hint": "تصویر قطار درون مثلث هشدار یعنی «تقاطع راه‌آهن بدون راهبند»؛ اگر راهبند داشت، به‌جای قطار نماد نرده کشیده می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p045-n047",
+  "hint": "ضربدر سفید با حاشیهٔ قرمز و بدون قاب مثلث، نشانهٔ «تقاطع با راه‌آهن» است؛ اگر یک هشتی هم زیرش باشد، راه‌آهن دوخطه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p045-n049",
+  "hint": "لوکوموتیو در مثلث هشدار یعنی تقاطع جاده و راه‌آهن بدون راهبند (نرده یعنی با راهبند) و تک نوار مورب قرمز پایه یعنی ۱۰۰ متری؛ دو نوار ۲۰۰ و سه نوار ۳۰۰.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general 'a train in the triangle = crossing without barrier': the tram-in-triangle sign means «تقاطع مسیر قطار شهری» (p32). The picture shows a locomotive; name it.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p046-n051",
+  "hint": "نماد نرده (راهبند) در مثلث یعنی تقاطع جاده و راه‌آهن با راهبند؛ سه نوار مورب قرمز پایه هم یعنی تابلو در ۳۰۰ متری نصب شده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p046-n052",
+  "hint": "نردهٔ درون مثلث نشانهٔ وجود راهبند در تقاطع جاده و راه‌آهن است و تک نوار مورب قرمز پایه، فاصلهٔ ۱۰۰ متر را نشان می‌دهد.",
+  "basis": "book",
+  "note": "Book draws the combined triangle+post only for 300 m; one stripe = 100 m comes from the p.32 caption.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p048-n058",
+  "hint": "ضربدر سفید با حاشیهٔ قرمز یعنی تقاطع با راه‌آهن؛ یک هشتی اضافه زیر آن نشان می‌دهد راه‌آهن «دوخطه» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p053-n079",
+  "hint": "لوکوموتیو درون مثلث یعنی تقاطع بدون راهبند (نرده یعنی با راهبند) و سه نوار مورب قرمز پایه یعنی ۳۰۰ متری؛ تقاطع بی‌راهبند به‌ویژه خطرناک است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general 'a train inside the triangle = crossing without barrier': the tram-in-triangle sign is «تقاطع مسیر قطار شهری» (p32). The picture shows a locomotive; name it. (The 'especially dangerous' remark is supported by p99 and is kept.)",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p069-n132",
+  "hint": "هواپیمای سیاه درون مثلث با حاشیهٔ قرمز، هشدار «پرواز هواپیما در ارتفاع کم» نزدیک باند فرودگاه است؛ مثلث هشدار است، نه راهنمای مسیر.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p084-n184",
+  "hint": "مثلث هشدار با دو فلش سیاه مخالف‌جهت و بدون جداکننده میانشان یعنی «جاده دوطرفه»؛ تابلوهای حق تقدم با دو فلش مخالف، دایره یا مربع‌اند نه مثلث.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'warning triangle with two opposite black arrows = two-way road' also fits the p44 signs شروع/پایان جداکننده (same arrows with a separator between them), which the bank asks about. Add 'without a separator'.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p089-n203",
+  "hint": "سه فلش خمیدهٔ دایره‌وار درون مثلث هشدار فقط از «میدان» پیش رو خبر می‌دهد؛ تعیین جهت عبور در میدان کار تابلوی دایره‌ای آبی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p090-n207",
+  "hint": "علامت تعجب در مثلث با حاشیهٔ قرمز فقط به معنای «خطر» است؛ ریزش سنگ و راه لغزنده، تابلوهای جداگانه با نماد خودشان دارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p094-n223",
+  "hint": "ضربدر راه‌آهن به‌همراه یک هشتی زیر آن یعنی جاده با راه‌آهنی «دوخطه» تقاطع دارد، نه اینکه دو راه‌آهن یکدیگر را قطع کنند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p097-n233",
+  "hint": "دو نوار مورب قرمز روی پایه یعنی تقاطع جاده و راه‌آهن در ۲۰۰ متری؛ هر نوار ۱۰۰ متر است و مثلث قطار هم خود تقاطع را هشدار می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e15-p031-n18",
+  "hint": "دو تابلوی قاب‌دار کنار هم با سه نوار مورب قرمز، فاصلهٔ ۳۰۰ متر تا تقاطع جاده و راه‌آهن را نشان می‌دهند و حاشیه‌نما نیستند.",
+  "basis": "book",
+  "note": "Railway countdown markers (p.32), not edge markers (p.44).",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e2-p004-n06",
+  "hint": "صف چند خودروی پشت‌سرهم در مثلث هشدار یعنی «تراکم ترافیک»؛ مثلث با حاشیهٔ قرمز هشدار است، نه اجازه یا ممنوعیت عبور.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e4-p008-n03",
+  "hint": "ضربدر سفید با حاشیهٔ قرمز، بدون قاب مثلث، «تقاطع با راه‌آهن» است؛ داشتن یا نداشتن راهبند را مثلث با نماد نرده یا لوکوموتیو نشان می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check: Implies 'a train symbol in the triangle = crossing without barrier', which also matches the tram sign «تقاطع مسیر قطار شهری» (p32). Name the locomotive instead of 'train'.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e5-p010-n01",
+  "hint": "مثلث نشسته روی قاعده با علامت تعجب یعنی «خطر»؛ رعایت حق تقدم مثلث وارونه و ایست هشت‌ضلعی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n02",
+  "hint": "مثلث هشدار با فلش‌های دایره‌وار یعنی «میدان» در پیش است؛ «جهت عبور در میدان» تابلوی دایره‌ای آبی است. هنگام ورود، حق تقدم با خودروهای داخل میدان است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e7-p014-n05",
+  "hint": "این تابلوهای مستطیلی با یک، دو و سه نوار مورب قرمز، به‌ترتیب ۱۰۰، ۲۰۰ و ۳۰۰ متر فاصله تا تقاطع جاده و راه‌آهن را نشان می‌دهند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e9-p018-n06",
+  "hint": "جادهٔ دوطرفه با تابلوی هشدار نشان داده می‌شود: مثلث با حاشیهٔ قرمز و دو فلش سیاه مخالف‌جهت؛ فلش‌ها در دایره یا مربع، تابلوی حق تقدم‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p063-n15",
+  "hint": "دایره با حاشیهٔ قرمز بازدارنده است؛ فلش قرمز رو به بالا (جهت شما) محدود شده و فلش سیاه مال خودروی مقابل است، پس حق تقدم عبور با اوست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p067-n13",
+  "hint": "مثلث وارونه (رأس رو به پایین) با حاشیهٔ قرمز و بدون نماد، در کتاب فقط برای «رعایت حق تقدم» به کار می‌رود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p069-n28",
+  "hint": "دایرهٔ توپر قرمز با نوار افقی سفید یعنی «ورود ممنوع»؛ دایرهٔ سفید خالی با حاشیهٔ قرمز، ورود از هر دو طرف ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e17-p071-n13",
+  "hint": "دایره با حاشیهٔ قرمز یعنی ممنوعیت و نمای جلوی یک خودروی سواری درون آن یعنی «عبور سواری ممنوع»؛ سبقت ممنوع دو خودرو دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p078-n03",
+  "hint": "در تابلوهای حق تقدم، فلش قرمز مال طرفی است که باید صبر کند؛ اینجا فلش قرمز رو به بالا (جهت شما) است، پس حق تقدم با وسیلهٔ مقابل است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p081-n28",
+  "hint": "هشت‌ضلعی قرمز فقط برای تابلوی «ایست» است؛ با دیدن آن باید توقف کرد و پس از اطمینان از نبودن خطر تصادف حرکت کرد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p014-n07",
+  "hint": "نماد درون دایره با حاشیهٔ قرمز نوع ممنوعیت را نشان می‌دهد؛ اینجا فقط یک خودروی سواری است، پس «عبور سواری ممنوع» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p018-n06",
+  "hint": "نوار مورب سیاه روی لوزی زرد نشانهٔ پایان است؛ پس این تابلو «پایان خیابان اصلی» است و لوزی زرد بدون خط، خود خیابان اصلی.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p022-n04",
+  "hint": "لوزی سفید با لوزی زرد در وسط و بدون نوار مورب یعنی «خیابان اصلی»؛ اگر نوار مورب سیاه رویش باشد، پایان خیابان اصلی است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'white diamond with a yellow diamond = main street' also describes «پایان خیابان اصلی» (the same diamond with a black diagonal band, p33), which is one of the options. Add 'without a band'.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p024-n19",
+  "hint": "دایره با حاشیهٔ قرمز و فلش قرمز رو به بالا (جهت شما) یعنی حق تقدم با خودروی روبه‌روست؛ مربع آبی با فلش قرمز رو به پایین، حق تقدم را به شما می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general second clause: 'a blue square with a big white arrow gives you priority' also describes «راه یکطرفه» (p37: blue square with a big white up arrow). The priority sign is identified by its red down arrow.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p027-n12",
+  "hint": "مربع آبی با فلش سفید بزرگ رو به بالا (جهت شما) و فلش قرمز کوچک رو به پایین یعنی «حق تقدم عبور با شما»؛ خودروی مقابل باید صبر کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p033-n27",
+  "hint": "دوچرخه در دایره با حاشیهٔ قرمز یعنی «عبور دوچرخه ممنوع»؛ قرمز در علائم نشانهٔ منع است و آبی حرکت مجاز را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p037-n27",
+  "hint": "تنها یک موتورسیکلت با راکب کلاه‌دار در دایرهٔ حاشیه‌قرمز یعنی «عبور موتورسیکلت ممنوع»؛ موتورگازی راکب ندارد و موتورسیکلت همراه سواری یعنی وسایل نقلیه موتوری.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'a motorcycle with a helmeted rider in a red-bordered circle = motorcycles prohibited' also fits «عبور وسایل نقلیه موتوری ممنوع» (p34: the same motorcyclist plus a car), which is option b. Say the motorcycle is alone. (The moped-has-no-rider remark is correct.)",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n07",
+  "hint": "تابلوی بازدارنده با تصویر روبه‌روی یک سواری، فقط عبور سواری را ممنوع می‌کند، نه عبور همهٔ وسایل نقلیه را.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e04-n04",
+  "hint": "لوزی زرد بدون خط مورب یعنی «خیابان اصلی»؛ اگر نوار مورب سیاه رویش کشیده شده بود، پایان خیابان اصلی بود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n04",
+  "hint": "در این مربع آبی، فلش بزرگ سفید مال شماست و فلش قرمز کوچک مال خودروی مقابل؛ پس حق تقدم عبور با شماست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e06-n04",
+  "hint": "دوچرخهٔ بدون راکب در دایره با حاشیهٔ قرمز یعنی «عبور دوچرخه ممنوع»؛ در تابلوی موتورسیکلت، راکب کلاه‌ایمنی‌دار دیده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e07-n04",
+  "hint": "حاشیهٔ قرمز یعنی ممنوعیت و نماد درون، نوع آن؛ موتورسیکلتِ تنها با راکب کلاه‌دار یعنی «عبور موتورسیکلت ممنوع» و اگر سواری هم باشد، وسایل نقلیه موتوری.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'motorcycle with helmeted rider = motorcycles prohibited' also fits «عبور وسائط نقلیه موتوری ممنوع» (p34: same motorcyclist plus a car), which is option b. Say the motorcycle is alone.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p043-n042",
+  "hint": "یک کامیون تنها (بدون یدک) در دایره با حاشیهٔ قرمز یعنی «عبور کامیون ممنوع»؛ اگر یدک به آن وصل بود، کامیون یدک‌دار ممنوع بود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p044-n043",
+  "hint": "کامیونی که یدک (تریلر) به آن متصل است، درون دایره با حاشیهٔ قرمز، یعنی «عبور کامیون یدک‌دار ممنوع»؛ کامیون تنها تابلوی جداگانه دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p046-n053",
+  "hint": "راکب کلاه‌دار فقط بخشی از نماد است، نه موضوع ممنوعیت؛ موتورسیکلتِ تنها در دایره با حاشیهٔ قرمز یعنی «عبور موتورسیکلت ممنوع».",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'a motorcycle in a red-bordered circle = motorcycles prohibited' also fits «عبور وسایط نقلیه موتوری ممنوع» (p34: the same motorcyclist plus a car). Say the motorcycle is alone; the helmet point is fine.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p048-n059",
+  "hint": "در کتاب، دایرهٔ سفید با حاشیهٔ قرمز و نمای جلوی یک خودروی سواری سیاه «عبور سواری ممنوع» نام دارد؛ ممنوعیت فقط برای سواری است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p050-n064",
+  "hint": "موتورگازی سیاه بدون راکب در دایرهٔ سفید با حاشیهٔ قرمز یعنی «عبور موتورگازی ممنوع»؛ نماد موتورسیکلت، راکب کلاه‌دار دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p057-n093",
+  "hint": "نام این لوزی زرد با قاب سفید در کتاب «خیابان اصلی» است؛ لوزی (مربع نشسته روی رأس) برای شروع و پایان حق تقدم مسیر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p058-n097",
+  "hint": "لوزی زرد خط‌خورده در کتاب «پایان خیابان اصلی» نام دارد؛ لوزی شروع و پایان حق تقدم مسیر را نشان می‌دهد و خط مورب روی این لوزی یعنی پایان.",
+  "basis": "book",
+  "note": "revised after independent check: The closing clause «خط مورب یعنی پایان» reads as a general rule, which is false for red-bordered prohibition signs where the red diagonal means prohibition (p34-35). Limit it to the diamond.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p060-n102",
+  "hint": "فلش سیاه رو به پایین و فلش قرمز رو به بالا در دایره با حاشیهٔ قرمز یعنی باید به خودروی روبه‌رو راه بدهید: حق تقدم با وسیلهٔ نقلیهٔ مقابل است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p060-n103",
+  "hint": "لوزی زرد خط‌خورده یعنی پایان خیابان اصلی و پلاک مکمل «۲۰۰ متر» زیر آن، فاصلهٔ محل نصب تابلو تا همان نقطه را نشان می‌دهد.",
+  "basis": "book",
+  "note": "Composite sign: p.33 end-of-main-street diamond plus the p.43 distance supplementary plate.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p062-n109",
+  "hint": "مثلث نشسته روی رأس با حاشیهٔ قرمز و وسط خالی، صرفاً تابلوی رعایت حق تقدم است؛ پس محل رعایت حق تقدم را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p063-n110",
+  "hint": "هشت‌ضلعی قرمز با نوشتهٔ سفید، فارسی یا لاتین، فقط تابلوی «ایست» است؛ توقف ممنوع و توقف مطلقاً ممنوع دایره‌های آبی با حاشیهٔ قرمزند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p064-n113",
+  "hint": "نوار افقی سفید روی دایرهٔ کاملاً قرمز نشانهٔ «ورود ممنوع» است؛ توقف ممنوع دایرهٔ آبی با حاشیه و خط مورب قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p064-n114",
+  "hint": "فلش سفید بزرگ رو به بالا جهت حرکت شما و فلش قرمز رو به پایین خودروی روبه‌روست؛ این مربع آبی یعنی «حق تقدم عبور با شما».",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p066-n119",
+  "hint": "دایرهٔ سفید با حاشیهٔ قرمز و بدون هیچ نماد، در کتاب «ورود از هر دو طرف ممنوع» نام دارد؛ دایره با حاشیهٔ قرمز نشانهٔ تابلوی بازدارنده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p070-n133",
+  "hint": "مثلث وارونه یعنی رعایت حق تقدم و پلاک مکمل زیر آن فاصلهٔ محل نصب تابلو تا آن نقطه است؛ پس ۳۰۰ متر به محل رعایت حق تقدم.",
+  "basis": "book",
+  "note": "Composite sign: p.33 yield triangle plus the p.43 distance supplementary plate.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p079-n169",
+  "hint": "دایرهٔ سفید با حاشیهٔ قرمز و دوچرخهٔ سیاه یعنی «عبور دوچرخه ممنوع»؛ حاشیهٔ قرمز نشان می‌دهد تابلو بازدارنده است، نه نشانگر محل عبور.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p080-n171",
+  "hint": "دو فلش مخالف‌جهت در دایره با حاشیهٔ قرمز یعنی «حق تقدم با وسیلهٔ نقلیهٔ مقابل است»؛ تابلوی سبقت ممنوع به‌جای فلش، دو خودرو دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p086-n192",
+  "hint": "مربع آبی با فلش سفید بزرگ رو به جلو و فلش قرمز رو به پایین یعنی «حق تقدم عبور با شما»؛ دو فلش مخالف در دایرهٔ حاشیه‌قرمز یعنی حق تقدم با خودروی مقابل.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'a blue square with a big white forward arrow = priority is yours' also describes «راه یکطرفه» (p37: blue square with a big white up arrow); the red down arrow is the cue. Also 'the same arrows in the circle' is inaccurate: the colours are swapped there (black down, red up, p33).",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p087-n198",
+  "hint": "دایرهٔ توپر قرمز با نوار سفید افقی، تابلوی «ورود ممنوع» است؛ یعنی هیچ وسیلهٔ نقلیه‌ای نباید از این سمت وارد شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p095-n225",
+  "hint": "دایره با حاشیهٔ قرمز و وسط سفید خالی یعنی «ورود از هر دو طرف ممنوع»؛ ورود ممنوع دایرهٔ توپر قرمز با نوار سفید است و مثلث وارونهٔ خالی، رعایت حق تقدم.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general cue: 'red border with an empty white middle' omits the shape, and the yield sign (inverted triangle, red border, empty white middle, p33) is option d. Say 'circle'.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p095-n227",
+  "hint": "رعایت حق تقدم تنها تابلوی مثلثی وارونه است: رأس رو به پایین، حاشیهٔ پهن قرمز و زمینهٔ سفید بدون نماد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p097-n234",
+  "hint": "میان این مثلث‌ها، تنها مثلثی که روی رأس ایستاده و نمادی ندارد تابلوی «رعایت حق تقدم» است؛ مثلث‌های نشسته بر قاعده هشدارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p099-n240",
+  "hint": "تابلوی «عبور دوچرخه ممنوع» دایرهٔ سفید با حاشیهٔ قرمز و دوچرخهٔ سیاه است؛ زمینهٔ آبی حرکت مجاز را می‌رساند و موتورسیکلت راکب دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p101-n247",
+  "hint": "فقط یک خودروی سواری درون دایره با حاشیهٔ قرمز آمده است، پس «عبور سواری ممنوع» است؛ تابلوی سبقت ممنوع دو خودروی کنار هم دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p102-n249",
+  "hint": "تابلوی رعایت حق تقدم مثلث وارونهٔ سفید با حاشیهٔ قرمز است؛ این شکل فقط برای رعایت حق تقدم و هشت‌ضلعی فقط برای ایست به کار می‌رود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p105-n260",
+  "hint": "دایرهٔ تمام‌قرمز با نوار افقی سفید یعنی «ورود ممنوع»؛ اگر دایره سفید بود و فقط حاشیه‌اش قرمز، ورود از هر دو طرف ممنوع بود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p105-n261",
+  "hint": "مثلث با رأس رو به پایین و بدون نماد یعنی «رعایت حق تقدم»؛ مثلث رو به بالا هشدار و هشت‌ضلعی ایست است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p106-n263",
+  "hint": "حق تقدم با وسیلهٔ مقابل: دایرهٔ سفید با حاشیهٔ قرمز، فلش سیاه رو به پایین و فلش قرمز رو به بالا؛ مربع آبی با فلش قرمز رو به پایین یعنی حق تقدم با شما.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'a blue square = priority is yours' is false for other blue squares, including option 1 in this same picture (blue square with a white up arrow = راه یکطرفه, p37). Name the arrows.",
+  "checked": true
+ }
+]

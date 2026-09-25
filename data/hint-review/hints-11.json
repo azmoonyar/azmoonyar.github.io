@@ -1,0 +1,541 @@
+[
+ {
+  "id": "q-tablo-p055-n083",
+  "hint": "نماد پارکینگ همراه صندلی چرخدار روی تابلوی آبی یعنی پارکینگ مخصوص افراد معلول؛ آبی رنگ علائم اخباری است و منع با رنگ قرمز نشان داده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p057-n091",
+  "hint": "مستطیل آبی بلند با عدد ۳۰۰ و سه نوار مورب سفید یعنی ۳۰۰ متر تا خروجی آزادراه؛ نشانهٔ تقاطع راه‌آهن زمینهٔ سفید و نوارهای قرمز دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p063-n112",
+  "hint": "شاخه‌ای که به مانع شطرنجی قرمز و سفید ختم می‌شود نشانهٔ «خط عبور برای گریز» است؛ در تابلوهای بن‌بست به‌جای آن نوار قرمز ساده می‌آید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p081-n176",
+  "hint": "این سه تابلوی آبی ۳۰۰، ۲۰۰ و ۱۰۰ متر مانده به خروجی آزادراه نصب می‌شوند؛ با نزدیک‌شدن به خروجی، نوارهای مورب از سه به یک کم می‌شوند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p092-n216",
+  "hint": "عدد سفید روی مربع آبی یعنی سرعت توصیه‌شده؛ حداقل سرعت روی دایرهٔ آبی و حداکثر سرعت روی دایرهٔ حاشیه‌قرمز نوشته می‌شود.",
+  "basis": "book",
+  "note": "picture is cropped; the number itself is not stated in the hint",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p098-n237",
+  "hint": "نماد کامیون روی مربع آبی (تابلوی اخباری) مسیر توصیه‌شده برای وسایل سنگین است؛ ممنوعیت‌های کامیون روی دایرهٔ حاشیه‌قرمز می‌آیند.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: «a truck on a red-bordered circle = no trucks» is false in the book for other red-circle truck signs (e.g. سبقت برای کامیون ممنوع, عبور کامیون با طول بیش از ۱۰ متر ممنوع, p.33-35). Limit it to truck prohibitions in general.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p112-n282",
+  "hint": "مربع آبی با عدد سفید ۶۰ تابلوی اخباری «سرعت توصیه شده» است؛ عدد حداقل و حداکثر سرعت داخل دایره نوشته می‌شود، نه روی مربع ساده.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e10-p020-n04",
+  "hint": "تابلوهای اخباری آبی حاوی توصیه‌اند؛ عدد ۶۰ روی مربع آبی سرعتی است که توصیه می‌شود، نه حداقل یا حداکثر سرعت مجاز.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e11-p022-n02",
+  "hint": "مربع آبی با نماد سفید کامیون، تابلوی اخباری «مسیر توصیه‌شده برای وسایل سنگین» است؛ تابلوهای اخباری توصیه‌ای عمومی دارند.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: «a blue square is an informational sign» is false in the book — several regulatory (انتظامی) signs are blue squares (راه یکطرفه, حق تقدم عبور با شما, پیش انتخاب مسیر, p.33/37). Limit the statement to this sign.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e11-p022-n04",
+  "hint": "دو نوار مورب سفید روی مستطیل آبی یعنی ۲۰۰ متر تا خروجی آزادراه؛ تابلوهای فاصله تا تقاطع راه‌آهن سفیدند و نوار قرمز دارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e11-p022-n05",
+  "hint": "نماد پارکینگ به‌تنهایی فقط «پارکینگ» است؛ صندلی چرخدار در مربع سفید زیر آن یعنی پارکینگ مخصوص افراد معلول.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e15-p031-n21",
+  "hint": "در تابلوی خط عبور برای گریز، یکی از دو شاخهٔ جادهٔ سفید به مانع شطرنجی قرمز و سفید می‌رسد؛ اگر جاده یا شاخه به نوار قرمز ساده برسد، بن‌بست است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general closing rule «a plain red bar = dead end»: in the book a red bar/line also means «end of» on blue signs (پایان آزاد راه, پایان تونل, پایان شهر), which a learner could confuse with dead end. Limit it to a road or branch ending in a red bar.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e9-p018-n02",
+  "hint": "نوار قرمز فقط سر شاخهٔ سمت راست است و جادهٔ اصلی ادامه دارد، پس سمت راست بن‌بست است؛ در تابلوی بن‌بست، نوار قرمز بالای خود جاده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p011-n15",
+  "hint": "در کتاب، تابلوی پیکانی سفید با نماد هواپیما و نام مهرآباد «راهنمای مسیر» است؛ تابلوهای پارکینگ با «قطار شهری» پارک سوارند و تابلوی چادر استراحتگاه.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p039-n027",
+  "hint": "نماد درخت کاج و خانه یعنی مهمانسرا؛ عدد روی تابلوی پیکانی، فاصله تا آن را می‌گوید: مهمانسرا ۵۰۰ متر.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p043-n041",
+  "hint": "تابلوی پیکانی آبی که نام شهر مقصد، جهت و فاصله تا آن را نشان می‌دهد «راهنمای مسیر» است؛ کتاب نمونهٔ «تهران ۵۵ کیلومتر» را آورده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p050-n066",
+  "hint": "تابلویی که نام چند شهر (خرمشهر، آبادان، اهواز) را هر کدام با پیکان جهتش نشان می‌دهد، راهنمای مسیر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p052-n073",
+  "hint": "تابلوی پیکانی‌شکل با نماد هواپیما و نام مهرآباد، جهت رسیدن به این مقصد را نشان می‌دهد؛ کتاب آن را «راهنمای مسیر» نامیده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p052-n074",
+  "hint": "مستطیل پرچمی (پیکانی‌شکل) معمولاً برای علائم راهنماست؛ این تابلو با نماد هواپیما و نام مقصد، راهنمای مسیر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p053-n075",
+  "hint": "تابلوی پیکانی آبی با نام تهران و فاصلهٔ ۵۵ کیلومتر، راننده را به سمت مقصد راهنمایی می‌کند؛ در کتاب «راهنمای مسیر» نام دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p053-n076",
+  "hint": "نماد چادر یعنی استراحتگاه (چادر)، نه کاروان؛ عدد روی تابلوی پیکانی فاصله تا آن است، اینجا ۳۰۰ متر (نمونهٔ کتاب ۵۰۰ متر).",
+  "basis": "book",
+  "note": "picture shows 300 m; the book prints the same sign with 500 m",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p053-n077",
+  "hint": "تابلوی نموداری که هر شاخهٔ تقاطع را با پیکان به یک شهر (اراک، اصفهان، ساوه) می‌رساند راهنمای مسیر است؛ سیاه و سفید برای راهنمای مسیر در سایر راه‌هاست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p090-n209",
+  "hint": "آبی رنگ راهنمای مسیر در آزادراه‌هاست؛ این تابلوی پیکانی که نام تهران و فاصلهٔ آن را نشان می‌دهد، راهنمای مسیر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p047-n10",
+  "hint": "پیکان افقی همراه عدد متر روی پلاک مکمل سفید، طول ممنوعیت یا محدودیت پارکینگ را نشان می‌دهد؛ پلاک طول محدودهٔ خطر، دو پیکان رو به بالا در دو طرف دارد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general closing rule: «upward arrows are exclusive to the danger-zone-length plate» is false in the book (white lane signs such as افزایش خطوط عبور on p.40 and many blue mandatory signs have upward arrows). Limit it to the plate.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p053-n25",
+  "hint": "پلاک مکمل با دو پیکان رو به بالا و «کیلومتر...» طول محدودهٔ خطر است؛ پلاک مکمل با پیکان افقی و عدد متر، طول ممنوعیت یا محدودیت پارکینگ را نشان می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general closing rule: «a horizontal arrow with metres = parking» is false in the book — the prohibition sign عبور کامیون با طول بیش از ۱۰ متر ممنوع (p.34) has a horizontal arrow with 10m. Limit it to the supplementary plate.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p057-n26",
+  "hint": "پلاک مکمل سفیدی که فقط عدد فاصله (۲۰۰ متر) دارد و پیکان ندارد، فاصلهٔ محل نصب تابلو تا شروع قسمت خطر را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p018-n08",
+  "hint": "در این پلاک مکمل، خط ضخیم خمیده راه اصلی در قوس است و خطوط نازک، راه‌های فرعی؛ پس تقاطع فرعی به اصلی در قوس را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p022-n02",
+  "hint": "پلاک سفید با پیکان و «۱۰ متر» تابلوی مکمل است و طول ممنوعیت یا محدودیت پارکینگ را می‌گوید؛ سه تابلوی دیگر نام شهر و جهت دارند و راهنمای مسیرند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e04-n02",
+  "hint": "راهنمای مسیر نام شهر مقصد و جهت را نشان می‌دهد؛ پلاک سفید با پیکان و ۱۰ متر فقط طول ممنوعیت یا محدودیت پارکینگ را می‌گوید و تابلوی مکمل است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-b65c58a1",
+  "hint": "عدد تنها روی پلاک مکمل (۲۰۰ متر) فاصلهٔ محل نصب تابلو تا شروع قسمت خطر است؛ پلاک طول محدودهٔ خطر، پیکان‌های رو به بالا دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p099-n239",
+  "hint": "خط پهن خمیده، راه اصلی در قوس است و خطوط باریک، راه‌های فرعی متصل به آن؛ این پلاک مکمل، تقاطع فرعی با اصلی در قوس را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p104-n257",
+  "hint": "در این پلاک مکمل، راه اصلی با خط ضخیم خمیده و راه‌های فرعی با خطوط نازک کشیده شده‌اند؛ یعنی تقاطع اصلی با فرعی در قوس.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e14-p028-n04",
+  "hint": "پلاک مکمل با دو پیکان رو به بالا و عبارت «کیلومتر...» طول محدودهٔ خطر را نشان می‌دهد، نه فاصله تا آن را.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e15-p030-n02",
+  "hint": "پلاک مکمل سفید با کامیون یدک‌دار، علامت انتظامی همراهش را به این گروه از وسایل نقلیه اختصاص می‌دهد؛ عبور کامیون یدک‌دار ممنوع، دایرهٔ حاشیه‌قرمز است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule with an unsupported «فقط»: it says any white plate with a vehicle picture makes the sign apply ONLY to that group, but the same book page shows the tram plate with «به غیر از» (all except that group) under the same caption. Limit it to this plate and use the book's wording (اختصاص).",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e3-p006-n06",
+  "hint": "پلاک سفید «۲۰۰ متر» تابلوی مکمل است و فاصله تا شروع قسمت خطر را نشان می‌دهد؛ بقیه با نام شهرها و پیکان جهت، راهنمای مسیرند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n03",
+  "hint": "پلاک مربعی سفید با خط خمیده (راه اصلی در قوس) و خطوط کوتاه کناری (راه‌های فرعی) یعنی تقاطع اصلی با فرعی در قوس.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e8-p016-n04",
+  "hint": "طول ممنوعیت یا محدودیت پارکینگ روی پلاک مکمل با پیکان افقی و عدد متر (اینجا ۱۰ متر) نوشته می‌شود؛ طول محدودهٔ خطر پیکان‌های رو به بالا دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p014-n04",
+  "hint": "مثلث حاشیه‌قرمز نشسته بر قاعده هشدار است؛ وقتی راهی از کنار به پیکان مستقیم می‌پیوندد، دو جریان ترافیک یکی می‌شوند: جریان همگرا.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general opening rule «a red-bordered triangle = warning»: the yield sign (رعایت حق تقدم) is also a red-bordered triangle but point-down and not a warning (book p.21/33). Limit it to the triangle standing on its base.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p033-n25",
+  "hint": "در این مثلث هشدار، پیکان منحنی از کنار جداکنندهٔ سیاه منحرف می‌شود؛ یعنی مسیر حرکت به‌وسیلهٔ جداکننده هدایت می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p037-n25",
+  "hint": "پیکان مستقیم با راهی که از پهلو به آن می‌پیوندد، نشان «جریان همگرا» است؛ در تابلوهای جداکننده، پیکان از کنار جزیرهٔ سیاه می‌گذرد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p041-n26",
+  "hint": "شکل پنج‌گوشه با رأس رو به بالا برای هشدار مدرسه و دبیرستان است؛ عبور اطفال و گذرگاه عابر در مثلث حاشیه‌قرمز نشان داده می‌شوند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-visual-e1-p009-n25",
+  "hint": "جداکنندهٔ سیاه در بالای مثلث، میان دو پیکان مخالف‌جهت آغاز می‌شود؛ یعنی شروع جداکننده. اگر جداکننده پایین تابلو باشد، پایان آن است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n04",
+  "hint": "راهی که از کنار به پیکان اصلی می‌پیوندد و دو مسیر را یکی می‌کند نشان جریان همگراست؛ کتاب این مثلث حاشیه‌قرمز را جزو تابلوهای محلی آورده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e02-n06",
+  "hint": "دو پیکان رفت و برگشت که جداکنندهٔ میانشان از بالای تابلو آغاز می‌شود، یعنی از اینجا دو جهت حرکت با جداکننده جدا می‌شوند: شروع جداکننده.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e06-n06",
+  "hint": "پیکان منحنی که از کنار جزیرهٔ جداکننده رد می‌شود، نشان «هدایت مسیر با جداکننده» است؛ در جریان همگرا، راهی از کنار به پیکان می‌پیوندد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e07-n06",
+  "hint": "در مثلث هشدار، پیکان رو به بالا که راهی از سمت راست به آن می‌پیوندد یعنی جریان همگرا؛ همین تابلو با پیوستن راه از چپ هم وجود دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p094-n222",
+  "hint": "پیوستن یک راه از پهلو به پیکان مستقیم یعنی دو جریان ترافیک به هم می‌رسند: جریان همگرا؛ این تابلو جزیرهٔ جداکننده ندارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p106-n262",
+  "hint": "وقتی جداکنندهٔ سیاه در پایین مثلث باشد و دو پیکان مخالف‌جهت بالای آن، جداکننده تمام شده است: پایان جداکننده؛ جداکننده در بالا یعنی شروع آن.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p106-n265",
+  "hint": "تابلوی آبی با نماد دوربین و نوشتهٔ «نظارت با دوربین پلیس» یعنی این محدوده با دوربین پلیس کنترل می‌شود؛ کتاب آن را جزو تابلوهای محلی آورده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e13-p026-n08",
+  "hint": "پیکان خمیده‌ای که از کنار جزیرهٔ سیاه جداکننده منحرف می‌شود، در مثلث هشدار یعنی هدایت مسیر با جداکننده؛ در پایان جداکننده دو پیکان مخالف‌جهت داریم.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e4-p008-n06",
+  "hint": "تابلوی آبی با نماد دوربین («نظارت با دوربین پلیس») در کتاب جزو تابلوهای محلی است؛ تونل، شروع محل پیاده‌روی و ایستگاه اتوبوس تابلوی اخباری‌اند.",
+  "basis": "book",
+  "note": "keyed camera sign is under local signs (p.44); tunnel/bus stop (p.39) and walking-area start (p.40) are informational",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e8-p016-n05",
+  "hint": "جداکنندهٔ سیاه که بالای تابلو میان دو پیکان رفت و برگشت آغاز می‌شود یعنی شروع جداکننده؛ در پایان جداکننده، جزیرهٔ سیاه پایین تابلوست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e9-p018-n03",
+  "hint": "تابلوی پنج‌گوشه (خانه‌ای‌شکل) با حاشیهٔ قرمز و تصویر دو دانش‌آموز هشدار مدرسه است؛ عبور اطفال و عبور عابر پیاده مثلثی‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p044-n21",
+  "hint": "برچسب مربع آبی با نماد سفید صندلی چرخدار یعنی رانندهٔ این خودرو معلول است؛ نماد گوش خط‌خورده مربوط به رانندهٔ ناشنواست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p048-n24",
+  "hint": "برچسب مربع آبی که فقط صندلی چرخدار سفید دارد، راننده معلول است؛ همراه نماد پارکینگ یعنی پارکینگ معلولان و گوش خط‌خورده یعنی راننده ناشنوا.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p059-n10",
+  "hint": "صندلی چرخدار سفید روی مربع آبی، برچسب «راننده معلول» است؛ پست امدادی با صلیب یا هلال سرخ و راننده ناشنوا با گوش خط‌خورده مشخص می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p065-n25",
+  "hint": "نماد گوش با خط مورب روی مربع آبی یعنی ناشنوایی؛ این برچسب «راننده ناشنوا» است. بوق زدن ممنوع دایرهٔ حاشیه‌قرمز با نماد بوق است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p068-n19",
+  "hint": "گوش خط‌خورده یعنی ناشنوایی؛ این برچسب مربع آبی راننده ناشنوا را معرفی می‌کند، در حالی که برچسب مربع آبی با صندلی چرخدار سفید، راننده معلول است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general contrast «a wheelchair = disabled driver»: the disabled-parking sign (P + wheelchair, p.41) also carries a wheelchair, and the bank uses «راننده معلولین» as a distractor for exactly that sign. Tie the contrast to the blue-square sticker.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p019-n12",
+  "hint": "خط مورب روی نماد گوش یعنی نشنیدن؛ عنوان این برچسب آبی «راننده ناشنوا» است و با برچسب صندلی چرخدار (راننده معلول) فرق دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e11-n06",
+  "hint": "نماد صندلی چرخدار روی برچسب آبی یعنی راننده معلول؛ بیمارستان و پست امدادی تابلوهای اخباری با نماد خودشان هستند، نه برچسب.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e13-n24",
+  "hint": "برچسب راننده معلول، مربع آبی با صندلی چرخدار سفید و بدون نماد پارکینگ است؛ گوش خط‌خورده یعنی راننده ناشنوا و بوق خط‌خورده یعنی بوق زدن ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-d32f8beb",
+  "hint": "گوش خط‌خورده روی مربع آبی برچسب «راننده ناشنوا» است، نه تابلوی محلی؛ حاشیه‌نما، دوربین پلیس و جریان همگرا در کتاب تابلوی محلی‌اند.",
+  "basis": "book",
+  "note": "option numbers are not printed in the picture; keyed option taken as the deaf-driver sticker per the review note",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p038-n019",
+  "hint": "در بخش برچسب‌ها، نماد گوش خط‌خورده روی مربع آبی «راننده ناشنوا» است؛ این برچسب هشدار محل عبور یا ممنوعیت نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p067-n126",
+  "hint": "صندلی چرخدار سفید روی مربع آبی، برچسب «راننده معلول» است؛ این برچسب محل عبور یا ممنوعیتی را نشان نمی‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e5-p010-n05",
+  "hint": "راننده معلول: مربع آبی فقط با صندلی چرخدار سفید؛ اگر نماد پارکینگ هم داشته باشد پارکینگ معلولان است و دایرهٔ آبی با عابران یعنی فقط عبور پیاده.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e7-p014-n02",
+  "hint": "عنوان این برچسب «راننده ناشنوا» است؛ گوش با خط مورب روی مربع آبی یعنی ناشنوایی، و برچسب مربع آبی با صندلی چرخدار سفید، راننده معلول است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general contrast «the wheelchair is exclusive (مخصوص) to the disabled driver»: the disabled-parking sign (P + wheelchair, p.41) also has a wheelchair, and «راننده معلولین» is a common distractor for it. Tie the contrast to the blue-square sticker.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p023-n12",
+  "hint": "باید از خط سمت راست رفت، مگر در مواردی مانند سبقت؛ پس خط چپ آزادراه برای سبقت است، با حداکثر سرعتی که علائم برای همان خط تعیین کرده‌اند.",
+  "basis": "book",
+  "note": "revised after independent check: States the keep-right rule as having a single exception («مگر هنگام سبقت»), but the book (p.46) lists three exceptions (overtaking, right side blocked, turning left); a learner could carry the wrong rule into the related exception questions. Say overtaking is one of the exceptions.",
+  "checked": true
+ },
+ {
+  "id": "q-e13-p027-n23",
+  "hint": "باید از خط سمت راست رفت، مگر در مواردی مانند سبقت؛ حداکثر سرعت هر خط آزادراه را علائم تعیین می‌کنند، پس خط چپ برای سبقت با سرعت مجاز همان خط است.",
+  "basis": "book",
+  "note": "revised after independent check: Labelled «قاعدهٔ کتاب» but misquotes it: the book (p.46/98) lists three exceptions to keeping right (overtaking, right side blocked, turning left), not only overtaking. Say overtaking is one of the exceptions.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e1-p008-n15",
+  "hint": "در معابر شریانی درجهٔ دو شهر، خیابان شریانی اصلی حداکثر ۶۰ و خیابان شریانی فرعی حداکثر ۵۰ کیلومتر در ساعت سرعت مجاز دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p044-n17",
+  "hint": "معابر محلی و میدان‌های شهر کمترین سقف سرعت را دارند: حداکثر ۳۰ کیلومتر در ساعت (شریانی فرعی ۵۰ و شریانی اصلی ۶۰).",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p048-n17",
+  "hint": "در آزادراه‌های درون‌شهری (معابر شریانی درجهٔ یک) حداقل سرعت ۷۰ کیلومتر در ساعت است و رانندگی کندتر از حداقل تعیین‌شده مجاز نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p054-n03",
+  "hint": "پاسخ نمونه‌آزمون‌ها ۱۰۰ است، ولی کتاب برای آزادراه‌های درون‌شهری حداقل ۷۰ و حداکثر ۱۲۵ آورده و ۱۰۰ را سقف بزرگراه‌های شهری ذکر کرده است.",
+  "basis": "book_conflict",
+  "note": "book p.47: urban freeways max 125 km/h; 100 km/h is the urban expressway limit",
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p068-n17",
+  "hint": "کتاب برای معابر محلی و میادین داخل شهر کمترین سقف سرعت را گذاشته است: حداکثر ۳۰ کیلومتر در ساعت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e20-p082-n03",
+  "hint": "در شهر، آزادراه‌ها (معابر شریانی درجهٔ یک) حداقل سرعت ۷۰ کیلومتر در ساعت دارند؛ حداقل سرعت آزادراه‌های بیرون شهر هم ۷۰ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p023-n15",
+  "hint": "خیابان‌های شریانی اصلی (از معابر شریانی درجهٔ دو) در شهر حداکثر ۶۰ کیلومتر در ساعت سرعت مجاز دارند؛ شریانی فرعی ۵۰ و معابر محلی ۳۰.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p026-n03",
+  "hint": "بزرگراه‌های درون‌شهری از معابر شریانی درجهٔ یک‌اند و اگر تابلو سرعت دیگری تعیین نکرده باشد، حداکثر سرعت مجازشان ۱۰۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p040-n18",
+  "hint": "در راه یک‌طرفه فقط در جهت مجاز می‌توان رفت؛ حرکت برخلاف مسیر تعیین‌شده به هر شکلی، حتی با راهنما یا برای گردش، ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ }
+]

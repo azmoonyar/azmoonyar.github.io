@@ -1,0 +1,5237 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-23T01:08:35.410160+00:00",
+  "policy": {
+    "mainBookExcludedFromQuestionExtraction": true,
+    "localOcrUsed": false,
+    "nativeTextLayerOnly": true
+  },
+  "documents": [
+    {
+      "fileName": "4_5888983329180487891-1.pdf",
+      "relativePath": "pdf's/4_5888983329180487891-1.pdf",
+      "sha256": "f7bb5df2a646306a2754bd1f3dbddb433d953f0d815ad1dba348513878db3828",
+      "pageCount": 37,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 397,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 1894,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 17,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 2241,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 1869,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 20,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 2104,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 1881,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 21,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 2367,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 1740,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 2593,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 1812,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 21,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 2267,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 1978,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 2264,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 1903,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 2895,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 1964,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 2660,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 2129,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 2698,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 2102,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 2526,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 1934,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 11,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 2528,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 2074,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 1904,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 2165,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 20,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 1786,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 28,
+          "nativeTextCharacters": 1667,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 29,
+          "nativeTextCharacters": 2580,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 30,
+          "nativeTextCharacters": 1873,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 21,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 31,
+          "nativeTextCharacters": 1254,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 22,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 32,
+          "nativeTextCharacters": 1656,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 33,
+          "nativeTextCharacters": 1919,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 34,
+          "nativeTextCharacters": 1250,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 35,
+          "nativeTextCharacters": 1838,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 36,
+          "nativeTextCharacters": 1922,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 37,
+          "nativeTextCharacters": 944,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "600-driveing.pdf",
+      "relativePath": "pdf's/600-driveing.pdf",
+      "sha256": "b667d4b1082e93c11190cc47c5639596162eacd67dcf43c0021cca3e8e8f3cca",
+      "pageCount": 85,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 39,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 40,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 93,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 1442,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 74,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 1197,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 780,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 1257,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 876,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 1036,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 1151,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 776,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 1405,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 1159,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 1296,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 940,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 1127,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 1111,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 872,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 994,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 1485,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 1002,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 1062,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 1012,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 1246,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 28,
+          "nativeTextCharacters": 1180,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 29,
+          "nativeTextCharacters": 1161,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 30,
+          "nativeTextCharacters": 953,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 31,
+          "nativeTextCharacters": 1205,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 32,
+          "nativeTextCharacters": 1358,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 33,
+          "nativeTextCharacters": 1000,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 34,
+          "nativeTextCharacters": 927,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 35,
+          "nativeTextCharacters": 1433,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 36,
+          "nativeTextCharacters": 1625,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 37,
+          "nativeTextCharacters": 831,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 38,
+          "nativeTextCharacters": 1159,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 39,
+          "nativeTextCharacters": 1597,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 40,
+          "nativeTextCharacters": 1301,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 41,
+          "nativeTextCharacters": 622,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 42,
+          "nativeTextCharacters": 48,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 43,
+          "nativeTextCharacters": 22,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 44,
+          "nativeTextCharacters": 23,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 45,
+          "nativeTextCharacters": 22,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 46,
+          "nativeTextCharacters": 1248,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 47,
+          "nativeTextCharacters": 837,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 48,
+          "nativeTextCharacters": 997,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 49,
+          "nativeTextCharacters": 915,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 50,
+          "nativeTextCharacters": 1337,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 51,
+          "nativeTextCharacters": 1440,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 52,
+          "nativeTextCharacters": 1295,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 53,
+          "nativeTextCharacters": 549,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 54,
+          "nativeTextCharacters": 1224,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 55,
+          "nativeTextCharacters": 1325,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 56,
+          "nativeTextCharacters": 1118,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 57,
+          "nativeTextCharacters": 574,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 58,
+          "nativeTextCharacters": 1078,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 59,
+          "nativeTextCharacters": 1190,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 60,
+          "nativeTextCharacters": 1451,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 61,
+          "nativeTextCharacters": 1103,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 62,
+          "nativeTextCharacters": 1358,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 63,
+          "nativeTextCharacters": 1043,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 64,
+          "nativeTextCharacters": 1403,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 65,
+          "nativeTextCharacters": 551,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 66,
+          "nativeTextCharacters": 1316,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 67,
+          "nativeTextCharacters": 1001,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 68,
+          "nativeTextCharacters": 1377,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 69,
+          "nativeTextCharacters": 547,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 70,
+          "nativeTextCharacters": 1512,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 71,
+          "nativeTextCharacters": 940,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 72,
+          "nativeTextCharacters": 1281,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 73,
+          "nativeTextCharacters": 1055,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 74,
+          "nativeTextCharacters": 942,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 75,
+          "nativeTextCharacters": 1502,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 76,
+          "nativeTextCharacters": 1243,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 77,
+          "nativeTextCharacters": 822,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 78,
+          "nativeTextCharacters": 1209,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 79,
+          "nativeTextCharacters": 1091,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 80,
+          "nativeTextCharacters": 1161,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 81,
+          "nativeTextCharacters": 685,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 82,
+          "nativeTextCharacters": 1442,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 83,
+          "nativeTextCharacters": 1050,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 84,
+          "nativeTextCharacters": 1167,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 85,
+          "nativeTextCharacters": 592,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "link.pdf",
+      "relativePath": "pdf's/link.pdf",
+      "sha256": "df53fe493e63308da97e9b30f80294660bb136fd14d002c54bb0753e13b31b33",
+      "pageCount": 1,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 588,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "main book.pdf",
+      "relativePath": "pdf's/main book.pdf",
+      "sha256": "9e9e2e57557fe84bc9e7302837be01e8eb3220180e0b45538fb49b874cc1fd82",
+      "pageCount": 222,
+      "isReferenceBook": true,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 24,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 292,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 86,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 50,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 30,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 34,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 35,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 34,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 10,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 9,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 7,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 4,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 9,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 18,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 4,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 4,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 20,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 7,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 28,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 29,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 14,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 30,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 31,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 21,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 32,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 23,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 33,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 34,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 18,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 35,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 18,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 36,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 37,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 38,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 39,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 20,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 40,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 41,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 18,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 42,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 22,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 43,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 44,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 17,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 45,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 14,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 46,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 18,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 47,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 48,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 49,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 50,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 51,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 52,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 53,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 54,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 55,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 56,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 57,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 58,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 59,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 60,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 61,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 62,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 63,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 64,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 65,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 66,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 67,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 68,
+          "nativeTextCharacters": 9,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 69,
+          "nativeTextCharacters": 6,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 70,
+          "nativeTextCharacters": 4,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 71,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 72,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 73,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 74,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 75,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 76,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 77,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 78,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 79,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 80,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 81,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 82,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 83,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 84,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 85,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 86,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 87,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 88,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 89,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 90,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 91,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 92,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 93,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 94,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 95,
+          "nativeTextCharacters": 20,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 96,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 97,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 98,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 99,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 100,
+          "nativeTextCharacters": 4,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 101,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 102,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 103,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 104,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 105,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 106,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 107,
+          "nativeTextCharacters": 1,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 108,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 109,
+          "nativeTextCharacters": 1,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 110,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 111,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 112,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 113,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 114,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 115,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 116,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 117,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 118,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 119,
+          "nativeTextCharacters": 18,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 120,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 121,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 122,
+          "nativeTextCharacters": 18,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 123,
+          "nativeTextCharacters": 12,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 124,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 125,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 126,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 127,
+          "nativeTextCharacters": 10,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 128,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 129,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 130,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 131,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 132,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 133,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 134,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 135,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 136,
+          "nativeTextCharacters": 5,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 137,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 138,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 139,
+          "nativeTextCharacters": 3,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 140,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 141,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 142,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 143,
+          "nativeTextCharacters": 18,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 144,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 145,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 146,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 147,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 148,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 149,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 150,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 151,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 152,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 153,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 154,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 155,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 156,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 157,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 158,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 159,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 160,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 161,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 162,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 163,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 164,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 165,
+          "nativeTextCharacters": 22,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 166,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 167,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 168,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 169,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 170,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 171,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 172,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 173,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 174,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 175,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 176,
+          "nativeTextCharacters": 36,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 177,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 178,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 179,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 180,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 181,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 182,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 183,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 184,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 185,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 186,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 187,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 188,
+          "nativeTextCharacters": 22,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 189,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 190,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 191,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 192,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 193,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 194,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 195,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 196,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 197,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 198,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 199,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 200,
+          "nativeTextCharacters": 33,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 201,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 202,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 203,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 204,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 205,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 30,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 206,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 207,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 208,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 209,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 210,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 211,
+          "nativeTextCharacters": 19,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 212,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 213,
+          "nativeTextCharacters": 19,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 214,
+          "nativeTextCharacters": 11,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 215,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 216,
+          "nativeTextCharacters": 12,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 217,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 218,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 219,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 220,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 221,
+          "nativeTextCharacters": 23,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 222,
+          "nativeTextCharacters": 333,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "n-sh-driveing.ir.pdf",
+      "relativePath": "pdf's/n-sh-driveing.ir.pdf",
+      "sha256": "e40b8b5ecf123481a984aef55adec7d14ec546bc588e99cdc775a077e969c45b",
+      "pageCount": 27,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 1448,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 1207,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 1525,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 1307,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 1475,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 1585,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 1090,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 1601,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 1535,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 1135,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 1113,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 1564,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 1293,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 1371,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 1629,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 1261,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 1480,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 1577,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 1368,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 1568,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 1576,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 1627,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 1385,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 14,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 1137,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 1228,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 1177,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 1179,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "nokat.pdf",
+      "relativePath": "pdf's/nokat.pdf",
+      "sha256": "625208a99ee5b94ebe60fceddfd77e3c09d52acb3aeffb7d7cdfbd109de66448",
+      "pageCount": 13,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 74,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 933,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 1044,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 988,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 939,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 1421,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 1013,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 449,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 461,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 329,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 396,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "tablo.pdf",
+      "relativePath": "pdf's/tablo.pdf",
+      "sha256": "19ec31d7f1898fa7631eb1c78d3aca7fb20ffa2bf6b5a0b778d898ba9780b1e8",
+      "pageCount": 118,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 167,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 198,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 269,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 170,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 218,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 195,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 219,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 166,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 9,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 346,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 10,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 149,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 12,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 126,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 12,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 183,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 12,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 179,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 18,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 20,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 17,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 16,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 19,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 28,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 13,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 29,
+          "nativeTextCharacters": 15,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 14,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 30,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 11,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 31,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 15,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 32,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 33,
+          "nativeTextCharacters": 312,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 34,
+          "nativeTextCharacters": 441,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 35,
+          "nativeTextCharacters": 232,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 36,
+          "nativeTextCharacters": 369,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 37,
+          "nativeTextCharacters": 329,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 38,
+          "nativeTextCharacters": 402,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 39,
+          "nativeTextCharacters": 338,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 40,
+          "nativeTextCharacters": 391,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 41,
+          "nativeTextCharacters": 289,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 42,
+          "nativeTextCharacters": 355,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 43,
+          "nativeTextCharacters": 425,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 44,
+          "nativeTextCharacters": 345,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 45,
+          "nativeTextCharacters": 444,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 46,
+          "nativeTextCharacters": 414,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 47,
+          "nativeTextCharacters": 327,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 48,
+          "nativeTextCharacters": 410,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 49,
+          "nativeTextCharacters": 329,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 50,
+          "nativeTextCharacters": 276,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 51,
+          "nativeTextCharacters": 433,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 52,
+          "nativeTextCharacters": 339,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 53,
+          "nativeTextCharacters": 456,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 54,
+          "nativeTextCharacters": 320,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 55,
+          "nativeTextCharacters": 379,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 56,
+          "nativeTextCharacters": 432,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 57,
+          "nativeTextCharacters": 279,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 58,
+          "nativeTextCharacters": 378,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 59,
+          "nativeTextCharacters": 289,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 60,
+          "nativeTextCharacters": 305,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 61,
+          "nativeTextCharacters": 292,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 62,
+          "nativeTextCharacters": 229,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 63,
+          "nativeTextCharacters": 286,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 64,
+          "nativeTextCharacters": 327,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 65,
+          "nativeTextCharacters": 287,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 66,
+          "nativeTextCharacters": 390,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 67,
+          "nativeTextCharacters": 371,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 68,
+          "nativeTextCharacters": 366,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 69,
+          "nativeTextCharacters": 294,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 70,
+          "nativeTextCharacters": 398,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 71,
+          "nativeTextCharacters": 324,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 72,
+          "nativeTextCharacters": 349,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 73,
+          "nativeTextCharacters": 359,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 74,
+          "nativeTextCharacters": 351,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 75,
+          "nativeTextCharacters": 408,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 76,
+          "nativeTextCharacters": 371,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 77,
+          "nativeTextCharacters": 356,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 78,
+          "nativeTextCharacters": 353,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 79,
+          "nativeTextCharacters": 277,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 80,
+          "nativeTextCharacters": 359,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 81,
+          "nativeTextCharacters": 421,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 82,
+          "nativeTextCharacters": 442,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 83,
+          "nativeTextCharacters": 489,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 84,
+          "nativeTextCharacters": 407,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 85,
+          "nativeTextCharacters": 337,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 86,
+          "nativeTextCharacters": 533,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 87,
+          "nativeTextCharacters": 378,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 88,
+          "nativeTextCharacters": 348,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 89,
+          "nativeTextCharacters": 421,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 90,
+          "nativeTextCharacters": 256,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 91,
+          "nativeTextCharacters": 370,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 92,
+          "nativeTextCharacters": 346,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 93,
+          "nativeTextCharacters": 310,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 94,
+          "nativeTextCharacters": 303,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 95,
+          "nativeTextCharacters": 214,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 96,
+          "nativeTextCharacters": 391,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 97,
+          "nativeTextCharacters": 423,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 98,
+          "nativeTextCharacters": 330,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 99,
+          "nativeTextCharacters": 279,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 100,
+          "nativeTextCharacters": 299,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 101,
+          "nativeTextCharacters": 345,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 102,
+          "nativeTextCharacters": 395,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 103,
+          "nativeTextCharacters": 447,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 104,
+          "nativeTextCharacters": 426,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 105,
+          "nativeTextCharacters": 263,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 106,
+          "nativeTextCharacters": 299,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 107,
+          "nativeTextCharacters": 341,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 108,
+          "nativeTextCharacters": 340,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 109,
+          "nativeTextCharacters": 319,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 110,
+          "nativeTextCharacters": 380,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 111,
+          "nativeTextCharacters": 353,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 112,
+          "nativeTextCharacters": 280,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 6,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 113,
+          "nativeTextCharacters": 318,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 114,
+          "nativeTextCharacters": 372,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 5,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 115,
+          "nativeTextCharacters": 331,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 8,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 116,
+          "nativeTextCharacters": 369,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 7,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 117,
+          "nativeTextCharacters": 41,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 118,
+          "nativeTextCharacters": 209,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 4,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "tablomoshabe1.pdf",
+      "relativePath": "pdf's/tablomoshabe1.pdf",
+      "sha256": "b5673b88a57e9176713ec6efd477abb9b4282182ad7731764555e8fb1827b5f3",
+      "pageCount": 7,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 386,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 168,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 122,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 179,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 190,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 3,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 47,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 431,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    },
+    {
+      "fileName": "ایین نامه-1.pdf",
+      "relativePath": "pdf's/ایین نامه-1.pdf",
+      "sha256": "575a261e1aebd2a6120a8da94fb7337ad3e9a32984e5fd8a8d1e55218cb35a55",
+      "pageCount": 61,
+      "isReferenceBook": false,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "nativeTextCharacters": 20,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 2,
+          "nativeTextCharacters": 16,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 3,
+          "nativeTextCharacters": 1,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 4,
+          "nativeTextCharacters": 12,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 5,
+          "nativeTextCharacters": 16,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 6,
+          "nativeTextCharacters": 17,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 7,
+          "nativeTextCharacters": 12,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 8,
+          "nativeTextCharacters": 1,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 9,
+          "nativeTextCharacters": 17,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 10,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 11,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 12,
+          "nativeTextCharacters": 17,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 13,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 14,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 15,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 16,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 17,
+          "nativeTextCharacters": 17,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 18,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 19,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 20,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 21,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 22,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 23,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 24,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 25,
+          "nativeTextCharacters": 13,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 26,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 2,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 27,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 28,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 29,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 30,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 31,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 32,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 33,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 34,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 35,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 36,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 37,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 38,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 39,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 40,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 41,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 42,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 43,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 44,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 45,
+          "nativeTextCharacters": 0,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 46,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 47,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 48,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 49,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 50,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 51,
+          "nativeTextCharacters": 8,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 52,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 53,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 54,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 55,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 56,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 57,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 58,
+          "nativeTextCharacters": 14,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 59,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 60,
+          "nativeTextCharacters": 2,
+          "hasUsableTextLayer": false,
+          "embeddedImageCount": 1,
+          "requiresVisionReview": true,
+          "status": "pending",
+          "textExtractionError": null
+        },
+        {
+          "pageNumber": 61,
+          "nativeTextCharacters": 49,
+          "hasUsableTextLayer": true,
+          "embeddedImageCount": 0,
+          "requiresVisionReview": false,
+          "status": "pending",
+          "textExtractionError": null
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "sampleQuestionPdfCount": 8,
+    "sampleQuestionPageCount": 349,
+    "pagesWithUsableNativeText": 262,
+    "pagesRequiringVisionReview": 87
+  }
+}

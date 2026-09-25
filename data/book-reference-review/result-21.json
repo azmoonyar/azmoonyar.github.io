@@ -1,0 +1,822 @@
+[
+ {
+  "id": "q-e17-p035-n09",
+  "bookPage": 156,
+  "confidence": "high",
+  "supportingText": "عمر مفید کنیستر در حدود ۲ سال است و بعد از آن خاصیت خود را از دست می‌دهد.",
+  "bookReference": "کنیستر",
+  "secondaryPages": [
+   219
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n23",
+  "bookPage": 156,
+  "confidence": "high",
+  "supportingText": "کنیستر که جزو سیستم سوخت رسانی به موتور محسوب می شود، از ورود بخارهای بنزین به فضای آزاد جلوگیری به عمل می آورد.",
+  "bookReference": "کنیستر",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n26",
+  "bookPage": 156,
+  "confidence": "high",
+  "supportingText": "کنیستر که جزو سیستم سوخت رسانی به موتور محسوب می شود",
+  "bookReference": "کنیستر",
+  "secondaryPages": [
+   219
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "second blank (۲ سال) is stated in the next paragraph of the same page: «عمر مفید کنیستر در حدود ۲ سال است»"
+ },
+ {
+  "id": "q-600-e4-p021-n28",
+  "bookPage": 193,
+  "confidence": "low",
+  "supportingText": "هرگز مصدوم بی‌حال و شدیداً آسیب دیده را ترک نکنید.",
+  "bookReference": "اعتماد مصدوم را جلب کنید",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book never mentions giving food/drink to the injured; page only covers related care (never leave the injured, keep them calm)"
+ },
+ {
+  "id": "q-e7-p015-n20",
+  "bookPage": 193,
+  "confidence": "low",
+  "supportingText": "هرگز مصدوم بی‌حال و شدیداً آسیب دیده را ترک نکنید.",
+  "bookReference": "اعتماد مصدوم را جلب کنید",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book never mentions giving food/drink to the injured; page only covers related care (never leave the injured, keep them calm)"
+ },
+ {
+  "id": "q-ayin1-e05-n11",
+  "bookPage": 85,
+  "confidence": "medium",
+  "supportingText": "الکل به سرعت جذب خون شده و در تمام بدن حرکت می کند و باعث می شود توانایی ذهنی، هوشیاری و دید انسان کاهش یابد.",
+  "bookReference": "تاثیر الکل و مواد مخدر در رانندگی",
+  "secondaryPages": [
+   86
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "stem looks garbled («اشکال و سطح معابر»); twin questions (questions-600-pages-26-30.js, questions-pages-11-15.js) read «الکل و مواد مخدر…» with identical options, all listed on pp.85-86 as alcohol/drug effects"
+ },
+ {
+  "id": "q-e3-p007-n30",
+  "bookPage": 5,
+  "confidence": "medium",
+  "supportingText": "توقف ممنوع : توقف وسیله‌نقلیه ممنوع است، جز برای سوار و پیاده کردن، مشروط به استقرار راننده در پشت فرمان.",
+  "bookReference": "تعریف‌ها (فصل اول آیین نامه راهنمایی و رانندگی)",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book defines توقف as a long stop without the driver; brief stops are allowed in a توقف‌ممنوع zone. The other options are listed as prohibited stopping places on pp.57-58"
+ },
+ {
+  "id": "q-600-e1-p006-n04",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "در هنگامی که چراغ راهنمایی و رانندگی قرمز است، رانندگانی که قصد گردش به راست داشته باشند در صورت نصب تابلوی ویژه‌ای که گردش به راست را مجاز اعلام می‌نماید، می‌توانند",
+  "bookReference": "چراغ قرمز برای ایست",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "right turn on red only where a special sign permits it; same page: stop before the stop line and wait for green"
+ },
+ {
+  "id": "q-ayin1-e02-n27",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "در هنگامی که چراغ راهنمایی و رانندگی قرمز است، رانندگانی که قصد گردش به راست داشته باشند در صورت نصب تابلوی ویژه‌ای که گردش به راست را مجاز اعلام می‌نماید، می‌توانند",
+  "bookReference": "چراغ قرمز برای ایست",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "right turn on red only where a special sign permits it; same page: stop before the stop line and wait for green"
+ },
+ {
+  "id": "q-e6-p012-n08",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "در هنگامی که چراغ راهنمایی و رانندگی قرمز است، رانندگانی که قصد گردش به راست داشته باشند در صورت نصب تابلوی ویژه‌ای که گردش به راست را مجاز اعلام می‌نماید، می‌توانند",
+  "bookReference": "چراغ قرمز برای ایست",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "right turn on red only where a special sign permits it; same page: stop before the stop line and wait for green"
+ },
+ {
+  "id": "q-3e0d19f1",
+  "bookPage": 165,
+  "confidence": "high",
+  "supportingText": "عدم رعایت فاصله طولی مناسب در ترافیک و خطر ایجاد تصادف",
+  "bookReference": "رانندگی و شخصیت اجتماعی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-165 photo"
+ },
+ {
+  "id": "q-600-e18-p075-n12",
+  "bookPage": 165,
+  "confidence": "high",
+  "supportingText": "عدم رعایت فاصله طولی مناسب در ترافیک و خطر ایجاد تصادف",
+  "bookReference": "رانندگی و شخصیت اجتماعی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-165 photo"
+ },
+ {
+  "id": "q-600-e9-p038-n08",
+  "bookPage": 165,
+  "confidence": "medium",
+  "supportingText": "عدم رعایت فاصله طولی مناسب در ترافیک و خطر ایجاد تصادف",
+  "bookReference": "رانندگی و شخصیت اجتماعی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-165 photo; answer text «فاصله اولیه» is evidently a typo for «فاصله طولی»"
+ },
+ {
+  "id": "q-ayin1-e08-n22",
+  "bookPage": 165,
+  "confidence": "high",
+  "supportingText": "عدم رعایت فاصله طولی مناسب در ترافیک و خطر ایجاد تصادف",
+  "bookReference": "رانندگی و شخصیت اجتماعی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-165 photo"
+ },
+ {
+  "id": "q-600-e1-p007-n10",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p060-n22",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n27",
+  "bookPage": 166,
+  "confidence": "high",
+  "supportingText": "معمولاً به مجموعه رفتارهای منفی در رانندگی، رانندگی خطر ساز و یا رانندگی تهاجمی می‌گویند.",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n20",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر\n- استفاده از نور بالا برای اذیت کردن راننده‌ی مقابل",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p013-n30",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "عبور از خط مقابل برای رهایی از ترافیک",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p016-n22",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر\n- استفاده از نور بالا برای اذیت کردن راننده‌ی مقابل",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p020-n21",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "all three options appear in the list that follows on the same page"
+ },
+ {
+  "id": "q-ayin1-e01-n22",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "رانندگان پرخطر و پرخاشگر معمولا در رانندگی به رفتارهای زیر متوسل می‌شوند:\n- مانور و تغییر مسیر به طور مکرر\n- استفاده از نور بالا برای اذیت کردن راننده‌ی مقابل",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n30",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "عبور از خط مقابل برای رهایی از ترافیک",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n21",
+  "bookPage": 168,
+  "confidence": "high",
+  "supportingText": "عبور از خط مقابل برای رهایی از ترافیک",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p050-n08",
+  "bookPage": 169,
+  "confidence": "high",
+  "supportingText": "قرار گرفتن طولانی مدت رانندگان در شرایط نامساعد زیست- محیطی، باعث تحریک‌پذیری، عصبانیت زود هنگام و پرخاشگری آنان در هنگام تردد می‌شود.",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p012-n22",
+  "bookPage": 169,
+  "confidence": "high",
+  "supportingText": "قرار گرفتن طولانی مدت رانندگان در شرایط نامساعد زیست- محیطی، باعث تحریک‌پذیری، عصبانیت زود هنگام و پرخاشگری آنان در هنگام تردد می‌شود.",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n22",
+  "bookPage": 169,
+  "confidence": "medium",
+  "supportingText": "قرار گرفتن طولانی مدت رانندگان در شرایط نامساعد زیست- محیطی، باعث تحریک‌پذیری، عصبانیت زود هنگام و پرخاشگری آنان در هنگام تردد می‌شود.",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "answer wording («نوعی بیماری عصبی، زودرنجی و پرخاشگری») differs from the book («تحریک‌پذیری، عصبانیت زود هنگام و پرخاشگری»)"
+ },
+ {
+  "id": "q-e8-p017-n30",
+  "bookPage": 169,
+  "confidence": "high",
+  "supportingText": "قرار گرفتن طولانی مدت رانندگان در شرایط نامساعد زیست- محیطی، باعث تحریک‌پذیری، عصبانیت زود هنگام و پرخاشگری آنان در هنگام تردد می‌شود.",
+  "bookReference": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p043-n15",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "correct option (1) is the motorcycle-over-car sign"
+ },
+ {
+  "id": "q-600-e16-p067-n11",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "تعویض قطعات اصلی وسایل نقلیه شامل موتور، شاسی، اتاق و نیز رنگ بدون مجوز راهنمایی و رانندگی ممنوع است.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n01",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "correct option (4) is the motorcycle-over-car sign"
+ },
+ {
+  "id": "q-visual-e13-p026-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "correct option (2) is the motorcycle-over-car sign"
+ },
+ {
+  "id": "q-600-e5-p025-n28",
+  "bookPage": 176,
+  "confidence": "high",
+  "supportingText": "مهمترین عوامل و خصوصیاتی که موجب عملکرد ضعیف یک راننده می شود، شامل موارد زیر می گردد:\n- عدم شناسایی و تشخیص نادرست حوادث غیرمنتظره و حادثه ساز",
+  "bookReference": "عوامل بیرونی موثر در کنترل رفتار انسانی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "all three options are items of the list on this page"
+ },
+ {
+  "id": "q-ayin1-e04-n22",
+  "bookPage": 176,
+  "confidence": "high",
+  "supportingText": "مهمترین عوامل و خصوصیاتی که موجب عملکرد ضعیف یک راننده می شود، شامل موارد زیر می گردد:\n- عدم شناسایی و تشخیص نادرست حوادث غیرمنتظره و حادثه ساز",
+  "bookReference": "عوامل بیرونی موثر در کنترل رفتار انسانی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "all three options are items of the list on this page"
+ },
+ {
+  "id": "q-e13-p027-n22",
+  "bookPage": 176,
+  "confidence": "high",
+  "supportingText": "مهمترین عوامل و خصوصیاتی که موجب عملکرد ضعیف یک راننده می شود، شامل موارد زیر می گردد:\n- عدم شناسایی و تشخیص نادرست حوادث غیرمنتظره و حادثه ساز",
+  "bookReference": "عوامل بیرونی موثر در کنترل رفتار انسانی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "all three options are items of the list on this page"
+ },
+ {
+  "id": "q-e16-p034-n25",
+  "bookPage": 59,
+  "confidence": "high",
+  "supportingText": "رانندگان موظفند در هرحال به طورکامل به جلو توجه داشته باشند.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n22",
+  "bookPage": 177,
+  "confidence": "high",
+  "supportingText": "خستگی در هنگام رانندگی علائم زیادی دارد از جمله؛\n- کم شدن توجه به رانندگی\n- کاهش سرعت تصمیم گیری",
+  "bookReference": "خستگی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n22",
+  "bookPage": 177,
+  "confidence": "high",
+  "supportingText": "خستگی در هنگام رانندگی علائم زیادی دارد از جمله؛\n- کم شدن توجه به رانندگی\n- کاهش سرعت تصمیم گیری",
+  "bookReference": "خستگی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n23",
+  "bookPage": 177,
+  "confidence": "high",
+  "supportingText": "خستگی در هنگام رانندگی علائم زیادی دارد از جمله؛\n- کم شدن توجه به رانندگی\n- کاهش سرعت تصمیم گیری",
+  "bookReference": "خستگی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n19",
+  "bookPage": 177,
+  "confidence": "high",
+  "supportingText": "خستگی در هنگام رانندگی علائم زیادی دارد از جمله؛\n- کم شدن توجه به رانندگی\n- کاهش سرعت تصمیم گیری",
+  "bookReference": "خستگی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p088-n200",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "تابلوهای بازدارنده یا انتظامی: این تابلوهای بیشتر به شکل دایره با نوار حاشیه ای قرمز رنگ مشخص می گردند و نوع ممنوعیت را نشان می دهند.",
+  "bookReference": "انواع تابلوهای راهنمایی و رانندگی",
+  "secondaryPages": [
+   33
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 is the red-bordered circle «عبور دوچرخه ممنوع» (sign caption on p.33)"
+ },
+ {
+  "id": "q-600-e20-p082-n08",
+  "bookPage": 178,
+  "confidence": "high",
+  "supportingText": "عواطف و احساسات بر سیستم اعصاب رانندگان تاثیر بالایی دارد و موجب حواس پرتی آنها در حین رانندگی می شود.",
+  "bookReference": "عواطف و هیجان",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p031-n09",
+  "bookPage": 178,
+  "confidence": "high",
+  "supportingText": "عواطف و احساسات بر سیستم اعصاب رانندگان تاثیر بالایی دارد و موجب حواس پرتی آنها در حین رانندگی می شود.",
+  "bookReference": "عواطف و هیجان",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n19",
+  "bookPage": 178,
+  "confidence": "high",
+  "supportingText": "عواطف و احساسات بر سیستم اعصاب رانندگان تاثیر بالایی دارد و موجب حواس پرتی آنها در حین رانندگی می شود.",
+  "bookReference": "عواطف و هیجان",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n30",
+  "bookPage": 161,
+  "confidence": "medium",
+  "supportingText": "دیر رسیدن بهتر از هرگز نرسیدن است. یک لحظه غفلت، یک عمر پشیمانی را به دنبال خواهد داشت .",
+  "bookReference": "رانندگی و شخصیت اجتماعی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "slogan appears in a box after a passage on rushing/breaking rules to make up for delays; the meaning (avoid haste) is implied, not stated"
+ },
+ {
+  "id": "q-600-e6-p029-n30",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n19",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "در سرعتهای بسیار بالا، راننده از ارائه واکنش مناسب به هنگام مواجهه با خطر ناتوان خواهد بود.",
+  "bookReference": "ایمنی ترافیک- سرعت مطمئنه",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n18",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p042-n04",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p052-n17",
+  "bookPage": 50,
+  "confidence": "medium",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the 50 m distance is stated for curves; intersections appear in the same clause («یا در تقاطع راهها») without an explicit distance"
+ },
+ {
+  "id": "q-600-e13-p056-n18",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p064-n18",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ج : از ۱۰۰ متر مانده به ورودی تونل ها و پل ها تا انتهای آنها",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p084-n17",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p016-n17",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p040-n17",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ج : از ۱۰۰ متر مانده به ورودی تونل ها و پل ها تا انتهای آنها",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n20",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n21",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   185,
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p079-n11",
+  "bookPage": 186,
+  "confidence": "high",
+  "supportingText": "عدم رانندگی بین خطوط",
+  "bookReference": "ایمنی ترافیک- رانندگی بین خطوط",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-186 photo (three circled cars)"
+ },
+ {
+  "id": "q-600-e8-p035-n08",
+  "bookPage": 186,
+  "confidence": "high",
+  "supportingText": "عدم رانندگی بین خطوط",
+  "bookReference": "ایمنی ترافیک- رانندگی بین خطوط",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-186 photo (three circled cars)"
+ },
+ {
+  "id": "q-e13-p027-n29",
+  "bookPage": 186,
+  "confidence": "high",
+  "supportingText": "عدم رانندگی بین خطوط",
+  "bookReference": "ایمنی ترافیک- رانندگی بین خطوط",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "question image is the page-186 photo (three circled cars)"
+ },
+ {
+  "id": "q-600-e14-p061-n30",
+  "bookPage": 187,
+  "confidence": "high",
+  "supportingText": "یکی از عوامل افزایش ایمنی تردد در شبکه معابر و راههای کشور، رعایت حق تقدم عبور می باشد.",
+  "bookReference": "ایمنی ترافیک- رعایت حق تقدم",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e15-p030-n16",
+  "bookPage": 187,
+  "confidence": "high",
+  "supportingText": "یکی از عوامل افزایش ایمنی تردد در شبکه معابر و راههای کشور، رعایت حق تقدم عبور می باشد.",
+  "bookReference": "ایمنی ترافیک- رعایت حق تقدم",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p062-n109",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image is the inverted red-bordered triangle"
+ },
+ {
+  "id": "q-tablo-p070-n133",
+  "bookPage": 33,
+  "confidence": "medium",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   43
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book shows the give-way sign (p.33) and a distance supplementary plate (p.43 «فاصله از محل نصب تابلو تا شروع قسمت خطر»), but not this exact «300m» combination"
+ },
+ {
+  "id": "q-tablo-p102-n249",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 is the inverted red-bordered triangle"
+ },
+ {
+  "id": "q-28a8da5a",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "رانندگانی که از راه فرعی وارد راه اصلی می شوند باید بیش از ورود به راه اصلی، در صورت لزوم توقف نموده و پس از رعایت حق تقدم عبور",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p083-n12",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "ب - چراغ زرد برای احتیاط: رانندگان وسایل نقلیه‌ای که با این چراغ روبرو می‌گردند نباید از خط ایست یا از تراز چراغ راهنمایی و رانندگی عبور کنند",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book says drivers must not pass the stop line/light (unless too close to stop); answer phrases this as not entering the intersection or crosswalk"
+ },
+ {
+  "id": "q-e5-p011-n20",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "به هیچ وجه خود را در خطر جدی قرار ندهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [
+   190
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "the other three options are listed on this page under «احتیاطهای لازم»"
+ },
+ {
+  "id": "q-0e7a87c5",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد و سبب کاهش چشمگیر مرگ و میر و تخفیف بیماری و آسیبهای مصدوم می شود.",
+  "bookReference": "مقدمه امداد و نجات",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p051-n16",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "ارزیابی موقعیت: خیلی سریع و در کمال خونسردی حادثه را ارزیابی کنید.",
+  "bookReference": "مقدمه امداد و نجات",
+  "secondaryPages": [
+   191
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

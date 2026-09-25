@@ -1,0 +1,12 @@
+# Source material stays on this computer: the sample-exam PDFs and the textbook, and the full
+# transcription of the textbook (copyrighted text; the app only shows short excerpts from it).
+pdf's/
+data/book-pages.json
+
+# Working files: page renders, original pictures before repairs, temporary review batches
+tmp/
+
+# Generated / local
+__pycache__/
+.DS_Store
+.claude/

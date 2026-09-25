@@ -1,0 +1,826 @@
+[
+ {
+  "id": "q-600-e13-p055-n12",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "عبور و توقف وسایل نقلیه غیر مجاز در مسیر ویژه ممنوع بوده و با متخلفین برابر با قوانین جدید برخورد می گردد.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p100: only emergency, police and other authorised vehicles may enter bus-only lanes"
+ },
+ {
+  "id": "q-600-e13-p056-n24",
+  "bookPage": 104,
+  "confidence": "high",
+  "supportingText": "در تصویر روبرو، فرض کنید خودرویی که با دایره مشخص شده خودروی شما باشد. در این صورت شما باید به خودروهای ۱ و ۳ اجازه عبور دهید.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure is the book's stop-sign figure"
+ },
+ {
+  "id": "q-600-e14-p058-n04",
+  "bookPage": 106,
+  "confidence": "medium",
+  "supportingText": "هرگاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند، حق تقدم عبور با وسیله نقلیه‌ای است که در طرف راست وسیله نقلیه دیگر قرار دارد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "apply give-way-to-the-right rule to the 3-car figure: 3, then 2, then 1"
+ },
+ {
+  "id": "q-600-e15-p063-n11",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "figure: equal-width crossroads, no signs visible; car 1 is on car 2's right (imageAlt's stop sign not visible)"
+ },
+ {
+  "id": "q-600-e20-p083-n14",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "asset image mis-cropped (shows unrelated text); source PDF p83 shows same figure as q-600-e15-p063-n11"
+ },
+ {
+  "id": "q-600-e6-p028-n15",
+  "bookPage": 31,
+  "confidence": "high",
+  "supportingText": "ورود به راه اصلی از چپ",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 is the merge sign; the T, Y and side-road signs are captioned «تقاطع» on this page"
+ },
+ {
+  "id": "q-600-e6-p029-n24",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "cars 1 and 2 go straight on the main road; car 3 comes from the side road"
+ },
+ {
+  "id": "q-600-e8-p035-n12",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "اگر تقاطع دارای تابلو ایست باشد، خودروهایی که در مسیر آنها تابلوی مذکور وجود دارد باید قبل از تقاطع (در صورت داشتن خط ایست، پشت خط ایست) توقف نموده و به سایر خودروها اجازه عبور دهند",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "same figure as the book but the cars are renumbered (book says cars 1 and 3)"
+ },
+ {
+  "id": "q-600-e9-p039-n12",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "اگر جریان ترافیک در جهتی که آنها در حال پیش رفتن هستند آنچنان متراکم باشد که چنانچه وارد تقاطع گردند با تغییر و تبدیل بعدی رنگ چراغ نتوانند از آن خارج شوند، چراغ سبز در تقاطع، رانندگان را برای ادامه حرکت مجاز نخواهد ساخت.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-visual-e1-p008-n19",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "هنگام ورود به میدان‌ها حق تقدم عبور با وسایل نقلیه‌ای است که در درون میدان در حال حرکت هستند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "circled car is inside the roundabout (matches the book's roundabout figure)"
+ },
+ {
+  "id": "q-ayin1-e02-n12",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "هنگام ورود به میدان‌ها حق تقدم عبور با وسایل نقلیه‌ای است که در درون میدان در حال حرکت هستند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "circled car is inside the roundabout (matches the book's roundabout figure)"
+ },
+ {
+  "id": "q-ayin1-e05-n01",
+  "bookPage": 31,
+  "confidence": "high",
+  "supportingText": "ورود به راه اصلی از چپ",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 is the merge sign; the T and side-road signs are captioned «تقاطع» on this page"
+ },
+ {
+  "id": "q-ayin1-e05-n24",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "cars 1 and 2 go straight on the main road; car 3 comes from the side road"
+ },
+ {
+  "id": "q-ayin1-e08-n28",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "اگر جریان ترافیک در جهتی که آنها در حال پیش رفتن هستند آنچنان متراکم باشد که چنانچه وارد تقاطع گردند با تغییر و تبدیل بعدی رنگ چراغ نتوانند از آن خارج شوند، چراغ سبز در تقاطع، رانندگان را برای ادامه حرکت مجاز نخواهد ساخت.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n12",
+  "bookPage": 106,
+  "confidence": "medium",
+  "supportingText": "هرگاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند، حق تقدم عبور با وسیله نقلیه‌ای است که در طرف راست وسیله نقلیه دیگر قرار دارد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "apply give-way-to-the-right rule to the 3-car figure: 3, then 2, then 1"
+ },
+ {
+  "id": "q-e10-p021-n20",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "اگر جریان ترافیک در جهتی که آنها در حال پیش رفتن هستند آنچنان متراکم باشد که چنانچه وارد تقاطع گردند با تغییر و تبدیل بعدی رنگ چراغ نتوانند از آن خارج شوند، چراغ سبز در تقاطع، رانندگان را برای ادامه حرکت مجاز نخواهد ساخت.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e10-p020-n07",
+  "bookPage": 105,
+  "confidence": "low",
+  "supportingText": "در تقاطع هم‌عرض اگر دو وسیله نقلیه‌ای که روبروی یکدیگر در حرکتند بخواهند با هم وارد خیابان مجاور واحدی شوند، حق تقدم عبور با وسیله‌ای است که به‌سمت راست گردش می‌کند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   104
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "blurry figure; answer combines the give-way-sign rule (p104: white car first) and the right-turn-before-left-turn rule (pink before blue)"
+ },
+ {
+  "id": "q-visual-e14-p028-n16",
+  "bookPage": 106,
+  "confidence": "medium",
+  "supportingText": "هرگاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند، حق تقدم عبور با وسیله نقلیه‌ای است که در طرف راست وسیله نقلیه دیگر قرار دارد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "apply give-way-to-the-right rule to the 3-car figure: 3, then 2, then 1"
+ },
+ {
+  "id": "q-visual-e15-p030-n15",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "cars 1 and 2 go straight on the main road; car 3 comes from the side road"
+ },
+ {
+  "id": "q-visual-e16-p033-n17",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "هنگام ورود به میدان‌ها حق تقدم عبور با وسایل نقلیه‌ای است که در درون میدان در حال حرکت هستند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "circled car is inside the roundabout (matches the book's roundabout figure)"
+ },
+ {
+  "id": "q-visual-e17-p037-n26",
+  "bookPage": 104,
+  "confidence": "high",
+  "supportingText": "در تصویر روبرو، فرض کنید خودرویی که با دایره مشخص شده خودروی شما باشد. در این صورت شما باید به خودروهای ۱ و ۳ اجازه عبور دهید.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure is the book's stop-sign figure"
+ },
+ {
+  "id": "q-visual-e3-p006-n07",
+  "bookPage": 104,
+  "confidence": "high",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure is the book's give-way-sign figure"
+ },
+ {
+  "id": "q-visual-e3-p006-n08",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد. در هر حال وسایل نقلیه در حال گردش باید حق تقدم عبور وسایل نقلیه‌ای را که در مسیر مجاز خود مستقیم می‌روند",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "same sentence continues: «و حق تقدم پیادگانی را که از گذرگاه پیاده در حرکتند رعایت نمایند»"
+ },
+ {
+  "id": "q-600-e17-p070-n01",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "هرگاه وسیله‌ای بخواهد گردش به چپ کند حق تقدم با وسیله نقلیه‌ای است که مستقیم و در مسیر مجاز عبور می‌نماید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p021-n25",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "در تقاطع هم‌عرض اگر دو وسیله نقلیه‌ای که روبروی یکدیگر در حرکتند بخواهند با هم وارد خیابان مجاور واحدی شوند، حق تقدم عبور با وسیله‌ای است که به‌سمت راست گردش می‌کند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "figure: two opposite cars entering the same street, one turning right and one turning left"
+ },
+ {
+  "id": "q-600-e7-p032-n17",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "در تقاطع هم‌عرض اگر دو وسیله نقلیه‌ای که روبروی یکدیگر در حرکتند بخواهند با هم وارد خیابان مجاور واحدی شوند، حق تقدم عبور با وسیله‌ای است که به‌سمت راست گردش می‌کند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p041-n27",
+  "bookPage": 30,
+  "confidence": "high",
+  "supportingText": "چراغ راهنما",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "triangular warning sign «چراغ راهنما»"
+ },
+ {
+  "id": "q-e17-p036-n21",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "در تقاطع هم‌عرض اگر دو وسیله نقلیه‌ای که روبروی یکدیگر در حرکتند بخواهند با هم وارد خیابان مجاور واحدی شوند، حق تقدم عبور با وسیله‌ای است که به‌سمت راست گردش می‌کند.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p016-n09",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "هرگاه وسیله‌ای بخواهد گردش به چپ کند حق تقدم با وسیله نقلیه‌ای است که مستقیم و در مسیر مجاز عبور می‌نماید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p080-n171",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با وسیله نقلیه مقابل است",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n10",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "در محل توقف (پارک) کنار خیابان حق تقدم با وسیله‌ای است که ضمن حرکت به عقب مشغول توقف یا پارک کردن است.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p010-n02",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n14",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n14",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "هرگاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند، حق تقدم عبور با وسیله نقلیه‌ای است که در طرف راست وسیله نقلیه دیگر قرار دارد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n03",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "هرگاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند، حق تقدم عبور با وسیله نقلیه‌ای است که در طرف راست وسیله نقلیه دیگر قرار دارد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n13",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p007-n09",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "گردش به چپ در راه های بیرون شهر که منحصر به دو خط عبور رفت و برگشت بوده و مانع فیزیکی وسط جاده وجود نداشته باشد رانندگان وسایل نقلیه موظفند وسیله نقلیه را در شانه راه و در صورت نبودن آن ، در منتهی الیه سمت راست راه متوقف",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [
+   107
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p081-n176",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خروجی از آزاد راه ۳۰۰ متر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "signs for 300/200/100 m before a freeway exit"
+ },
+ {
+  "id": "q-e7-p015-n22",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "این موارد می تواند شامل شرایط روحی مانند عصبانیت شدید و ... ، همچنین شرایط جسمی نامناسب نظیر بیماری و استفاده از داروهای مسکن باشد. در این شرایط از انجام رانندگی خود داری کنید.",
+  "bookReference": "محدودیت های روحی و جسمی راننده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p020-n23",
+  "bookPage": 109,
+  "confidence": "high",
+  "supportingText": "برای پارک دوبل ابتدا قبل از اقدام برای پارک باید از طریق آینه‌ی خودرو، ترافیک پشت سر را بررسی کرده به آرامی سرعت را کم نمود.",
+  "bookReference": "پارک",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure matches the book's parallel-parking figure 1"
+ },
+ {
+  "id": "q-b2-16",
+  "bookPage": 109,
+  "confidence": "medium",
+  "supportingText": "برای پارک دوبل ابتدا قبل از اقدام برای پارک باید از طریق آینه‌ی خودرو، ترافیک پشت سر را بررسی کرده به آرامی سرعت را کم نمود.",
+  "bookReference": "پارک",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "no image attached to this copy; linked by the answer topic (parallel parking)"
+ },
+ {
+  "id": "q-b2-30",
+  "bookPage": 112,
+  "confidence": "high",
+  "supportingText": "ب- پارک در سرازیری : در هنگام پارک کردن وسیله نقلیه ، فرمان را به سمت راست ( در جهت عقربه های ساعت بچرخانید",
+  "bookReference": "راه بدون جدول - پارک در سرازیری",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p044-n23",
+  "bookPage": 112,
+  "confidence": "high",
+  "supportingText": "ب- پارک در سرازیری : در هنگام پارک کردن در چنین شرایطی، فرمان را به سمت راست ( در جهت عقربه های ساعت ) بچرخانید به نحوی که چرخ جلو سمت راست از قسمت جلو با جدول در گیر شوند",
+  "bookReference": "روشهای توقف در سطوح شیبدار - پارک در سرازیری",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "asset image mis-cropped; imageAlt describes the downhill-with-curb figure shown on this page"
+ },
+ {
+  "id": "q-600-e17-p072-n23",
+  "bookPage": 112,
+  "confidence": "high",
+  "supportingText": "ب- پارک در سرازیری : در هنگام پارک کردن در چنین شرایطی، فرمان را به سمت راست ( در جهت عقربه های ساعت ) بچرخانید به نحوی که چرخ جلو سمت راست از قسمت جلو با جدول در گیر شوند",
+  "bookReference": "روشهای توقف در سطوح شیبدار - پارک در سرازیری",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure matches the book's downhill-with-curb figure"
+ },
+ {
+  "id": "q-visual-e8-p016-n07",
+  "bookPage": 112,
+  "confidence": "high",
+  "supportingText": "ب- پارک در سرازیری : در هنگام پارک کردن در چنین شرایطی، فرمان را به سمت راست ( در جهت عقربه های ساعت ) بچرخانید به نحوی که چرخ جلو سمت راست از قسمت جلو با جدول در گیر شوند",
+  "bookReference": "روشهای توقف در سطوح شیبدار - پارک در سرازیری",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question figure matches the book's downhill-with-curb figure"
+ },
+ {
+  "id": "q-600-e7-p031-n13",
+  "bookPage": 115,
+  "confidence": "medium",
+  "supportingText": "با توجه به پراهمیت بودن فاکتور ایمنی در خرید خودرو برای خریداران",
+  "bookReference": "آشنایی با سیستمهای فنی خودرو - مقدمه",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book stresses the importance of safety when buying a car; does not literally say 'most important'"
+ },
+ {
+  "id": "q-e6-p013-n23",
+  "bookPage": 115,
+  "confidence": "medium",
+  "supportingText": "با توجه به پراهمیت بودن فاکتور ایمنی در خرید خودرو برای خریداران",
+  "bookReference": "آشنایی با سیستمهای فنی خودرو - مقدمه",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book stresses the importance of safety when buying a car; does not literally say 'most important'"
+ },
+ {
+  "id": "q-600-e5-p022-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 is «پایان تمام محدودیتها»; the other options are no-stopping signs"
+ },
+ {
+  "id": "q-ayin1-e04-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 is «پایان تمام محدودیتها»; the other options are no-stopping signs"
+ },
+ {
+  "id": "q-visual-e6-p012-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 is «پایان تمام محدودیتها»; the other options are no-stopping signs"
+ },
+ {
+  "id": "q-9824a5bd",
+  "bookPage": 117,
+  "confidence": "high",
+  "supportingText": "این سوئیچ معمولا دارای ۴ حالت LOCK، ACC، ON و START می باشد.",
+  "bookReference": "سوئیچ استارت",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-17",
+  "bookPage": 117,
+  "confidence": "high",
+  "supportingText": "حالت اول LOCK (لاک) یا همان قفل می باشد. با قرار دادن سوئیچ در این حالت علاوه بر اینکه موتور خاموش می باشد فرمان نیز در حالت قفل قرار خواهد داشت",
+  "bookReference": "سوئیچ استارت",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p007-n13",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "بالانس نبودن دینامیکی چرخها باعث ایجاد نیروی گریز از مرکز به محور چرخ و انتقال آن از طریق سیستم جلوبندی به غربیلک فرمان می شود. این نوع نقص فنی در نهایت خود را با لرزش غربیلک فرمان در سرعتهای بالا نشان می‌دهد.",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p062-n05",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "تاثیر خود را در غربیلک فرمان نشان می‌دهند؛ بنابراین علاوه بر اینکه این وسیله کلیدی ترین ابزار در کنترل خودرو می‌باشد، می تواند به عنوان بازخوردی مناسب، صحت یا عدم سلامت بخشهای مهمی از خودرو همچون سیستم جلوبندی",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p079-n09",
+  "bookPage": 117,
+  "confidence": "high",
+  "supportingText": "۱۷- پدال گاز ۱۸- پدال ترمز ۱۹- پدال کلاچ",
+  "bookReference": "آشنایی اولیه با چند اهرم و پدال مهم کنترلی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question figure is the book's numbered interior drawing"
+ },
+ {
+  "id": "q-600-e2-p012-n18",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "بالانس نبودن دینامیکی چرخها باعث ایجاد نیروی گریز از مرکز به محور چرخ و انتقال آن از طریق سیستم جلوبندی به غربیلک فرمان می شود. این نوع نقص فنی در نهایت خود را با لرزش غربیلک فرمان در سرعتهای بالا نشان می‌دهد.",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p083-n10",
+  "bookPage": 117,
+  "confidence": "high",
+  "supportingText": "۱۷- پدال گاز ۱۸- پدال ترمز ۱۹- پدال کلاچ",
+  "bookReference": "آشنایی اولیه با چند اهرم و پدال مهم کنترلی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question figure is the book's numbered interior drawing"
+ },
+ {
+  "id": "q-600-e3-p016-n18",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "تاثیر خود را در غربیلک فرمان نشان می‌دهند؛ بنابراین علاوه بر اینکه این وسیله کلیدی ترین ابزار در کنترل خودرو می‌باشد، می تواند به عنوان بازخوردی مناسب، صحت یا عدم سلامت بخشهای مهمی از خودرو همچون سیستم جلوبندی",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p024-n24",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "در مقابل پای راننده ۳ پدال تعبیه شده است که از راست به چپ به ترتیب عبارتند از پدال گاز، پدال ترمز و پدال کلاچ.",
+  "bookReference": "پدالهای گاز، ترمز و کلاچ",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n18",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "تاثیر خود را در غربیلک فرمان نشان می‌دهند؛ بنابراین علاوه بر اینکه این وسیله کلیدی ترین ابزار در کنترل خودرو می‌باشد، می تواند به عنوان بازخوردی مناسب، صحت یا عدم سلامت بخشهای مهمی از خودرو همچون سیستم جلوبندی",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n18",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "بالانس نبودن دینامیکی چرخها باعث ایجاد نیروی گریز از مرکز به محور چرخ و انتقال آن از طریق سیستم جلوبندی به غربیلک فرمان می شود. این نوع نقص فنی در نهایت خود را با لرزش غربیلک فرمان در سرعتهای بالا نشان می‌دهد.",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n18",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "در مقابل پای راننده ۳ پدال تعبیه شده است که از راست به چپ به ترتیب عبارتند از پدال گاز، پدال ترمز و پدال کلاچ.",
+  "bookReference": "پدالهای گاز، ترمز و کلاچ",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e10-n19",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "تاثیر خود را در غربیلک فرمان نشان می‌دهند؛ بنابراین علاوه بر اینکه این وسیله کلیدی ترین ابزار در کنترل خودرو می‌باشد، می تواند به عنوان بازخوردی مناسب، صحت یا عدم سلامت بخشهای مهمی از خودرو همچون سیستم جلوبندی",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-20",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "بالانس نبودن دینامیکی چرخها باعث ایجاد نیروی گریز از مرکز به محور چرخ و انتقال آن از طریق سیستم جلوبندی به غربیلک فرمان می شود. این نوع نقص فنی در نهایت خود را با لرزش غربیلک فرمان در سرعتهای بالا نشان می‌دهد.",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n15",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "بوق، مهمترین وسیله هشدار دهنده در خودرو است.",
+  "bookReference": "بازدید خودرو - بوق",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n26",
+  "bookPage": 119,
+  "confidence": "high",
+  "supportingText": "تاثیر خود را در غربیلک فرمان نشان می‌دهند؛ بنابراین علاوه بر اینکه این وسیله کلیدی ترین ابزار در کنترل خودرو می‌باشد، می تواند به عنوان بازخوردی مناسب، صحت یا عدم سلامت بخشهای مهمی از خودرو همچون سیستم جلوبندی",
+  "bookReference": "غربیلک فرمان",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n14",
+  "bookPage": 117,
+  "confidence": "high",
+  "supportingText": "۱۷- پدال گاز ۱۸- پدال ترمز ۱۹- پدال کلاچ",
+  "bookReference": "آشنایی اولیه با چند اهرم و پدال مهم کنترلی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question figure is the book's numbered interior drawing"
+ },
+ {
+  "id": "q-600-e18-p075-n10",
+  "bookPage": 120,
+  "confidence": "high",
+  "supportingText": "اهرم دنده به طور مستقیم با مجموعه جعبه دنده (گیربکس) ارتباط دارد.",
+  "bookReference": "دسته دنده",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "the false option says the lever is linked directly to the clutch; the book says to the gearbox"
+ },
+ {
+  "id": "q-600-e18-p075-n14",
+  "bookPage": 120,
+  "confidence": "high",
+  "supportingText": "برای کنترل پدال کلاچ و از پای راست برای کنترل پدالهای گاز و ترمز استفاده می شود.",
+  "bookReference": "پدالهای گاز، ترمز و کلاچ",
+  "secondaryPages": [
+   119
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "sentence begins at the end of p119 («از پای چپ»)"
+ },
+ {
+  "id": "q-b2-23",
+  "bookPage": 120,
+  "confidence": "high",
+  "supportingText": "برای کنترل پدال کلاچ و از پای راست برای کنترل پدالهای گاز و ترمز استفاده می شود.",
+  "bookReference": "پدالهای گاز، ترمز و کلاچ",
+  "secondaryPages": [
+   119
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "sentence begins at the end of p119 («از پای چپ»)"
+ }
+]

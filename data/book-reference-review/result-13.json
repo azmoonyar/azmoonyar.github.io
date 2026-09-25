@@ -1,0 +1,815 @@
+[
+ {
+  "id": "q-ayin1-e03-n17",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "با وجود این سبقت گرفتن از طرف راست وسیله نقلیه ای که در حال گردش به چپ میباشد مجاز خواهد بود .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n14",
+  "bookPage": 50,
+  "confidence": "medium",
+  "supportingText": "- ج : از ۱۰۰ متر مانده به ورودی تونل ها و پل ها تا انتهای آنها ،مگر آنکه به وسیله علایم ،سبقت مجاز شناخته شده باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: book bans overtaking from 100 m before the entrance of tunnels/bridges up to their end; it gives no 100 m distance after them"
+ },
+ {
+  "id": "q-ayin1-e09-n10",
+  "bookPage": 50,
+  "confidence": "medium",
+  "supportingText": "- ت : سبقت از وسیله نقلیه که خود در حال سبقت گرفتن است ، مگر در راهی که به دلیل وجود سه خط عبور یا بیشتر ، این عمل مجاز باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: the book lists option c as a prohibited case (allowed only on roads with 3+ lanes), while the bus/truck ban (item ث) applies only to urban roads, which would make option a the non-prohibited case"
+ },
+ {
+  "id": "q-ayin1-e10-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the red-circle sign with two cars"
+ },
+ {
+  "id": "q-e10-p021-n18",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "- ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن ،مگر آنکه به وسیله علایم ،سبقت مجاز شناخته شده باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n22",
+  "bookPage": 50,
+  "confidence": "medium",
+  "supportingText": "- ب : از ۵۰ متر مانده به پیچ ها تا ۵۰ متر پس از آن یا در تقاطع راهها یا در تقاطع راه آهن",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the 50 m distance is stated for curves; railway crossings are listed in the same clause"
+ },
+ {
+  "id": "q-e14-p029-n20",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "- ث : برای اتوبوس ها و کامیون ها در معابر شهری .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the bus/truck overtaking ban applies only to urban roads"
+ },
+ {
+  "id": "q-e16-p032-n07",
+  "bookPage": 50,
+  "confidence": "medium",
+  "supportingText": "- ج : از ۱۰۰ متر مانده به ورودی تونل ها و پل ها تا انتهای آنها ،مگر آنکه به وسیله علایم ،سبقت مجاز شناخته شده باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: book bans overtaking from 100 m before the entrance of tunnels/bridges up to their end; it gives no 100 m distance after them"
+ },
+ {
+  "id": "q-e17-p035-n06",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "- ح : هنگامی که وسیله نقلیه ای در فاصله ای نزدیک و غیر ایمن از روبرو در حال حرکت می‌باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n15",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "- ت : سبقت از وسیله نقلیه که خود در حال سبقت گرفتن است ، مگر در راهی که به دلیل وجود سه خط عبور یا بیشتر ، این عمل مجاز باشد .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p008-n14",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "با وجود این سبقت گرفتن از طرف راست وسیله نقلیه ای که در حال گردش به چپ میباشد مجاز خواهد بود .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p010-n12",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "- ث : برای اتوبوس ها و کامیون ها در معابر شهری .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [
+   85
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e2-p004-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the red-circle sign with two cars"
+ },
+ {
+  "id": "q-visual-e8-p016-n01",
+  "bookPage": 33,
+  "confidence": "medium",
+  "supportingText": "عبور سواری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   35
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the red-circle sign with a single car front view (عبور سواری ممنوع); options 1,3,4 are overtaking signs on p35"
+ },
+ {
+  "id": "q-600-e12-p052-n23",
+  "bookPage": 104,
+  "confidence": "high",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p078-n06",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n14",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p019-n13",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "رانندگانی که از راه فرعی وارد راه اصلی می شوند باید بیش از ورود به راه اصلی، در صورت لزوم توقف نموده و پس از رعایت حق تقدم عبور",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n14",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-14",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "- ب: هر گاه دو یا چند وسیله نقلیه از دو یا چند راه مختلف به تقاطع هم عرض برسند ، حق تقدم عبور با وسیله نقلیه ای است که در طرف راست وسیله نقلیه دیگر قرار دارد .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n14",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "رانندگانی که از راه فرعی وارد راه اصلی می شوند باید بیش از ورود به راه اصلی، در صورت لزوم توقف نموده و پس از رعایت حق تقدم عبور",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n15",
+  "bookPage": 51,
+  "confidence": "high",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   188
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p097-n234",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "رعایت حق تقدم",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 2 in the image is the inverted red-bordered triangle"
+ },
+ {
+  "id": "q-visual-e14-p028-n15",
+  "bookPage": 51,
+  "confidence": "low",
+  "supportingText": "- حق تقدم عبور وسایل نقلیه در تقاطع ها و میدان هایی که هیچگونه علامت و چراغ راهنمایی ورانندگی وجود نداشته باشد به ترتیب زیر است :",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "scenario image (four numbered cars, blurry); the order 2,3,1,4 follows from the intersection priority rules but cannot be verified from the text"
+ },
+ {
+  "id": "q-600-e13-p055-n09",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "عملیات عمرانی ، حفاری و خرابی راه بسته و یا برای عبور از مسیر مجاز کافی نباشد ، حق تقدم عبور با وسایل نقلیه ای است که مسیر عبور آنها باز یا سهم عبور بیشتری را دارا می باشد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p066-n01",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "- در گذرگاه پیاده که چراغ راهنمایی و رانندگی نداشته باشد ، حق تقدم عبور با پیادگان است.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p076-n19",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "حفاری و خرابی راه بسته و یا برای عبور از مسیر مجاز کافی نباشد ، حق تقدم عبور با وسایل نقلیه ای است که مسیر عبور آنها باز یا سهم عبور بیشتری را دارا می باشد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p011-n14",
+  "bookPage": 36,
+  "confidence": "medium",
+  "supportingText": "فقط عبور مستقیم مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   33
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the blue circle with a white up arrow; options 1,3,4 are the right-of-way signs on p33"
+ },
+ {
+  "id": "q-e17-p035-n03",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "وسیله نقلیه ای که در مسیر مجاز در حال حرکت است بر وسایل نقلیه متوقفی که در حال شروع حرکت به جلو یا عقب ، گردش و یا دور زدن هستند حق تقدم عبور دارد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p012-n12",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "- در گذرگاه پیاده که چراغ راهنمایی و رانندگی نداشته باشد ، حق تقدم عبور با پیادگان است.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p014-n10",
+  "bookPage": 52,
+  "confidence": "high",
+  "supportingText": "حفاری و خرابی راه بسته و یا برای عبور از مسیر مجاز کافی نباشد ، حق تقدم عبور با وسایل نقلیه ای است که مسیر عبور آنها باز یا سهم عبور بیشتری را دارا می باشد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p086-n192",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با شما",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the image is the blue square sign with a white up arrow and red down arrow"
+ },
+ {
+  "id": "q-4e2086a1",
+  "bookPage": 29,
+  "confidence": "high",
+  "supportingText": "پیچ های پی در پی",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the double-curve warning triangle"
+ },
+ {
+  "id": "q-600-e1-p006-n05",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "درخیابان ها وجاده هایی که نورکافی وجود دارد باید تنها از چراغ های جانبی جلو وعقب",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p055-n13",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "که در جهت سرازیری در حرکت است باید به کنار راه رفته و به راننده ای که در جهت سربالایی در حرکت است تقدم عبور بدهد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the rule starts on p52 (mountain/steep roads where passing is impossible or difficult)"
+ },
+ {
+  "id": "q-600-e18-p074-n03",
+  "bookPage": 29,
+  "confidence": "high",
+  "supportingText": "پیچ های پی در پی",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 in the image is the double-curve warning triangle"
+ },
+ {
+  "id": "q-600-e19-p080-n18",
+  "bookPage": 53,
+  "confidence": "medium",
+  "supportingText": "راننده‌ای که در جهت سربالایی است باید به راننده‌ای که در جهت سرازیری است اجازه عبور دهد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: where passing is impossible/difficult the book gives priority to the uphill vehicle (p52-53); the downhill vehicle has priority only on mountain roads with enough shoulder/parking space"
+ },
+ {
+  "id": "q-600-e20-p082-n01",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "تبصره : در راههای مسطح که دو طرف راه منتهی به کوه و پرتگاه میباشد حق تقدم عبور با وسایل نقلیه ای است که در طرف پرتگاه قراردارند.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p029-n27",
+  "bookPage": 28,
+  "confidence": "medium",
+  "supportingText": "۱- تابلوهای بازدارنده یا انتظامی: این تابلوهای بیشتر به شکل دایره با نوار حاشیه ای قرمز رنگ مشخص می گردند و نوع ممنوعیت را نشان می دهند.",
+  "bookReference": "انواع تابلوهای راهنمایی و رانندگی",
+  "secondaryPages": [
+   33,
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is an empty red-bordered circle (ورود از هر دو طرف ممنوع, p33), i.e. a prohibitory sign"
+ },
+ {
+  "id": "q-ayin1-e01-n25",
+  "bookPage": 53,
+  "confidence": "medium",
+  "supportingText": "درخیابان ها وجاده هایی که نورکافی وجود دارد باید تنها از چراغ های جانبی جلو وعقب",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: the book gives this rule for streets/roads WITH sufficient light (نورکافی وجود دارد); the stem says وجود ندارد"
+ },
+ {
+  "id": "q-e5-p010-n14",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "که در جهت سرازیری در حرکت است باید به کنار راه رفته و به راننده ای که در جهت سربالایی در حرکت است تقدم عبور بدهد.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the rule starts on p52 (mountain/steep roads where passing is impossible or difficult)"
+ },
+ {
+  "id": "q-e5-p011-n17",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "درخیابان ها وجاده هایی که نورکافی وجود دارد باید تنها از چراغ های جانبی جلو وعقب",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n17",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "از فاصله ۱۵۰متری وجود نداشته‌باشد، راننده یا متصدی وسیله نقلیه (اعم از این که درون وسیله نقلیه باشد یا بیرون آن) مکلف است چراغ‌های کوچک جلو و خطر عقب وسیله نقلیه را روشن نگهدارد.",
+  "bookReference": "توقف وسیله نقلیه در شب در کنار راه",
+  "secondaryPages": [
+   53
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the book calls them چراغ‌های کوچک (side lights; p6 defines چراغ جانبی = چراغ‌های کوچک)"
+ },
+ {
+  "id": "q-e8-p016-n08",
+  "bookPage": 53,
+  "confidence": "high",
+  "supportingText": "تبصره : در راههای مسطح که دو طرف راه منتهی به کوه و پرتگاه میباشد حق تقدم عبور با وسایل نقلیه ای است که در طرف پرتگاه قراردارند.",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p056-n089",
+  "bookPage": 29,
+  "confidence": "high",
+  "supportingText": "پیچ های پی در پی",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 1 in the image is the double-curve warning triangle"
+ },
+ {
+  "id": "q-600-e11-p046-n01",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه موتوری موظفند که درجاده ها از چراغ رانندگی (نوربالا) استفاده کنند تابتوانندکلیه اشیاء واشخاص را درفاصله دور ببینند",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p050-n01",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "- استفاده از چراغ های چشمک زن و رنگارنگ در وسایل نقلیه ممنوع است ، مگر در مواردی که مجوز لازم از مراجع ذی صلاح اخذ گردد.",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p012-n13",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه موتوری موظفند که درجاده ها از چراغ رانندگی (نوربالا) استفاده کنند تابتوانندکلیه اشیاء واشخاص را درفاصله دور ببینند",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n16",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "- استفاده از چراغ های چشمک زن و رنگارنگ در وسایل نقلیه ممنوع است ، مگر در مواردی که مجوز لازم از مراجع ذی صلاح اخذ گردد.",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p006-n06",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- در راه های یک طرفه برای گردش به چپ ، رانندگان موظفند وسیله نقلیه را به منتهی الیه طرف چپ خیابان هدایت و سپس به چپ گردش کنند .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p058-n01",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- در راه های یک طرفه برای گردش به چپ ، رانندگان موظفند وسیله نقلیه را به منتهی الیه طرف چپ خیابان هدایت و سپس به چپ گردش کنند .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p062-n01",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p071-n15",
+  "bookPage": 37,
+  "confidence": "high",
+  "supportingText": "راه یکطرفه",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 in the image is the blue square with a large white up arrow"
+ },
+ {
+  "id": "q-ayin1-e02-n25",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- در راه های یک طرفه برای گردش به چپ ، رانندگان موظفند وسیله نقلیه را به منتهی الیه طرف چپ خیابان هدایت و سپس به چپ گردش کنند .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e10-n15",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n15",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- در راه های یک طرفه برای گردش به چپ ، رانندگان موظفند وسیله نقلیه را به منتهی الیه طرف چپ خیابان هدایت و سپس به چپ گردش کنند .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n20",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- به عقب راندن وسیله نقلیه در آزاد راهها و بزرگراهها و ورودی و خروجی آنها ممنوع میباشد .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n06",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p034-n23",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "در راه های بیرون شهر که منحصر به دو خط عبور رفت و برگشت بوده و مانع فیزیکی وسط جاده وجود نداشته باشد رانندگان وسایل نقلیه موظفند وسیله نقلیه را در شانه راه و در صورت نبودن آن ، در منتهی الیه سمت راست راه متوقف نموده",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [
+   107
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p006-n14",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n20",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "- در راه های یک طرفه برای گردش به چپ ، رانندگان موظفند وسیله نقلیه را به منتهی الیه طرف چپ خیابان هدایت و سپس به چپ گردش کنند .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p014-n12",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n19",
+  "bookPage": 55,
+  "confidence": "high",
+  "supportingText": "دور زدن در فاصله ۱۵۰ متری پیچ ها و سربالایی ها و تونل ها که میدان دید کافی نیست و همچنین از روی خط پر یا ممتد (یک خطه ممتد یا دو خطه ممتد) ممنوع است .",
+  "bookReference": "مقررات رانندگی - گردش",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p098-n235",
+  "bookPage": 37,
+  "confidence": "high",
+  "supportingText": "راه یکطرفه",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 3 in the image is the blue square with a white up arrow"
+ },
+ {
+  "id": "q-600-e1-p008-n18",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "- الف ـ در وسط راه چراغ الکتریکی و یا مشعل نورانی قرمز در فاصله‌های ۷۰ متری جلو و عقب و یکی دیگر در پهلوی وسیله نقلیه از کار افتاده بگذارد.",
+  "bookReference": "علایم ایمنی وسیله نقلیه از کار افتاده در راه",
+  "secondaryPages": [
+   56
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p066-n03",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "- الف ـ در وسط راه چراغ الکتریکی و یا مشعل نورانی قرمز در فاصله‌های ۷۰ متری جلو و عقب و یکی دیگر در پهلوی وسیله نقلیه از کار افتاده بگذارد.",
+  "bookReference": "علایم ایمنی وسیله نقلیه از کار افتاده در راه",
+  "secondaryPages": [
+   56
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p023-n11",
+  "bookPage": 56,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه درصورت توقف اضطراری که امکان انتقال وسیله نقلیه به بیرون خط و یامسیرعبوری وجود نداشته باشد، موظفند بانصب علائم ، از فاصله ۷۰ متری رانندگان وسایل نقلیه دیگر وپیادگان را آگاه سازند .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n13",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "- الف ـ در وسط راه چراغ الکتریکی و یا مشعل نورانی قرمز در فاصله‌های ۷۰ متری جلو و عقب و یکی دیگر در پهلوی وسیله نقلیه از کار افتاده بگذارد.",
+  "bookReference": "علایم ایمنی وسیله نقلیه از کار افتاده در راه",
+  "secondaryPages": [
+   56
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n25",
+  "bookPage": 56,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه درصورت توقف اضطراری که امکان انتقال وسیله نقلیه به بیرون خط و یامسیرعبوری وجود نداشته باشد، موظفند بانصب علائم ، از فاصله ۷۰ متری رانندگان وسایل نقلیه دیگر وپیادگان را آگاه سازند .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n22",
+  "bookPage": 56,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه درصورت توقف اضطراری که امکان انتقال وسیله نقلیه به بیرون خط و یامسیرعبوری وجود نداشته باشد، موظفند بانصب علائم ، از فاصله ۷۰ متری رانندگان وسایل نقلیه دیگر وپیادگان را آگاه سازند .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

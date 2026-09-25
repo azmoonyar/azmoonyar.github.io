@@ -1,0 +1,790 @@
+[
+ {
+  "id": "q-600-e19-p081-n26",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سمت راست بن بست",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p011-n10",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خروجی از آزاد راه ۲۰۰ متر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p022-n06",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "پارکینگ مخصوص افراد معلول",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n26",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "زیرگذر یا روگذر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n27",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خط عبور برای گریز",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 4 is the blue escape-lane sign with the checkered barrier."
+ },
+ {
+  "id": "q-ayin1-e02-n05",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "زیرگذر یا روگذر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n06",
+  "bookPage": 41,
+  "confidence": "medium",
+  "supportingText": "خروجی از آزاد راه ۲۰۰ متر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Answer text reads ۲۰۰۰ متر but the pictured sign shows 200 m with two bars, matching the book caption; likely a typo in the option text."
+ },
+ {
+  "id": "q-ayin1-e04-n06",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "پارکینگ مخصوص افراد معلول",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-efb654c7",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "زیرگذر یا روگذر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p039-n025",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "زیرگذر یا روگذر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p044-n044",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "بن بست",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p054-n082",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سرعت توصیه شده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p055-n083",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "پارکینگ مخصوص افراد معلول",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p057-n091",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خروجی از آزاد راه ۳۰۰ متر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p063-n112",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خط عبور برای گریز",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p085-n189",
+  "bookPage": null,
+  "confidence": "not_found",
+  "supportingText": null,
+  "bookReference": null,
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "topic",
+  "note": "The blue informational 'U-turn 300 m ahead' sign is not in the book; only the regulatory «دور زدن ممنوع» sign (p.35) appears."
+ },
+ {
+  "id": "q-tablo-p092-n216",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سرعت توصیه شده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p098-n237",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "مسیر توصیه شده برای وسایل سنگین",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p112-n282",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سرعت توصیه شده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e10-p020-n04",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سرعت توصیه شده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e11-p022-n02",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "مسیر توصیه شده برای وسایل سنگین",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e11-p022-n04",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خروجی از آزاد راه ۲۰۰ متر",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e11-p022-n05",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "پارکینگ مخصوص افراد معلول",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p031-n21",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "خط عبور برای گریز",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 2 is the blue escape-lane sign with the checkered barrier."
+ },
+ {
+  "id": "q-visual-e9-p018-n02",
+  "bookPage": 41,
+  "confidence": "high",
+  "supportingText": "سمت راست بن بست",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p011-n15",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 1 is the white arrow-shaped «مهرآباد / Mehr Abad» sign, shown on this page as راهنمای مسیر."
+ },
+ {
+  "id": "q-600-e5-p022-n02",
+  "bookPage": 43,
+  "confidence": "medium",
+  "supportingText": "طول ممنوعیت با محدودیت پارکینگ",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [
+   42
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 4 is the «10 m» supplementary plate (p.43); the other three options are route-guide signs on p.42. Book prints «با» for «یا»."
+ },
+ {
+  "id": "q-ayin1-e04-n02",
+  "bookPage": 43,
+  "confidence": "medium",
+  "supportingText": "طول ممنوعیت با محدودیت پارکینگ",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [
+   42
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 3 is the «10 m» supplementary plate (p.43); the other three options are route-guide signs on p.42. Book prints «با» for «یا»."
+ },
+ {
+  "id": "q-tablo-p039-n027",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "مهمانسرا ۵۰۰ متر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p043-n041",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Pictured sign reads «تهران 18 km»; the book shows the same sign type with «تهران ۵۵ کیلومتر»."
+ },
+ {
+  "id": "q-tablo-p050-n066",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p052-n073",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p052-n074",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p053-n075",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p053-n076",
+  "bookPage": 42,
+  "confidence": "medium",
+  "supportingText": "استراحتگاه (چادر) ۵۰۰ متر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Pictured sign shows 300 m; the book shows the same tent direction sign with ۵۰۰ متر."
+ },
+ {
+  "id": "q-tablo-p053-n077",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p090-n209",
+  "bookPage": 42,
+  "confidence": "high",
+  "supportingText": "راهنمای مسیر",
+  "bookReference": "تابلوهای راهنمای مسیر",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Pictured sign reads «تهران 18 km»; the book shows the same sign type with «تهران ۵۵ کیلومتر»."
+ },
+ {
+  "id": "q-visual-e3-p006-n06",
+  "bookPage": 43,
+  "confidence": "medium",
+  "supportingText": "فاصله از محل نصب تابلو تا شروع قسمت خطر",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [
+   42
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 1 is the «۲۰۰ متر» supplementary plate (p.43, checked on the source exam page); the other options are route-guide signs on p.42."
+ },
+ {
+  "id": "q-600-e11-p047-n10",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "طول ممنوعیت با محدودیت پارکینگ",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption prints «با» for «یا»."
+ },
+ {
+  "id": "q-600-e12-p053-n25",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "طول محدوده خطر",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p057-n26",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "فاصله از محل نصب تابلو تا شروع قسمت خطر",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p018-n08",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "تقاطع فرعی یا اصلی در قوس",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption reads «تقاطع فرعی یا اصلی در قوس»; same plate as pictured."
+ },
+ {
+  "id": "q-b65c58a1",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "فاصله از محل نصب تابلو تا شروع قسمت خطر",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p099-n239",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "تقاطع فرعی یا اصلی در قوس",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption reads «تقاطع فرعی یا اصلی در قوس»; same plate as pictured."
+ },
+ {
+  "id": "q-tablo-p104-n257",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "تقاطع فرعی یا اصلی در قوس",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption reads «تقاطع فرعی یا اصلی در قوس»; same plate as pictured."
+ },
+ {
+  "id": "q-visual-e14-p028-n04",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "طول محدوده خطر",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p030-n02",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "اختصاص علائم انتظامی به گروه خاصی از وسایل نقلیه",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e6-p012-n03",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "تقاطع فرعی یا اصلی در قوس",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption reads «تقاطع فرعی یا اصلی در قوس»; same plate as pictured."
+ },
+ {
+  "id": "q-visual-e8-p016-n04",
+  "bookPage": 43,
+  "confidence": "high",
+  "supportingText": "طول ممنوعیت با محدودیت پارکینگ",
+  "bookReference": "تابلوهای مکمل",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Book caption prints «با» for «یا»."
+ },
+ {
+  "id": "q-600-e3-p014-n04",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "جریان همگرا",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p027-n14",
+  "bookPage": 32,
+  "confidence": "medium",
+  "supportingText": "تقاطع جاده و راه آهن در ۳۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [
+   44
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 2 is the pair of railway-crossing countdown markers (3 stripes each, p.32), not an edge marker; the edge-marker (حاشیه نما) signs are on p.44."
+ },
+ {
+  "id": "q-600-e7-p033-n25",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "هدایت مسیر با جداکننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p037-n25",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "جریان همگرا",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p041-n26",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "مدرسه",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n25",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "شروع جدا کننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n04",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "جریان همگرا",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n06",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "شروع جدا کننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n02",
+  "bookPage": 32,
+  "confidence": "medium",
+  "supportingText": "تقاطع جاده و راه آهن در ۳۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [
+   44
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 2 is the pair of railway-crossing countdown markers (p.32; stripe count read from a blurry photo, same question as q-600-e6-p027-n14), not an edge marker; edge markers are on p.44."
+ },
+ {
+  "id": "q-ayin1-e06-n06",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "هدایت مسیر با جداکننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n06",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "جریان همگرا",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-d32f8beb",
+  "bookPage": 45,
+  "confidence": "medium",
+  "supportingText": "راننده ناشنوا",
+  "bookReference": "برچسب‌ها",
+  "secondaryPages": [
+   44
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 1 is the deaf-driver sticker (p.45, checked on the source exam page); the other three (edge marker, police camera, merging traffic) are local signs on p.44."
+ },
+ {
+  "id": "q-tablo-p094-n222",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "جریان همگرا",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p106-n262",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "پایان جداکننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p106-n265",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "نظارت با دوربین پلیس",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e13-p026-n08",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "هدایت مسیر با جداکننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p031-n18",
+  "bookPage": 32,
+  "confidence": "medium",
+  "supportingText": "تقاطع جاده و راه آهن در ۳۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [
+   44
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 4 is the pair of railway-crossing countdown markers (3 stripes each, p.32), not an edge marker; the edge-marker (حاشیه نما) signs are on p.44."
+ },
+ {
+  "id": "q-visual-e8-p016-n05",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "شروع جدا کننده",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n03",
+  "bookPage": 44,
+  "confidence": "high",
+  "supportingText": "مدرسه",
+  "bookReference": "تابلوهای محلی",
+  "secondaryPages": [
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p044-n21",
+  "bookPage": 45,
+  "confidence": "high",
+  "supportingText": "راننده معلول",
+  "bookReference": "برچسب‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n24",
+  "bookPage": 45,
+  "confidence": "high",
+  "supportingText": "راننده معلول",
+  "bookReference": "برچسب‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Correct option 2 is the wheelchair sticker."
+ }
+]

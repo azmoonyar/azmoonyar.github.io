@@ -1,0 +1,791 @@
+[
+ {
+  "id": "q-visual-e7-p014-n04",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور با ارتفاع بیش از ۳/۵ متر ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p044-n24",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p046-n04",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p047-n15",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان منطقه توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 in the image is the square white plate with hatched diagonal, matching this catalogue sign"
+ },
+ {
+  "id": "q-600-e11-p049-n27",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 3 in the image (two cars with diagonal stripes) matches this catalogue sign"
+ },
+ {
+  "id": "q-600-e13-p054-n05",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "ت : در سه راه ها حق تقدم عبور با وسیله نقلیه ای است که به طور مستقیم ودر سمت و مسیر مجاز حرکت میکند حتی اگر عرض خیابانی که مسیر آن است از عرض راه تلاقی کننده کمتر باشد .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "T-junction scene: truck goes straight (rule ت); bicycle is on the car's right (rule ب on same page); order requires applying both rules"
+ },
+ {
+  "id": "q-600-e13-p057-n28",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت برای کامیون ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p071-n12",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p077-n30",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "دور زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p081-n27",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question image is badly cropped (only the top of the sign is visible)"
+ },
+ {
+  "id": "q-600-e20-p085-n27",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایست بازرسی(گمرک)",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p019-n10",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "بوق زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p025-n30",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "ت : در سه راه ها حق تقدم عبور با وسیله نقلیه ای است که به طور مستقیم ودر سمت و مسیر مجاز حرکت میکند حتی اگر عرض خیابانی که مسیر آن است از عرض راه تلاقی کننده کمتر باشد .",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "T-junction scene: truck goes straight (rule ت); bicycle is on the car's right (rule ب on same page); order requires applying both rules"
+ },
+ {
+  "id": "q-e17-p035-n10",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p040-n028",
+  "bookPage": 35,
+  "confidence": "low",
+  "supportingText": "بوق زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the book has no «پایان بوق زدن ممنوع» sign; this page only shows «بوق زدن ممنوع» and other «پایان ...» signs with the hatched diagonal"
+ },
+ {
+  "id": "q-tablo-p042-n037",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p051-n068",
+  "bookPage": 35,
+  "confidence": "medium",
+  "supportingText": "سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book shows the same red-circle speed-limit sign with 50; the question sign shows 30"
+ },
+ {
+  "id": "q-tablo-p055-n085",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p055-n086",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت برای کامیون ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p056-n087",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p056-n088",
+  "bookPage": 35,
+  "confidence": "low",
+  "supportingText": "سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "the combined truck-30 / car-50 speed sign is not in the book; page only has the generic red-circle speed sign (50)"
+ },
+ {
+  "id": "q-tablo-p058-n095",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان محدودیت سرعت (۴۰ کیلومتر)",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p060-n101",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایست بازرسی(گمرک)",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p062-n107",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "دور زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question shows a square-plated variant of the same sign"
+ },
+ {
+  "id": "q-tablo-p063-n111",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "بوق زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p065-n118",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "منطقه توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p067-n125",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p074-n149",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   4
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p076-n159",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان منطقه توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p078-n165",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "توقف در روزهای فرد هفته ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p079-n168",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   4
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p082-n179",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان سبقت ممنوع برای کامیون",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p093-n220",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p096-n228",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p107-n268",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان تمام محدودیتها",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p110-n276",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   4
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p113-n286",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p115-n295",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان سبقت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e10-p020-n05",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   4
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e12-p024-n04",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "دور زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e13-p026-n12",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده سپس خودروهایی که در مسیر عبوری آنها تابلو رعایت حق تقدم وجود دارد ، عبور نمایند.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "intersection with yield signs: vehicles without the sign go first; within each pair the straight-going vehicle precedes the left-turning one (rule on p105); order requires combining both rules"
+ },
+ {
+  "id": "q-visual-e14-p028-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p030-n04",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "سبقت برای کامیون ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p030-n07",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "پایان منطقه توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 3 in the image is the square white plate with hatched diagonal, matching this catalogue sign"
+ },
+ {
+  "id": "q-visual-e6-p012-n04",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "بوق زدن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n01",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایست بازرسی(گمرک)",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p053-n30",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور راست مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 in the image (horizontal right arrow) matches this catalogue sign"
+ },
+ {
+  "id": "q-600-e16-p069-n27",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "توقف در روزهای زوج هفته ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p085-n30",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور دوچرخه",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 in the image (blue circle with cyclist) matches this catalogue sign"
+ },
+ {
+  "id": "q-600-e3-p014-n06",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "جهت عبور در میدان",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p022-n05",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "حداقل سرعت ۳۰ کیلومتر",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p031-n07",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده سپس خودروهایی که در مسیر عبوری آنها تابلو رعایت حق تقدم وجود دارد ، عبور نمایند.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "intersection with yield signs: vehicles without the sign go first; within each pair the straight-going vehicle precedes the left-turning one (rule on p105); order requires combining both rules"
+ },
+ {
+  "id": "q-600-visual-e1-p009-n29",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور پیاده",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n06",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "جهت عبور در میدان",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n04",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور پیاده",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n05",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "حداقل سرعت ۳۰ کیلومتر",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n24",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده سپس خودروهایی که در مسیر عبوری آنها تابلو رعایت حق تقدم وجود دارد ، عبور نمایند.",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "intersection with yield signs: vehicles without the sign go first; within each pair the straight-going vehicle precedes the left-turning one (rule on p105); order requires combining both rules"
+ },
+ {
+  "id": "q-ayin1-e13-n01",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور راست مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "Resolved by the image correction in data/question-corrections.js: the picture is now the ایین نامه-1 p38 composite, where keyed option 2 is the horizontal-arrow sign «فقط عبور راست مجاز» (p36). (Original review note: the reused 600-driveing picture had a different option order.)",
+  "revisedAfterImageCorrection": true
+ },
+ {
+  "id": "q-tablo-p040-n030",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "حداقل سرعت ۳۰ کیلومتر",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p068-n127",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط گردش به چپ مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p070-n134",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "توقف در روزهای زوج هفته ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p071-n137",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "عبور مستقیم و گردش به چپ مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p074-n148",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "عبور مستقیم و گردش به راست مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p075-n154",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "جهت عبور در میدان",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p076-n158",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "عبور از هر دو سمت مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p077-n161",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط گردش به راست مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p077-n162",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور به چپ مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p077-n163",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور راست مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p078-n164",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "حداقل سرعت ۳۰ کیلومتر",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p083-n181",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور مستقیم مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

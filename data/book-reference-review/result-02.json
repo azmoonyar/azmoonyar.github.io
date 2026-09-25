@@ -1,0 +1,821 @@
+[
+ {
+  "id": "q-600-e15-p062-n02",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p067-n12",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p073-n26",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p073-n27",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "در هر حال در صورت ورود قبلی به تقاطع موظفند به حرکت خود ادامه داده و با رعایت مقررات دیگر از تقاطع یا گذرگاه عبور کنند.",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book: a driver already inside the intersection when the light turns yellow must continue and clear it; the words \"full caution and low speed\" are not in this item"
+ },
+ {
+  "id": "q-600-e2-p010-n04",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ث - چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n12",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p017-n29",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p024-n22",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p036-n13",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "در هر حال در صورت ورود قبلی به تقاطع موظفند به حرکت خود ادامه داده و با رعایت مقررات دیگر از تقاطع یا گذرگاه عبور کنند.",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book: a driver already inside the intersection when the light turns yellow must continue and clear it; the words \"full caution and low speed\" are not in this item"
+ },
+ {
+  "id": "q-600-e9-p038-n02",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "در هر حال در صورت ورود قبلی به تقاطع موظفند به حرکت خود ادامه داده و با رعایت مقررات دیگر از تقاطع یا گذرگاه عبور کنند.",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book: a driver already inside the intersection when the light turns yellow must continue and clear it; the words \"full caution and low speed\" are not in this item"
+ },
+ {
+  "id": "q-ayin1-e01-n12",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n29",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n12",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "در صورت نبودن خط ایست در فاصله پنج متری چراغ راهنمایی و رانندگی بایستند",
+  "bookReference": "چراغ قرمز برای ایست",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "stem says \"چراغ ترمز\", evidently a typo for چراغ قرمز"
+ },
+ {
+  "id": "q-ayin1-e08-n16",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "در هر حال در صورت ورود قبلی به تقاطع موظفند به حرکت خود ادامه داده و با رعایت مقررات دیگر از تقاطع یا گذرگاه عبور کنند.",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book: a driver already inside the intersection when the light turns yellow must continue and clear it; the words \"full caution and low speed\" are not in this item"
+ },
+ {
+  "id": "q-ayin1-e10-n16",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n16",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ث - چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n30",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n12",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ث - چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p034-n26",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "در هر حال در صورت ورود قبلی به تقاطع موظفند به حرکت خود ادامه داده و با رعایت مقررات دیگر از تقاطع یا گذرگاه عبور کنند.",
+  "bookReference": "چراغ زرد برای احتیاط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book: a driver already inside the intersection when the light turns yellow must continue and clear it; the words \"full caution and low speed\" are not in this item"
+ },
+ {
+  "id": "q-e8-p017-n23",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "این چراغ معمولا در محل برخورد راه فرعی با اصلی به همراه تابلو ایست و یا رعایت حق تقدم نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن زرد و چراغ چشمک‌زن قرمز",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "flashing-yellow placement (main road meeting minor road) is stated on the same page in item ت"
+ },
+ {
+  "id": "q-visual-e5-p010-n09",
+  "bookPage": 15,
+  "confidence": "high",
+  "supportingText": "الف - بلند کردن دست به طور عمودی - مفهوم این حرکت برای کلیه استفاده‌کنندگان از راه به معنای توجه توقف خواهدبود.",
+  "bookReference": "بلند کردن دست به طور عمودی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image shows an officer raising one hand vertically"
+ },
+ {
+  "id": "q-visual-e7-p014-n09",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-2b22778c",
+  "bookPage": 15,
+  "confidence": "high",
+  "supportingText": "مفهوم این حرکت برای کلیه استفاده کنندگان از راه که جهت حرکت آنها در امتداد جهت نشان داده شده با دست یا دست‌های مأمور صلاحیت‌دار می‌باشد، به معنای ایست خواهد بود.",
+  "bookReference": "بلند کردن دست یا دست‌های مأمور به دو طرف و بطور افقی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p022-n07",
+  "bookPage": 15,
+  "confidence": "high",
+  "supportingText": "الف - بلند کردن دست به طور عمودی - مفهوم این حرکت برای کلیه استفاده‌کنندگان از راه به معنای توجه توقف خواهدبود.",
+  "bookReference": "بلند کردن دست به طور عمودی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p033-n24",
+  "bookPage": 15,
+  "confidence": "high",
+  "supportingText": "مفهوم این حرکت برای کلیه استفاده کنندگان از راه که جهت حرکت آنها در امتداد جهت نشان داده شده با دست یا دست‌های مأمور صلاحیت‌دار می‌باشد، به معنای ایست خواهد بود.",
+  "bookReference": "بلند کردن دست یا دست‌های مأمور به دو طرف و بطور افقی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n07",
+  "bookPage": 15,
+  "confidence": "high",
+  "supportingText": "مفهوم این حرکت برای کلیه استفاده کنندگان از راه که جهت حرکت آنها در امتداد جهت نشان داده شده با دست یا دست‌های مأمور صلاحیت‌دار می‌باشد، به معنای ایست خواهد بود.",
+  "bookReference": "بلند کردن دست یا دست‌های مأمور به دو طرف و بطور افقی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p042-n06",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "رانندگانی که قصد گردش به راست یا به چپ یا توقف یا تغییر مسیر را دارند مکلفند از فاصله حدودی ۱۰۰متر به محل گردش یا توقف به وسیله چراغ راهنما",
+  "bookReference": "علامت دادن با چراغ راهنما هنگام گردش یا توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p043-n09",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p064-n24",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "پ ـ برای توقف، دست چپ را به طرف پایین نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p068-n18",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "الف ـ برای گردش یا تغییر مسیر به راست، دست چپ را به طرف بالا نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p070-n03",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p076-n21",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "پ ـ برای توقف، دست چپ را به طرف پایین نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p080-n17",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "رانندگانی که قصد گردش به راست یا به چپ یا توقف یا تغییر مسیر را دارند مکلفند از فاصله حدودی ۱۰۰متر به محل گردش یا توقف به وسیله چراغ راهنما",
+  "bookReference": "علامت دادن با چراغ راهنما هنگام گردش یا توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p081-n30",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ت ـ برای کاستن سرعت، دست چپ را به طور افقی از بالا به پایین به طور متناوب حرکت دهند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p083-n09",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "رانندگانی که قصد گردش به راست یا به چپ یا توقف یا تغییر مسیر را دارند مکلفند از فاصله حدودی ۱۰۰متر به محل گردش یا توقف به وسیله چراغ راهنما",
+  "bookReference": "علامت دادن با چراغ راهنما هنگام گردش یا توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p018-n02",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "رانندگانی که قصد گردش به راست یا به چپ یا توقف یا تغییر مسیر را دارند مکلفند از فاصله حدودی ۱۰۰متر به محل گردش یا توقف به وسیله چراغ راهنما",
+  "bookReference": "علامت دادن با چراغ راهنما هنگام گردش یا توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n16",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ت ـ برای کاستن سرعت، دست چپ را به طور افقی از بالا به پایین به طور متناوب حرکت دهند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p032-n15",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "پ ـ برای توقف، دست چپ را به طرف پایین نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p034-n02",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p040-n24",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "الف ـ برای گردش یا تغییر مسیر به راست، دست چپ را به طرف بالا نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n16",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ت ـ برای کاستن سرعت، دست چپ را به طور افقی از بالا به پایین به طور متناوب حرکت دهند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n07",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-08",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "رانندگانی که قصد گردش به راست یا به چپ یا توقف یا تغییر مسیر را دارند مکلفند از فاصله حدودی ۱۰۰متر به محل گردش یا توقف به وسیله چراغ راهنما",
+  "bookReference": "علامت دادن با چراغ راهنما هنگام گردش یا توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-15",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "الف ـ برای گردش یا تغییر مسیر به راست، دست چپ را به طرف بالا نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-d260ba9f",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n16",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "الف ـ برای گردش یا تغییر مسیر به راست، دست چپ را به طرف بالا نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n16",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "پ ـ برای توقف، دست چپ را به طرف پایین نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p024-n12",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ت ـ برای کاستن سرعت، دست چپ را به طور افقی از بالا به پایین به طور متناوب حرکت دهند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e16-p034-n29",
+  "bookPage": 16,
+  "confidence": "high",
+  "supportingText": "ب ـ برای گردش یا تغییر مسیر به چپ، دست چپ را به طور افقی نگهدارند.",
+  "bookReference": "علامت دادن با دست در وسایل نقلیه فاقد چراغ راهنما",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p046-n03",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p064-n22",
+  "bookPage": 17,
+  "confidence": "medium",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "negation question: book gives the short horn as the daytime overtaking signal and switching high/low beam as the night signal"
+ },
+ {
+  "id": "q-600-e2-p011-n16",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p019-n15",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "ب ـ هرگاه وسیله نقلیه سر پیچ یا تپه‌ای از کار بیفتد علایم باید در فاصله‌های مناسبی قرار داده شود تا رانندگان وسایل نقلیه دیگر، از فاصله ۲۰۰متری متوجه خطر شوند.",
+  "bookReference": "علایم ایمنی وسیله نقلیه از کار افتاده در راه",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p023-n13",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   84
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p024-n18",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n16",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-12",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "راننده باید در وسط جاده مثلث‌های شبرنگ متساوی‌الاضلاع دارای زمینه سفید یا زرد با حاشیه قرمز از نوع علامت احتیاط به ابعاد حداقل ۳۰ سانتیمتر در فاصله ۷۰متری جلو و عقب آن به نحوی که قابل دیدن باشد قراردهد.",
+  "bookReference": "مثلث شبرنگ برای وسیله نقلیه از کار افتاده",
+  "secondaryPages": [
+   17,
+   56
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p17 gives 70 m for red lamps/flares when light is insufficient; p56 gives 70 m for warning signs at an emergency stop"
+ },
+ {
+  "id": "q-e13-p027-n24",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   84
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n29",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "ب ـ هرگاه وسیله نقلیه سر پیچ یا تپه‌ای از کار بیفتد علایم باید در فاصله‌های مناسبی قرار داده شود تا رانندگان وسایل نقلیه دیگر، از فاصله ۲۰۰متری متوجه خطر شوند.",
+  "bookReference": "علایم ایمنی وسیله نقلیه از کار افتاده در راه",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n22",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n01",
+  "bookPage": 17,
+  "confidence": "medium",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "negation question: book gives the short horn as the daytime overtaking signal and switching high/low beam as the night signal"
+ },
+ {
+  "id": "q-e4-p008-n13",
+  "bookPage": 97,
+  "confidence": "low",
+  "supportingText": "میزان دید در هنگام بارندگی بسیار کاهش می یابد. به منظور افزایش ایمنی هنگام رانندگی در این شرایط؛\n- ۱- مطمئن شوید که برف پاک کن ها سالم هستند.\n- ۲- چراغهای جلو را در حالت نور پایین روشن نمایید.",
+  "bookReference": "رانندگی در شرایط بد آب و هوا",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: p97 says headlights on LOW beam in rain, so the book contradicts option a (high beam); it never calls using lights at night wrong (p95: always use lights at night)"
+ },
+ {
+  "id": "q-e7-p014-n08",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.\n- پ ـ هنگام سبقت گرفتن اعم از این که روز باشد یا شب، برای جلب توجه وسایل نقلیه پشت سر، استفاده از چراغ راهنما ضروری است.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n18",
+  "bookPage": 17,
+  "confidence": "medium",
+  "supportingText": "الف ـ در روز بوق کوتاه.\n- ب ـ در شب چند بار تبدیل و تعویض نور چراغ بالا و پایین.",
+  "bookReference": "علایم آگاه سازی و علایم لازم برای سبقت",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "negation question: book gives the short horn as the daytime overtaking signal and switching high/low beam as the night signal"
+ },
+ {
+  "id": "q-600-e13-p056-n19",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "از فاصله ۱۵۰متری وجود نداشته‌باشد، راننده یا متصدی وسیله نقلیه (اعم از این که درون وسیله نقلیه باشد یا بیرون آن) مکلف است چراغ‌های کوچک جلو و خطر عقب وسیله نقلیه را روشن نگهدارد.",
+  "bookReference": "توقف وسیله نقلیه در شب در کنار راه",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p058-n03",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "راننده باید در وسط جاده مثلث‌های شبرنگ متساوی‌الاضلاع دارای زمینه سفید یا زرد با حاشیه قرمز از نوع علامت احتیاط به ابعاد حداقل ۳۰ سانتیمتر در فاصله ۷۰متری جلو و عقب آن به نحوی که قابل دیدن باشد قراردهد.",
+  "bookReference": "مثلث شبرنگ برای وسیله نقلیه از کار افتاده",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p064-n17",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "روی یدک و هرنوع وسیله نقلیه‌ای که وسیله نقلیه دیگری آن را می‌کشد باید یک پرچم سفید به ابعاد حداقل ۵۰ سانتیمتری طوری نصب شود",
+  "bookReference": "یدک کشی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p071-n16",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "راننده باید در وسط جاده مثلث‌های شبرنگ متساوی‌الاضلاع دارای زمینه سفید یا زرد با حاشیه قرمز از نوع علامت احتیاط به ابعاد حداقل ۳۰ سانتیمتر در فاصله ۷۰متری جلو و عقب آن به نحوی که قابل دیدن باشد قراردهد.",
+  "bookReference": "مثلث شبرنگ برای وسیله نقلیه از کار افتاده",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p072-n17",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "روی یدک و هرنوع وسیله نقلیه‌ای که وسیله نقلیه دیگری آن را می‌کشد باید یک پرچم سفید به ابعاد حداقل ۵۰ سانتیمتری طوری نصب شود",
+  "bookReference": "یدک کشی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p084-n18",
+  "bookPage": 18,
+  "confidence": "high",
+  "supportingText": "از فاصله ۱۵۰متری وجود نداشته‌باشد، راننده یا متصدی وسیله نقلیه (اعم از این که درون وسیله نقلیه باشد یا بیرون آن) مکلف است چراغ‌های کوچک جلو و خطر عقب وسیله نقلیه را روشن نگهدارد.",
+  "bookReference": "توقف وسیله نقلیه در شب در کنار راه",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

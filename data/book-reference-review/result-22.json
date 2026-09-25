@@ -1,0 +1,800 @@
+[
+ {
+  "id": "q-600-e19-p079-n12",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد و سبب کاهش چشمگیر مرگ و میر و تخفیف بیماری و آسیبهای مصدوم می شود.",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p082-n07",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p016-n21",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد و سبب کاهش چشمگیر مرگ و میر و تخفیف بیماری و آسیبهای مصدوم می شود.",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p020-n20",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p021-n29",
+  "bookPage": 191,
+  "confidence": "low",
+  "supportingText": "در صورتیکه نمی‌توانید عامل خطرساز را از محیط حذف کنید، سعی کنید مصدوم را تا حد ممکن از محل دور کنید.",
+  "bookReference": "امن کردن محل حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book_conflict: p191 (and p190) name moving the casualty away from the danger as part of securing the scene; the same question q-e6-p013-n28 is keyed «نجات دادن جان مصدوم گیر افتاده در آتش»"
+ },
+ {
+  "id": "q-ayin1-e01-n21",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد و سبب کاهش چشمگیر مرگ و میر و تخفیف بیماری و آسیبهای مصدوم می شود.",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n29",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "کمکهای اولیه به اقدامات اولیه‌ای گویند که بلافاصله پس از بروز حادثه و قبل از رسیدن به مرکز درمانی صورت می گیرد",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n19",
+  "bookPage": 190,
+  "confidence": "high",
+  "supportingText": "ارزیابی موقعیت: خیلی سریع و در کمال خونسردی حادثه را ارزیابی کنید.",
+  "bookReference": "مقدمه (امداد و نجات)",
+  "secondaryPages": [
+   191
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p078-n01",
+  "bookPage": 192,
+  "confidence": "low",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید.",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book_conflict: p192 states the principle is to use a low-risk method (option b); the book never says the scene must be cleared quickly"
+ },
+ {
+  "id": "q-e4-p009-n16",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "قبل از هر اقدامی مطمئن شوید خطری شما را تهدید نمی‌کند. به هیچ وجه خود را در خطر جدی قرار ندهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [
+   190,
+   191
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p072-n21",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "اگر آرامش ندارید و مضطرب شده‌اید، کشیدن چند نفس عمیق و آرام به شما کمک می‌کند تا آرامش",
+  "bookReference": "حفظ آرامش در ارائه کمکهای اولیه",
+  "secondaryPages": [
+   193
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "sentence continues on p193: «خود را به دست آورده و به شرایط محیط اطراف تسلط یابید»"
+ },
+ {
+  "id": "q-600-e18-p075-n13",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید. شما باید روشی را انتخاب کنید که موثر و مفیدتر از سایر روشها باشد",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p012-n21",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید. شما باید روشی را انتخاب کنید که موثر و مفیدتر از سایر روشها باشد",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p025-n27",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "اگر آرامش ندارید و مضطرب شده‌اید، کشیدن چند نفس عمیق و آرام به شما کمک می‌کند تا آرامش",
+  "bookReference": "حفظ آرامش در ارائه کمکهای اولیه",
+  "secondaryPages": [
+   193
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "sentence continues on p193: «خود را به دست آورده و به شرایط محیط اطراف تسلط یابید»"
+ },
+ {
+  "id": "q-ayin1-e03-n21",
+  "bookPage": 192,
+  "confidence": "low",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید. شما باید روشی را انتخاب کنید که موثر و مفیدتر از سایر روشها باشد",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book_conflict: p192 gives the principle as using a low-risk, more effective method that does not harm the casualty (option a); p195 says to treat without moving the casualty unless serious danger threatens"
+ },
+ {
+  "id": "q-ayin1-e04-n21",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "اگر آرامش ندارید و مضطرب شده‌اید، کشیدن چند نفس عمیق و آرام به شما کمک می‌کند تا آرامش",
+  "bookReference": "حفظ آرامش در ارائه کمکهای اولیه",
+  "secondaryPages": [
+   193
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "sentence continues on p193: «خود را به دست آورده و به شرایط محیط اطراف تسلط یابید»"
+ },
+ {
+  "id": "q-e11-p023-n30",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید. شما باید روشی را انتخاب کنید که موثر و مفیدتر از سایر روشها باشد",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p027-n30",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "در ارائه کمکهای اولیه اصل بر این است که روش کم خطر را به کار ببرید و مراقب باشید صدمه‌ای به مصدوم وارد نکنید.",
+  "bookReference": "درخواست کمک",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n30",
+  "bookPage": 192,
+  "confidence": "high",
+  "supportingText": "اگر آرامش ندارید و مضطرب شده‌اید، کشیدن چند نفس عمیق و آرام به شما کمک می‌کند تا آرامش",
+  "bookReference": "حفظ آرامش در ارائه کمکهای اولیه",
+  "secondaryPages": [
+   193
+  ],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "sentence continues on p193: «خود را به دست آورده و به شرایط محیط اطراف تسلط یابید»"
+ },
+ {
+  "id": "q-600-e16-p066-n07",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "قبل از هر اقدامی مطمئن شوید خطری شما را تهدید نمی‌کند. به هیچ وجه خود را در خطر جدی قرار ندهید. خودروی خود را در فاصله‌ای مناسب از صحنه حادثه پارک نمائید. اگر تابلو اعلان خطر دارید آنها را در کنار صحنه حادثه قرار دهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n21",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "قبل از هر اقدامی مطمئن شوید خطری شما را تهدید نمی‌کند. به هیچ وجه خود را در خطر جدی قرار ندهید. خودروی خود را در فاصله‌ای مناسب از صحنه حادثه پارک نمائید. اگر تابلو اعلان خطر دارید آنها را در کنار صحنه حادثه قرار دهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p029-n28",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "خطر",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keyed option 4 in the image is the red-rim triangle with «!» = book sign «خطر»"
+ },
+ {
+  "id": "q-600-e7-p031-n10",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "ممکن است در یک حادثه خطراتی مانند جاری شدن مواد خطر ساز یا گازهای سمی جان اطرافیان را به خطر اندازد. در این حالت سعی کنید تا حد امکان خود و اطرافیان را از محل حادثه دور کنید.",
+  "bookReference": "موارد خطر ساز",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n21",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "قبل از هر اقدامی مطمئن شوید خطری شما را تهدید نمی‌کند. به هیچ وجه خود را در خطر جدی قرار ندهید. خودروی خود را در فاصله‌ای مناسب از صحنه حادثه پارک نمائید. اگر تابلو اعلان خطر دارید آنها را در کنار صحنه حادثه قرار دهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n28",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "خطر",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keyed option 2 in the image is the red-rim triangle with «!» = book sign «خطر»"
+ },
+ {
+  "id": "q-ayin1-e06-n21",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "ممکن است در یک حادثه خطراتی مانند جاری شدن مواد خطر ساز یا گازهای سمی جان اطرافیان را به خطر اندازد. در این حالت سعی کنید تا حد امکان خود و اطرافیان را از محل حادثه دور کنید.",
+  "bookReference": "موارد خطر ساز",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n27",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "قبل از هر اقدامی مطمئن شوید خطری شما را تهدید نمی‌کند. به هیچ وجه خود را در خطر جدی قرار ندهید. خودروی خود را در فاصله‌ای مناسب از صحنه حادثه پارک نمائید. اگر تابلو اعلان خطر دارید آنها را در کنار صحنه حادثه قرار دهید.",
+  "bookReference": "ایمن کردن صحنه حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n28",
+  "bookPage": 194,
+  "confidence": "high",
+  "supportingText": "ممکن است در یک حادثه خطراتی مانند جاری شدن مواد خطر ساز یا گازهای سمی جان اطرافیان را به خطر اندازد. در این حالت سعی کنید تا حد امکان خود و اطرافیان را از محل حادثه دور کنید.",
+  "bookReference": "موارد خطر ساز",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p007-n11",
+  "bookPage": 195,
+  "confidence": "medium",
+  "supportingText": "در صورت وجود کپسول آتش نشانی سعی نمایید با استفاده از آن آتش را خاموش نمایید. در غیر این صورت با پتو یا یک جسم غیر قابل اشتعال شعله را خفه کنید.",
+  "bookReference": "آتش سوزی ها",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "book_conflict: key text says «جسم خیلی قابل اشتعال» but the book says «جسم غیر قابل اشتعال» (probably a typo in the source)"
+ },
+ {
+  "id": "q-600-e12-p051-n14",
+  "bookPage": 193,
+  "confidence": "low",
+  "supportingText": "هرگز مصدوم بی‌حال و شدیداً آسیب دیده را ترک نکنید.",
+  "bookReference": "اعتماد مصدوم را جلب کنید",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "the book never mentions giving or withholding food/drink; p193 covers talking to and not leaving the casualty and p194 «دقت کنید کسی سیگار نکشد» (options a, c)"
+ },
+ {
+  "id": "q-600-e14-p060-n21",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "در صورت وجود کپسول آتش نشانی سعی نمایید با استفاده از آن آتش را خاموش نمایید. در غیر این صورت با پتو یا یک جسم غیر قابل اشتعال شعله را خفه کنید.",
+  "bookReference": "آتش سوزی ها",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p035-n07",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "به سرعت تمامی مصدومین را بررسی کنید و در ابتدا به مصدومینی بپردازید که آسیب‌های آنها بسیار شدید است. سوختگی ها یا زخم‌های خیلی وسیع در اولویت هستند.",
+  "bookReference": "ارزیابی مصدومین",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n21",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "به سرعت تمامی مصدومین را بررسی کنید و در ابتدا به مصدومینی بپردازید که آسیب‌های آنها بسیار شدید است. سوختگی ها یا زخم‌های خیلی وسیع در اولویت هستند.",
+  "bookReference": "ارزیابی مصدومین",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n21",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "در صورت وجود کپسول آتش نشانی سعی نمایید با استفاده از آن آتش را خاموش نمایید. در غیر این صورت با پتو یا یک جسم غیر قابل اشتعال شعله را خفه کنید.",
+  "bookReference": "آتش سوزی ها",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n28",
+  "bookPage": 191,
+  "confidence": "medium",
+  "supportingText": "همیشه به خاطر داشته باشید که در قدم اول باید مراقب سلامت خود باشید. با انجام اقدامات ساده‌ای مانند خاموش کردن وسیله نقلیه حادثه ساز، می‌توانید صحنه را عاری از خطر کنید.",
+  "bookReference": "امن کردن محل حادثه",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "section lists own safety, switching off the vehicle and (if the hazard cannot be removed) moving the casualty away = options a-c; rescuing a casualty trapped in fire is not listed (p195: call the fire brigade if you cannot free a trapped casualty)"
+ },
+ {
+  "id": "q-e9-p019-n30",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "در صورت وجود کپسول آتش نشانی سعی نمایید با استفاده از آن آتش را خاموش نمایید. در غیر این صورت با پتو یا یک جسم غیر قابل اشتعال شعله را خفه کنید.",
+  "bookReference": "آتش سوزی ها",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e2-p005-n27",
+  "bookPage": 195,
+  "confidence": "high",
+  "supportingText": "به سرعت تمامی مصدومین را بررسی کنید و در ابتدا به مصدومینی بپردازید که آسیب‌های آنها بسیار شدید است. سوختگی ها یا زخم‌های خیلی وسیع در اولویت هستند.",
+  "bookReference": "ارزیابی مصدومین",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p063-n14",
+  "bookPage": 196,
+  "confidence": "high",
+  "supportingText": "در برخورد با یک مصدوم بیهوش، مهم‌ترین اقدام باز کردن راه هوایی و حفظ گردش خون او می‌باشد.",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p024-n21",
+  "bookPage": 37,
+  "confidence": "high",
+  "supportingText": "راه یکطرفه",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keyed option 4 in the image is the blue square with a large up-arrow = book sign «راه یکطرفه»"
+ },
+ {
+  "id": "q-600-e9-p038-n07",
+  "bookPage": 196,
+  "confidence": "high",
+  "supportingText": "این نیازهای حیاتی عبارتند از:\n- باز بودن راه تنفس\n- تنفس به اندازه کافی\n- گردش خون مناسب",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e04-n29",
+  "bookPage": 37,
+  "confidence": "high",
+  "supportingText": "راه یکطرفه",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keyed option 1 in the image is the blue square with a large up-arrow = book sign «راه یکطرفه»"
+ },
+ {
+  "id": "q-ayin1-e08-n21",
+  "bookPage": 196,
+  "confidence": "medium",
+  "supportingText": "این نیازهای حیاتی عبارتند از:\n- باز بودن راه تنفس\n- تنفس به اندازه کافی\n- گردش خون مناسب",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": "stem says «نشانه‌های حیاتی»; the book calls these three «نیازهای حیاتی» (its علایم حیاتی on p200 are consciousness, pulse, breathing and temperature)"
+ },
+ {
+  "id": "q-e3-p007-n27",
+  "bookPage": 196,
+  "confidence": "high",
+  "supportingText": "در برخورد با یک مصدوم بیهوش، مهم‌ترین اقدام باز کردن راه هوایی و حفظ گردش خون او می‌باشد.",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n28",
+  "bookPage": 196,
+  "confidence": "high",
+  "supportingText": "این نیازهای حیاتی عبارتند از:\n- باز بودن راه تنفس\n- تنفس به اندازه کافی\n- گردش خون مناسب",
+  "bookReference": "گرفتن شرح حال",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p086-n191",
+  "bookPage": 14,
+  "confidence": "medium",
+  "supportingText": "باید توقف نموده و پس از اطمینان از نبودن خطر تصادف، حرکت و عبور نمایند. همین اقدامات هنگام دیدن تابلوی ایست باید انجام شود.",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [
+   33,
+   104
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image is the octagonal «ایست» sign (p33); p14 applies the stop-then-proceed-after-checking rule to the stop sign, \"even if the road is clear\" is implied, not stated"
+ },
+ {
+  "id": "q-600-e15-p062-n07",
+  "bookPage": 197,
+  "confidence": "high",
+  "supportingText": "هر گونه جسم خارجی مانند دندان شکسته شده را از دهان مصدوم خارج کنید. نوک انگشتان خود را زیر چانه ی مصدوم قرار داده و چانه ی او را بالا بیاورید. پس از باز شدن راه هوایی تنفس ببینید آیا قفسه سینه مصدوم حرکت می‌کند؟",
+  "bookReference": "نحوه دادن تنفس مصنوعی",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n30",
+  "bookPage": 197,
+  "confidence": "high",
+  "supportingText": "هر گونه جسم خارجی مانند دندان شکسته شده را از دهان مصدوم خارج کنید. نوک انگشتان خود را زیر چانه ی مصدوم قرار داده و چانه ی او را بالا بیاورید. پس از باز شدن راه هوایی تنفس ببینید آیا قفسه سینه مصدوم حرکت می‌کند؟",
+  "bookReference": "نحوه دادن تنفس مصنوعی",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-211db66b",
+  "bookPage": 198,
+  "confidence": "high",
+  "supportingText": "به دادن تنفس مصنوعی ادامه دهید و پس از هر ۱۰ بار تنفس مصنوعی (حدوداً یک دقیقه) مجدداً علائم گردش خون را بررسی کنید.",
+  "bookReference": "نحوه بررسی گردش خون",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p054-n07",
+  "bookPage": 198,
+  "confidence": "high",
+  "supportingText": "به دادن تنفس مصنوعی ادامه دهید و پس از هر ۱۰ بار تنفس مصنوعی (حدوداً یک دقیقه) مجدداً علائم گردش خون را بررسی کنید.",
+  "bookReference": "نحوه بررسی گردش خون",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n29",
+  "bookPage": 201,
+  "confidence": "high",
+  "supportingText": "موارد زیر برای اطمینان یافتن از تنفس بیمار حادثه دیده موثر است:\n- نگاه کردن به بالاو پائین رفتن قفسه سینه\n- گوش دادن به خروج هوا طی بازدم\n- احساس جریان هوا از طریق برخورد با صورت",
+  "bookReference": "کنترل تنفس",
+  "secondaryPages": [],
+  "chapterId": 5,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p062-n08",
+  "bookPage": 211,
+  "confidence": "high",
+  "supportingText": "خودرو به تنهایی تولیدکننده بزرگترین منبع آلودگی‌های هوا می‌باشد",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [
+   207
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p039-n10",
+  "bookPage": 204,
+  "confidence": "high",
+  "supportingText": "یکی از مهمترین مشکلات زیست محیطی کلانشهرهای کشور، موضوع آلودگی هوا ناشی از تردد روزانه خودرو ها در شبکه معابر و ترافیک است.",
+  "bookReference": "آلودگی هوا و محیط زیست شهری",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n24",
+  "bookPage": 204,
+  "confidence": "high",
+  "supportingText": "یکی از مهمترین مشکلات زیست محیطی کلانشهرهای کشور، موضوع آلودگی هوا ناشی از تردد روزانه خودرو ها در شبکه معابر و ترافیک است.",
+  "bookReference": "آلودگی هوا و محیط زیست شهری",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n23",
+  "bookPage": 207,
+  "confidence": "medium",
+  "supportingText": "بیش از ۷۰ درصد از آلودگی هوا در شهرها ناشی از ترافیک شبکه معابر است",
+  "bookReference": "حمل و نقل و ترافیک شهری- محیط زیست",
+  "secondaryPages": [
+   211
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "book says traffic causes over 70% of urban air pollution (p207) and the car is the largest air-pollution source (p211); it does not explicitly rank air pollution against noise pollution"
+ },
+ {
+  "id": "q-600-e17-p073-n30",
+  "bookPage": 205,
+  "confidence": "high",
+  "supportingText": "یک سیستم حمل و نقل پایدار نیازمند فعالیت‌هایی نظیر کنترل وکاهش آلودگی هوا، کنترل و مدیریت ترافیک و یا کاهش مصرف سوخت است.",
+  "bookReference": "حمل و نقل ناپایدار – آلودگی‌های ترافیک",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n30",
+  "bookPage": 205,
+  "confidence": "high",
+  "supportingText": "یک سیستم حمل و نقل پایدار نیازمند فعالیت‌هایی نظیر کنترل وکاهش آلودگی هوا، کنترل و مدیریت ترافیک و یا کاهش مصرف سوخت است.",
+  "bookReference": "حمل و نقل ناپایدار – آلودگی‌های ترافیک",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n25",
+  "bookPage": 210,
+  "confidence": "high",
+  "supportingText": "در این قسمت مهمترین عامل آلودگی هوا که مونواکسید کربن است مورد بررسی قرار می‌دهیم.",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [
+   207
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n08",
+  "bookPage": 211,
+  "confidence": "high",
+  "supportingText": "خودرو به تنهایی تولیدکننده بزرگترین منبع آلودگی‌های هوا می‌باشد",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [
+   207
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n22",
+  "bookPage": 207,
+  "confidence": "high",
+  "supportingText": "بیش از ۷۰ درصد از آلودگی هوا در شهرها ناشی از ترافیک شبکه معابر است و اتومبیل شخصی نیز بیشترین سهم در آلایندگی را به خود اختصاص می‌دهد",
+  "bookReference": "حمل و نقل و ترافیک شهری- محیط زیست",
+  "secondaryPages": [
+   211
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p059-n098",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question image draws the car above the motorcycle without a dividing line; the book figure has the motorcycle above a line and the car below"
+ },
+ {
+  "id": "q-tablo-p096-n229",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question image draws the car above the motorcycle without a dividing line; the book figure has the motorcycle above a line and the car below"
+ },
+ {
+  "id": "q-600-visual-e1-p009-n28",
+  "bookPage": 34,
+  "confidence": "high",
+  "supportingText": "عبور وسایط نقلیه موتوری ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keyed option 3 in the image (motorcycle above a line, car below) matches the book figure"
+ },
+ {
+  "id": "q-600-e10-p044-n22",
+  "bookPage": 209,
+  "confidence": "medium",
+  "supportingText": "معمولا آلاینده های هوا به ۵ گروه عمده تقسیم می‌گردند:\n۱. مونواکسید کربن (CO)\n۲. اکسیدهای نیتروژن(NO₂)\n۳. هیدروکربن ها\n۴. اکسیدهای سولفور(SO₂)\n۵. ذرات معلق",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "oxygen is not among the five pollutant groups listed, which include the other three options"
+ },
+ {
+  "id": "q-600-e17-p072-n22",
+  "bookPage": 209,
+  "confidence": "medium",
+  "supportingText": "معمولا آلاینده های هوا به ۵ گروه عمده تقسیم می‌گردند:\n۱. مونواکسید کربن (CO)\n۲. اکسیدهای نیتروژن(NO₂)\n۳. هیدروکربن ها\n۴. اکسیدهای سولفور(SO₂)\n۵. ذرات معلق",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "oxygen is not among the five pollutant groups listed, which include the other three options"
+ },
+ {
+  "id": "q-6ef3ce03",
+  "bookPage": 214,
+  "confidence": "high",
+  "supportingText": "مهمترین عامل اتلاف سوخت و انرژی در خودروها عدم تنظیم موتور و احتراق ناقص در سیلندرها است.",
+  "bookReference": "تنظیم موتور",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "key says «احتراق بی نظمی»; the book says «احتراق ناقص»"
+ },
+ {
+  "id": "q-e12-p025-n29",
+  "bookPage": 214,
+  "confidence": "high",
+  "supportingText": "باربندها و لوازم تزئینی که بر روی خودروها تعبیه می شوند موجب افزایش حجم غیر مفید خودرو شده و تاثیر شکل آیرودینامیکی بدنه خودرو را از بین می برند.",
+  "bookReference": "عدم استفاده از باربند در مواقع غیر ضروری",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p037-n28",
+  "bookPage": 214,
+  "confidence": "high",
+  "supportingText": "مهمترین عامل اتلاف سوخت و انرژی در خودروها عدم تنظیم موتور و احتراق ناقص در سیلندرها است.",
+  "bookReference": "تنظیم موتور",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n21",
+  "bookPage": 209,
+  "confidence": "low",
+  "supportingText": "معمولا آلاینده های هوا به ۵ گروه عمده تقسیم می‌گردند:\n۱. مونواکسید کربن (CO)\n۲. اکسیدهای نیتروژن(NO₂)\n۳. هیدروکربن ها\n۴. اکسیدهای سولفور(SO₂)\n۵. ذرات معلق",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "the list omits oxygen but also CO₂ and N₂ (p219 even calls N₂ and CO₂ non-toxic), so the book does not single out oxygen"
+ },
+ {
+  "id": "q-600-e16-p066-n08",
+  "bookPage": 211,
+  "confidence": "high",
+  "supportingText": "خودرو به تنهایی تولیدکننده بزرگترین منبع آلودگی‌های هوا می‌باشد",
+  "bookReference": "آلودگی هوا",
+  "secondaryPages": [
+   207
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n18",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "هنگام مواجه شدن با این موارد باید توقف نمایید:\n- زمانی که پلیس مدرسه برای عبور ایمن دانش آموزان دستور می دهد.\n- زمانی که با چراغ قرمز روبرو می شوید.\n- قبل از رسیدن به تقاطع که فاقد علائم و مامور راهنمایی و رانندگی است.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

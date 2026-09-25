@@ -1,0 +1,541 @@
+[
+ {
+  "id": "q-600-e16-p067-n16",
+  "hint": "دهانهٔ تونل با قاب آجری در مربع سفید روی تابلوی آبی یعنی «تونل»؛ از ۱۰۰ متر مانده به ورودی تونل تا انتهای آن سبقت ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p069-n25",
+  "hint": "پارکینگ فقط حرف سفید P روی مربع آبی است؛ اگر کنار P واژهٔ «مترو» یا نماد قطار شهری بیاید، تابلو پارک سوار است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e20-p085-n25",
+  "hint": "مستطیل زرد با نماد اتوبوس و نشان ایستادن ممنوع، ایستگاه اتوبوس است؛ ایستادن یا توقف دیگر وسایل در ایستگاه‌های وسایل همگانی ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p027-n10",
+  "hint": "حرف H در مربع سفید و واژهٔ «بیمارستان» روی مستطیل آبی یعنی بیمارستان؛ پست امدادی با صلیب یا هلال سرخ مشخص می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n06",
+  "hint": "نماد H روی تابلوی آبی خدمات، نشان بیمارستان است؛ توقف در فاصلهٔ ۱۵ متری ورودی و خروجی بیمارستان‌ها ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e11-n05",
+  "hint": "خط مورب قرمزی که روی کل تابلوی آبی تونل کشیده شده یعنی «پایان تونل»؛ همین خط روی تابلوی آزادراه هم پایان آزادراه را نشان می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'in informational signs a red diagonal line means end' is false within the same book section - the «محدوده توقف ممنوع» signs on p.38 carry a red diagonal (no-stopping symbol) that means prohibition, and zone ends use a grey hatched band. Limit the rule to the tunnel/freeway signs.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p038-n022",
+  "hint": "حرف H و واژهٔ «بیمارستان» روی مستطیل آبی، در کتاب فقط «بیمارستان» معنا شده است، نه جهت یا توقفگاه آن.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p042-n035",
+  "hint": "حرف بزرگ سفید P روی مربع آبی، در کتاب «پارکینگ» نام دارد؛ آبی رنگ تابلوهای اخباری و راهنمای خدمات است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p048-n060",
+  "hint": "مستطیل زرد با نماد اتوبوس و نوشتهٔ «ایستگاه اتوبوس»، خودِ ایستگاه اتوبوس را نشان می‌دهد؛ نسخهٔ قطار شهری همین طرح را با نماد قطار دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p052-n072",
+  "hint": "تابلوی زرد ایستگاه با نوشتهٔ «ایستگاه تاکسی»، خودِ ایستگاه تاکسی را معرفی می‌کند.",
+  "basis": "answer",
+  "note": "taxi-station sign is not in the book (low confidence); hint uses only the sign's own text and the keyed answer",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p053-n078",
+  "hint": "واژهٔ «محدوده» بالای نشان P آبی یعنی پارک در کل این محدوده آزاد است؛ اگر نوار مورب هاشوری داشت، پایان محدوده بود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p072-n142",
+  "hint": "تابلوی زرد با نماد قطار شهری و نشان ایستادن ممنوع، ایستگاه قطار شهری است؛ با نماد اتوبوس، ایستگاه اتوبوس می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p072-n143",
+  "hint": "زمینهٔ زرد و نماد اتوبوس یعنی ایستگاه اتوبوس، نه پارکینگ اتوبوس؛ پارکینگ با حرف P روی مربع آبی نشان داده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p073-n144",
+  "hint": "کادر سفید با نوشتهٔ P+R روی مربع آبی، یکی از نسخه‌های تابلوی پارک سوار در کتاب است؛ پارکینگ ساده فقط حرف P دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p073-n147",
+  "hint": "نماد دهانهٔ تونل بدون خط مورب قرمز یعنی «تونل»؛ ایستادن و توقف درون تونل‌ها ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p079-n167",
+  "hint": "خط مورب قرمز روی تابلوی آبی تونل یعنی پایان تونل، نه ممنوعیت؛ ممنوعیت‌ها بیشتر روی دایرهٔ حاشیه‌قرمز می‌آیند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p087-n195",
+  "hint": "تابلوی «محدوده» با نشان P که نوار مورب هاشوری خاکستری رویش کشیده شده، پایان محدودهٔ پارک آزاد است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p087-n196",
+  "hint": "عابر پیاده روی خط‌کشی عابر در مربع آبی یعنی گذرگاه پیاده؛ اگر عابری در حال عبور باشد، باید پیش از گذرگاه توقف کنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p093-n221",
+  "hint": "مربع آبی با حرف P و بدون هیچ نماد اضافه، پارکینگ است؛ توقف ممنوع دایرهٔ آبی با حاشیه و خط مورب قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p101-n246",
+  "hint": "حرف P همراه واژهٔ «مترو» روی مربع آبی یعنی پارک سوار؛ P به‌تنهایی فقط پارکینگ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p113-n287",
+  "hint": "حرف سفید P به‌تنهایی روی مربع آبی یعنی پارکینگ؛ در پارک سوار کنار P واژهٔ «مترو» یا نماد قطار شهری می‌آید، یا روی تابلو «P+R» نوشته شده است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: states that a park-and-ride sign always has «مترو» or the tram symbol next to P, but p.39 also shows the P+R park-and-ride variant; a learner could take a P+R sign for a plain parking sign.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p116-n298",
+  "hint": "پاسخ نمونه‌آزمون تابلوی P با واژهٔ «مترو» است که پارک سوار نام دارد؛ ولی کتاب تابلوی P با نماد قطار شهری را هم «پارک سوار» نامیده است.",
+  "basis": "book_conflict",
+  "note": "book captions both the P+«مترو» sign (keyed) and the P+tram sign (another option) as پارک سوار",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e13-p026-n02",
+  "hint": "تابلوی آبی با دهانهٔ تاریک تونل و قاب آجری در مربع سفید یعنی تونل؛ هنگام عبور از تونل چراغ‌ها را روشن کنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e13-p026-n07",
+  "hint": "تابلوی سفید «محدوده» با مربع آبی P یعنی محدوده پارک آزاد؛ اگر به‌جای P نشان توقف ممنوع بود، محدودهٔ توقف ممنوع می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e14-p028-n09",
+  "hint": "تابلوی زرد با نماد اتوبوس و نوشتهٔ «ایستگاه اتوبوس» محل ایستگاه را اعلام می‌کند، نه مسیر ویژه؛ نسخهٔ قطار شهری نماد قطار دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e3-p006-n05",
+  "hint": "ساده‌ترین تابلو، یعنی فقط حرف سفید P روی مربع آبی، پارکینگ است؛ نسخه‌های دارای «مترو» یا نماد قطار، پارک سوارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p053-n26",
+  "hint": "آچار سیاه در مربع سفید روی تابلوی آبی خدمات یعنی تعمیرگاه؛ پمپ بنزین نشان جایگاه سوخت و صلیب سرخ نشان پست امدادی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p057-n27",
+  "hint": "نماد چادر در مربع سفید یعنی استراحتگاه (چادر)؛ اگر تریلر مسافرتی (کاروان) بود، استراحتگاه (کاروان) می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e18-p077-n29",
+  "hint": "مربع آبی با دو پیکان سفید که ساقهٔ پیکان راست خمیده است (ادغام خط)، یعنی تعداد خطوط عبور کم می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e20-p085-n26",
+  "hint": "نماد پمپ بنزین با شلنگ در مربع سفید تابلوی آبی یعنی جایگاه سوخت؛ آچار نشان تعمیرگاه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p014-n02",
+  "hint": "مربع آبی با دو پیکان سفید که ساقهٔ پیکان راست در پایین خم شده (ادغام خط)، کاهش خطوط عبور است؛ سه پیکان نشان افزایش است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p014-n03",
+  "hint": "دو کوهنورد در حال راه رفتن (یکی با عصا) در مربع سفید تابلوی آبی یعنی شروع محل پیاده‌روی؛ عبور پیاده ممنوع، دایرهٔ حاشیه‌قرمز است.",
+  "basis": "book",
+  "note": "revised after independent check: Minor picture misdescription: says both hikers carry sticks («دو کوهنورد عصابه‌دست»), but in the picture only one of the two walkers holds a stick.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p019-n09",
+  "hint": "دو پیاده‌رو در حال راه رفتن (یکی با عصا) روی تابلوی خدمات آبی یعنی شروع محل پیاده‌روی؛ «فقط عبور پیاده» دایرهٔ آبی با بزرگسال و کودک است.",
+  "basis": "book",
+  "note": "revised after independent check: Minor picture misdescription: says both walkers carry sticks («دو پیاده‌روِ عصابه‌دست»), but in the picture only one of them holds a stick.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n02",
+  "hint": "دو پیکان سفید روی زمینهٔ آبی تیره که ساقهٔ پیکان راست خم شده (ادغام خط)، کاهش خطوط عبور است؛ سه پیکان سیاه رو به بالا روی زمینهٔ سفید، افزایش خطوط است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'three-arrow signs are lane-increase signs' is false for other three-arrow signs in the book (p.37 speed-per-lane signs with three white arrows on blue, and «خط ویژه عبور» with three black arrows, two pointing down). Limit it to three upward black arrows on white.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n03",
+  "hint": "مستطیل آبی با مربع سفید، تابلوی خدمات است؛ دو کوهنورد با عصا در آن یعنی شروع محل پیاده‌روی، نه گذرگاه عابر که خط‌کشی دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p036-n013",
+  "hint": "خانه‌ای کنار درخت کاج در مربع سفید تابلوی آبی، نشان مهمانسراست؛ چادر و کاروان مربوط به استراحتگاه‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p037-n017",
+  "hint": "نماد تریلر مسافرتی (کاروان) در مربع سفید تابلوی آبی یعنی استراحتگاه (کاروان)؛ نماد چادر، استراحتگاه (چادر) است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p038-n023",
+  "hint": "فقط نماد چادر روی تابلوی خدمات آبی آمده، پس استراحتگاه (چادر) است؛ چادر و کاروان با هم، «استراحتگاه» کلی‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p039-n024",
+  "hint": "نماد گوشی تلفن در مربع سفید تابلوی آبی خدمات، در کتاب به‌سادگی «تلفن عمومی» نام دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p039-n026",
+  "hint": "نماد آچار روی تابلوی آبی خدمات، در کتاب فقط «تعمیرگاه» معنا شده و نوع خودرو یا فروش ابزار را نشان نمی‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p041-n032",
+  "hint": "قاشق و چنگال ضربدری در مربع سفید یعنی غذاخوری (رستوران)؛ نماد تخت‌خواب مربوط به هتل و فنجان مربوط به چایخانه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p042-n038",
+  "hint": "صلیب سرخ در مربع سفید تابلوی آبی یعنی پست امدادی؛ کتاب نسخهٔ هلال سرخ را هم با همین نام «پست امدادی» آورده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p051-n069",
+  "hint": "هلال سرخ روی مربع سفید تابلوی آبی، در کتاب «پست امدادی» نام دارد؛ نسخهٔ صلیب سرخ هم همین معنا را دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p052-n071",
+  "hint": "وقتی چادر و کاروان با هم روی تابلوی خدمات آبی آمده‌اند، کتاب آن را به‌طور کلی «استراحتگاه» نامیده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p054-n080",
+  "hint": "نماد تخت‌خواب روی تابلوی آبی خدمات یعنی هتل؛ فنجان نشان چایخانه و قاشق و چنگال نشان غذاخوری است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p058-n094",
+  "hint": "درخت کاج و میز و نیمکت در مربع سفید یعنی تفرجگاه (محل گردش)؛ درخت همراه خانه نشان مهمانسراست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p058-n096",
+  "hint": "دو پیکان که ساقهٔ پیکان راست خمیده است، ادغام خط و کاهش خطوط عبور را نشان می‌دهد؛ کتاب همین نقش را روی زمینهٔ آبی آورده است.",
+  "basis": "book",
+  "note": "question shows a white/black version; book shows the same pictogram on blue",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p061-n106",
+  "hint": "سه پیکان رو به بالا روی مربع سفید که ساقهٔ پیکان راست خمیده است، «افزایش خطوط عبور» است؛ کاهش با دو پیکان روی زمینهٔ آبی می‌آید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p062-n108",
+  "hint": "به‌جای پیکان سوم، خطی آمده که سرش به نوار افقی ختم می‌شود؛ یعنی آن خط ادامه ندارد و یکی از خطوط عبور بسته است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p064-n115",
+  "hint": "حروف WC در مربع سفید تابلوی آبی خدمات، در کتاب با عنوان سادهٔ «دستشویی» آمده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p066-n122",
+  "hint": "دو پیاده‌رو با عصا در مربع سفید روی زمینهٔ آبی، در کتاب «شروع محل پیاده‌روی» است، نه عبور سالخوردگان.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p072-n141",
+  "hint": "فنجان و نعلبکی در مربع سفید تابلوی آبی، در کتاب «چایخانه» نام گرفته است؛ غذاخوری با قاشق و چنگال مشخص می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p092-n215",
+  "hint": "دو خط که در بالا به یک پیکان می‌رسند یعنی ادغام خطوط و کاهش خطوط عبور؛ کتاب همین مفهوم را با دو پیکان و ساقهٔ خمیده روی زمینهٔ آبی آورده است.",
+  "basis": "book",
+  "note": "pictured white merge variant is not drawn in the book; meaning grounded in the book's blue کاهش خطوط عبور sign",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p096-n230",
+  "hint": "سه پیکان سیاه که ساقهٔ پیکان راست خمیده است، یعنی خطوط عبور بیشتر شده: افزایش خط عبور؛ کاهش خطوط، دو پیکان دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e11-p022-n03",
+  "hint": "آبی رنگ راهنمای خدمات است و پمپ بنزین داخل مربع سفید، خدمت «جایگاه سوخت» را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e13-p026-n03",
+  "hint": "آچار یعنی تعمیرگاه؛ در تابلوهای خدمات آبی، نماد سیاه داخل مربع سفید نوع خدمت را نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e14-p028-n03",
+  "hint": "چادر سیاه مثلثی در مربع سفید یعنی استراحتگاه (چادر)؛ هتل با نماد تخت‌خواب نشان داده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e5-p010-n06",
+  "hint": "مربع آبی با دو پیکان سفید و ساقهٔ خمیدهٔ پیکان راست، کاهش خطوط عبور است؛ خطی که کنار پیکان‌های سیاه به‌جای پیکان به نوار افقی ختم شود، یعنی آن خط بسته است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'a line whose head ends in a horizontal bar = closed lane' also fits the dead-end signs (p.41 بن بست / سمت راست بن بست: a white road ending in a red bar), one of which is an option in this very picture. Limit it to the lane sign with black arrows.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e7-p014-n03",
+  "hint": "دو کوهنورد با عصا روی تابلوی خدمات آبی یعنی شروع محل پیاده‌روی؛ گذرگاه پیاده، عابر را روی خط‌کشی عابر نشان می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p043-n12",
+  "hint": "عدد سفید روی مربع آبی، سرعت توصیه‌شده است؛ حداقل سرعت روی دایرهٔ آبی نوشته می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p055-n10",
+  "hint": "مستطیل آبی با حرف سفید P در بالا و صندلی چرخ‌دار در مربع سفید پایین، پارکینگ مخصوص افراد معلول است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p069-n26",
+  "hint": "مربع آبی با عدد ۶۰ فقط سرعت را توصیه می‌کند؛ ممنوعیت سرعت بیشتر، دایرهٔ سفید با حاشیهٔ قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p069-n30",
+  "hint": "هم حرف P (پارکینگ) و هم نماد صندلی چرخ‌دار باید در یک تابلو باشند؛ این ترکیب یعنی پارکینگ مخصوص افراد معلول.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e17-p071-n11",
+  "hint": "کامیون سفید روی مربع آبی یعنی مسیر توصیه‌شده برای وسایل سنگین؛ ممنوعیت‌های کامیون روی دایرهٔ حاشیه‌قرمز می‌آیند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p078-n04",
+  "hint": "حرف P یعنی پارکینگ و صندلی چرخ‌دار یعنی مخصوص افراد معلول؛ این تابلو پارکینگ ویژهٔ آنان است، نه پارک سوار.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p081-n26",
+  "hint": "جادهٔ سفیدی که شاخهٔ راستش به نوار قرمز ختم می‌شود، یعنی راه سمت راست بن‌بست است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p011-n10",
+  "hint": "مستطیل بلند آبی با عدد ۲۰۰ و دو نوار مورب سفید یعنی ۲۰۰ متر تا خروجی آزادراه؛ تابلوی فاصله تا تقاطع راه‌آهن سفید است و نوارهای مورب قرمز دارد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general visual rule: «red bars on a white background = railway crossing» is false for the edge-marker signs (حاشیه‌نما, white with red diagonal stripes, p.44). State it in the safe direction, limited to the railway distance board (p.32).",
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p022-n06",
+  "hint": "صندلی چرخ‌دار زیر حرف P روی تابلوی آبی، پارکینگ را به افراد معلول اختصاص می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-visual-e1-p009-n26",
+  "hint": "عابر سفید روی سطح شیب‌دار در مربع آبی یعنی زیرگذر یا روگذر پیاده؛ شیب ده درصد، مثلث هشدار با حاشیهٔ قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-visual-e1-p009-n27",
+  "hint": "روی مربع آبی، جاده‌ای که یک شاخه‌اش به مانع شطرنجی قرمز و سفید ختم می‌شود، خط عبور برای گریز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e02-n05",
+  "hint": "مربع آبی با عابری که روی سطح شیب‌دار یا پله راه می‌رود، زیرگذر یا روگذر را نشان می‌دهد؛ گذرگاه پیاده خط‌کشی عابر دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e03-n06",
+  "hint": "عدد ۲۰۰ و دو نوار مورب سفید روی مستطیل آبی یعنی ۲۰۰ متر تا خروجی آزادراه؛ هر نوار نشان ۱۰۰ متر است.",
+  "basis": "book",
+  "note": "keyed option text reads ۲۰۰۰ متر (typo); the pictured sign shows 200 m with two bars, so the hint is written for 200 m",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e04-n06",
+  "hint": "ترکیب P با نماد صندلی چرخ‌دار یعنی پارکینگی که مخصوص افراد معلول است؛ P به‌تنهایی فقط پارکینگ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-efb654c7",
+  "hint": "عابر پیادهٔ سفید روی شیب یا پله در مربع آبی، زیرگذر یا روگذر است؛ شروع محل پیاده‌روی دو کوهنورد عصابه‌دست دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p039-n025",
+  "hint": "هر چهار نسخه (عابر روی پله یا سطح شیب‌دار، رو به بالا یا پایین) در کتاب «زیرگذر یا روگذر» نام دارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p044-n044",
+  "hint": "جادهٔ سفیدی که انتهای بالایش با نوار قرمز افقی بسته شده، یعنی راه ادامه ندارد: بن‌بست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p054-n082",
+  "hint": "مربع آبی با عدد سفید، سرعت توصیه‌شده است؛ حداکثر سرعت روی دایرهٔ حاشیه‌قرمز و حداقل سرعت روی دایرهٔ آبی می‌آید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ }
+]

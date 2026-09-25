@@ -1,0 +1,856 @@
+[
+ {
+  "id": "q-600-e19-p080-n22",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "از زمانی که راننده تشخیص می دهد نیاز به توقف دارد تا لحظه به کار گرفتن ترمزها، زمان واکنش نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p013-n27",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "از زمانی که راننده تشخیص می دهد نیاز به توقف دارد تا لحظه به کار گرفتن ترمزها، زمان واکنش نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p084-n22",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "مسافتی که از زمان ترمز تا زمان توقف طی می شود، مسافت ترمز نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n27",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "از زمانی که راننده تشخیص می دهد نیاز به توقف دارد تا لحظه به کار گرفتن ترمزها، زمان واکنش نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-29",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "در جاده هایی که از لحاظ آسفالت شرایط مطلوبی نداشته یا آغشته به قیر بوده یا شن و ماسه در سطح آسفالت وجود دارد یا در شرایط بد آب و هوایی، مسافت توقف افزایش خواهد یافت.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n17",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "زمانی که طول می کشد تا خودروی شما متوقف شود به عوامل زیر بستگی دارد:",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "the three factors (زمان واکنش، مسافت ترمز، مسافت توقف) are listed right below on the same page"
+ },
+ {
+  "id": "q-e5-p011-n16",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "مسافتی که از زمان ترمز تا زمان توقف طی می شود، مسافت ترمز نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p012-n14",
+  "bookPage": 94,
+  "confidence": "high",
+  "supportingText": "از زمانی که راننده تشخیص می دهد نیاز به توقف دارد تا لحظه به کار گرفتن ترمزها، زمان واکنش نام دارد.",
+  "bookReference": "زمان لازم برای توقف خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p008-n22",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که از مقابل به شما نزدیک می شود ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p052-n22",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "محدوده دید راننده در شب کاهش می یابد.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n09",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که از مقابل به شما نزدیک می شود ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n16",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که از مقابل به شما نزدیک می شود ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n29",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "محدوده دید راننده در شب کاهش می یابد.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p051-n09",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که در جلو شما در حال حرکت است ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image is the night-headlight figure on p96"
+ },
+ {
+  "id": "q-600-e14-p059-n07",
+  "bookPage": 96,
+  "confidence": "high",
+  "supportingText": "۱- سرعت خود را کم کنید.\n- ۲- به سمت راست جاده نگاه کنید.\n- ۳- همچنانکه به سمت راست جاده نگاه می کنید، با کنار چشم حرکت خودرو مقابل را تحت نظر داشته باشید.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p013-n23",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که در جلو شما در حال حرکت است ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image is the night-headlight figure on p96"
+ },
+ {
+  "id": "q-ayin1-e11-n09",
+  "bookPage": 96,
+  "confidence": "high",
+  "supportingText": "۱- سرعت خود را کم کنید.\n- ۲- به سمت راست جاده نگاه کنید.\n- ۳- همچنانکه به سمت راست جاده نگاه می کنید، با کنار چشم حرکت خودرو مقابل را تحت نظر داشته باشید.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n17",
+  "bookPage": 96,
+  "confidence": "high",
+  "supportingText": "چشم، موثرترین عضو بدن هنگام رانندگی در تشخیص خطرات است.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n17",
+  "bookPage": 96,
+  "confidence": "high",
+  "supportingText": "۱- سرعت خود را کم کنید.\n- ۲- به سمت راست جاده نگاه کنید.\n- ۳- همچنانکه به سمت راست جاده نگاه می کنید، با کنار چشم حرکت خودرو مقابل را تحت نظر داشته باشید.",
+  "bookReference": "رانندگی در شب",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n15",
+  "bookPage": 95,
+  "confidence": "high",
+  "supportingText": "زمانی که فاصله شما با خودرویی که در جلو شما در حال حرکت است ۱۵۰ متر یا کمتر باشد.",
+  "bookReference": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید",
+  "secondaryPages": [
+   96
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image is the night-headlight figure on p96"
+ },
+ {
+  "id": "q-600-e8-p036-n22",
+  "bookPage": 97,
+  "confidence": "high",
+  "supportingText": "از سیستم تهویه خودرو به منظور جلوگیری از عرق کردن شیشه های خودرو استفاده نمایید.",
+  "bookReference": "رانندگی در شرایط بد آب و هوا",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p027-n20",
+  "bookPage": 97,
+  "confidence": "high",
+  "supportingText": "از سیستم تهویه خودرو به منظور جلوگیری از عرق کردن شیشه های خودرو استفاده نمایید.",
+  "bookReference": "رانندگی در شرایط بد آب و هوا",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n04",
+  "bookPage": 97,
+  "confidence": "high",
+  "supportingText": "چراغهای جلو را در حالت نور پایین روشن نمایید.",
+  "bookReference": "رانندگی در شرایط بد آب و هوا",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p020-n14",
+  "bookPage": 92,
+  "confidence": "medium",
+  "supportingText": "اغلب برخورد ها و تصادفات توسط رانندگانی که فاصله طولی ایمن را رعایت نمی کنند رخ می دهد.",
+  "bookReference": "رعایت فاصله طولی ایمن",
+  "secondaryPages": [
+   165
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book blames most collisions on not keeping a safe following distance (getting too close); \"lack of attention\" is not stated"
+ },
+ {
+  "id": "q-e8-p017-n20",
+  "bookPage": 98,
+  "confidence": "high",
+  "supportingText": "رانندگان کلیه وسایل نقلیه موظفند از خط عبور یا مسیر عبوری سمت راست راه حرکت نمایند",
+  "bookReference": "از سمت راست حرکت کنید",
+  "secondaryPages": [
+   46
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p032-n22",
+  "bookPage": 99,
+  "confidence": "high",
+  "supportingText": "در طول عبور از خط آهن دنده خودرو را تعویض ننمایید.",
+  "bookReference": "تقاطع با راه آهن",
+  "secondaryPages": [
+   57
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n09",
+  "bookPage": 99,
+  "confidence": "high",
+  "supportingText": "در طول عبور از خط آهن دنده خودرو را تعویض ننمایید.",
+  "bookReference": "تقاطع با راه آهن",
+  "secondaryPages": [
+   57
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n26",
+  "bookPage": 99,
+  "confidence": "high",
+  "supportingText": "در طول عبور از خط آهن دنده خودرو را تعویض ننمایید.",
+  "bookReference": "تقاطع با راه آهن",
+  "secondaryPages": [
+   57
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p042-n02",
+  "bookPage": 105,
+  "confidence": "high",
+  "supportingText": "در خیابان یا در تقاطعی که وسایل نقلیه روبروی یکدیگر حرکت می‌کنند، هرگاه وسیله‌ای بخواهد گردش به چپ کند حق تقدم با وسیله نقلیه‌ای است که مستقیم و در مسیر مجاز عبور می‌نماید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "yellow turns left, green comes straight from the opposite side"
+ },
+ {
+  "id": "q-600-e10-p045-n25",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "right-hand rule applied to the image (blue is on yellow's right, red has blue on its left); q-visual-e14-p028-n13 uses the same image with a different key"
+ },
+ {
+  "id": "q-600-e11-p049-n30",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "green and orange face yield signs; order within each pair follows the right-hand rule (p105)"
+ },
+ {
+  "id": "q-600-e12-p050-n02",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "در صورت نبودن خط ایست در فاصله ۵ متری چراغ راهنمایی و رانندگی بایستید",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p051-n13",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "red car in the image is called نارنجی in the key; red is on yellow's right and yellow on blue's right; blue also turns left"
+ },
+ {
+  "id": "q-600-e15-p063-n09",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "T-junction: main-road cars (red turning right, blue turning left) before side-road green; red before blue per rule الف on the same page"
+ },
+ {
+  "id": "q-600-e16-p067-n14",
+  "bookPage": 51,
+  "confidence": "low",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: same image as q-600-e15-p063-n09 (key red, blue, green); book gives main-road cars priority over the side-road green car"
+ },
+ {
+  "id": "q-600-e17-p073-n29",
+  "bookPage": 57,
+  "confidence": "medium",
+  "supportingText": "هنگام برخورد با وسایل نقلیه امدادی که دستگاه های آگاه سازی شنیداری یادیداری خود را به کارانداخته باشند تاحدامکان وسیله نقلیه را در مسیرمجاز خود به سمت راست راه هدایت وراه رابرای آنها بازکنند",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "ambulance first (emergency-vehicle rule, p57); green turning right precedes yellow turning left into the same street (rule الف, p105)"
+ },
+ {
+  "id": "q-600-e18-p075-n11",
+  "bookPage": 57,
+  "confidence": "medium",
+  "supportingText": "هنگام برخورد با وسایل نقلیه امدادی که دستگاه های آگاه سازی شنیداری یادیداری خود را به کارانداخته باشند تاحدامکان وسیله نقلیه را در مسیرمجاز خود به سمت راست راه هدایت وراه رابرای آنها بازکنند",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "ambulance first (emergency-vehicle rule, p57); green turning right precedes yellow turning left into the same street (rule الف, p105)"
+ },
+ {
+  "id": "q-600-e19-p079-n16",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "yellow is on green's right; red turning left yields to oncoming straight green (left-turn rule, same page)"
+ },
+ {
+  "id": "q-600-e4-p019-n14",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "green and orange face yield signs; order within each pair follows the right-hand rule (p105)"
+ },
+ {
+  "id": "q-600-e5-p023-n16",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "blue and orange face yield signs; in each pair the left-turning car yields to the oncoming straight car (p105)"
+ },
+ {
+  "id": "q-600-e5-p025-n29",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ زرد به معنی هشدار برای تغییر رنگ چراغ از سبز به قرمز می باشد.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book defines yellow as a warning for green-to-red, so the red-to-green option is the false one"
+ },
+ {
+  "id": "q-600-e6-p026-n04",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "در صورت نبودن خط ایست در فاصله ۵ متری چراغ راهنمایی و رانندگی بایستید",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p027-n07",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ قرمز: به معنی توقف می باشد. زمانی که چراغ قرمز است باید پشت خط عابر پیاده یا خط ایست توقف نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p029-n29",
+  "bookPage": 57,
+  "confidence": "medium",
+  "supportingText": "هنگام برخورد با وسایل نقلیه امدادی که دستگاه های آگاه سازی شنیداری یادیداری خود را به کارانداخته باشند تاحدامکان وسیله نقلیه را در مسیرمجاز خود به سمت راست راه هدایت وراه رابرای آنها بازکنند",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "ambulance first (p57); green turning right precedes the left-turning car (orange in the image = زرد in the key) into the same street (rule الف, p105)"
+ },
+ {
+  "id": "q-600-visual-e1-p006-n01",
+  "bookPage": 104,
+  "confidence": "medium",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "blue and yellow face yield signs; orange (right turn) before green (left turn) into the same street, and straight blue before left-turning yellow (p105)"
+ },
+ {
+  "id": "q-ayin1-e04-n09",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ زرد به معنی هشدار برای تغییر رنگ چراغ از سبز به قرمز می باشد.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book defines yellow as a warning for green-to-red, so the red-to-green option is the false one"
+ },
+ {
+  "id": "q-ayin1-e05-n09",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ قرمز: به معنی توقف می باشد. زمانی که چراغ قرمز است باید پشت خط عابر پیاده یا خط ایست توقف نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n29",
+  "bookPage": 57,
+  "confidence": "medium",
+  "supportingText": "هنگام برخورد با وسایل نقلیه امدادی که دستگاه های آگاه سازی شنیداری یادیداری خود را به کارانداخته باشند تاحدامکان وسیله نقلیه را در مسیرمجاز خود به سمت راست راه هدایت وراه رابرای آنها بازکنند",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "ambulance first (emergency-vehicle rule, p57); green turning right precedes yellow turning left into the same street (rule الف, p105)"
+ },
+ {
+  "id": "q-ayin1-e09-n16",
+  "bookPage": 104,
+  "confidence": "low",
+  "supportingText": "در صورتی که تقاطع فاقد چراغ راهنما بوده ولی دارای تابلو رعایت حق تقدم باشد باید ابتدا خودروهایی که مسیر آنها فاقد تابلوی مذکور می باشد، عبور نموده",
+  "bookReference": "تقاطع هایی که دارای علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "blurry image; key implies the bottom (yellow) car faces a yield sign (small mark at its corner); otherwise the p105 left-turn rule reverses the order, as keyed in q-visual-e15-p030-n08"
+ },
+ {
+  "id": "q-e16-p032-n02",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ قرمز: به معنی توقف می باشد. زمانی که چراغ قرمز است باید پشت خط عابر پیاده یا خط ایست توقف نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p006-n11",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "چراغ زرد به معنی هشدار برای تغییر رنگ چراغ از سبز به قرمز می باشد.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book defines yellow as a warning for green-to-red, so the red-to-green option is the false one"
+ },
+ {
+  "id": "q-e6-p012-n15",
+  "bookPage": 100,
+  "confidence": "high",
+  "supportingText": "در صورت نبودن خط ایست در فاصله ۵ متری چراغ راهنمایی و رانندگی بایستید",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p052-n072",
+  "bookPage": 39,
+  "confidence": "low",
+  "supportingText": "ایستگاه اتوبوس",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "taxi-station sign itself is not in the book; the same yellow station-sign family (bus / urban-train station) is shown on this page"
+ },
+ {
+  "id": "q-visual-e11-p022-n08",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "T-junction: white car from the side road goes last; red turning right precedes black turning left into the same street (rule الف, same page)"
+ },
+ {
+  "id": "q-visual-e14-p028-n13",
+  "bookPage": 105,
+  "confidence": "low",
+  "supportingText": "در یک چهار راه هم عرض (عرض خیابانهای متقاطع برابر باشد) که فاقد علائم کنترلی باشد، شما باید به خودرویی که در سمت راست شماست اجازه عبور دهید",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   106
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: same image as q-600-e10-p045-n25 (key red, blue, yellow by the right-hand rule); this key puts yellow before blue"
+ },
+ {
+  "id": "q-visual-e15-p030-n08",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در خیابان یا در تقاطعی که وسایل نقلیه روبروی یکدیگر حرکت می‌کنند، هرگاه وسیله‌ای بخواهد گردش به چپ کند حق تقدم با وسیله نقلیه‌ای است که مستقیم و در مسیر مجاز عبور می‌نماید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "blue (top) turns left, yellow comes straight from the opposite side; q-ayin1-e09-n16 has the same image with the reverse key"
+ },
+ {
+  "id": "q-visual-e15-p030-n13",
+  "bookPage": 51,
+  "confidence": "medium",
+  "supportingText": "در برخورد راه اصلی با راه فرعی حق تقدم با وسیله ای است که از راه اصلی عبور می کند",
+  "bookReference": "مقررات رانندگی – حق‌تقدم",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "same T-junction scene as q-600-e15-p063-n09: main-road cars before side-road green; red (right turn) before blue (left turn)"
+ },
+ {
+  "id": "q-visual-e2-p004-n13",
+  "bookPage": 57,
+  "confidence": "medium",
+  "supportingText": "هنگام برخورد با وسایل نقلیه امدادی که دستگاه های آگاه سازی شنیداری یادیداری خود را به کارانداخته باشند تاحدامکان وسیله نقلیه را در مسیرمجاز خود به سمت راست راه هدایت وراه رابرای آنها بازکنند",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "ambulance first (emergency-vehicle rule, p57); green turning right precedes yellow turning left into the same street (rule الف, p105)"
+ },
+ {
+  "id": "q-600-e1-p008-n16",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند. این چراغ معمولا در محل برخورد راه اصلی با فرعی نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p074-n08",
+  "bookPage": 101,
+  "confidence": "medium",
+  "supportingText": "چراغ چشمک زن قرمز: در صورت برخورد با این چراغ باید قبل از خط ایست توقف نموده و پس از اطمینان از نبودن خطر تصادف و رعایت حق تقدم عبور، حرکت و عبور نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "the \"5 m before the pedestrian crossing\" detail is not stated in the book"
+ },
+ {
+  "id": "q-600-e19-p078-n05",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن قرمز: در صورت برخورد با این چراغ باید قبل از خط ایست توقف نموده و پس از اطمینان از نبودن خطر تصادف و رعایت حق تقدم عبور، حرکت و عبور نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p023-n09",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک‌زن زرد برای عبور با احتیاط: رانندگان وسایل نقلیه مکلفند با دیدن این چراغ از تقاطع و گذرگاه پیاده با احتیاط و سرعت کم عبور نمایند. این چراغ معمولا در محل برخورد راه اصلی با فرعی نصب می گردد.",
+  "bookReference": "چراغ چشمک‌زن زرد برای عبور با احتیاط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p030-n01",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن زرد: در تقاطع ها نشان دهنده این است که می توانید با احتیاط و سرعت کم از تقاطع عبور کنید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p039-n11",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن قرمز: در صورت برخورد با این چراغ باید قبل از خط ایست توقف نموده و پس از اطمینان از نبودن خطر تصادف و رعایت حق تقدم عبور، حرکت و عبور نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n30",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن زرد: در تقاطع ها نشان دهنده این است که می توانید با احتیاط و سرعت کم از تقاطع عبور کنید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n27",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن قرمز: در صورت برخورد با این چراغ باید قبل از خط ایست توقف نموده و پس از اطمینان از نبودن خطر تصادف و رعایت حق تقدم عبور، حرکت و عبور نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p010-n07",
+  "bookPage": 101,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک زن قرمز: در صورت برخورد با این چراغ باید قبل از خط ایست توقف نموده و پس از اطمینان از نبودن خطر تصادف و رعایت حق تقدم عبور، حرکت و عبور نمایید.",
+  "bookReference": "چراغ راهنمایی و رانندگی",
+  "secondaryPages": [
+   14
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n11",
+  "bookPage": 102,
+  "confidence": "high",
+  "supportingText": "عبور مستقیم مجاز بوده ولی گردش به سمت پیکان غیر مجاز می باشد.",
+  "bookReference": "چراغ دایره ای سبز و چراغ پیکان قرمز",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e4-p008-n07",
+  "bookPage": 102,
+  "confidence": "high",
+  "supportingText": "عبور مستقیم مجاز بوده ولی گردش به سمت پیکان غیر مجاز می باشد.",
+  "bookReference": "چراغ دایره ای سبز و چراغ پیکان قرمز",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image is cropped; stem/ALT identify a green circular light with a red arrow"
+ },
+ {
+  "id": "q-600-e11-p048-n19",
+  "bookPage": 106,
+  "confidence": "high",
+  "supportingText": "در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند حتی اگر عرض خیابانی که مسیر آن است از عرض راه تلاقی کننده کمتر باشد.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "cars 1 and 2 go straight on the through road (matching figure on the same page); car 3 enters from the side road"
+ }
+]

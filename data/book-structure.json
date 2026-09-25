@@ -1,0 +1,2722 @@
+{
+ "schemaVersion": 1,
+ "source": {
+  "fileName": "main book.pdf",
+  "relativePath": "pdf's/main book.pdf",
+  "pdfPageCount": 222,
+  "title": "کتاب آموزشی هنرجویان پایه سوم"
+ },
+ "pageNumbering": {
+  "rule": "bookPage = bookPdfPage - 2",
+  "firstNumberedPdfPage": 3,
+  "unnumberedPdfPages": [
+   {
+    "pdfPage": 1,
+    "content": "جلد"
+   },
+   {
+    "pdfPage": 2,
+    "content": "صفحهٔ تبلیغاتی سایت"
+   }
+  ],
+  "verifiedPages": 220,
+  "mismatchedPages": [],
+  "method": "Printed header numbers were read visually on every rendered page; the table of contents on PDF page 3 lists the chapter start pages."
+ },
+ "tableOfContents": [
+  {
+   "title": "فهرست مطالب",
+   "bookPage": 1
+  },
+  {
+   "title": "فصل 1: قوانین و مقررات راهنمایی و رانندگی",
+   "bookPage": 2
+  },
+  {
+   "title": "فصل 2: رانندگی ایمن",
+   "bookPage": 77
+  },
+  {
+   "title": "فصل 3: آشنایی با سیستمهای فنی خودرو و سرویس و نگهداری",
+   "bookPage": 114
+  },
+  {
+   "title": "فصل 4: فرهنگ رانندگی",
+   "bookPage": 157
+  },
+  {
+   "title": "فصل 5: امداد و نجات",
+   "bookPage": 189
+  },
+  {
+   "title": "فصل 6: آلودگی های ترافیک",
+   "bookPage": 202
+  },
+  {
+   "title": "مراجع",
+   "bookPage": 220
+  }
+ ],
+ "chapters": [
+  {
+   "id": 1,
+   "title": "قوانین و مقررات راهنمایی و رانندگی",
+   "startBookPage": 2,
+   "endBookPage": 76,
+   "startPdfPage": 4,
+   "endPdfPage": 78,
+   "sectionIds": [
+    "s002",
+    "s003",
+    "s004",
+    "s005",
+    "s006",
+    "s007",
+    "s008",
+    "s009",
+    "s010",
+    "s011",
+    "s012",
+    "s013",
+    "s014",
+    "s015",
+    "s016",
+    "s017",
+    "s018",
+    "s019",
+    "s020",
+    "s021",
+    "s022",
+    "s023",
+    "s024",
+    "s025",
+    "s026",
+    "s027",
+    "s028",
+    "s029",
+    "s030",
+    "s031",
+    "s032",
+    "s033",
+    "s034",
+    "s035",
+    "s036",
+    "s037",
+    "s038",
+    "s039",
+    "s040",
+    "s041",
+    "s042",
+    "s043",
+    "s044",
+    "s045",
+    "s046",
+    "s047",
+    "s048",
+    "s049",
+    "s050",
+    "s051",
+    "s052",
+    "s053",
+    "s054",
+    "s055",
+    "s056",
+    "s057",
+    "s058",
+    "s059",
+    "s060",
+    "s061"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "رانندگی ایمن",
+   "startBookPage": 77,
+   "endBookPage": 113,
+   "startPdfPage": 79,
+   "endPdfPage": 115,
+   "sectionIds": [
+    "s062",
+    "s063",
+    "s064",
+    "s065",
+    "s066",
+    "s067",
+    "s068",
+    "s069",
+    "s070",
+    "s071",
+    "s072",
+    "s073",
+    "s074",
+    "s075",
+    "s076",
+    "s077",
+    "s078",
+    "s079",
+    "s080",
+    "s081",
+    "s082",
+    "s083",
+    "s084",
+    "s085",
+    "s086",
+    "s087",
+    "s088",
+    "s089",
+    "s090",
+    "s091",
+    "s092",
+    "s093",
+    "s094",
+    "s095",
+    "s096",
+    "s097",
+    "s098",
+    "s099",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "آشنایی با سیستمهای فنی خودرو و سرویس و نگهداری",
+   "startBookPage": 114,
+   "endBookPage": 156,
+   "startPdfPage": 116,
+   "endPdfPage": 158,
+   "sectionIds": [
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s160",
+    "s161",
+    "s162",
+    "s163",
+    "s164",
+    "s165",
+    "s166",
+    "s167",
+    "s168",
+    "s169",
+    "s170",
+    "s171",
+    "s172",
+    "s173"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "فرهنگ رانندگی",
+   "startBookPage": 157,
+   "endBookPage": 188,
+   "startPdfPage": 159,
+   "endPdfPage": 190,
+   "sectionIds": [
+    "s174",
+    "s175",
+    "s176",
+    "s177",
+    "s178",
+    "s179",
+    "s180",
+    "s181",
+    "s182",
+    "s183",
+    "s184",
+    "s185",
+    "s186",
+    "s187",
+    "s188",
+    "s189",
+    "s190",
+    "s191",
+    "s192"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "امداد و نجات",
+   "startBookPage": 189,
+   "endBookPage": 201,
+   "startPdfPage": 191,
+   "endPdfPage": 203,
+   "sectionIds": [
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "آلودگی های ترافیک",
+   "startBookPage": 202,
+   "endBookPage": 219,
+   "startPdfPage": 204,
+   "endPdfPage": 221,
+   "sectionIds": [
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s252",
+    "s253"
+   ]
+  }
+ ],
+ "frontAndBackMatter": [
+  {
+   "id": 0,
+   "title": "فهرست مطالب",
+   "startBookPage": 1,
+   "endBookPage": 1,
+   "startPdfPage": 3,
+   "endPdfPage": 3
+  },
+  {
+   "id": 7,
+   "title": "مراجع",
+   "startBookPage": 220,
+   "endBookPage": 220,
+   "startPdfPage": 222,
+   "endPdfPage": 222
+  }
+ ],
+ "sections": [
+  {
+   "title": "فهرست مطالب",
+   "chapterId": 0,
+   "startBookPage": 1,
+   "endBookPage": 1,
+   "id": "s001",
+   "startPdfPage": 3,
+   "endPdfPage": 3
+  },
+  {
+   "title": "فصل اول",
+   "chapterId": 1,
+   "startBookPage": 2,
+   "endBookPage": 2,
+   "id": "s002",
+   "startPdfPage": 4,
+   "endPdfPage": 4
+  },
+  {
+   "title": "قوانین و مقررات راهنمایی و رانندگی",
+   "chapterId": 1,
+   "startBookPage": 2,
+   "endBookPage": 2,
+   "id": "s003",
+   "startPdfPage": 4,
+   "endPdfPage": 4
+  },
+  {
+   "title": "قوانین و مقررات رانندگی",
+   "chapterId": 1,
+   "startBookPage": 3,
+   "endBookPage": 3,
+   "id": "s004",
+   "startPdfPage": 5,
+   "endPdfPage": 5
+  },
+  {
+   "title": "تعریف‌ها : (فصل اول آیین نامه راهنمایی و رانندگی)",
+   "chapterId": 1,
+   "startBookPage": 3,
+   "endBookPage": 12,
+   "id": "s005",
+   "startPdfPage": 5,
+   "endPdfPage": 14
+  },
+  {
+   "title": "علایم راهنمایی و رانندگی",
+   "chapterId": 1,
+   "startBookPage": 12,
+   "endBookPage": 13,
+   "id": "s006",
+   "startPdfPage": 14,
+   "endPdfPage": 15
+  },
+  {
+   "title": "الف - چراغ سبز برای حرکت",
+   "chapterId": 1,
+   "startBookPage": 13,
+   "endBookPage": 13,
+   "id": "s007",
+   "startPdfPage": 15,
+   "endPdfPage": 15
+  },
+  {
+   "title": "ب - چراغ زرد برای احتیاط",
+   "chapterId": 1,
+   "startBookPage": 14,
+   "endBookPage": 14,
+   "id": "s008",
+   "startPdfPage": 16,
+   "endPdfPage": 16
+  },
+  {
+   "title": "پ - چراغ قرمز برای ایست",
+   "chapterId": 1,
+   "startBookPage": 14,
+   "endBookPage": 14,
+   "id": "s009",
+   "startPdfPage": 16,
+   "endPdfPage": 16
+  },
+  {
+   "title": "ت - چراغ چشمک‌زن زرد برای عبور با احتیاط",
+   "chapterId": 1,
+   "startBookPage": 14,
+   "endBookPage": 14,
+   "id": "s010",
+   "startPdfPage": 16,
+   "endPdfPage": 16
+  },
+  {
+   "title": "ث - چراغ چشمک‌زن قرمز برای ایست و عبور",
+   "chapterId": 1,
+   "startBookPage": 14,
+   "endBookPage": 15,
+   "id": "s011",
+   "startPdfPage": 16,
+   "endPdfPage": 17
+  },
+  {
+   "title": "الف - بلند کردن دست به طور عمودی",
+   "chapterId": 1,
+   "startBookPage": 15,
+   "endBookPage": 15,
+   "id": "s012",
+   "startPdfPage": 17,
+   "endPdfPage": 17
+  },
+  {
+   "title": "ب - بلند کردن دست یا دست‌های مأمور به دو طرف و بطور افقی",
+   "chapterId": 1,
+   "startBookPage": 15,
+   "endBookPage": 19,
+   "id": "s013",
+   "startPdfPage": 17,
+   "endPdfPage": 21
+  },
+  {
+   "title": "مفهوم رنگ ها در علائم عبور و مرور",
+   "chapterId": 1,
+   "startBookPage": 20,
+   "endBookPage": 20,
+   "id": "s014",
+   "startPdfPage": 22,
+   "endPdfPage": 22
+  },
+  {
+   "title": "مفهوم شکل ها در علائم عبور و مرور",
+   "chapterId": 1,
+   "startBookPage": 21,
+   "endBookPage": 21,
+   "id": "s015",
+   "startPdfPage": 23,
+   "endPdfPage": 23
+  },
+  {
+   "title": "مفهوم خط‌کشی‌ها",
+   "chapterId": 1,
+   "startBookPage": 22,
+   "endBookPage": 22,
+   "id": "s016",
+   "startPdfPage": 24,
+   "endPdfPage": 24
+  },
+  {
+   "title": "خط طولی ممتد",
+   "chapterId": 1,
+   "startBookPage": 22,
+   "endBookPage": 22,
+   "id": "s017",
+   "startPdfPage": 24,
+   "endPdfPage": 24
+  },
+  {
+   "title": "خط مقطع یا بریده بریده",
+   "chapterId": 1,
+   "startBookPage": 22,
+   "endBookPage": 22,
+   "id": "s018",
+   "startPdfPage": 24,
+   "endPdfPage": 24
+  },
+  {
+   "title": "خط ممتد و مقطع ترکیبی",
+   "chapterId": 1,
+   "startBookPage": 23,
+   "endBookPage": 23,
+   "id": "s019",
+   "startPdfPage": 25,
+   "endPdfPage": 25
+  },
+  {
+   "title": "خطوط هاشور",
+   "chapterId": 1,
+   "startBookPage": 23,
+   "endBookPage": 23,
+   "id": "s020",
+   "startPdfPage": 25,
+   "endPdfPage": 25
+  },
+  {
+   "title": "خطوط زیگزاگ",
+   "chapterId": 1,
+   "startBookPage": 23,
+   "endBookPage": 23,
+   "id": "s021",
+   "startPdfPage": 25,
+   "endPdfPage": 25
+  },
+  {
+   "title": "خطوط پارک",
+   "chapterId": 1,
+   "startBookPage": 24,
+   "endBookPage": 24,
+   "id": "s022",
+   "startPdfPage": 26,
+   "endPdfPage": 26
+  },
+  {
+   "title": "خط کشی عرضی",
+   "chapterId": 1,
+   "startBookPage": 25,
+   "endBookPage": 25,
+   "id": "s023",
+   "startPdfPage": 27,
+   "endPdfPage": 27
+  },
+  {
+   "title": "خط کشی عبور پیاده",
+   "chapterId": 1,
+   "startBookPage": 25,
+   "endBookPage": 25,
+   "id": "s024",
+   "startPdfPage": 27,
+   "endPdfPage": 27
+  },
+  {
+   "title": "خط ممتد ایست",
+   "chapterId": 1,
+   "startBookPage": 26,
+   "endBookPage": 26,
+   "id": "s025",
+   "startPdfPage": 28,
+   "endPdfPage": 28
+  },
+  {
+   "title": "خطوط توقف منقطع",
+   "chapterId": 1,
+   "startBookPage": 26,
+   "endBookPage": 26,
+   "id": "s026",
+   "startPdfPage": 28,
+   "endPdfPage": 28
+  },
+  {
+   "title": "خطوط شطرنجی",
+   "chapterId": 1,
+   "startBookPage": 27,
+   "endBookPage": 27,
+   "id": "s027",
+   "startPdfPage": 29,
+   "endPdfPage": 29
+  },
+  {
+   "title": "فلشها",
+   "chapterId": 1,
+   "startBookPage": 27,
+   "endBookPage": 27,
+   "id": "s028",
+   "startPdfPage": 29,
+   "endPdfPage": 29
+  },
+  {
+   "title": "خطوط اضطرار",
+   "chapterId": 1,
+   "startBookPage": 28,
+   "endBookPage": 28,
+   "id": "s029",
+   "startPdfPage": 30,
+   "endPdfPage": 30
+  },
+  {
+   "title": "انواع تابلوهای راهنمایی و رانندگی",
+   "chapterId": 1,
+   "startBookPage": 28,
+   "endBookPage": 28,
+   "id": "s030",
+   "startPdfPage": 30,
+   "endPdfPage": 30
+  },
+  {
+   "title": "۱- تابلوهای بازدارنده یا انتظامی",
+   "chapterId": 1,
+   "startBookPage": 28,
+   "endBookPage": 28,
+   "id": "s031",
+   "startPdfPage": 30,
+   "endPdfPage": 30
+  },
+  {
+   "title": "۲- تابلوهای هشداردهنده یا اخطاری",
+   "chapterId": 1,
+   "startBookPage": 28,
+   "endBookPage": 28,
+   "id": "s032",
+   "startPdfPage": 30,
+   "endPdfPage": 30
+  },
+  {
+   "title": "۳- تابلوهای آگاهی دهنده یا اخباری",
+   "chapterId": 1,
+   "startBookPage": 28,
+   "endBookPage": 28,
+   "id": "s033",
+   "startPdfPage": 30,
+   "endPdfPage": 30
+  },
+  {
+   "title": "تابلوهای اخطاری",
+   "chapterId": 1,
+   "startBookPage": 29,
+   "endBookPage": 32,
+   "id": "s034",
+   "startPdfPage": 31,
+   "endPdfPage": 34
+  },
+  {
+   "title": "تابلوهای انتظامی",
+   "chapterId": 1,
+   "startBookPage": 33,
+   "endBookPage": 37,
+   "id": "s035",
+   "startPdfPage": 35,
+   "endPdfPage": 39
+  },
+  {
+   "title": "تابلوهای اخباری",
+   "chapterId": 1,
+   "startBookPage": 38,
+   "endBookPage": 41,
+   "id": "s036",
+   "startPdfPage": 40,
+   "endPdfPage": 43
+  },
+  {
+   "title": "تابلوهای راهنمای مسیر",
+   "chapterId": 1,
+   "startBookPage": 42,
+   "endBookPage": 42,
+   "id": "s037",
+   "startPdfPage": 44,
+   "endPdfPage": 44
+  },
+  {
+   "title": "تابلوهای مکمل",
+   "chapterId": 1,
+   "startBookPage": 43,
+   "endBookPage": 43,
+   "id": "s038",
+   "startPdfPage": 45,
+   "endPdfPage": 45
+  },
+  {
+   "title": "تابلوهای محلی",
+   "chapterId": 1,
+   "startBookPage": 44,
+   "endBookPage": 44,
+   "id": "s039",
+   "startPdfPage": 46,
+   "endPdfPage": 46
+  },
+  {
+   "title": "برچسب‌ها",
+   "chapterId": 1,
+   "startBookPage": 45,
+   "endBookPage": 45,
+   "id": "s040",
+   "startPdfPage": 47,
+   "endPdfPage": 47
+  },
+  {
+   "title": "مقررات رانندگی ـ مسیر و جهت عبور",
+   "chapterId": 1,
+   "startBookPage": 46,
+   "endBookPage": 47,
+   "id": "s041",
+   "startPdfPage": 48,
+   "endPdfPage": 49
+  },
+  {
+   "title": "مقررات رانندگی- سرعت",
+   "chapterId": 1,
+   "startBookPage": 47,
+   "endBookPage": 47,
+   "id": "s042",
+   "startPdfPage": 49,
+   "endPdfPage": 49
+  },
+  {
+   "title": "اول : در شهر ها و مناطق مسکونی",
+   "chapterId": 1,
+   "startBookPage": 47,
+   "endBookPage": 47,
+   "id": "s043",
+   "startPdfPage": 49,
+   "endPdfPage": 49
+  },
+  {
+   "title": "الف : معابر شریانی درجه یک",
+   "chapterId": 1,
+   "startBookPage": 47,
+   "endBookPage": 47,
+   "id": "s044",
+   "startPdfPage": 49,
+   "endPdfPage": 49
+  },
+  {
+   "title": "ب : معابر شریانی درجه دو",
+   "chapterId": 1,
+   "startBookPage": 47,
+   "endBookPage": 47,
+   "id": "s045",
+   "startPdfPage": 49,
+   "endPdfPage": 49
+  },
+  {
+   "title": "پ : معابر محلی",
+   "chapterId": 1,
+   "startBookPage": 47,
+   "endBookPage": 48,
+   "id": "s046",
+   "startPdfPage": 49,
+   "endPdfPage": 50
+  },
+  {
+   "title": "دوم ـ در راه های بیرون شهر و مناطق غیر مسکونی",
+   "chapterId": 1,
+   "startBookPage": 48,
+   "endBookPage": 48,
+   "id": "s047",
+   "startPdfPage": 50,
+   "endPdfPage": 50
+  },
+  {
+   "title": "الف : آزادراهها",
+   "chapterId": 1,
+   "startBookPage": 48,
+   "endBookPage": 48,
+   "id": "s048",
+   "startPdfPage": 50,
+   "endPdfPage": 50
+  },
+  {
+   "title": "ب : بزرگراههای دارای خطوط رفت و برگشت جدا از هم",
+   "chapterId": 1,
+   "startBookPage": 48,
+   "endBookPage": 48,
+   "id": "s049",
+   "startPdfPage": 50,
+   "endPdfPage": 50
+  },
+  {
+   "title": "پ : جاده های اصلی",
+   "chapterId": 1,
+   "startBookPage": 48,
+   "endBookPage": 48,
+   "id": "s050",
+   "startPdfPage": 50,
+   "endPdfPage": 50
+  },
+  {
+   "title": "ت : جاده های فرعی",
+   "chapterId": 1,
+   "startBookPage": 48,
+   "endBookPage": 49,
+   "id": "s051",
+   "startPdfPage": 50,
+   "endPdfPage": 51
+  },
+  {
+   "title": "مقررات رانندگی - سبقت",
+   "chapterId": 1,
+   "startBookPage": 49,
+   "endBookPage": 50,
+   "id": "s052",
+   "startPdfPage": 51,
+   "endPdfPage": 52
+  },
+  {
+   "title": "- سبقت گرفتن در موارد زیر ممنوع است :",
+   "chapterId": 1,
+   "startBookPage": 50,
+   "endBookPage": 50,
+   "id": "s053",
+   "startPdfPage": 52,
+   "endPdfPage": 52
+  },
+  {
+   "title": "مقررات رانندگی – حق‌تقدم",
+   "chapterId": 1,
+   "startBookPage": 51,
+   "endBookPage": 53,
+   "id": "s054",
+   "startPdfPage": 53,
+   "endPdfPage": 55
+  },
+  {
+   "title": "مقررات رانندگی – چراغ‌ها",
+   "chapterId": 1,
+   "startBookPage": 53,
+   "endBookPage": 54,
+   "id": "s055",
+   "startPdfPage": 55,
+   "endPdfPage": 56
+  },
+  {
+   "title": "مقررات رانندگی - گردش",
+   "chapterId": 1,
+   "startBookPage": 54,
+   "endBookPage": 55,
+   "id": "s056",
+   "startPdfPage": 56,
+   "endPdfPage": 57
+  },
+  {
+   "title": "مقررات رانندگی - توقف",
+   "chapterId": 1,
+   "startBookPage": 56,
+   "endBookPage": 59,
+   "id": "s057",
+   "startPdfPage": 58,
+   "endPdfPage": 61
+  },
+  {
+   "title": "مقررات مختلف",
+   "chapterId": 1,
+   "startBookPage": 59,
+   "endBookPage": 69,
+   "id": "s058",
+   "startPdfPage": 61,
+   "endPdfPage": 71
+  },
+  {
+   "title": "قانون رسیدگی به تخلفات رانندگی",
+   "chapterId": 1,
+   "startBookPage": 69,
+   "endBookPage": 70,
+   "id": "s059",
+   "startPdfPage": 71,
+   "endPdfPage": 72
+  },
+  {
+   "title": "جدول نمره منفی برای تخلفات رانندگی پرخطر",
+   "chapterId": 1,
+   "startBookPage": 71,
+   "endBookPage": 73,
+   "id": "s060",
+   "startPdfPage": 73,
+   "endPdfPage": 75
+  },
+  {
+   "title": "سایر قوانین مرتبط",
+   "chapterId": 1,
+   "startBookPage": 73,
+   "endBookPage": 76,
+   "id": "s061",
+   "startPdfPage": 75,
+   "endPdfPage": 78
+  },
+  {
+   "title": "فصل دوم",
+   "chapterId": 2,
+   "startBookPage": 77,
+   "endBookPage": 77,
+   "id": "s062",
+   "startPdfPage": 79,
+   "endPdfPage": 79
+  },
+  {
+   "title": "رانندگی ایمن",
+   "chapterId": 2,
+   "startBookPage": 77,
+   "endBookPage": 77,
+   "id": "s063",
+   "startPdfPage": 79,
+   "endPdfPage": 79
+  },
+  {
+   "title": "مقدمه",
+   "chapterId": 2,
+   "startBookPage": 78,
+   "endBookPage": 78,
+   "id": "s064",
+   "startPdfPage": 80,
+   "endPdfPage": 80
+  },
+  {
+   "title": "۱- بازدید خودرو",
+   "chapterId": 2,
+   "startBookPage": 78,
+   "endBookPage": 78,
+   "id": "s065",
+   "startPdfPage": 80,
+   "endPdfPage": 80
+  },
+  {
+   "title": "سیستم روشنایی:",
+   "chapterId": 2,
+   "startBookPage": 78,
+   "endBookPage": 78,
+   "id": "s066",
+   "startPdfPage": 80,
+   "endPdfPage": 80
+  },
+  {
+   "title": "بوق:",
+   "chapterId": 2,
+   "startBookPage": 78,
+   "endBookPage": 78,
+   "id": "s067",
+   "startPdfPage": 80,
+   "endPdfPage": 80
+  },
+  {
+   "title": "شیشه های خودرو:",
+   "chapterId": 2,
+   "startBookPage": 78,
+   "endBookPage": 79,
+   "id": "s068",
+   "startPdfPage": 80,
+   "endPdfPage": 81
+  },
+  {
+   "title": "تایر ها:",
+   "chapterId": 2,
+   "startBookPage": 79,
+   "endBookPage": 79,
+   "id": "s069",
+   "startPdfPage": 81,
+   "endPdfPage": 81
+  },
+  {
+   "title": "ترمزها:",
+   "chapterId": 2,
+   "startBookPage": 79,
+   "endBookPage": 79,
+   "id": "s070",
+   "startPdfPage": 81,
+   "endPdfPage": 81
+  },
+  {
+   "title": "آینه ها:",
+   "chapterId": 2,
+   "startBookPage": 79,
+   "endBookPage": 80,
+   "id": "s071",
+   "startPdfPage": 81,
+   "endPdfPage": 82
+  },
+  {
+   "title": "میزان آب رادیاتور و شیشه شور:",
+   "chapterId": 2,
+   "startBookPage": 80,
+   "endBookPage": 80,
+   "id": "s072",
+   "startPdfPage": 82,
+   "endPdfPage": 82
+  },
+  {
+   "title": "برف پاک کن:",
+   "chapterId": 2,
+   "startBookPage": 80,
+   "endBookPage": 80,
+   "id": "s073",
+   "startPdfPage": 82,
+   "endPdfPage": 82
+  },
+  {
+   "title": "پلاک خودرو:",
+   "chapterId": 2,
+   "startBookPage": 80,
+   "endBookPage": 80,
+   "id": "s074",
+   "startPdfPage": 82,
+   "endPdfPage": 82
+  },
+  {
+   "title": "۲- سرعت",
+   "chapterId": 2,
+   "startBookPage": 80,
+   "endBookPage": 81,
+   "id": "s075",
+   "startPdfPage": 82,
+   "endPdfPage": 83
+  },
+  {
+   "title": "۲-۱- چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+   "chapterId": 2,
+   "startBookPage": 81,
+   "endBookPage": 81,
+   "id": "s076",
+   "startPdfPage": 83,
+   "endPdfPage": 83
+  },
+  {
+   "title": "۲-۲- انتخاب سرعت در رانندگی",
+   "chapterId": 2,
+   "startBookPage": 81,
+   "endBookPage": 83,
+   "id": "s077",
+   "startPdfPage": 83,
+   "endPdfPage": 85
+  },
+  {
+   "title": "۳- محدودیت سرعت",
+   "chapterId": 2,
+   "startBookPage": 83,
+   "endBookPage": 83,
+   "id": "s078",
+   "startPdfPage": 85,
+   "endPdfPage": 85
+  },
+  {
+   "title": "محدودیتهای سرعت چیست؟",
+   "chapterId": 2,
+   "startBookPage": 83,
+   "endBookPage": 84,
+   "id": "s079",
+   "startPdfPage": 85,
+   "endPdfPage": 86
+  },
+  {
+   "title": "۴- سبقت",
+   "chapterId": 2,
+   "startBookPage": 84,
+   "endBookPage": 84,
+   "id": "s080",
+   "startPdfPage": 86,
+   "endPdfPage": 86
+  },
+  {
+   "title": "۴-۱- روش سبقت گرفتن:",
+   "chapterId": 2,
+   "startBookPage": 84,
+   "endBookPage": 84,
+   "id": "s081",
+   "startPdfPage": 86,
+   "endPdfPage": 86
+  },
+  {
+   "title": "۴-۲- ممنوعیت سبقت:",
+   "chapterId": 2,
+   "startBookPage": 85,
+   "endBookPage": 85,
+   "id": "s082",
+   "startPdfPage": 87,
+   "endPdfPage": 87
+  },
+  {
+   "title": "۵- مواد مخدر و نوشیدنی های الکلی",
+   "chapterId": 2,
+   "startBookPage": 85,
+   "endBookPage": 85,
+   "id": "s083",
+   "startPdfPage": 87,
+   "endPdfPage": 87
+  },
+  {
+   "title": "تاثیر الکل و مواد مخدر در رانندگی:",
+   "chapterId": 2,
+   "startBookPage": 85,
+   "endBookPage": 86,
+   "id": "s084",
+   "startPdfPage": 87,
+   "endPdfPage": 88
+  },
+  {
+   "title": "۶-کمربند ایمنی",
+   "chapterId": 2,
+   "startBookPage": 86,
+   "endBookPage": 87,
+   "id": "s085",
+   "startPdfPage": 88,
+   "endPdfPage": 89
+  },
+  {
+   "title": "۷- حمل مسافر در قسمت بار یا صندوق عقب",
+   "chapterId": 2,
+   "startBookPage": 87,
+   "endBookPage": 87,
+   "id": "s086",
+   "startPdfPage": 89,
+   "endPdfPage": 89
+  },
+  {
+   "title": "۸- رانندگی در حالت خستگی و خواب آلودگی",
+   "chapterId": 2,
+   "startBookPage": 87,
+   "endBookPage": 88,
+   "id": "s087",
+   "startPdfPage": 89,
+   "endPdfPage": 90
+  },
+  {
+   "title": "۹- استفاده از تلفن همراه",
+   "chapterId": 2,
+   "startBookPage": 88,
+   "endBookPage": 88,
+   "id": "s088",
+   "startPdfPage": 90,
+   "endPdfPage": 90
+  },
+  {
+   "title": "۱۰- سایر کاربران راه",
+   "chapterId": 2,
+   "startBookPage": 88,
+   "endBookPage": 88,
+   "id": "s089",
+   "startPdfPage": 90,
+   "endPdfPage": 90
+  },
+  {
+   "title": "۱۰-۱- عابرین پیاده:",
+   "chapterId": 2,
+   "startBookPage": 88,
+   "endBookPage": 89,
+   "id": "s090",
+   "startPdfPage": 90,
+   "endPdfPage": 91
+  },
+  {
+   "title": "۱۰-۲- موتورسوران و دوچرخه سواران",
+   "chapterId": 2,
+   "startBookPage": 89,
+   "endBookPage": 91,
+   "id": "s091",
+   "startPdfPage": 91,
+   "endPdfPage": 93
+  },
+  {
+   "title": "۱۱- نقاط کور",
+   "chapterId": 2,
+   "startBookPage": 91,
+   "endBookPage": 91,
+   "id": "s092",
+   "startPdfPage": 93,
+   "endPdfPage": 93
+  },
+  {
+   "title": "۱۲- ایمنی حرکت در دید عقب",
+   "chapterId": 2,
+   "startBookPage": 92,
+   "endBookPage": 92,
+   "id": "s093",
+   "startPdfPage": 94,
+   "endPdfPage": 94
+  },
+  {
+   "title": "۱۳- رعایت فاصله طولی ایمن",
+   "chapterId": 2,
+   "startBookPage": 92,
+   "endBookPage": 92,
+   "id": "s094",
+   "startPdfPage": 94,
+   "endPdfPage": 94
+  },
+  {
+   "title": "روش ۲ ثانیه زمان:",
+   "chapterId": 2,
+   "startBookPage": 93,
+   "endBookPage": 93,
+   "id": "s095",
+   "startPdfPage": 95,
+   "endPdfPage": 95
+  },
+  {
+   "title": "روش یک طول خودرو:",
+   "chapterId": 2,
+   "startBookPage": 93,
+   "endBookPage": 94,
+   "id": "s096",
+   "startPdfPage": 95,
+   "endPdfPage": 96
+  },
+  {
+   "title": "۱۴- زمان لازم برای توقف خودرو",
+   "chapterId": 2,
+   "startBookPage": 94,
+   "endBookPage": 94,
+   "id": "s097",
+   "startPdfPage": 96,
+   "endPdfPage": 96
+  },
+  {
+   "title": "۱۵- رانندگی در شرایط مختلف",
+   "chapterId": 2,
+   "startBookPage": 95,
+   "endBookPage": 95,
+   "id": "s098",
+   "startPdfPage": 97,
+   "endPdfPage": 97
+  },
+  {
+   "title": "۱۵-۱- رانندگی در شب",
+   "chapterId": 2,
+   "startBookPage": 95,
+   "endBookPage": 95,
+   "id": "s099",
+   "startPdfPage": 97,
+   "endPdfPage": 97
+  },
+  {
+   "title": "مواردی که در صورت مشاهده آنها باید نوربالا را به نور پایین تبدیل نمایید:",
+   "chapterId": 2,
+   "startBookPage": 95,
+   "endBookPage": 96,
+   "id": "s100",
+   "startPdfPage": 97,
+   "endPdfPage": 98
+  },
+  {
+   "title": "نکاتی برای رانندگی در شب",
+   "chapterId": 2,
+   "startBookPage": 97,
+   "endBookPage": 97,
+   "id": "s101",
+   "startPdfPage": 99,
+   "endPdfPage": 99
+  },
+  {
+   "title": "۱۵-۲- رانندگی در شرایط بد آب و هوا",
+   "chapterId": 2,
+   "startBookPage": 97,
+   "endBookPage": 97,
+   "id": "s102",
+   "startPdfPage": 99,
+   "endPdfPage": 99
+  },
+  {
+   "title": "رعایت فاصله طولی ایمن در شرایط بد آب و هوایی:",
+   "chapterId": 2,
+   "startBookPage": 97,
+   "endBookPage": 97,
+   "id": "s103",
+   "startPdfPage": 99,
+   "endPdfPage": 99
+  },
+  {
+   "title": "رانندگی در شرایط مه یا دود:",
+   "chapterId": 2,
+   "startBookPage": 98,
+   "endBookPage": 98,
+   "id": "s104",
+   "startPdfPage": 100,
+   "endPdfPage": 100
+  },
+  {
+   "title": "۱۶- از سمت راست حرکت کنید",
+   "chapterId": 2,
+   "startBookPage": 98,
+   "endBookPage": 99,
+   "id": "s105",
+   "startPdfPage": 100,
+   "endPdfPage": 101
+  },
+  {
+   "title": "۱۷- تقاطع با راه آهن",
+   "chapterId": 2,
+   "startBookPage": 99,
+   "endBookPage": 99,
+   "id": "s106",
+   "startPdfPage": 101,
+   "endPdfPage": 101
+  },
+  {
+   "title": "۱۸- خودروهای حمل و نقل عمومی",
+   "chapterId": 2,
+   "startBookPage": 99,
+   "endBookPage": 100,
+   "id": "s107",
+   "startPdfPage": 101,
+   "endPdfPage": 102
+  },
+  {
+   "title": "۱۹- چراغ راهنمایی و رانندگی",
+   "chapterId": 2,
+   "startBookPage": 100,
+   "endBookPage": 101,
+   "id": "s108",
+   "startPdfPage": 102,
+   "endPdfPage": 103
+  },
+  {
+   "title": "چراغهای راهنمایی و رانندگی با پیکان راهنما:",
+   "chapterId": 2,
+   "startBookPage": 102,
+   "endBookPage": 102,
+   "id": "s109",
+   "startPdfPage": 104,
+   "endPdfPage": 104
+  },
+  {
+   "title": "چراغ دایره ای قرمز همراه با چراغ پیکانی سبز:",
+   "chapterId": 2,
+   "startBookPage": 102,
+   "endBookPage": 102,
+   "id": "s110",
+   "startPdfPage": 104,
+   "endPdfPage": 104
+  },
+  {
+   "title": "چراغ دایره ای سبز همراه با چراغ پیکانی سبز:",
+   "chapterId": 2,
+   "startBookPage": 102,
+   "endBookPage": 102,
+   "id": "s111",
+   "startPdfPage": 104,
+   "endPdfPage": 104
+  },
+  {
+   "title": "چراغ دایره ای سبز و چراغ پیکان قرمز:",
+   "chapterId": 2,
+   "startBookPage": 102,
+   "endBookPage": 103,
+   "id": "s112",
+   "startPdfPage": 104,
+   "endPdfPage": 105
+  },
+  {
+   "title": "۲۰- پیش بینی در رانندگی",
+   "chapterId": 2,
+   "startBookPage": 103,
+   "endBookPage": 103,
+   "id": "s113",
+   "startPdfPage": 105,
+   "endPdfPage": 105
+  },
+  {
+   "title": "۲۱- تقاطع ها",
+   "chapterId": 2,
+   "startBookPage": 103,
+   "endBookPage": 103,
+   "id": "s114",
+   "startPdfPage": 105,
+   "endPdfPage": 105
+  },
+  {
+   "title": "۲۱-۱- تقاطع هایی که دارای علائم کنترلی می باشند.",
+   "chapterId": 2,
+   "startBookPage": 104,
+   "endBookPage": 104,
+   "id": "s115",
+   "startPdfPage": 106,
+   "endPdfPage": 106
+  },
+  {
+   "title": "۲۱-۲- تقاطع هایی که فاقد علائم کنترلی می باشند.",
+   "chapterId": 2,
+   "startBookPage": 105,
+   "endBookPage": 107,
+   "id": "s116",
+   "startPdfPage": 107,
+   "endPdfPage": 109
+  },
+  {
+   "title": "۲۲- حرکت در آزاد راه ها",
+   "chapterId": 2,
+   "startBookPage": 107,
+   "endBookPage": 108,
+   "id": "s117",
+   "startPdfPage": 109,
+   "endPdfPage": 110
+  },
+  {
+   "title": "۲۳- محدودیت های روحی و جسمی راننده:",
+   "chapterId": 2,
+   "startBookPage": 108,
+   "endBookPage": 108,
+   "id": "s118",
+   "startPdfPage": 110,
+   "endPdfPage": 110
+  },
+  {
+   "title": "۲۴- توقف",
+   "chapterId": 2,
+   "startBookPage": 108,
+   "endBookPage": 109,
+   "id": "s119",
+   "startPdfPage": 110,
+   "endPdfPage": 111
+  },
+  {
+   "title": "۲۵- پارک",
+   "chapterId": 2,
+   "startBookPage": 109,
+   "endBookPage": 111,
+   "id": "s120",
+   "startPdfPage": 111,
+   "endPdfPage": 113
+  },
+  {
+   "title": "روشهای توقف در سطوح شیبدار:",
+   "chapterId": 2,
+   "startBookPage": 111,
+   "endBookPage": 111,
+   "id": "s121",
+   "startPdfPage": 113,
+   "endPdfPage": 113
+  },
+  {
+   "title": "۱- راه دارای جدول:",
+   "chapterId": 2,
+   "startBookPage": 111,
+   "endBookPage": 111,
+   "id": "s122",
+   "startPdfPage": 113,
+   "endPdfPage": 113
+  },
+  {
+   "title": "الف- پارک در سربالایی",
+   "chapterId": 2,
+   "startBookPage": 111,
+   "endBookPage": 112,
+   "id": "s123",
+   "startPdfPage": 113,
+   "endPdfPage": 114
+  },
+  {
+   "title": "ب- پارک در سرازیری",
+   "chapterId": 2,
+   "startBookPage": 112,
+   "endBookPage": 112,
+   "id": "s124",
+   "startPdfPage": 114,
+   "endPdfPage": 114
+  },
+  {
+   "title": "۲- راه بدون جدول :",
+   "chapterId": 2,
+   "startBookPage": 112,
+   "endBookPage": 112,
+   "id": "s125",
+   "startPdfPage": 114,
+   "endPdfPage": 114
+  },
+  {
+   "title": "الف- پارک در سربالایی",
+   "chapterId": 2,
+   "startBookPage": 112,
+   "endBookPage": 112,
+   "id": "s126",
+   "startPdfPage": 114,
+   "endPdfPage": 114
+  },
+  {
+   "title": "ب- پارک در سرازیری",
+   "chapterId": 2,
+   "startBookPage": 112,
+   "endBookPage": 113,
+   "id": "s127",
+   "startPdfPage": 114,
+   "endPdfPage": 115
+  },
+  {
+   "title": "۲۶- ده توصیه برای رانندگی ایمن",
+   "chapterId": 2,
+   "startBookPage": 113,
+   "endBookPage": 113,
+   "id": "s128",
+   "startPdfPage": 115,
+   "endPdfPage": 115
+  },
+  {
+   "title": "فصل سوم",
+   "chapterId": 3,
+   "startBookPage": 114,
+   "endBookPage": 114,
+   "id": "s129",
+   "startPdfPage": 116,
+   "endPdfPage": 116
+  },
+  {
+   "title": "آشنایی با سیستمهای فنی و سرویس و نگهداری",
+   "chapterId": 3,
+   "startBookPage": 114,
+   "endBookPage": 114,
+   "id": "s130",
+   "startPdfPage": 116,
+   "endPdfPage": 116
+  },
+  {
+   "title": "۱- مقدمه",
+   "chapterId": 3,
+   "startBookPage": 115,
+   "endBookPage": 116,
+   "id": "s131",
+   "startPdfPage": 117,
+   "endPdfPage": 118
+  },
+  {
+   "title": "۲- آشنایی اولیه با چند اهرم و پدال مهم کنترلی",
+   "chapterId": 3,
+   "startBookPage": 116,
+   "endBookPage": 117,
+   "id": "s132",
+   "startPdfPage": 118,
+   "endPdfPage": 119
+  },
+  {
+   "title": "سوئیچ استارت",
+   "chapterId": 3,
+   "startBookPage": 117,
+   "endBookPage": 118,
+   "id": "s133",
+   "startPdfPage": 119,
+   "endPdfPage": 120
+  },
+  {
+   "title": "غربیلک فرمان",
+   "chapterId": 3,
+   "startBookPage": 118,
+   "endBookPage": 119,
+   "id": "s134",
+   "startPdfPage": 120,
+   "endPdfPage": 121
+  },
+  {
+   "title": "پدالهای گاز، ترمز و کلاچ",
+   "chapterId": 3,
+   "startBookPage": 119,
+   "endBookPage": 120,
+   "id": "s135",
+   "startPdfPage": 121,
+   "endPdfPage": 122
+  },
+  {
+   "title": "دسته دنده",
+   "chapterId": 3,
+   "startBookPage": 120,
+   "endBookPage": 121,
+   "id": "s136",
+   "startPdfPage": 122,
+   "endPdfPage": 123
+  },
+  {
+   "title": "اهرم ترمز دستی",
+   "chapterId": 3,
+   "startBookPage": 121,
+   "endBookPage": 122,
+   "id": "s137",
+   "startPdfPage": 123,
+   "endPdfPage": 124
+  },
+  {
+   "title": "۳- آشنایی با ظاهر خودرو",
+   "chapterId": 3,
+   "startBookPage": 122,
+   "endBookPage": 123,
+   "id": "s138",
+   "startPdfPage": 124,
+   "endPdfPage": 125
+  },
+  {
+   "title": "۴- راه اندازی خودرو",
+   "chapterId": 3,
+   "startBookPage": 124,
+   "endBookPage": 126,
+   "id": "s139",
+   "startPdfPage": 126,
+   "endPdfPage": 128
+  },
+  {
+   "title": "نکات:",
+   "chapterId": 3,
+   "startBookPage": 126,
+   "endBookPage": 126,
+   "id": "s140",
+   "startPdfPage": 128,
+   "endPdfPage": 128
+  },
+  {
+   "title": "۵- آشنایی با سیستمهای فنی خودرو",
+   "chapterId": 3,
+   "startBookPage": 127,
+   "endBookPage": 127,
+   "id": "s141",
+   "startPdfPage": 129,
+   "endPdfPage": 129
+  },
+  {
+   "title": "موتور",
+   "chapterId": 3,
+   "startBookPage": 127,
+   "endBookPage": 128,
+   "id": "s142",
+   "startPdfPage": 129,
+   "endPdfPage": 130
+  },
+  {
+   "title": "صافی هوا",
+   "chapterId": 3,
+   "startBookPage": 128,
+   "endBookPage": 128,
+   "id": "s143",
+   "startPdfPage": 130,
+   "endPdfPage": 130
+  },
+  {
+   "title": "سیستم انتقال قدرت",
+   "chapterId": 3,
+   "startBookPage": 129,
+   "endBookPage": 129,
+   "id": "s144",
+   "startPdfPage": 131,
+   "endPdfPage": 131
+  },
+  {
+   "title": "کلاچ، گیربکس و دیفرانسیل",
+   "chapterId": 3,
+   "startBookPage": 129,
+   "endBookPage": 131,
+   "id": "s145",
+   "startPdfPage": 131,
+   "endPdfPage": 133
+  },
+  {
+   "title": "سیستم روغنکاری",
+   "chapterId": 3,
+   "startBookPage": 131,
+   "endBookPage": 132,
+   "id": "s146",
+   "startPdfPage": 133,
+   "endPdfPage": 134
+  },
+  {
+   "title": "فیلتر روغن",
+   "chapterId": 3,
+   "startBookPage": 132,
+   "endBookPage": 132,
+   "id": "s147",
+   "startPdfPage": 134,
+   "endPdfPage": 134
+  },
+  {
+   "title": "سیستم خنک کاری",
+   "chapterId": 3,
+   "startBookPage": 132,
+   "endBookPage": 134,
+   "id": "s148",
+   "startPdfPage": 134,
+   "endPdfPage": 136
+  },
+  {
+   "title": "سیستم ترمز",
+   "chapterId": 3,
+   "startBookPage": 134,
+   "endBookPage": 137,
+   "id": "s149",
+   "startPdfPage": 136,
+   "endPdfPage": 139
+  },
+  {
+   "title": "سیستم تعلیق",
+   "chapterId": 3,
+   "startBookPage": 138,
+   "endBookPage": 138,
+   "id": "s150",
+   "startPdfPage": 140,
+   "endPdfPage": 140
+  },
+  {
+   "title": "سیستم هدایت و فرمان",
+   "chapterId": 3,
+   "startBookPage": 139,
+   "endBookPage": 139,
+   "id": "s151",
+   "startPdfPage": 141,
+   "endPdfPage": 141
+  },
+  {
+   "title": "سیستم برق",
+   "chapterId": 3,
+   "startBookPage": 139,
+   "endBookPage": 140,
+   "id": "s152",
+   "startPdfPage": 141,
+   "endPdfPage": 142
+  },
+  {
+   "title": "سیستم اگزوز",
+   "chapterId": 3,
+   "startBookPage": 140,
+   "endBookPage": 141,
+   "id": "s153",
+   "startPdfPage": 142,
+   "endPdfPage": 143
+  },
+  {
+   "title": "کیسه هوا",
+   "chapterId": 3,
+   "startBookPage": 141,
+   "endBookPage": 142,
+   "id": "s154",
+   "startPdfPage": 143,
+   "endPdfPage": 144
+  },
+  {
+   "title": "۶- سرویس و نگهداری خودرو",
+   "chapterId": 3,
+   "startBookPage": 143,
+   "endBookPage": 143,
+   "id": "s155",
+   "startPdfPage": 145,
+   "endPdfPage": 145
+  },
+  {
+   "title": "کنترل و تعویض روغن موتور",
+   "chapterId": 3,
+   "startBookPage": 144,
+   "endBookPage": 145,
+   "id": "s156",
+   "startPdfPage": 146,
+   "endPdfPage": 147
+  },
+  {
+   "title": "فیلتر روغن",
+   "chapterId": 3,
+   "startBookPage": 145,
+   "endBookPage": 145,
+   "id": "s157",
+   "startPdfPage": 147,
+   "endPdfPage": 147
+  },
+  {
+   "title": "روغن گیربکس و دیفرانسیل",
+   "chapterId": 3,
+   "startBookPage": 145,
+   "endBookPage": 145,
+   "id": "s158",
+   "startPdfPage": 147,
+   "endPdfPage": 147
+  },
+  {
+   "title": "ضدیخ و کنترل آب رادیاتور",
+   "chapterId": 3,
+   "startBookPage": 146,
+   "endBookPage": 146,
+   "id": "s159",
+   "startPdfPage": 148,
+   "endPdfPage": 148
+  },
+  {
+   "title": "آمپر آب",
+   "chapterId": 3,
+   "startBookPage": 146,
+   "endBookPage": 148,
+   "id": "s160",
+   "startPdfPage": 148,
+   "endPdfPage": 150
+  },
+  {
+   "title": "فن یا پروانه",
+   "chapterId": 3,
+   "startBookPage": 148,
+   "endBookPage": 149,
+   "id": "s161",
+   "startPdfPage": 150,
+   "endPdfPage": 151
+  },
+  {
+   "title": "تسمه تایم",
+   "chapterId": 3,
+   "startBookPage": 149,
+   "endBookPage": 149,
+   "id": "s162",
+   "startPdfPage": 151,
+   "endPdfPage": 151
+  },
+  {
+   "title": "فیلتر هوا",
+   "chapterId": 3,
+   "startBookPage": 149,
+   "endBookPage": 150,
+   "id": "s163",
+   "startPdfPage": 151,
+   "endPdfPage": 152
+  },
+  {
+   "title": "منبع آب شیشه شور",
+   "chapterId": 3,
+   "startBookPage": 150,
+   "endBookPage": 150,
+   "id": "s164",
+   "startPdfPage": 152,
+   "endPdfPage": 152
+  },
+  {
+   "title": "تایرها",
+   "chapterId": 3,
+   "startBookPage": 150,
+   "endBookPage": 152,
+   "id": "s165",
+   "startPdfPage": 152,
+   "endPdfPage": 154
+  },
+  {
+   "title": "پنچری",
+   "chapterId": 3,
+   "startBookPage": 152,
+   "endBookPage": 153,
+   "id": "s166",
+   "startPdfPage": 154,
+   "endPdfPage": 155
+  },
+  {
+   "title": "روغن ترمز",
+   "chapterId": 3,
+   "startBookPage": 153,
+   "endBookPage": 154,
+   "id": "s167",
+   "startPdfPage": 155,
+   "endPdfPage": 156
+  },
+  {
+   "title": "لقی فرمان",
+   "chapterId": 3,
+   "startBookPage": 154,
+   "endBookPage": 155,
+   "id": "s168",
+   "startPdfPage": 156,
+   "endPdfPage": 157
+  },
+  {
+   "title": "باتری",
+   "chapterId": 3,
+   "startBookPage": 155,
+   "endBookPage": 155,
+   "id": "s169",
+   "startPdfPage": 157,
+   "endPdfPage": 157
+  },
+  {
+   "title": "شمع",
+   "chapterId": 3,
+   "startBookPage": 155,
+   "endBookPage": 155,
+   "id": "s170",
+   "startPdfPage": 157,
+   "endPdfPage": 157
+  },
+  {
+   "title": "مبدل کاتالیستی",
+   "chapterId": 3,
+   "startBookPage": 155,
+   "endBookPage": 155,
+   "id": "s171",
+   "startPdfPage": 157,
+   "endPdfPage": 157
+  },
+  {
+   "title": "کنیستر",
+   "chapterId": 3,
+   "startBookPage": 156,
+   "endBookPage": 156,
+   "id": "s172",
+   "startPdfPage": 158,
+   "endPdfPage": 158
+  },
+  {
+   "title": "چند توصیه ایمنی هنگام سرویس یا تعمیر خودرو",
+   "chapterId": 3,
+   "startBookPage": 156,
+   "endBookPage": 156,
+   "id": "s173",
+   "startPdfPage": 158,
+   "endPdfPage": 158
+  },
+  {
+   "title": "فصل چهارم",
+   "chapterId": 4,
+   "startBookPage": 157,
+   "endBookPage": 157,
+   "id": "s174",
+   "startPdfPage": 159,
+   "endPdfPage": 159
+  },
+  {
+   "title": "فرهنگ رانندگی",
+   "chapterId": 4,
+   "startBookPage": 157,
+   "endBookPage": 157,
+   "id": "s175",
+   "startPdfPage": 159,
+   "endPdfPage": 159
+  },
+  {
+   "title": "رانندگی و شخصیت اجتماعی",
+   "chapterId": 4,
+   "startBookPage": 158,
+   "endBookPage": 166,
+   "id": "s176",
+   "startPdfPage": 160,
+   "endPdfPage": 168
+  },
+  {
+   "title": "رفتار تهاجمی رانندگان پرخاشگر و رانندگی حادثه ساز",
+   "chapterId": 4,
+   "startBookPage": 166,
+   "endBookPage": 169,
+   "id": "s177",
+   "startPdfPage": 168,
+   "endPdfPage": 171
+  },
+  {
+   "title": "فرهنگ ترافیک",
+   "chapterId": 4,
+   "startBookPage": 170,
+   "endBookPage": 170,
+   "id": "s178",
+   "startPdfPage": 172,
+   "endPdfPage": 172
+  },
+  {
+   "title": "مفهوم فرهنگ",
+   "chapterId": 4,
+   "startBookPage": 170,
+   "endBookPage": 170,
+   "id": "s179",
+   "startPdfPage": 172,
+   "endPdfPage": 172
+  },
+  {
+   "title": "مفهوم ترافیک",
+   "chapterId": 4,
+   "startBookPage": 170,
+   "endBookPage": 174,
+   "id": "s180",
+   "startPdfPage": 172,
+   "endPdfPage": 176
+  },
+  {
+   "title": "رفتار انسانی در ترافیک",
+   "chapterId": 4,
+   "startBookPage": 175,
+   "endBookPage": 175,
+   "id": "s181",
+   "startPdfPage": 177,
+   "endPdfPage": 177
+  },
+  {
+   "title": "۱- عوامل درونی موثر در کنترل رفتار انسان:",
+   "chapterId": 4,
+   "startBookPage": 175,
+   "endBookPage": 175,
+   "id": "s182",
+   "startPdfPage": 177,
+   "endPdfPage": 177
+  },
+  {
+   "title": "۲- عوامل بیرونی موثر در کنترل رفتار انسانی:",
+   "chapterId": 4,
+   "startBookPage": 175,
+   "endBookPage": 177,
+   "id": "s183",
+   "startPdfPage": 177,
+   "endPdfPage": 179
+  },
+  {
+   "title": "خستگی:",
+   "chapterId": 4,
+   "startBookPage": 177,
+   "endBookPage": 177,
+   "id": "s184",
+   "startPdfPage": 179,
+   "endPdfPage": 179
+  },
+  {
+   "title": "مصرف مشروبات الکلی:",
+   "chapterId": 4,
+   "startBookPage": 178,
+   "endBookPage": 178,
+   "id": "s185",
+   "startPdfPage": 180,
+   "endPdfPage": 180
+  },
+  {
+   "title": "عواطف و هیجان:",
+   "chapterId": 4,
+   "startBookPage": 178,
+   "endBookPage": 178,
+   "id": "s186",
+   "startPdfPage": 180,
+   "endPdfPage": 180
+  },
+  {
+   "title": "افسردگی:",
+   "chapterId": 4,
+   "startBookPage": 178,
+   "endBookPage": 179,
+   "id": "s187",
+   "startPdfPage": 180,
+   "endPdfPage": 181
+  },
+  {
+   "title": "حقوق شهروندی",
+   "chapterId": 4,
+   "startBookPage": 179,
+   "endBookPage": 182,
+   "id": "s188",
+   "startPdfPage": 181,
+   "endPdfPage": 184
+  },
+  {
+   "title": "ایمنی ترافیک- سرعت مطمئنه",
+   "chapterId": 4,
+   "startBookPage": 182,
+   "endBookPage": 185,
+   "id": "s189",
+   "startPdfPage": 184,
+   "endPdfPage": 187
+  },
+  {
+   "title": "ایمنی ترافیک- سبقت مجاز",
+   "chapterId": 4,
+   "startBookPage": 185,
+   "endBookPage": 185,
+   "id": "s190",
+   "startPdfPage": 187,
+   "endPdfPage": 187
+  },
+  {
+   "title": "ایمنی ترافیک- رانندگی بین خطوط",
+   "chapterId": 4,
+   "startBookPage": 185,
+   "endBookPage": 187,
+   "id": "s191",
+   "startPdfPage": 187,
+   "endPdfPage": 189
+  },
+  {
+   "title": "ایمنی ترافیک- رعایت حق تقدم",
+   "chapterId": 4,
+   "startBookPage": 187,
+   "endBookPage": 188,
+   "id": "s192",
+   "startPdfPage": 189,
+   "endPdfPage": 190
+  },
+  {
+   "title": "فصل پنجم",
+   "chapterId": 5,
+   "startBookPage": 189,
+   "endBookPage": 189,
+   "id": "s193",
+   "startPdfPage": 191,
+   "endPdfPage": 191
+  },
+  {
+   "title": "امداد و نجات",
+   "chapterId": 5,
+   "startBookPage": 189,
+   "endBookPage": 189,
+   "id": "s194",
+   "startPdfPage": 191,
+   "endPdfPage": 191
+  },
+  {
+   "title": "مقدمه",
+   "chapterId": 5,
+   "startBookPage": 190,
+   "endBookPage": 190,
+   "id": "s195",
+   "startPdfPage": 192,
+   "endPdfPage": 192
+  },
+  {
+   "title": "ارزیابی موقعیت",
+   "chapterId": 5,
+   "startBookPage": 191,
+   "endBookPage": 191,
+   "id": "s196",
+   "startPdfPage": 193,
+   "endPdfPage": 193
+  },
+  {
+   "title": "امن کردن محل حادثه",
+   "chapterId": 5,
+   "startBookPage": 191,
+   "endBookPage": 191,
+   "id": "s197",
+   "startPdfPage": 193,
+   "endPdfPage": 193
+  },
+  {
+   "title": "ارائه کمکهای اولیه",
+   "chapterId": 5,
+   "startBookPage": 191,
+   "endBookPage": 192,
+   "id": "s198",
+   "startPdfPage": 193,
+   "endPdfPage": 194
+  },
+  {
+   "title": "درخواست کمک",
+   "chapterId": 5,
+   "startBookPage": 192,
+   "endBookPage": 192,
+   "id": "s199",
+   "startPdfPage": 194,
+   "endPdfPage": 194
+  },
+  {
+   "title": "حفظ آرامش در ارائه کمکهای اولیه",
+   "chapterId": 5,
+   "startBookPage": 192,
+   "endBookPage": 193,
+   "id": "s200",
+   "startPdfPage": 194,
+   "endPdfPage": 195
+  },
+  {
+   "title": "اعتماد مصدوم را جلب کنید",
+   "chapterId": 5,
+   "startBookPage": 193,
+   "endBookPage": 193,
+   "id": "s201",
+   "startPdfPage": 195,
+   "endPdfPage": 195
+  },
+  {
+   "title": "تصادفات",
+   "chapterId": 5,
+   "startBookPage": 193,
+   "endBookPage": 193,
+   "id": "s202",
+   "startPdfPage": 195,
+   "endPdfPage": 195
+  },
+  {
+   "title": "ایمن کردن صحنه حادثه",
+   "chapterId": 5,
+   "startBookPage": 194,
+   "endBookPage": 194,
+   "id": "s203",
+   "startPdfPage": 196,
+   "endPdfPage": 196
+  },
+  {
+   "title": "احتیاطهای لازم",
+   "chapterId": 5,
+   "startBookPage": 194,
+   "endBookPage": 194,
+   "id": "s204",
+   "startPdfPage": 196,
+   "endPdfPage": 196
+  },
+  {
+   "title": "موارد خطر ساز",
+   "chapterId": 5,
+   "startBookPage": 194,
+   "endBookPage": 194,
+   "id": "s205",
+   "startPdfPage": 196,
+   "endPdfPage": 196
+  },
+  {
+   "title": "آتش سوزی ها",
+   "chapterId": 5,
+   "startBookPage": 195,
+   "endBookPage": 195,
+   "id": "s206",
+   "startPdfPage": 197,
+   "endPdfPage": 197
+  },
+  {
+   "title": "ارزیابی مصدومین",
+   "chapterId": 5,
+   "startBookPage": 195,
+   "endBookPage": 196,
+   "id": "s207",
+   "startPdfPage": 197,
+   "endPdfPage": 198
+  },
+  {
+   "title": "گرفتن شرح حال",
+   "chapterId": 5,
+   "startBookPage": 196,
+   "endBookPage": 197,
+   "id": "s208",
+   "startPdfPage": 198,
+   "endPdfPage": 199
+  },
+  {
+   "title": "نحوه دادن تنفس مصنوعی",
+   "chapterId": 5,
+   "startBookPage": 197,
+   "endBookPage": 198,
+   "id": "s209",
+   "startPdfPage": 199,
+   "endPdfPage": 200
+  },
+  {
+   "title": "نحوه بررسی گردش خون",
+   "chapterId": 5,
+   "startBookPage": 198,
+   "endBookPage": 199,
+   "id": "s210",
+   "startPdfPage": 200,
+   "endPdfPage": 201
+  },
+  {
+   "title": "احیای قلبی- ریوی",
+   "chapterId": 5,
+   "startBookPage": 199,
+   "endBookPage": 199,
+   "id": "s211",
+   "startPdfPage": 201,
+   "endPdfPage": 201
+  },
+  {
+   "title": "کنترل علایم حیاتی",
+   "chapterId": 5,
+   "startBookPage": 200,
+   "endBookPage": 200,
+   "id": "s212",
+   "startPdfPage": 202,
+   "endPdfPage": 202
+  },
+  {
+   "title": "ارزیابی سطح هوشیاری",
+   "chapterId": 5,
+   "startBookPage": 200,
+   "endBookPage": 200,
+   "id": "s213",
+   "startPdfPage": 202,
+   "endPdfPage": 202
+  },
+  {
+   "title": "بررسی نبض",
+   "chapterId": 5,
+   "startBookPage": 201,
+   "endBookPage": 201,
+   "id": "s214",
+   "startPdfPage": 203,
+   "endPdfPage": 203
+  },
+  {
+   "title": "کنترل تنفس",
+   "chapterId": 5,
+   "startBookPage": 201,
+   "endBookPage": 201,
+   "id": "s215",
+   "startPdfPage": 203,
+   "endPdfPage": 203
+  },
+  {
+   "title": "فصل ششم",
+   "chapterId": 6,
+   "startBookPage": 202,
+   "endBookPage": 202,
+   "id": "s216",
+   "startPdfPage": 204,
+   "endPdfPage": 204
+  },
+  {
+   "title": "آلودگی‌های ترافیک",
+   "chapterId": 6,
+   "startBookPage": 202,
+   "endBookPage": 202,
+   "id": "s217",
+   "startPdfPage": 204,
+   "endPdfPage": 204
+  },
+  {
+   "title": "مقدمه",
+   "chapterId": 6,
+   "startBookPage": 203,
+   "endBookPage": 203,
+   "id": "s218",
+   "startPdfPage": 205,
+   "endPdfPage": 205
+  },
+  {
+   "title": "آلودگی هوا و محیط زیست شهری",
+   "chapterId": 6,
+   "startBookPage": 204,
+   "endBookPage": 204,
+   "id": "s219",
+   "startPdfPage": 206,
+   "endPdfPage": 206
+  },
+  {
+   "title": "حمل و نقل ناپایدار – آلودگی‌های ترافیک",
+   "chapterId": 6,
+   "startBookPage": 204,
+   "endBookPage": 207,
+   "id": "s220",
+   "startPdfPage": 206,
+   "endPdfPage": 209
+  },
+  {
+   "title": "حمل و نقل و ترافیک شهری- محیط زیست",
+   "chapterId": 6,
+   "startBookPage": 207,
+   "endBookPage": 208,
+   "id": "s221",
+   "startPdfPage": 209,
+   "endPdfPage": 210
+  },
+  {
+   "title": "آلودگی‌های ترافیک",
+   "chapterId": 6,
+   "startBookPage": 209,
+   "endBookPage": 209,
+   "id": "s222",
+   "startPdfPage": 211,
+   "endPdfPage": 211
+  },
+  {
+   "title": "تعریف آلودگی",
+   "chapterId": 6,
+   "startBookPage": 209,
+   "endBookPage": 209,
+   "id": "s223",
+   "startPdfPage": 211,
+   "endPdfPage": 211
+  },
+  {
+   "title": "آلودگی ترافیک",
+   "chapterId": 6,
+   "startBookPage": 209,
+   "endBookPage": 209,
+   "id": "s224",
+   "startPdfPage": 211,
+   "endPdfPage": 211
+  },
+  {
+   "title": "آلودگی هوا",
+   "chapterId": 6,
+   "startBookPage": 209,
+   "endBookPage": 211,
+   "id": "s225",
+   "startPdfPage": 211,
+   "endPdfPage": 213
+  },
+  {
+   "title": "آلودگی صوتی",
+   "chapterId": 6,
+   "startBookPage": 211,
+   "endBookPage": 212,
+   "id": "s226",
+   "startPdfPage": 213,
+   "endPdfPage": 214
+  },
+  {
+   "title": "آلودگی دیداری ترافیک",
+   "chapterId": 6,
+   "startBookPage": 212,
+   "endBookPage": 212,
+   "id": "s227",
+   "startPdfPage": 214,
+   "endPdfPage": 214
+  },
+  {
+   "title": "آلودگی موانع",
+   "chapterId": 6,
+   "startBookPage": 213,
+   "endBookPage": 213,
+   "id": "s228",
+   "startPdfPage": 215,
+   "endPdfPage": 215
+  },
+  {
+   "title": "تاثیرات مخرب گازهای خروجی از اگزوز وسایل نقلیه موتوری به محیط زیست شهری",
+   "chapterId": 6,
+   "startBookPage": 213,
+   "endBookPage": 214,
+   "id": "s229",
+   "startPdfPage": 215,
+   "endPdfPage": 216
+  },
+  {
+   "title": "راههای کاهش مصرف سوخت",
+   "chapterId": 6,
+   "startBookPage": 214,
+   "endBookPage": 214,
+   "id": "s230",
+   "startPdfPage": 216,
+   "endPdfPage": 216
+  },
+  {
+   "title": "تنظیم موتور",
+   "chapterId": 6,
+   "startBookPage": 214,
+   "endBookPage": 214,
+   "id": "s231",
+   "startPdfPage": 216,
+   "endPdfPage": 216
+  },
+  {
+   "title": "عدم استفاده از باربند در مواقع غیر ضروری",
+   "chapterId": 6,
+   "startBookPage": 214,
+   "endBookPage": 215,
+   "id": "s232",
+   "startPdfPage": 216,
+   "endPdfPage": 217
+  },
+  {
+   "title": "مرتب چیدن بار",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s233",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "از سفرهای غیر ضروری پرهیز کنیم",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s234",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "برای مسیرهای کوتاه از خودرو شخصی استفاده نکنیم",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s235",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "بنزین سرمایه ملی",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s236",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "هوای تمیزتر، مصرف سوخت کمتر، با وسایل نقلیهٔ عمومی",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s237",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "تنظیم باد تایرها",
+   "chapterId": 6,
+   "startBookPage": 215,
+   "endBookPage": 215,
+   "id": "s238",
+   "startPdfPage": 217,
+   "endPdfPage": 217
+  },
+  {
+   "title": "کنترل روغن موتور",
+   "chapterId": 6,
+   "startBookPage": 216,
+   "endBookPage": 216,
+   "id": "s239",
+   "startPdfPage": 218,
+   "endPdfPage": 218
+  },
+  {
+   "title": "باز کردن ترموستات خودرو",
+   "chapterId": 6,
+   "startBookPage": 216,
+   "endBookPage": 216,
+   "id": "s240",
+   "startPdfPage": 218,
+   "endPdfPage": 218
+  },
+  {
+   "title": "درجا کارکردن روش مناسبی برای گرم کردن موتور نیست",
+   "chapterId": 6,
+   "startBookPage": 216,
+   "endBookPage": 216,
+   "id": "s241",
+   "startPdfPage": 218,
+   "endPdfPage": 218
+  },
+  {
+   "title": "فیلتر هوا را بموقع تعویض نماییم",
+   "chapterId": 6,
+   "startBookPage": 216,
+   "endBookPage": 216,
+   "id": "s242",
+   "startPdfPage": 218,
+   "endPdfPage": 218
+  },
+  {
+   "title": "به هنگام توقف، خودرو را خاموش کنیم",
+   "chapterId": 6,
+   "startBookPage": 216,
+   "endBookPage": 216,
+   "id": "s243",
+   "startPdfPage": 218,
+   "endPdfPage": 218
+  },
+  {
+   "title": "خودروهای تک سرنشین",
+   "chapterId": 6,
+   "startBookPage": 217,
+   "endBookPage": 217,
+   "id": "s244",
+   "startPdfPage": 219,
+   "endPdfPage": 219
+  },
+  {
+   "title": "هر چه سرعت بیش، مصرف بیشتر",
+   "chapterId": 6,
+   "startBookPage": 217,
+   "endBookPage": 217,
+   "id": "s245",
+   "startPdfPage": 219,
+   "endPdfPage": 219
+  },
+  {
+   "title": "تظیم سرعت خودرو با سرعت ترافیک",
+   "chapterId": 6,
+   "startBookPage": 217,
+   "endBookPage": 217,
+   "id": "s246",
+   "startPdfPage": 219,
+   "endPdfPage": 219
+  },
+  {
+   "title": "برنامه ریزی برای سفرهای درون شهری",
+   "chapterId": 6,
+   "startBookPage": 217,
+   "endBookPage": 217,
+   "id": "s247",
+   "startPdfPage": 219,
+   "endPdfPage": 219
+  },
+  {
+   "title": "در هنگام توقف های طولانی خودرو را خاموش کنیم",
+   "chapterId": 6,
+   "startBookPage": 218,
+   "endBookPage": 218,
+   "id": "s248",
+   "startPdfPage": 220,
+   "endPdfPage": 220
+  },
+  {
+   "title": "استفاده از خودروهایی با حجم موتور پایین",
+   "chapterId": 6,
+   "startBookPage": 218,
+   "endBookPage": 218,
+   "id": "s249",
+   "startPdfPage": 220,
+   "endPdfPage": 220
+  },
+  {
+   "title": "بهبود آیرودینامیکی سطح بدنه خودرو",
+   "chapterId": 6,
+   "startBookPage": 218,
+   "endBookPage": 218,
+   "id": "s250",
+   "startPdfPage": 220,
+   "endPdfPage": 220
+  },
+  {
+   "title": "روش هایی برای بهینه سازی مصرف سوخت خودرو ها:",
+   "chapterId": 6,
+   "startBookPage": 218,
+   "endBookPage": 218,
+   "id": "s251",
+   "startPdfPage": 220,
+   "endPdfPage": 220
+  },
+  {
+   "title": "مبدل کاتالیستی",
+   "chapterId": 6,
+   "startBookPage": 219,
+   "endBookPage": 219,
+   "id": "s252",
+   "startPdfPage": 221,
+   "endPdfPage": 221
+  },
+  {
+   "title": "کنیستر",
+   "chapterId": 6,
+   "startBookPage": 219,
+   "endBookPage": 219,
+   "id": "s253",
+   "startPdfPage": 221,
+   "endPdfPage": 221
+  },
+  {
+   "title": "مراجع",
+   "chapterId": 7,
+   "startBookPage": 220,
+   "endBookPage": 220,
+   "id": "s254",
+   "startPdfPage": 222,
+   "endPdfPage": 222
+  }
+ ],
+ "transcription": {
+  "method": "Rendered with PDFKit (scripts/render_pdf_pages.swift) and read visually by the model; the PDF text layer holds only dots and URLs. No local OCR.",
+  "pagesTranscribed": 220,
+  "pagesWithLegibilityNotes": [
+   30,
+   32,
+   34,
+   35,
+   38,
+   40,
+   42,
+   89,
+   93,
+   94,
+   96,
+   98,
+   99,
+   100,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   119,
+   120,
+   123,
+   140,
+   146,
+   148,
+   165,
+   174,
+   175,
+   198,
+   215,
+   216,
+   217,
+   219
+  ],
+  "problems": []
+ }
+}

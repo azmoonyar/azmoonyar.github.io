@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-visual-e9-p018-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p018-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n14",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e12-p053-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p059-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p060-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p077-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p081-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e2-p011-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p036-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-visual-e1-p009-n28",
+  "verdict": "fix",
+  "problem": "Over-general rule «دو خودروی کنار هم مربوط به سبقت‌اند»: the book's 70 m distance sign (p.34) also shows two cars side by side, and exam distractors like «سبقت تا ۷۰ متر ممنوع» exploit exactly this. In the book the overtaking signs are the ones where one of the two vehicles is red.",
+  "suggestedHint": "موتورسیکلت بالای خط و سواری زیر آن، درون دایرهٔ حاشیه‌قرمز، یعنی عبور وسایط نقلیهٔ موتوری ممنوع؛ دو وسیلهٔ کنار هم که یکی قرمز است، تابلوی سبقت ممنوع است."
+ },
+ {
+  "id": "q-6a8eb9c2",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e01-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e03-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e08-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e09-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e10-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p045-n048",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p047-n055",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p048-n057",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p049-n061",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p049-n062",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p049-n063",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p059-n098",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p059-n099",
+  "verdict": "fix",
+  "problem": "Over-general rule «دایره با خط مورب قرمز یعنی منع»: in the book a red diagonal on a circle can also mean END (e.g. «پایان حداقل سرعت ۳۰ کیلومتر», blue circle with red diagonal, p.37). The prohibition/warning contrast should rest on the red-bordered circle vs triangle (p.28).",
+  "suggestedHint": "دایرهٔ حاشیه‌قرمز تابلوی بازدارنده است، نه هشدار خطر که مثلثی است؛ خط مورب قرمز روی فلشی که به چپ می‌پیچد یعنی گردش به چپ ممنوع."
+ },
+ {
+  "id": "q-tablo-p059-n100",
+  "verdict": "fix",
+  "problem": "Over-general rule «دایره علامت بازدارنده است»: blue circles in the book are mandatory/permissive (e.g. «فقط گردش به راست مجاز», p.36), so a learner could misread them as prohibitions. Limit the rule to the red-bordered circle.",
+  "suggestedHint": "فلشی که به راست می‌پیچد با خط مورب قرمز، درون دایرهٔ حاشیه‌قرمز، یعنی گردش به راست ممنوع؛ تابلوهای هشدار خطر مثلثی‌اند."
+ },
+ {
+  "id": "q-tablo-p068-n128",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p068-n129",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p072-n140",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p080-n172",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p081-n177",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p082-n178",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p096-n229",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p099-n238",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p101-n245",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p102-n250",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n06",
+  "verdict": "fix",
+  "problem": "Over-general rule «مثلث‌های آدمک‌دار فقط هشدار عبور عابر یا اطفال‌اند»: the book also has human-figure triangles for «عبور دوچرخه سوار» and «کارگران مشغول کارند» (p.30), so «فقط» is false.",
+  "suggestedHint": "آدمکِ در حال راه رفتن درون دایرهٔ حاشیه‌قرمز یعنی عبور پیاده ممنوع؛ مثلث حاشیه‌قرمز با آدمک هشدار است، مثل عبور عابر پیاده یا اطفال، نه منع."
+ },
+ {
+  "id": "q-visual-e12-p024-n08",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e5-p010-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p044-n24",
+  "verdict": "fix",
+  "problem": "Over-general rule «عدد سیاه درون دایرهٔ سفید با حاشیهٔ قرمز سقف سرعت است»: the same group of book signs shows black numbers with units that are not speeds (2m width, 3.5m height, 5T weight, 70m distance, 10m length, p.34). Only a number without unit is the speed limit.",
+  "suggestedHint": "عدد بدون واحد درون دایرهٔ حاشیه‌قرمز سقف سرعت است: سرعت بیش از ۵۰ کیلومتر بر ساعت ممنوع. حداقل سرعت با دایرهٔ آبی و عدد سفید نشان داده می‌شود."
+ },
+ {
+  "id": "q-600-e11-p047-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p057-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p065-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p077-n30",
+  "verdict": "fix",
+  "problem": "Second clause «فلشی که فقط به یک سمت بپیچد، گردش ممنوع است» reads as a general rule; in the book a turning arrow in a blue circle means «فقط گردش به راست/چپ مجاز» (p.36). Limit it to the crossed-out arrow.",
+  "suggestedHint": "فلشی که بالا می‌رود و به عقب برمی‌گردد، با خط مورب قرمز رویش، یعنی دور زدن ممنوع؛ اگر فلشِ خط‌خورده فقط به یک سمت بپیچد، گردش به همان سمت ممنوع است."
+ },
+ {
+  "id": "q-600-e19-p081-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p085-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e4-p019-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p022-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e10-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p042-n037",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p051-n068",
+  "verdict": "fix",
+  "problem": "Over-general rule «عدد سیاه در دایرهٔ سفید با حاشیهٔ قرمز سقف سرعت است»: book p.34 has red-bordered circles with black numbers that are not speeds (2m, 3.5m, 5T, 70m, 10m). Only a number without a unit is the speed limit.",
+  "suggestedHint": "عدد بدون واحد در دایرهٔ حاشیه‌قرمز سقف سرعت است: سرعت بیش از ۳۰ کیلومتر بر ساعت ممنوع؛ عدد سفید روی دایرهٔ آبی برعکس، حداقل سرعت را نشان می‌دهد."
+ },
+ {
+  "id": "q-tablo-p055-n085",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p055-n086",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p056-n087",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p056-n088",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p058-n095",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p060-n101",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p062-n107",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p063-n111",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p065-n116",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p067-n124",
+  "verdict": "fix",
+  "problem": "Minor over-general rule «یک خط مورب قرمز روی دایرهٔ آبی یعنی توقف ممنوع»: the book's «پایان حداقل سرعت ۳۰ کیلومتر» (p.37) is also a blue circle with one red diagonal. Adding the red border makes the rule true for the whole book.",
+  "suggestedHint": "یک خط مورب قرمز روی دایرهٔ آبیِ حاشیه‌قرمز یعنی توقف ممنوع؛ ضربدر (دو خط) یعنی ایستادن ممنوع که همان توقف مطلقاً ممنوع است."
+ },
+ {
+  "id": "q-tablo-p067-n125",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p074-n149",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p076-n159",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p078-n165",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p079-n168",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p082-n179",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p083-n183",
+  "verdict": "fix",
+  "problem": "Over-general rule «عدد سیاه در دایرهٔ حاشیه‌قرمز سقف سرعت است»: book p.34 has red-bordered circles with black numbers that are not speeds (2m, 3.5m, 5T, 70m, 10m). Only a number without a unit is the speed limit. Rest of the hint is fine; reworded to echo the keyed answer.",
+  "suggestedHint": "عدد بدون واحد در دایرهٔ حاشیه‌قرمز سقف سرعت است؛ با دیدن تابلو سرعت را به ۳۰ کیلومتر بر ساعت برسانید و تا پایان محدودیت از آن بیشتر نکنید."
+ },
+ {
+  "id": "q-tablo-p093-n220",
+  "verdict": "fix",
+  "problem": "Over-general rule «دو خودروی کنار هم یعنی موضوع تابلو سبقت است»: the book's 70 m distance sign (p.34) also shows two cars side by side. In the book the overtaking signs are identified by one red vehicle.",
+  "suggestedHint": "دو سواری کنار هم که چپی قرمز است یعنی سبقت ممنوع؛ اگر وسیلهٔ قرمز کامیون باشد، سبقت برای کامیون ممنوع است. عبور سواری ممنوع فقط یک سواری سیاه دارد."
+ },
+ {
+  "id": "q-tablo-p096-n228",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p107-n268",
+  "verdict": "fix",
+  "problem": "Over-general rule «تابلوهای «پایان» با نوار مورب هاشورخورده شناخته می‌شوند»: many end signs in the book use a red or black diagonal line instead (پایان حداقل سرعت, پایان آزاد راه, پایان شهر, پایان خیابان اصلی). Only the reverse (hatched band = end) holds.",
+  "suggestedHint": "نوار مورب هاشورخورده نشانهٔ پایان است؛ این تابلو هیچ نماد یا عددی زیر نوار ندارد، پس یعنی پایان تمام محدودیت‌ها."
+ }
+]

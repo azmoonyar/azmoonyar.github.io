@@ -1,0 +1,823 @@
+[
+ {
+  "id": "q-600-e10-p042-n01",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "آزادراه به راهی گفته می‌شود که حداقل دارای دو خط اتومبیل رو و یک شانه حداقل به عرض سه متر برای هر طرف رفت و برگشت",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p046-n07",
+  "bookPage": 80,
+  "confidence": "high",
+  "supportingText": "معمولا میزان سرعت مجاز با نصب تابلوهای محدودیت سرعت در جاده و خیابانها تعیین می گردد",
+  "bookReference": "سرعت",
+  "secondaryPages": [
+   47
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "p47 gives the regulation (آیین‌نامه) limits where no sign is installed"
+ },
+ {
+  "id": "q-600-e18-p076-n22",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "ابطال گواهی‌نامه: سلب اعتبار قانونی گواهی‌نامه رانندگی.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p034-n01",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "ابطال گواهی‌نامه: سلب اعتبار قانونی گواهی‌نامه رانندگی.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n15",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "ابطال گواهی‌نامه: سلب اعتبار قانونی گواهی‌نامه رانندگی.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n15",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "آزادراه به راهی گفته می‌شود که حداقل دارای دو خط اتومبیل رو و یک شانه حداقل به عرض سه متر برای هر طرف رفت و برگشت",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-07",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "ابطال گواهی‌نامه: سلب اعتبار قانونی گواهی‌نامه رانندگی.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-11",
+  "bookPage": 80,
+  "confidence": "high",
+  "supportingText": "معمولا میزان سرعت مجاز با نصب تابلوهای محدودیت سرعت در جاده و خیابانها تعیین می گردد",
+  "bookReference": "سرعت",
+  "secondaryPages": [
+   47
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "p47 gives the regulation (آیین‌نامه) limits where no sign is installed"
+ },
+ {
+  "id": "q-e7-p014-n14",
+  "bookPage": 3,
+  "confidence": "high",
+  "supportingText": "آزادراه به راهی گفته می‌شود که حداقل دارای دو خط اتومبیل رو و یک شانه حداقل به عرض سه متر برای هر طرف رفت و برگشت",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p080-n19",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن: ایست وسیله‌نقلیه در زمان کوتاه.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p026-n01",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p032-n16",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن: ایست وسیله‌نقلیه در زمان کوتاه.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n15",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n15",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن: ایست وسیله‌نقلیه در زمان کوتاه.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n29",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن: ایست وسیله‌نقلیه در زمان کوتاه.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n29",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p093-n218",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   5
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 2 in image = blue disc, red border, single red diagonal"
+ },
+ {
+  "id": "q-tablo-p116-n296",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   4
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 4 in image = blue disc, red border, red X"
+ },
+ {
+  "id": "q-600-e12-p052-n19",
+  "bookPage": 5,
+  "confidence": "high",
+  "supportingText": "توقف: ایست وسیله‌نقلیه در زمان طولانی بدون حضور راننده.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p066-n02",
+  "bookPage": 5,
+  "confidence": "high",
+  "supportingText": "توقف ممنوع : توقف وسیله‌نقلیه ممنوع است، جز برای سوار و پیاده کردن، مشروط به استقرار راننده در پشت فرمان.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n15",
+  "bookPage": 5,
+  "confidence": "high",
+  "supportingText": "توقف: ایست وسیله‌نقلیه در زمان طولانی بدون حضور راننده.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n07",
+  "bookPage": 5,
+  "confidence": "high",
+  "supportingText": "توقف ممنوع : توقف وسیله‌نقلیه ممنوع است، جز برای سوار و پیاده کردن، مشروط به استقرار راننده در پشت فرمان.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n15",
+  "bookPage": 5,
+  "confidence": "high",
+  "supportingText": "توقف: ایست وسیله‌نقلیه در زمان طولانی بدون حضور راننده.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p065-n116",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   5
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p067-n124",
+  "bookPage": 35,
+  "confidence": "high",
+  "supportingText": "توقف ممنوع",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   5
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p076-n18",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "چراغ جانبی جلو (چراغ‌های کوچک جلو): عبارت از چراغ‌هایی است که حضور وسیله‌نقلیه و عرض آن را از سمت جلو نشان می‌دهد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p024-n23",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "چراغ جانبی جلو (چراغ‌های کوچک جلو): عبارت از چراغ‌هایی است که حضور وسیله‌نقلیه و عرض آن را از سمت جلو نشان می‌دهد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e10-n12",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "چراغ جانبی جلو (چراغ‌های کوچک جلو): عبارت از چراغ‌هایی است که حضور وسیله‌نقلیه و عرض آن را از سمت جلو نشان می‌دهد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p026-n15",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "این چراغ‌ها برای هر دو طرف در نظر گرفته شده و در قسمت عقب قرمز رنگ و در قسمت جلو زرد رنگ می‌باشند و در حدود هر ۳ متر از طول وسیله نقلیه نصب می‌شوند.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p008-n09",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "چراغ جانبی جلو (چراغ‌های کوچک جلو): عبارت از چراغ‌هایی است که حضور وسیله‌نقلیه و عرض آن را از سمت جلو نشان می‌دهد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p017-n22",
+  "bookPage": 6,
+  "confidence": "high",
+  "supportingText": "چراغ جانبی جلو (چراغ‌های کوچک جلو): عبارت از چراغ‌هایی است که حضور وسیله‌نقلیه و عرض آن را از سمت جلو نشان می‌دهد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p074-n01",
+  "bookPage": 37,
+  "confidence": "high",
+  "supportingText": "خط ویژه عبور",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 = white square with lane arrows and bus symbol; book sign has same design (arrow directions may differ)"
+ },
+ {
+  "id": "q-600-e20-p082-n02",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط ایست: خط‌کشی عرضی است که در ورودی تقاطع و به منظور تعیین مرز توقف وسایل نقلیه پیش از گذرگاه پیاده بر سطح راه ترسیم می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   26
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p038-n01",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط کمکی: خط عبوری است که به منظور تغییر سرعت، انجام حرکات گردشی و یا افزایش ظرفیت راه، در کنار خط عبور ایجاد می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p040-n19",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط ایست: خط‌کشی عرضی است که در ورودی تقاطع و به منظور تعیین مرز توقف وسایل نقلیه پیش از گذرگاه پیاده بر سطح راه ترسیم می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   26
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e02-n16",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط ایست: خط‌کشی عرضی است که در ورودی تقاطع و به منظور تعیین مرز توقف وسایل نقلیه پیش از گذرگاه پیاده بر سطح راه ترسیم می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   26
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question says «خط‌کشی ویژه تقاطع»; book term is «خط ایست»"
+ },
+ {
+  "id": "q-ayin1-e03-n01",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور مستقیم مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   33
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 = blue disc with straight-ahead arrow; the other three (رعایت حق تقدم، حق تقدم عبور با شما، حق تقدم عبور با وسیله نقلیه مقابل) are on p33"
+ },
+ {
+  "id": "q-ayin1-e08-n12",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط ایست: خط‌کشی عرضی است که در ورودی تقاطع و به منظور تعیین مرز توقف وسایل نقلیه پیش از گذرگاه پیاده بر سطح راه ترسیم می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   26
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n15",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط کمکی: خط عبوری است که به منظور تغییر سرعت، انجام حرکات گردشی و یا افزایش ظرفیت راه، در کنار خط عبور ایجاد می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p024-n13",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط ایست: خط‌کشی عرضی است که در ورودی تقاطع و به منظور تعیین مرز توقف وسایل نقلیه پیش از گذرگاه پیاده بر سطح راه ترسیم می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   26
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p016-n10",
+  "bookPage": 7,
+  "confidence": "high",
+  "supportingText": "خط کمکی: خط عبوری است که به منظور تغییر سرعت، انجام حرکات گردشی و یا افزایش ظرفیت راه، در کنار خط عبور ایجاد می‌شود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p064-n114",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با شما",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image = blue square, large white up arrow, red down arrow"
+ },
+ {
+  "id": "q-tablo-p096-n230",
+  "bookPage": 40,
+  "confidence": "high",
+  "supportingText": "افزیش خطوط عبور",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "caption transcribed with typo «افزیش»; sign description (white square, three black arrows, right stem bent) matches the image"
+ },
+ {
+  "id": "q-tablo-p106-n263",
+  "bookPage": 33,
+  "confidence": "high",
+  "supportingText": "حق تقدم عبور با وسیله نقلیه مقابل است",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 3 in image = red-bordered disc with black down arrow and red up arrow"
+ },
+ {
+  "id": "q-visual-e14-p028-n14",
+  "bookPage": 106,
+  "confidence": "low",
+  "supportingText": "ت ـ در سه راه‌ها حق تقدم عبور با وسیله نقلیه‌ای است که به طور مستقیم و در سمت و مسیر مجاز حرکت می‌کند",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   105
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "image is a small blurry T-junction scene; order truck>bicycle>car needs applying T-junction (p106) and left-turn (p105) priority rules; same rules on pp51-52"
+ },
+ {
+  "id": "q-visual-e15-p031-n22",
+  "bookPage": 36,
+  "confidence": "high",
+  "supportingText": "فقط عبور مستقیم مجاز",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [
+   33
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 = blue disc with straight-ahead arrow; options 1-3 are the priority signs on p33"
+ },
+ {
+  "id": "q-600-e11-p047-n16",
+  "bookPage": 8,
+  "confidence": "high",
+  "supportingText": "شانه راه: بخشی از بدنه راه است که در دو طرف خط‌های عبور رفت و برگشت قرار داشته و برای توقف اضطراری وسایل نقلیه به کار می‌رود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p036-n19",
+  "bookPage": 8,
+  "confidence": "high",
+  "supportingText": "شانه راه: بخشی از بدنه راه است که در دو طرف خط‌های عبور رفت و برگشت قرار داشته و برای توقف اضطراری وسایل نقلیه به کار می‌رود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n12",
+  "bookPage": 8,
+  "confidence": "high",
+  "supportingText": "شانه راه: بخشی از بدنه راه است که در دو طرف خط‌های عبور رفت و برگشت قرار داشته و برای توقف اضطراری وسایل نقلیه به کار می‌رود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e8-p016-n13",
+  "bookPage": 8,
+  "confidence": "medium",
+  "supportingText": "شانه راه: بخشی از بدنه راه است که در دو طرف خط‌های عبور رفت و برگشت قرار داشته و برای توقف اضطراری وسایل نقلیه به کار می‌رود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [
+   76,
+   59
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "no explicit flat-tyre rule; shoulder is for emergency stops (p8) and stopping in freeway traffic lanes is prohibited (p76, p59)"
+ },
+ {
+  "id": "q-e9-p019-n17",
+  "bookPage": 8,
+  "confidence": "high",
+  "supportingText": "شانه راه: بخشی از بدنه راه است که در دو طرف خط‌های عبور رفت و برگشت قرار داشته و برای توقف اضطراری وسایل نقلیه به کار می‌رود.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p047-n11",
+  "bookPage": 39,
+  "confidence": "high",
+  "supportingText": "گذرگاه پیاده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [
+   10
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image = blue square with white triangle and pedestrian on zebra"
+ },
+ {
+  "id": "q-tablo-p087-n196",
+  "bookPage": 39,
+  "confidence": "high",
+  "supportingText": "گذرگاه پیاده",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [
+   10
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p046-n08",
+  "bookPage": 12,
+  "confidence": "high",
+  "supportingText": "وسیله نقلیه طویل: (Long Vehicle) وسیله نقلیه‌ای است که طول آن بیش از ۱۲/۵ متر باشد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p017-n28",
+  "bookPage": 12,
+  "confidence": "high",
+  "supportingText": "محدودیتهای ترافیکی در راه‌ها به طور معمول به وسیله تابلوها و علائم مشخص می گردد.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   80
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p039-n15",
+  "bookPage": 12,
+  "confidence": "high",
+  "supportingText": "محدودیتهای ترافیکی در راه‌ها به طور معمول به وسیله تابلوها و علائم مشخص می گردد.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   80
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p034-n28",
+  "bookPage": 12,
+  "confidence": "high",
+  "supportingText": "محدودیتهای ترافیکی در راه‌ها به طور معمول به وسیله تابلوها و علائم مشخص می گردد.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   80
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p006-n10",
+  "bookPage": 12,
+  "confidence": "high",
+  "supportingText": "وسیله نقلیه طویل: (Long Vehicle) وسیله نقلیه‌ای است که طول آن بیش از ۱۲/۵ متر باشد.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p006-n02",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p054-n02",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "در هر حال فرمان پلیس راهنما که ممکن است مغایر با پیام علایم یا مقررات در محل باشد مقدم خواهد بود.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   103
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p061-n29",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p013-n29",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p021-n27",
+  "bookPage": 13,
+  "confidence": "medium",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: the same paragraph also states option 3 (turning vehicles must yield to straight-moving vehicles and pedestrians), which would support option 4 («موارد ۲ و ۳»)"
+ },
+ {
+  "id": "q-600-e7-p032-n19",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "در هر حال فرمان پلیس راهنما که ممکن است مغایر با پیام علایم یا مقررات در محل باشد مقدم خواهد بود.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   103
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e03-n29",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n12",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "در هر حال فرمان پلیس راهنما که ممکن است مغایر با پیام علایم یا مقررات در محل باشد مقدم خواهد بود.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   103
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e11-n29",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n04",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "رانندگان وسایل نقلیه‌ای که با چراغ سبز روبرو می‌شوند حق عبور یا گردش دارند؛ مگر آنکه گردش به وسیله علامت دیگری ممنوع شده‌باشد.",
+  "bookReference": "چراغ سبز برای حرکت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p014-n13",
+  "bookPage": 13,
+  "confidence": "high",
+  "supportingText": "در هر حال فرمان پلیس راهنما که ممکن است مغایر با پیام علایم یا مقررات در محل باشد مقدم خواهد بود.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   103
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p060-n16",
+  "bookPage": 14,
+  "confidence": "high",
+  "supportingText": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "bookReference": "چراغ چشمک‌زن قرمز برای ایست و عبور",
+  "secondaryPages": [
+   101
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

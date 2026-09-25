@@ -1,0 +1,812 @@
+[
+ {
+  "id": "q-e16-p033-n19",
+  "bookPage": 17,
+  "confidence": "high",
+  "supportingText": "در وسط راه چراغ الکتریکی و یا مشعل نورانی قرمز در فاصله‌های ۷۰ متری جلو و عقب و یکی دیگر در پهلوی وسیله نقلیه از کار افتاده بگذارد.",
+  "bookReference": "علایم راهنمایی و رانندگی",
+  "secondaryPages": [
+   56
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p029-n25",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "ایستادن یا توقف وسایل نقلیه در محلهای زیر ممنوع است: - الف : پیاده رو و گذرگاه پیاده",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   61
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p039-n13",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "حرکت درپوشش وسایل نقلیه امدادی برای وسایل نقلیه دیگر ممنوع است .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n25",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "حرکت درپوشش وسایل نقلیه امدادی برای وسایل نقلیه دیگر ممنوع است .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p024-n16",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "حرکت درپوشش وسایل نقلیه امدادی برای وسایل نقلیه دیگر ممنوع است .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n21",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "حرکت درپوشش وسایل نقلیه امدادی برای وسایل نقلیه دیگر ممنوع است .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n05",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "ایستادن یا توقف وسایل نقلیه در محلهای زیر ممنوع است: - الف : پیاده رو و گذرگاه پیاده",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   61
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p034-n24",
+  "bookPage": 57,
+  "confidence": "high",
+  "supportingText": "ایستادن یا توقف وسایل نقلیه در محلهای زیر ممنوع است: - الف : پیاده رو و گذرگاه پیاده",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   58
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "list continues on p58: 15 m from squares/intersections and «از ابتدا تا انتهای پیچ ها»"
+ },
+ {
+  "id": "q-600-e10-p042-n03",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ب: مقابل ورودی خیابان ها و جاده ها و کوچه ها یا ورودی و خروجی اتومبیل رو ساختمان ها .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [
+   108
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p045-n26",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "توقف در محل‌هایی که باعث اختلال در میدان دید یا اختلال در تردد سایر کاربران راه می‌گردد همچون ورودی خیابان‌ها، جاده‌ها و کوچه‌ها، مقابل در پارکینگ ساختمان‌ها، داخل تقاطع‌ها و محدوده‌های آن‌ها و مواردی از این دست ممنوع است.",
+  "bookReference": "توقف",
+  "secondaryPages": [
+   58
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p063-n16",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "تقاطع جاده و راه آهن در ۳۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image shows the 3/1/2-stripe countdown boards; page 32 captions them as road–railway crossing at 300/100/200 m"
+ },
+ {
+  "id": "q-600-e4-p020-n22",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ح : در فاصله ۱۵ متری ورودی و خروجی مراکز آتش نشانی ، پلیس و بیمارستانها و فوریتهای پزشکی .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p030-n06",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ح : در فاصله ۱۵ متری ورودی و خروجی مراکز آتش نشانی ، پلیس و بیمارستانها و فوریتهای پزشکی .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p037-n30",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "تقاطع جاده و راه آهن در ۱۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 2 = two boards with one red diagonal stripe each"
+ },
+ {
+  "id": "q-ayin1-e06-n25",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ح : در فاصله ۱۵ متری ورودی و خروجی مراکز آتش نشانی ، پلیس و بیمارستانها و فوریتهای پزشکی .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n26",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "توقف در محل‌هایی که باعث اختلال در میدان دید یا اختلال در تردد سایر کاربران راه می‌گردد همچون ورودی خیابان‌ها، جاده‌ها و کوچه‌ها، مقابل در پارکینگ ساختمان‌ها، داخل تقاطع‌ها و محدوده‌های آن‌ها و مواردی از این دست ممنوع است.",
+  "bookReference": "توقف",
+  "secondaryPages": [
+   58
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p020-n11",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ح : در فاصله ۱۵ متری ورودی و خروجی مراکز آتش نشانی ، پلیس و بیمارستانها و فوریتهای پزشکی .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p022-n07",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ج : در فاصله ۱۵ متری اطراف چراغهای راهنمایی ورانندگی و یا محل هایی که توقف وسایل نقلیه مانع دید علایم راهنمایی ورانندگی بشود .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n17",
+  "bookPage": 108,
+  "confidence": "low",
+  "supportingText": "به عنوان مثال استفاده از عینک برای رانندگان دارای ضعف بینایی الزامی است.",
+  "bookReference": "محدودیت های روحی و جسمی راننده",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book mentions eyesight/glasses only; the 20 m plate-reading distance is not stated anywhere"
+ },
+ {
+  "id": "q-e14-p029-n17",
+  "bookPage": 108,
+  "confidence": "high",
+  "supportingText": "توقف در محل‌هایی که باعث اختلال در میدان دید یا اختلال در تردد سایر کاربران راه می‌گردد همچون ورودی خیابان‌ها، جاده‌ها و کوچه‌ها، مقابل در پارکینگ ساختمان‌ها، داخل تقاطع‌ها و محدوده‌های آن‌ها و مواردی از این دست ممنوع است.",
+  "bookReference": "توقف",
+  "secondaryPages": [
+   58
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n02",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "د : روی پل ها و درون تونل ها و معابر در ارتفاع .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p014-n11",
+  "bookPage": 58,
+  "confidence": "high",
+  "supportingText": "ح : در فاصله ۱۵ متری ورودی و خروجی مراکز آتش نشانی ، پلیس و بیمارستانها و فوریتهای پزشکی .",
+  "bookReference": "مقررات رانندگی - توقف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p074-n151",
+  "bookPage": 38,
+  "confidence": "low",
+  "supportingText": "پایان آزاد راه",
+  "bookReference": "تابلوهای اخباری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image is the blue square with a white car crossed in red («پایان راه اتومبیل رو»); this sign is not in the book, closest is «پایان آزاد راه» (freeway pictogram)"
+ },
+ {
+  "id": "q-tablo-p087-n197",
+  "bookPage": 31,
+  "confidence": "medium",
+  "supportingText": "تقاطع",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: p31 shows this staggered-junction sign (side road right above, left below) but captions it only «تقاطع» (option c), not «ورودی از چپ و راست»"
+ },
+ {
+  "id": "q-visual-e7-p014-n05",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "تقاطع جاده و راه آهن در ۳۰۰ متری",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image shows the 1/2/3-stripe countdown boards; page 32 captions them as road–railway crossing at 100/200/300 m"
+ },
+ {
+  "id": "q-600-e10-p042-n05",
+  "bookPage": 59,
+  "confidence": "high",
+  "supportingText": "حرکت با دنده خلاص درسرازیری ها ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p051-n11",
+  "bookPage": 59,
+  "confidence": "high",
+  "supportingText": "رانندگان حق ندارند ضمن رانندگی ، دخانیات استعمال نمایند یا خوراکی یا آشامیدنی میل کنند",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p022-n11",
+  "bookPage": 59,
+  "confidence": "high",
+  "supportingText": "رانندگان حق ندارند ضمن رانندگی ، دخانیات استعمال نمایند یا خوراکی یا آشامیدنی میل کنند",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p037-n29",
+  "bookPage": 59,
+  "confidence": "high",
+  "supportingText": "حرکت با دنده خلاص درسرازیری ها ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n16",
+  "bookPage": 154,
+  "confidence": "medium",
+  "supportingText": "بعضی از افراد در سرازیری ها خودرو را خلاص نموده و سرعت آن را صرفا با ترمز پایی کنترل می نمایند که کاری اشتباه و غیر ایمن است. باید توجه داشت که استفاده مداوم و طولانی مدت از ترمز منجر به داغ شدن لنتها می گردد.",
+  "bookReference": "روغن ترمز",
+  "secondaryPages": [
+   59
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book explains coasting downhill in neutral is unsafe (brake fade); speed gain, hard gear engagement and steering are not stated explicitly"
+ },
+ {
+  "id": "q-tablo-p084-n187",
+  "bookPage": 37,
+  "confidence": "low",
+  "supportingText": "خط ویژه عبور",
+  "bookReference": "تابلوهای انتظامی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image is a no-entry disc on a yellow plate reading «ویژه اتوبوس شرکت واحد»; this local sign is not in the book (only bus-lane «خط ویژه عبور» signs; p99–100 says bus-only roads are closed to private cars)"
+ },
+ {
+  "id": "q-tablo-p104-n256",
+  "bookPage": 4,
+  "confidence": "high",
+  "supportingText": "ایستادن ممنوع (توقف مطلقا ممنوع): ایست وسیله‌نقلیه برای هر مدت ممنوع است.",
+  "bookReference": "تعریف‌ها",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "attached image shows a children-crossing warning sign, unrelated to the stem about «ایستادن ممنوع»"
+ },
+ {
+  "id": "q-visual-e12-p024-n07",
+  "bookPage": 105,
+  "confidence": "medium",
+  "supportingText": "در خیابان یا در تقاطعی که وسایل نقلیه روبروی یکدیگر حرکت می‌کنند، هرگاه وسیله‌ای بخواهد گردش به چپ کند حق تقدم با وسیله نقلیه‌ای است که مستقیم و در مسیر مجاز عبور می‌نماید.",
+  "bookReference": "تقاطع هایی که فاقد علائم کنترلی می باشند",
+  "secondaryPages": [
+   51,
+   52
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "picture: bus from the right going straight, bicycle straight, car turning left; same page also says to yield to the vehicle on your right"
+ },
+ {
+  "id": "q-e13-p027-n23",
+  "bookPage": 46,
+  "confidence": "medium",
+  "supportingText": "رانندگان کلیه وسایل نقلیه موظفند ازخط عبور یا مسیر عبوری سمت راست راه حرکت نمایند ، مگر درموارد زیر: - الف ـ هنگام سبقت گرفتن از وسیله نقلیه جلو",
+  "bookReference": "مقررات رانندگی ـ مسیر و جهت عبور",
+  "secondaryPages": [
+   98,
+   107
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "keep-right-except-to-overtake rule; per-lane max speed on freeways set by signs (p107/p48)"
+ },
+ {
+  "id": "q-e4-p008-n11",
+  "bookPage": 50,
+  "confidence": "high",
+  "supportingText": "با وجود این سبقت گرفتن از طرف راست وسیله نقلیه ای که در حال گردش به چپ میباشد مجاز خواهد بود .",
+  "bookReference": "مقررات رانندگی - سبقت",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e20-p083-n11",
+  "bookPage": 61,
+  "confidence": "high",
+  "supportingText": "استفاده از لاستیک های فرسوده و غیر استاندارد در وسایل نقلیه ممنوع است",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n27",
+  "bookPage": 61,
+  "confidence": "high",
+  "supportingText": "استفاده از لاستیک های فرسوده و غیر استاندارد در وسایل نقلیه ممنوع است",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p049-n25",
+  "bookPage": 62,
+  "confidence": "high",
+  "supportingText": "رانندگان موظفند با دیدن حرکت گله و رمه از سرعت خود کاسته و در صورت لزوم تا عبور احشام توقف نمایند .",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p074-n06",
+  "bookPage": 62,
+  "confidence": "high",
+  "supportingText": "تکیه نمودن و آویزان شدن اشخاص نیز به وسایل نقلیه ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e15-p031-n17",
+  "bookPage": 62,
+  "confidence": "high",
+  "supportingText": "رانندگان موظفند با دیدن حرکت گله و رمه از سرعت خود کاسته و در صورت لزوم تا عبور احشام توقف نمایند .",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n17",
+  "bookPage": 62,
+  "confidence": "high",
+  "supportingText": "شستشوی وسایل نقلیه، ایجاد موانع و به‌طور کلی هر عملی که باعث سد راه و ایجاد خطر و انحراف وسایل‌نقلیه از مسیر حرکت باشد بر روی راه‌ها، شانه جاده‌ها و حریم قانونی آنها ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n18",
+  "bookPage": 62,
+  "confidence": "high",
+  "supportingText": "تکیه نمودن و آویزان شدن اشخاص نیز به وسایل نقلیه ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n20",
+  "bookPage": 64,
+  "confidence": "high",
+  "supportingText": "بازگذاشتن درصندوق عقب وسیله نقلیه درحال حرکت، یا نصب پرده، کرکره یا هر چیز دیگری که مانع دید عقب وسیله نقلیه شود ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n24",
+  "bookPage": 65,
+  "confidence": "high",
+  "supportingText": "رانندگی با وسیله نقلیه‌ای که برگ معاینه فنی معتبر نداشته باشد، ممنوع است.",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e15-p031-n19",
+  "bookPage": 68,
+  "confidence": "low",
+  "supportingText": "سه چراغ یا سه مشعل الکتریکی با نور قرمز یا دو مثلث شبرنگ ایمنی که در شرایط جوی معمولی از فاصله ۱۵۰ متری قابل دیدن باشند",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "book_conflict: p17–18 place warning lights/reflective triangles 70 m in front and behind a broken-down vehicle (option a); 150 m on p68 is only their required visibility distance"
+ },
+ {
+  "id": "q-600-e13-p054-n01",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "هنگام روبروشدن باوسیله نقلیه ای که از جهت مخالف حرکت می کند، دراین صورت راننده باید از فاصله حداقل ۱۵۰متری از چراغ عبور(نورپایین) استفاده نماید",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [
+   95
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p078-n02",
+  "bookPage": 68,
+  "confidence": "high",
+  "supportingText": "راننده هر وسیله نقلیه که مرتکب تصادف منجر به جرح یا فوت گردد، موظف است بلافاصله وسیله نقلیه را در محل تصادف متوقف ساخته و با نصب علایم ایمنی هشدار دهنده، رانندگان وسایل نقلیه دیگر را از وقوع حادثه آگاه سازد",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-dca8f459",
+  "bookPage": 54,
+  "confidence": "high",
+  "supportingText": "هنگام روبروشدن باوسیله نقلیه ای که از جهت مخالف حرکت می کند، دراین صورت راننده باید از فاصله حداقل ۱۵۰متری از چراغ عبور(نورپایین) استفاده نماید",
+  "bookReference": "مقررات رانندگی – چراغ‌ها",
+  "secondaryPages": [
+   95
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p026-n17",
+  "bookPage": 68,
+  "confidence": "high",
+  "supportingText": "راننده هر وسیله نقلیه که مرتکب تصادف منجر به جرح یا فوت گردد، موظف است بلافاصله وسیله نقلیه را در محل تصادف متوقف ساخته و با نصب علایم ایمنی هشدار دهنده، رانندگان وسایل نقلیه دیگر را از وقوع حادثه آگاه سازد",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p073-n25",
+  "bookPage": 72,
+  "confidence": "high",
+  "supportingText": "کسانی که در مدت ضبط گواهینامه مبادرت به انندگی نمایند به مرجع قضایی معرفی و به مجازات مقرر برای رانندگی بدون گواهینامه محکوم می‌شوند.",
+  "bookReference": "قانون رسیدگی به تخلفات رانندگی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p075-n09",
+  "bookPage": 72,
+  "confidence": "high",
+  "supportingText": "کسانی که در مدت ضبط گواهینامه مبادرت به انندگی نمایند به مرجع قضایی معرفی و به مجازات مقرر برای رانندگی بدون گواهینامه محکوم می‌شوند.",
+  "bookReference": "قانون رسیدگی به تخلفات رانندگی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e14-p029-n23",
+  "bookPage": 72,
+  "confidence": "high",
+  "supportingText": "رانندگان موظفند هنگام رانندگی گواهینامه، کارت خودرو و بیمه‌نامه معتبر شخص ثالث و برای خودروهایی که بیش از پنج‌سال از تولید آنان می‌گذرد برگه معاینه فنی را به همراه داشته باشند",
+  "bookReference": "قانون رسیدگی به تخلفات رانندگی",
+  "secondaryPages": [
+   60
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p010-n08",
+  "bookPage": 72,
+  "confidence": "medium",
+  "supportingText": "کسانی که در مدت ضبط گواهینامه مبادرت به انندگی نمایند به مرجع قضایی معرفی و به مجازات مقرر برای رانندگی بدون گواهینامه محکوم می‌شوند.",
+  "bookReference": "قانون رسیدگی به تخلفات رانندگی",
+  "secondaryPages": [
+   75
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "p72 concerns driving during licence suspension; p75 sets the prison/fine penalty for driving without a licence"
+ },
+ {
+  "id": "q-e9-p019-n16",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "عبور و توقف وسایل نقلیه غیر مجاز در مسیر ویژه ممنوع بوده و با متخلفین برابر با قوانین جدید برخورد می گردد.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p045-n27",
+  "bookPage": 204,
+  "confidence": "medium",
+  "supportingText": "یکی از مهمترین مشکلات زیست محیطی کلانشهرهای کشور، موضوع آلودگی هوا ناشی از تردد روزانه خودرو ها در شبکه معابر و ترافیک است.",
+  "bookReference": "آلودگی هوا و محیط زیست شهری",
+  "secondaryPages": [
+   207
+  ],
+  "chapterId": 6,
+  "chapterBasis": "page",
+  "note": "p207: over 70% of urban air pollution comes from street traffic"
+ },
+ {
+  "id": "q-600-e12-p051-n12",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "عبور و توقف وسایل نقلیه غیر مجاز در مسیر ویژه ممنوع بوده و با متخلفین برابر با قوانین جدید برخورد می گردد.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p037-n25",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "عبور و توقف وسایل نقلیه غیر مجاز در مسیر ویژه ممنوع بوده و با متخلفین برابر با قوانین جدید برخورد می گردد.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [
+   100
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n25",
+  "bookPage": 73,
+  "confidence": "high",
+  "supportingText": "تعویض قطعات اصلی وسایل نقلیه شامل موتور، شاسی، اتاق و نیز رنگ بدون مجوز راهنمایی و رانندگی ممنوع است.",
+  "bookReference": "قانون رسیدگی به تخلفات رانندگی",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p054-n08",
+  "bookPage": 176,
+  "confidence": "low",
+  "supportingText": "به مجموعه عواملی که باعث ضعف کلی یک کاربر ترافیک در رانندگی می شود، عوامل انسانی گفته می شود.",
+  "bookReference": "رفتار انسانی در ترافیک",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "book lists other weak-performance factors (poor hazard recognition, lack of concentration, etc.); skill/experience, vehicle familiarity and ignoring rules are not listed"
+ },
+ {
+  "id": "q-600-e3-p017-n26",
+  "bookPage": 76,
+  "confidence": "high",
+  "supportingText": "ورود و عبور عابرین پیاده و انواع وسائط نقلیه غیر مجاز و عبور دادن دام در آزادراهها و همچنین توقف وسائط نقلیه در خطوط عبور ممنوع است.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n26",
+  "bookPage": 76,
+  "confidence": "high",
+  "supportingText": "ورود و عبور عابرین پیاده و انواع وسائط نقلیه غیر مجاز و عبور دادن دام در آزادراهها و همچنین توقف وسائط نقلیه در خطوط عبور ممنوع است.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-09",
+  "bookPage": 76,
+  "confidence": "high",
+  "supportingText": "ورود و عبور عابرین پیاده و انواع وسائط نقلیه غیر مجاز و عبور دادن دام در آزادراهها و همچنین توقف وسائط نقلیه در خطوط عبور ممنوع است.",
+  "bookReference": "سایر قوانین مرتبط",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p046-n05",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "بنابراین شکسته بودن یا کثیف بودن شیشه‌های خودرو می تواند بسیار خطر ناک باشد چرا که باعث کاهش دید می شود.",
+  "bookReference": "شیشه های خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p068-n20",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "توجه داشته باشید برای انجام یک رانندگی ایمن در برخی موارد لازم است علی رغم وجود حق قانونی ، شما برای جلوگیری از بروز خطر از حق خود چشم پوشی کنید.",
+  "bookReference": "رانندگی ایمن – مقدمه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p068-n21",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "بنابراین شکسته بودن یا کثیف بودن شیشه‌های خودرو می تواند بسیار خطر ناک باشد چرا که باعث کاهش دید می شود.",
+  "bookReference": "شیشه های خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e17-p070-n05",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "ضمناً در صورت کثیف بودن شیشه‌ی چراغها باید آنها را تمیز نمود در غیر این صورت از شدت روشنایی آنها کاسته خواهد شد.",
+  "bookReference": "سیستم روشنایی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p080-n20",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "به یاد داشته باشید بوق زدن برای اطلاع و آگاه سازی سایر کاربران راه و جلوگیری از بروز سانحه و خطر است.",
+  "bookReference": "بوق",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p010-n07",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "به یاد داشته باشید بوق زدن برای اطلاع و آگاه سازی سایر کاربران راه و جلوگیری از بروز سانحه و خطر است.",
+  "bookReference": "بوق",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p015-n09",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "به یاد داشته باشید بوق زدن برای اطلاع و آگاه سازی سایر کاربران راه و جلوگیری از بروز سانحه و خطر است.",
+  "bookReference": "بوق",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p018-n04",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "اکثر سوانح ترافیکی به دلیل عدم رعایت نکات ایمنی توسط کاربران ترافیک حادث می شود.",
+  "bookReference": "رانندگی ایمن – مقدمه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ }
+]

@@ -1,0 +1,987 @@
+{
+ "generatedAt": "2026-09-25T06:38:57+00:00",
+ "policy": "Nothing listed here was changed. Answer keys and wording stay as extracted from the sample PDFs; a human should decide each case against the source PDF and the book.",
+ "counts": {
+  "answerKeyConflictsWithBook": 31,
+  "sameFigureDifferentKeys": 3,
+  "sourceTextIssues": 9,
+  "referenceNotFound": 0,
+  "lowConfidenceReferences": 38
+ },
+ "answerKeyConflictsWithBook": [
+  {
+   "id": "q-600-e4-p021-n27",
+   "question": "مفهوم چراغ سبز راهنمایی چیست؟",
+   "keyedAnswer": "b) عبور یا گردش آزاد است مگر آن که گردش نمودن توسط علائم دیگر ممنوع شده باشد",
+   "sources": [
+    "600-driveing.pdf p21 q27",
+    "ایین نامه-1.pdf p44 q28"
+   ],
+   "bookPage": 13,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: the same paragraph also states option 3 (turning vehicles must yield to straight-moving vehicles and pedestrians), which would support option 4 («موارد ۲ و ۳»)"
+  },
+  {
+   "id": "q-e4-p008-n13",
+   "question": "کدام مورد در رانندگی هنگام بارندگی شدید صحیح نمی باشد؟",
+   "keyedAnswer": "b) استفاده از چراغ ها در شب",
+   "sources": [
+    "4_5888983329180487891-1.pdf p8 q13"
+   ],
+   "bookPage": 97,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p97 says headlights on LOW beam in rain, so the book contradicts option a (high beam); it never calls using lights at night wrong (p95: always use lights at night)"
+  },
+  {
+   "id": "q-e6-p012-n10",
+   "question": "خط ممتد بیانگر چیست؟",
+   "keyedAnswer": "d) رانندگان و وسایل نقلیه حق دور زدن و سبقت را دارند.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p12 q10"
+   ],
+   "bookPage": 22,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book says a solid line must never be crossed (= option a); keyed answer d (U-turn and overtaking allowed) is what the same page says about the dashed line (خط مقطع). Key or stem likely wrong in source."
+  },
+  {
+   "id": "q-visual-e8-p016-n11",
+   "question": "خطوط شطرنجی در وسط تقاطع نشان دهنده ی چیست؟",
+   "keyedAnswer": "b) مربوط به زمانی می شود که تراکم خودروها در یک تقاطع زیاد بوده و امکان تخلیه وجود نداشته باشد.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p16 q11"
+   ],
+   "bookPage": 27,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: the same box also states options a and c verbatim (crossing prohibited; stop before the lines), so «تمام موارد» looks equally supported"
+  },
+  {
+   "id": "q-600-e15-p065-n26",
+   "question": "تابلوی زیر به چه معناست؟",
+   "keyedAnswer": "b) محدوده توقف ممنوع در ساعات معین",
+   "sources": [
+    "600-driveing.pdf p65 q26"
+   ],
+   "bookPage": 38,
+   "referenceConfidence": "high",
+   "reviewNote": "book_conflict: the pictured «محدوده» plate is complete and has no hours text (the source page 600-driveing.pdf p65 shows the same plate; an earlier note blaming the crop was wrong). Book p38 prints the hours at the bottom of «محدوده توقف ممنوع در ساعات معین» and calls the plate without hours «محدوده توقف ممنوع در طول شبانه روز», which is not among the options; the keyed «در ساعات معین» is the only offered option naming the start of a no-stopping zone."
+  },
+  {
+   "id": "q-tablo-p116-n298",
+   "question": "کدام یک از تابلوهای مقابل به معنای پارک سوار است ؟",
+   "keyedAnswer": "d) تابلوی شماره 4",
+   "sources": [
+    "tablo.pdf p116 q298"
+   ],
+   "bookPage": 39,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: option 4 (P + «مترو») is captioned پارک سوار on p39, but the book gives the same caption to option 2 (P + tram), so the book alone does not single out option 4"
+  },
+  {
+   "id": "q-ayin1-e04-n13",
+   "question": "در شهرها و مناطق مسکونی در خیابان‌های شریان اصلی حداکثر سرعت چند کیلومتر در ساعت است؟",
+   "keyedAnswer": "c) ۷۰",
+   "sources": [
+    "ایین نامه-1.pdf p12 q13"
+   ],
+   "bookPage": 47,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book gives max 60 km/h for main arterial streets; the key says 70"
+  },
+  {
+   "id": "q-600-e13-p054-n03",
+   "question": "حداکثر سرعت مجاز در آزادراه‌های درون‌شهری چند کیلومتر در ساعت است؟",
+   "keyedAnswer": "c) ۱۰۰",
+   "sources": [
+    "600-driveing.pdf p54 q3",
+    "ایین نامه-1.pdf p36 q17"
+   ],
+   "bookPage": 47,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book gives max 125 km/h for urban freeways; 100 is the urban expressway (بزرگراه) limit"
+  },
+  {
+   "id": "q-600-e10-p042-n08",
+   "question": "در کدامیک از موارد زیر سبقت ممنوع نمی‌باشد؟",
+   "keyedAnswer": "c) سبقت از وسیله نقلیه‌ای که در حال سبقت گرفتن است مگر در راه‌های دارای سه خط عبور",
+   "sources": [
+    "600-driveing.pdf p42 q8"
+   ],
+   "bookPage": 50,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book lists (c) as a prohibition allowed only on roads with 3+ lanes, and bans bus/truck overtaking only in urban streets, so option a is also not prohibited per book"
+  },
+  {
+   "id": "q-ayin1-e07-n14",
+   "question": "از چند متر بعد از تونل‌ها و پل‌ها سبقت گرفتن آزاد است؟",
+   "keyedAnswer": "c) ۱۰۰ متری",
+   "sources": [
+    "ایین نامه-1.pdf p21 q14"
+   ],
+   "bookPage": 50,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book bans overtaking from 100 m before the entrance of tunnels/bridges up to their end; it gives no 100 m distance after them"
+  },
+  {
+   "id": "q-ayin1-e09-n10",
+   "question": "در کدامیک از موارد زیر سبقت ممنوع نمی‌باشد؟",
+   "keyedAnswer": "c) سبقت از وسیله نقلیه‌ای که در حال سبقت گرفتن است مگر در راه‌های دارای سه خط عبور",
+   "sources": [
+    "ایین نامه-1.pdf p27 q10"
+   ],
+   "bookPage": 50,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: the book lists option c as a prohibited case (allowed only on roads with 3+ lanes), while the bus/truck ban (item ث) applies only to urban roads, which would make option a the non-prohibited case"
+  },
+  {
+   "id": "q-e16-p032-n07",
+   "question": "چند متر بعد از تونل ها و پل ها سبقت گرفتن آزاد است؟",
+   "keyedAnswer": "c) ۱۰۰ متری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p32 q7"
+   ],
+   "bookPage": 50,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book bans overtaking from 100 m before the entrance of tunnels/bridges up to their end; it gives no 100 m distance after them"
+  },
+  {
+   "id": "q-600-e19-p080-n18",
+   "question": "در راه‌های کوهستانی که در آن‌ها عبور از کنار وسایل نقلیه طرف مقابل غیرممکن و مشکل می‌باشد حق تقدم با وسیله نقلیه‌ای است که...........",
+   "keyedAnswer": "c) در جهت سرازیری در حرکت است",
+   "sources": [
+    "600-driveing.pdf p80 q18",
+    "ایین نامه-1.pdf p51 q15"
+   ],
+   "bookPage": 53,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: where passing is impossible/difficult the book gives priority to the uphill vehicle (p52-53); the downhill vehicle has priority only on mountain roads with enough shoulder/parking space"
+  },
+  {
+   "id": "q-ayin1-e01-n25",
+   "question": "در خیابان‌ها و جاده‌هایی که نور کافی وجود ندارد، ----",
+   "keyedAnswer": "b) باید تنها از چراغ‌های جلو و عقب استفاده نمود",
+   "sources": [
+    "ایین نامه-1.pdf p2 q25",
+    "ایین نامه-1.pdf p5 q26"
+   ],
+   "bookPage": 53,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: the book gives this rule for streets/roads WITH sufficient light (نورکافی وجود دارد); the stem says وجود ندارد"
+  },
+  {
+   "id": "q-tablo-p087-n197",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "d) ورودی از چپ و راست",
+   "sources": [
+    "tablo.pdf p87 q197"
+   ],
+   "bookPage": 31,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: p31 shows this staggered-junction sign (side road right above, left below) but captions it only «تقاطع» (option c), not «ورودی از چپ و راست»"
+  },
+  {
+   "id": "q-e15-p031-n19",
+   "question": "در صورت خراب شدن ماشین در بزرگ راه تابلو اعلان خطر را در چند متری قرار می دهیم؟",
+   "keyedAnswer": "c) ۱۵۰ متری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p31 q19"
+   ],
+   "bookPage": 68,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p17–18 place warning lights/reflective triangles 70 m in front and behind a broken-down vehicle (option a); 150 m on p68 is only their required visibility distance"
+  },
+  {
+   "id": "q-e16-p033-n18",
+   "question": "کدام گزینه در مورد باد تایر صحیح تر است؟",
+   "keyedAnswer": "c) زیاد بودن باد تایرها باعث فرسایش تایر و از دست رفتن تعادل و هدایت و فرمان پذیری هنگام ترمزگیری خواهد شد.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p33 q18"
+   ],
+   "bookPage": 79,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book attributes tyre wear and loss of balance/steering when braking to UNDER-inflation (کم باد); for over-inflation it says reduced steerability (also p152)"
+  },
+  {
+   "id": "q-ayin1-e05-n30",
+   "question": "منظور از تمکین از محدودیت‌های سرعتی در راه‌ها کدام است؟",
+   "keyedAnswer": "b) عدم رعایت سرعت مجاز تعیین‌شده",
+   "sources": [
+    "ایین نامه-1.pdf p14 q30"
+   ],
+   "bookPage": 182,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: stem says «تمکین»; the book only defines «تخطی از محدودیت‌های سرعتی» = تجاوز به حریم قانونی دیگران (option d); keyed answer b not stated"
+  },
+  {
+   "id": "q-tablo-p034-n007",
+   "question": "وجود تابلویی به شکل زیر در جاده به چه معناست ؟",
+   "keyedAnswer": "d) سرعت مذکور برای شرایط مختلف جاده و آب و هواست",
+   "sources": [
+    "tablo.pdf p34 q7"
+   ],
+   "bookPage": 80,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: the book lists this red-circle number sign as a maximum speed (p35 «سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع»), i.e. option c; keyed answer not stated"
+  },
+  {
+   "id": "q-e11-p022-n13",
+   "question": "کدام مورد زیر در خصوص نقطه کور در وسایل نقلیه صحیح نمی باشد؟",
+   "keyedAnswer": "b) موتور سیکلت فاقد نقطه کور نمی باشد.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p22 q13"
+   ],
+   "bookPage": 91,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: keyed option is a double negative (\"not without blind spot\") that literally agrees with the book; intended claim \"motorcycles have no blind spot\" is refuted by the book"
+  },
+  {
+   "id": "q-e15-p031-n20",
+   "question": "میزان رعایت فاصله طولی در جاده های برفی به ازای سرعت ۴۵ کیلومتر در ساعت چند طول اتومبیل می باشد؟",
+   "keyedAnswer": "b) ۵",
+   "sources": [
+    "4_5888983329180487891-1.pdf p31 q20"
+   ],
+   "bookPage": 93,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: table gives 9 car lengths for snow at 45 km/h (verified on the page image); 5 is the dry-road value at 75 km/h"
+  },
+  {
+   "id": "q-visual-e5-p010-n10",
+   "question": "در این تقاطع، حق تقدم به ترتیب با کدام وسیله می باشد؟",
+   "keyedAnswer": "d) ۳ و ۴ همزمان - ۲ - ۱",
+   "sources": [
+    "4_5888983329180487891-1.pdf p10 q10"
+   ],
+   "bookPage": 104,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: same figure in the book (stop signs for 2 and circled car 4): order is 1 & 3, then 4, then 2; keyed \"3 and 4 together-2-1\" differs"
+  },
+  {
+   "id": "q-600-e16-p067-n14",
+   "question": "در این تقاطع، حق تقدم عبور به ترتیب با کدام یک می‌باشد؟",
+   "keyedAnswer": "a) قرمز، سبز، آبی",
+   "sources": [
+    "600-driveing.pdf p67 q14",
+    "ایین نامه-1.pdf p59 q28"
+   ],
+   "bookPage": 51,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: same image as q-600-e15-p063-n09 (key red, blue, green); book gives main-road cars priority over the side-road green car"
+  },
+  {
+   "id": "q-visual-e14-p028-n13",
+   "question": "در شکل زیر حق تقدم عبور به ترتیب عبارتست از:",
+   "keyedAnswer": "b) قرمز، زرد، آبی",
+   "sources": [
+    "4_5888983329180487891-1.pdf p28 q13"
+   ],
+   "bookPage": 105,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: same image as q-600-e10-p045-n25 (key red, blue, yellow by the right-hand rule); this key puts yellow before blue"
+  },
+  {
+   "id": "q-e4-p009-n23",
+   "question": "کدام قطعه جزو سیستم خنک کاری موتور نمی باشد؟",
+   "keyedAnswer": "a) پمپ آب",
+   "sources": [
+    "4_5888983329180487891-1.pdf p9 q23"
+   ],
+   "bookPage": 133,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book lists واترپمپ (پمپ آب) among cooling-system components, together with radiator, thermostat and fan"
+  },
+  {
+   "id": "q-b2-26",
+   "question": "وظیفه رادیاتور در اتومبیل چیست؟",
+   "keyedAnswer": "d) کاهش صدای ناشی از انفجار موتور",
+   "sources": [
+    "4_5888983329180487891-1.pdf p5 q26"
+   ],
+   "bookPage": 141,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: book assigns engine-noise reduction to the exhaust muffler (صدا خفه کن), while the radiator is described only as the cooling-water tank (p133); stem likely means the muffler (انباری)"
+  },
+  {
+   "id": "q-e4-p009-n28",
+   "question": "هنگام جوش آوردن موتور چه باید کرد؟",
+   "keyedAnswer": "d) همه موارد",
+   "sources": [
+    "4_5888983329180487891-1.pdf p9 q28"
+   ],
+   "bookPage": 147,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: book says not to switch off an overheated engine quickly and never to open the radiator cap while hot; cap may be opened and water added only after the engine has cooled, and the engine is switched off if the fan belt is broken"
+  },
+  {
+   "id": "q-600-e4-p021-n29",
+   "question": "در ایمن کردن محل حادثه ترافیکی، کدام مورد صحیح نمی‌باشد؟",
+   "keyedAnswer": "c) دور کردن مصدوم از محل حادثه",
+   "sources": [
+    "600-driveing.pdf p21 q29",
+    "ایین نامه-1.pdf p44 q30"
+   ],
+   "bookPage": 191,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p191 (and p190) name moving the casualty away from the danger as part of securing the scene; the same question q-e6-p013-n28 is keyed «نجات دادن جان مصدوم گیر افتاده در آتش»"
+  },
+  {
+   "id": "q-600-e19-p078-n01",
+   "question": "در ارائه کمک‌های اولیه اصلی کلی بر این است که...........",
+   "keyedAnswer": "c) سریع محل حادثه جمع‌آوری شود",
+   "sources": [
+    "600-driveing.pdf p78 q1",
+    "ایین نامه-1.pdf p50 q30"
+   ],
+   "bookPage": 192,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p192 states the principle is to use a low-risk method (option b); the book never says the scene must be cleared quickly"
+  },
+  {
+   "id": "q-ayin1-e03-n21",
+   "question": "در انجام کمک‌های اولیه کدام‌یک از موارد زیر صحیح است؟",
+   "keyedAnswer": "b) در ارائه کمک‌های اولیه اصل بر این است که به سرعت بیمار را از محل حادثه دور نماییم",
+   "sources": [
+    "ایین نامه-1.pdf p9 q21"
+   ],
+   "bookPage": 192,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p192 gives the principle as using a low-risk, more effective method that does not harm the casualty (option a); p195 says to treat without moving the casualty unless serious danger threatens"
+  },
+  {
+   "id": "q-600-e1-p007-n11",
+   "question": "در خصوص آتش سوزی خودرو انجام کدام یک از موارد زیر صحیح تر می باشد؟",
+   "keyedAnswer": "c) در صورت وجود کپسول آتش نشانی با استفاده از آن آتش را خاموش نموده و در صورت عدم وجود کپسول آتش نشانی با پتو یا جسم خیلی قابل اشتعال شعله ور را خفه کنید.",
+   "sources": [
+    "600-driveing.pdf p7 q11"
+   ],
+   "bookPage": 195,
+   "referenceConfidence": "medium",
+   "reviewNote": "book_conflict: key text says «جسم خیلی قابل اشتعال» but the book says «جسم غیر قابل اشتعال» (probably a typo in the source)"
+  }
+ ],
+ "sameFigureDifferentKeys": [
+  {
+   "questions": [
+    {
+     "id": "q-600-e10-p045-n25",
+     "question": "در این تقاطع حق تقدم عبور به ترتیب با کدام یک می‌باشد؟",
+     "keyedAnswer": "c) قرمز، آبی، زرد",
+     "sources": [
+      "600-driveing.pdf p45 q25",
+      "ایین نامه-1.pdf p26 q25"
+     ],
+     "bookPage": 105,
+     "referenceConfidence": "medium"
+    },
+    {
+     "id": "q-visual-e14-p028-n13",
+     "question": "در شکل زیر حق تقدم عبور به ترتیب عبارتست از:",
+     "keyedAnswer": "b) قرمز، زرد، آبی",
+     "sources": [
+      "4_5888983329180487891-1.pdf p28 q13"
+     ],
+     "bookPage": 105,
+     "referenceConfidence": "low"
+    }
+   ],
+   "note": "Same figure, different keys in different sample PDFs; the book's right-of-way rules support only one order (see each reviewNote in data/book-reference-review)."
+  },
+  {
+   "questions": [
+    {
+     "id": "q-600-e15-p063-n09",
+     "question": "در این تقاطع حق تقدم عبور به ترتیب با کدام یک می‌باشد؟",
+     "keyedAnswer": "d) قرمز، آبی، سبز",
+     "sources": [
+      "600-driveing.pdf p63 q9",
+      "ایین نامه-1.pdf p29 q23"
+     ],
+     "bookPage": 51,
+     "referenceConfidence": "medium"
+    },
+    {
+     "id": "q-visual-e15-p030-n13",
+     "question": "در این تقاطع حق تقدم عبور به ترتیب با کدام است؟",
+     "keyedAnswer": "b) قرمز، آبی، سبز",
+     "sources": [
+      "4_5888983329180487891-1.pdf p30 q13"
+     ],
+     "bookPage": 51,
+     "referenceConfidence": "medium"
+    },
+    {
+     "id": "q-600-e16-p067-n14",
+     "question": "در این تقاطع، حق تقدم عبور به ترتیب با کدام یک می‌باشد؟",
+     "keyedAnswer": "a) قرمز، سبز، آبی",
+     "sources": [
+      "600-driveing.pdf p67 q14",
+      "ایین نامه-1.pdf p59 q28"
+     ],
+     "bookPage": 51,
+     "referenceConfidence": "low"
+    }
+   ],
+   "note": "Same figure, different keys in different sample PDFs; the book's right-of-way rules support only one order (see each reviewNote in data/book-reference-review)."
+  },
+  {
+   "questions": [
+    {
+     "id": "q-ayin1-e09-n16",
+     "question": "در این شکل حق تقدم عبور با کیست؟",
+     "keyedAnswer": "a) آبی، زرد",
+     "sources": [
+      "ایین نامه-1.pdf p27 q16"
+     ],
+     "bookPage": 104,
+     "referenceConfidence": "low"
+    },
+    {
+     "id": "q-visual-e15-p030-n08",
+     "question": "در این شکل حق تقدم عبور با کیست؟",
+     "keyedAnswer": "d) زرد، آبی",
+     "sources": [
+      "4_5888983329180487891-1.pdf p30 q8"
+     ],
+     "bookPage": 105,
+     "referenceConfidence": "medium"
+    }
+   ],
+   "note": "Same figure, different keys in different sample PDFs; the book's right-of-way rules support only one order (see each reviewNote in data/book-reference-review)."
+  }
+ ],
+ "sourceTextIssues": [
+  {
+   "id": "q-tablo-p098-n236",
+   "question": "مستطیل قائم معموا برای تابلوهای .......... به کار می رود",
+   "keyedAnswer": "a) دستوری و خدمات",
+   "sources": [
+    "tablo.pdf p98 q236"
+   ],
+   "bookPage": 21,
+   "referenceConfidence": "high",
+   "issue": "option d contains an editor remark «دلیل پاسخ صحیح : گزینه 4 عوض شود»"
+  },
+  {
+   "id": "q-600-e10-p045-n29",
+   "question": "راننده‌ای که هر یک از چرخ‌ها منفجر یا چرخ با قوت می‌گردد چه وظیفه‌ای دارد؟",
+   "keyedAnswer": "d) موارد ۲ و ۳ صحیح می‌باشد",
+   "sources": [
+    "600-driveing.pdf p45 q29"
+   ],
+   "bookPage": 68,
+   "referenceConfidence": "high",
+   "issue": "question stem is garbled (the options quote the rule on accidents causing injury or death)"
+  },
+  {
+   "id": "q-ayin1-e05-n11",
+   "question": "اشکال و سطح معابر بر کدام یک از موارد زیر تأثیر منفی می‌گذارد؟",
+   "keyedAnswer": "d) تمام موارد",
+   "sources": [
+    "ایین نامه-1.pdf p15 q11"
+   ],
+   "bookPage": 85,
+   "referenceConfidence": "medium",
+   "issue": "stem «اشکال و سطح معابر…» looks garbled; twin questions read «الکل و مواد مخدر…» with identical options"
+  },
+  {
+   "id": "q-ayin1-e05-n12",
+   "question": "با مشاهده چراغ ترمز راهنمایی و در صورت نبودن خط ایست برای توقف، در چند متری چراغ باید توقف کنیم؟",
+   "keyedAnswer": "b) پنج متری",
+   "sources": [
+    "ایین نامه-1.pdf p15 q12"
+   ],
+   "bookPage": 14,
+   "referenceConfidence": "high",
+   "issue": "stem says «چراغ ترمز», evidently «چراغ قرمز»"
+  },
+  {
+   "id": "q-e7-p015-n29",
+   "question": "در خصوص احتیاط های لازم هنگام وقوع تصادفات انجام کدامیک از موارد زیر اشتباه است؟",
+   "keyedAnswer": "b) پیش نگه داشتن خودرو حتی در صورتی که خودرو قابلیت حرکت ندارد.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p15 q29"
+   ],
+   "bookPage": 194,
+   "referenceConfidence": "high",
+   "issue": "keyed option «پیش نگه داشتن» looks like «روشن نگه داشتن»"
+  },
+  {
+   "id": "q-e11-p023-n26",
+   "question": "انتقال نیرو در سیستم ترمز دستی توسط .... انجام می شود؟",
+   "keyedAnswer": "d) سیم های فنری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p23 q26"
+   ],
+   "bookPage": 122,
+   "referenceConfidence": "medium",
+   "issue": "option «سیم های فنری» vs the book's «سیمهای فلزی»"
+  },
+  {
+   "id": "q-600-e9-p038-n08",
+   "question": "راننده خودروی نشان داده‌شده در این شکل دچار چه خطایی شده است؟",
+   "keyedAnswer": "b) عدم رعایت فاصله اولیه مناسب",
+   "sources": [
+    "600-driveing.pdf p38 q8"
+   ],
+   "bookPage": 165,
+   "referenceConfidence": "medium",
+   "issue": "answer «فاصله اولیه» is evidently «فاصله طولی»"
+  },
+  {
+   "id": "q-ayin1-e03-n06",
+   "question": "این تابلو بیانگر چیست؟",
+   "keyedAnswer": "d) خروجی از آزادراه ۲۰۰۰ متر",
+   "sources": [
+    "ایین نامه-1.pdf p8 q6"
+   ],
+   "bookPage": 41,
+   "referenceConfidence": "medium",
+   "issue": "answer text reads ۲۰۰۰ متر but the pictured sign shows 200 m"
+  },
+  {
+   "id": "q-600-e1-p007-n11",
+   "question": "در خصوص آتش سوزی خودرو انجام کدام یک از موارد زیر صحیح تر می باشد؟",
+   "keyedAnswer": "c) در صورت وجود کپسول آتش نشانی با استفاده از آن آتش را خاموش نموده و در صورت عدم وجود کپسول آتش نشانی با پتو یا جسم خیلی قابل اشتعال شعله ور را خفه کنید.",
+   "sources": [
+    "600-driveing.pdf p7 q11"
+   ],
+   "bookPage": 195,
+   "referenceConfidence": "medium",
+   "issue": "key says «جسم خیلی قابل اشتعال»; the book says «جسم غیر قابل اشتعال»"
+  }
+ ],
+ "referenceNotFound": [],
+ "lowConfidenceReferences": [
+  {
+   "id": "q-b2-26",
+   "question": "وظیفه رادیاتور در اتومبیل چیست؟",
+   "keyedAnswer": "d) کاهش صدای ناشی از انفجار موتور",
+   "sources": [
+    "4_5888983329180487891-1.pdf p5 q26"
+   ],
+   "bookPage": 141,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: book assigns engine-noise reduction to the exhaust muffler (صدا خفه کن), while the radiator is described only as the cooling-water tank (p133); stem likely means the muffler (انباری)"
+  },
+  {
+   "id": "q-e4-p008-n13",
+   "question": "کدام مورد در رانندگی هنگام بارندگی شدید صحیح نمی باشد؟",
+   "keyedAnswer": "b) استفاده از چراغ ها در شب",
+   "sources": [
+    "4_5888983329180487891-1.pdf p8 q13"
+   ],
+   "bookPage": 97,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p97 says headlights on LOW beam in rain, so the book contradicts option a (high beam); it never calls using lights at night wrong (p95: always use lights at night)"
+  },
+  {
+   "id": "q-e4-p009-n21",
+   "question": "کدام مورد آلاینده هوا محسوب نمی شود؟",
+   "keyedAnswer": "b) اکسیژن",
+   "sources": [
+    "4_5888983329180487891-1.pdf p9 q21"
+   ],
+   "bookPage": 209,
+   "referenceConfidence": "low",
+   "reviewNote": "the list omits oxygen but also CO₂ and N₂ (p219 even calls N₂ and CO₂ non-toxic), so the book does not single out oxygen"
+  },
+  {
+   "id": "q-e4-p009-n30",
+   "question": "تسمه دینام هر چند کیلومتر باید بازدید شود؟",
+   "keyedAnswer": "c) ۲۰۰۰ کیلومتر",
+   "sources": [
+    "4_5888983329180487891-1.pdf p9 q30"
+   ],
+   "bookPage": 149,
+   "referenceConfidence": "low",
+   "reviewNote": "book only says the alternator belt needs periodic tension checks; no 2000 km interval is given"
+  },
+  {
+   "id": "q-e6-p013-n21",
+   "question": "بازدید سطح روغن ترمز هر از چه مدت باید انجام شود؟",
+   "keyedAnswer": "b) هفته ای یکبار",
+   "sources": [
+    "4_5888983329180487891-1.pdf p13 q21"
+   ],
+   "bookPage": 153,
+   "referenceConfidence": "low",
+   "reviewNote": "book gives no weekly interval for brake fluid (p153 «همواره», p135 «به طور دوره ای»); weekly checks are stated only for engine oil (p144) and radiator water (p146)"
+  },
+  {
+   "id": "q-e6-p013-n24",
+   "question": "تعویض وایر شمع ها هر از چه مدت باید انجام شود؟",
+   "keyedAnswer": "c) هر ۱۰۰۰۰ کیلومتر",
+   "sources": [
+    "4_5888983329180487891-1.pdf p13 q24"
+   ],
+   "bookPage": 155,
+   "referenceConfidence": "low",
+   "reviewNote": "book gives 10,000 km only for removing/cleaning the spark plugs; spark-plug wires (وایر) are not mentioned"
+  },
+  {
+   "id": "q-e7-p015-n20",
+   "question": "انجام کدامیک از اعمال زیر در خصوص زخمی های صحنه تصادف نادرست است؟",
+   "keyedAnswer": "b) دادن خوراکی به افراد زخمی",
+   "sources": [
+    "4_5888983329180487891-1.pdf p15 q20"
+   ],
+   "bookPage": 193,
+   "referenceConfidence": "low",
+   "reviewNote": "book never mentions giving food/drink to the injured; page only covers related care (never leave the injured, keep them calm)"
+  },
+  {
+   "id": "q-visual-e9-p018-n07",
+   "question": "در این تصویر عمده ترین خطری که راننده اتومبیل پشت سر با آن مواجهه خواهد بود کدام است؟",
+   "keyedAnswer": "c) ممکن است دوچرخه سوار ناگهان به داخل خیابان منحرف شود.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p18 q7"
+   ],
+   "bookPage": 90,
+   "referenceConfidence": "low",
+   "reviewNote": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+  },
+  {
+   "id": "q-visual-e10-p020-n07",
+   "question": "در تصویر شکل زیر حق تقدم عبور با کدام است؟",
+   "keyedAnswer": "c) سفید(الف)- صورتی(ب)- آبی(ج)",
+   "sources": [
+    "4_5888983329180487891-1.pdf p20 q7"
+   ],
+   "bookPage": 105,
+   "referenceConfidence": "low",
+   "reviewNote": "blurry figure; answer combines the give-way-sign rule (p104: white car first) and the right-turn-before-left-turn rule (pink before blue)"
+  },
+  {
+   "id": "q-e10-p021-n19",
+   "question": "به چه دلیل سبقت گرفتن از کامیون طویل (کشنده و یدک) خطرناک تر از سبقت گرفتن از یک اتومبیل معمولی است؟",
+   "keyedAnswer": "c) کامیون ها نسبت به اتومبیل ها طویل ترند و برای سبقت از آن ها به مسافت و زمان بیشتری نیاز است.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p21 q19"
+   ],
+   "bookPage": 84,
+   "referenceConfidence": "low",
+   "reviewNote": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+  },
+  {
+   "id": "q-e12-p025-n17",
+   "question": "جهت رانندگی خوب باید از چه فاصله ای پلاک اتومبیل ها را بخوانید؟",
+   "keyedAnswer": "d) ۲۰ متری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p25 q17"
+   ],
+   "bookPage": 108,
+   "referenceConfidence": "low",
+   "reviewNote": "book mentions eyesight/glasses only; the 20 m plate-reading distance is not stated anywhere"
+  },
+  {
+   "id": "q-e12-p025-n23",
+   "question": "کلاچ گرفتن باعث کدامیک از موارد زیر می شود؟",
+   "keyedAnswer": "a) کنترل راننده به حرکت و سرعت اتومبیل کم می شود.",
+   "sources": [
+    "4_5888983329180487891-1.pdf p25 q23"
+   ],
+   "bookPage": 129,
+   "referenceConfidence": "low",
+   "reviewNote": "book only says pressing the clutch cuts power to the drive wheels; reduced driver control is not stated"
+  },
+  {
+   "id": "q-visual-e14-p028-n13",
+   "question": "در شکل زیر حق تقدم عبور به ترتیب عبارتست از:",
+   "keyedAnswer": "b) قرمز، زرد، آبی",
+   "sources": [
+    "4_5888983329180487891-1.pdf p28 q13"
+   ],
+   "bookPage": 105,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: same image as q-600-e10-p045-n25 (key red, blue, yellow by the right-hand rule); this key puts yellow before blue"
+  },
+  {
+   "id": "q-visual-e14-p028-n14",
+   "question": "در این تقاطع حق تقدم عبور به ترتیب عبارتست از:",
+   "keyedAnswer": "a) کامیون، دوچرخه، سواری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p28 q14"
+   ],
+   "bookPage": 106,
+   "referenceConfidence": "low",
+   "reviewNote": "image is a small blurry T-junction scene; order truck>bicycle>car needs applying T-junction (p106) and left-turn (p105) priority rules; same rules on pp51-52"
+  },
+  {
+   "id": "q-visual-e14-p028-n15",
+   "question": "در این تقاطع حق تقدم عبور به ترتیب عبارتست از:",
+   "keyedAnswer": "c) ۲، ۳، ۱، ۴",
+   "sources": [
+    "4_5888983329180487891-1.pdf p28 q15"
+   ],
+   "bookPage": 51,
+   "referenceConfidence": "low",
+   "reviewNote": "scenario image (four numbered cars, blurry); the order 2,3,1,4 follows from the intersection priority rules but cannot be verified from the text"
+  },
+  {
+   "id": "q-e15-p031-n19",
+   "question": "در صورت خراب شدن ماشین در بزرگ راه تابلو اعلان خطر را در چند متری قرار می دهیم؟",
+   "keyedAnswer": "c) ۱۵۰ متری",
+   "sources": [
+    "4_5888983329180487891-1.pdf p31 q19"
+   ],
+   "bookPage": 68,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p17–18 place warning lights/reflective triangles 70 m in front and behind a broken-down vehicle (option a); 150 m on p68 is only their required visibility distance"
+  },
+  {
+   "id": "q-600-e4-p021-n28",
+   "question": "انجام کدام یک از اعمال زیر در خصوص زخمی‌های صحنه تصادف نادرست است؟",
+   "keyedAnswer": "d) دادن خوراکی به افراد زخمی",
+   "sources": [
+    "600-driveing.pdf p21 q28",
+    "600-driveing.pdf p63 q13",
+    "ایین نامه-1.pdf p29 q27",
+    "ایین نامه-1.pdf p44 q29"
+   ],
+   "bookPage": 193,
+   "referenceConfidence": "low",
+   "reviewNote": "book never mentions giving food/drink to the injured; page only covers related care (never leave the injured, keep them calm)"
+  },
+  {
+   "id": "q-600-e4-p021-n29",
+   "question": "در ایمن کردن محل حادثه ترافیکی، کدام مورد صحیح نمی‌باشد؟",
+   "keyedAnswer": "c) دور کردن مصدوم از محل حادثه",
+   "sources": [
+    "600-driveing.pdf p21 q29",
+    "ایین نامه-1.pdf p44 q30"
+   ],
+   "bookPage": 191,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p191 (and p190) name moving the casualty away from the danger as part of securing the scene; the same question q-e6-p013-n28 is keyed «نجات دادن جان مصدوم گیر افتاده در آتش»"
+  },
+  {
+   "id": "q-600-e9-p039-n14",
+   "question": "به چه دلیل سبقت گرفتن از کامیون طویل (کشنده و یدک) خطرناک‌تر از سبقت گرفتن از یک اتومبیل معمولی است؟",
+   "keyedAnswer": "c) کامیون‌ها نسبت به اتومبیل‌ها طویل‌ترند و برای سبقت از آن‌ها به مسافت و زمان بیشتری نیاز است",
+   "sources": [
+    "600-driveing.pdf p39 q14"
+   ],
+   "bookPage": 84,
+   "referenceConfidence": "low",
+   "reviewNote": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+  },
+  {
+   "id": "q-600-e10-p045-n28",
+   "question": "در این تصویر عمده‌ترین خطری که رانندگی اتومبیل پشت سر آن مواجه خواهد بود کدام است؟",
+   "keyedAnswer": "b) ممکن است دوچرخه‌سوار ناگهان به داخل خیابان منحرف شود",
+   "sources": [
+    "600-driveing.pdf p45 q28"
+   ],
+   "bookPage": 90,
+   "referenceConfidence": "low",
+   "reviewNote": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+  },
+  {
+   "id": "q-600-e12-p051-n14",
+   "question": "در خصوص مصدومین داخل خودرو انجام کدام مورد نادرست است؟",
+   "keyedAnswer": "d) به مصدومین خوراکی و نوشیدنی بدهید",
+   "sources": [
+    "600-driveing.pdf p51 q14",
+    "ایین نامه-1.pdf p38 q28"
+   ],
+   "bookPage": 193,
+   "referenceConfidence": "low",
+   "reviewNote": "the book never mentions giving or withholding food/drink; p193 covers talking to and not leaving the casualty and p194 «دقت کنید کسی سیگار نکشد» (options a, c)"
+  },
+  {
+   "id": "q-600-e12-p051-n15",
+   "question": "در این وضعیت بزرگ‌ترین خطری که شما را تهدید می‌کند چیست؟",
+   "keyedAnswer": "b) ممکن است دوچرخه‌سوار ناگهان به داخل خیابان منحرف شود",
+   "sources": [
+    "600-driveing.pdf p51 q15",
+    "ایین نامه-1.pdf p38 q29"
+   ],
+   "bookPage": 90,
+   "referenceConfidence": "low",
+   "reviewNote": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+  },
+  {
+   "id": "q-600-e13-p054-n08",
+   "question": "کدامیک از موارد زیر از عوامل ضعف راننده می‌باشد؟",
+   "keyedAnswer": "d) تمام موارد",
+   "sources": [
+    "600-driveing.pdf p54 q8",
+    "ایین نامه-1.pdf p36 q22"
+   ],
+   "bookPage": 176,
+   "referenceConfidence": "low",
+   "reviewNote": "book lists other weak-performance factors (poor hazard recognition, lack of concentration, etc.); skill/experience, vehicle familiarity and ignoring rules are not listed"
+  },
+  {
+   "id": "q-600-e16-p067-n14",
+   "question": "در این تقاطع، حق تقدم عبور به ترتیب با کدام یک می‌باشد؟",
+   "keyedAnswer": "a) قرمز، سبز، آبی",
+   "sources": [
+    "600-driveing.pdf p67 q14",
+    "ایین نامه-1.pdf p59 q28"
+   ],
+   "bookPage": 51,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: same image as q-600-e15-p063-n09 (key red, blue, green); book gives main-road cars priority over the side-road green car"
+  },
+  {
+   "id": "q-600-e19-p078-n01",
+   "question": "در ارائه کمک‌های اولیه اصلی کلی بر این است که...........",
+   "keyedAnswer": "c) سریع محل حادثه جمع‌آوری شود",
+   "sources": [
+    "600-driveing.pdf p78 q1",
+    "ایین نامه-1.pdf p50 q30"
+   ],
+   "bookPage": 192,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p192 states the principle is to use a low-risk method (option b); the book never says the scene must be cleared quickly"
+  },
+  {
+   "id": "q-ayin1-e03-n21",
+   "question": "در انجام کمک‌های اولیه کدام‌یک از موارد زیر صحیح است؟",
+   "keyedAnswer": "b) در ارائه کمک‌های اولیه اصل بر این است که به سرعت بیمار را از محل حادثه دور نماییم",
+   "sources": [
+    "ایین نامه-1.pdf p9 q21"
+   ],
+   "bookPage": 192,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: p192 gives the principle as using a low-risk, more effective method that does not harm the casualty (option a); p195 says to treat without moving the casualty unless serious danger threatens"
+  },
+  {
+   "id": "q-ayin1-e05-n30",
+   "question": "منظور از تمکین از محدودیت‌های سرعتی در راه‌ها کدام است؟",
+   "keyedAnswer": "b) عدم رعایت سرعت مجاز تعیین‌شده",
+   "sources": [
+    "ایین نامه-1.pdf p14 q30"
+   ],
+   "bookPage": 182,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: stem says «تمکین»; the book only defines «تخطی از محدودیت‌های سرعتی» = تجاوز به حریم قانونی دیگران (option d); keyed answer b not stated"
+  },
+  {
+   "id": "q-ayin1-e08-n26",
+   "question": "به چه دلیل سبقت گرفتن از کامیون طویل خطرناک‌تر از سبقت گرفتن از یک اتومبیل معمولی است؟",
+   "keyedAnswer": "c) کامیون‌ها نسبت به اتومبیل‌ها طول بیشتری دارند و برای سبقت از آن‌ها به مسافت و زمان بیشتری نیاز است",
+   "sources": [
+    "ایین نامه-1.pdf p23 q26"
+   ],
+   "bookPage": 84,
+   "referenceConfidence": "low",
+   "reviewNote": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+  },
+  {
+   "id": "q-ayin1-e09-n28",
+   "question": "در این تصویر عمده‌ترین خطری که راننده اتومبیل پشت سر به آن مواجه خواهد بود کدام است؟",
+   "keyedAnswer": "b) ممکن است دوچرخه‌سوار ناگهان به داخل خیابان منحرف شود",
+   "sources": [
+    "ایین نامه-1.pdf p26 q28"
+   ],
+   "bookPage": 90,
+   "referenceConfidence": "low",
+   "reviewNote": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+  },
+  {
+   "id": "q-ayin1-e09-n16",
+   "question": "در این شکل حق تقدم عبور با کیست؟",
+   "keyedAnswer": "a) آبی، زرد",
+   "sources": [
+    "ایین نامه-1.pdf p27 q16"
+   ],
+   "bookPage": 104,
+   "referenceConfidence": "low",
+   "reviewNote": "blurry image; key implies the bottom (yellow) car faces a yield sign (small mark at its corner); otherwise the p105 left-turn rule reverses the order, as keyed in q-visual-e15-p030-n08"
+  },
+  {
+   "id": "q-tablo-p034-n007",
+   "question": "وجود تابلویی به شکل زیر در جاده به چه معناست ؟",
+   "keyedAnswer": "d) سرعت مذکور برای شرایط مختلف جاده و آب و هواست",
+   "sources": [
+    "tablo.pdf p34 q7"
+   ],
+   "bookPage": 80,
+   "referenceConfidence": "low",
+   "reviewNote": "book_conflict: the book lists this red-circle number sign as a maximum speed (p35 «سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع»), i.e. option c; keyed answer not stated"
+  },
+  {
+   "id": "q-tablo-p040-n028",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "c) پایان بوق زدن ممنوع",
+   "sources": [
+    "tablo.pdf p40 q28"
+   ],
+   "bookPage": 35,
+   "referenceConfidence": "low",
+   "reviewNote": "the book has no «پایان بوق زدن ممنوع» sign; this page only shows «بوق زدن ممنوع» and other «پایان ...» signs with the hatched diagonal"
+  },
+  {
+   "id": "q-tablo-p047-n056",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "d) راهنمای ورود به شهر و تعیین فاصله با شهر بعدی",
+   "sources": [
+    "tablo.pdf p47 q56"
+   ],
+   "bookPage": 38,
+   "referenceConfidence": "low",
+   "reviewNote": "No book sign combines city entry with distance to the next city; p38 «ابتدای شهر» (blue city-name sign) and p42 route-guide signs with distances each cover one part."
+  },
+  {
+   "id": "q-tablo-p052-n072",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "c) ایستگاه تاکسی",
+   "sources": [
+    "tablo.pdf p52 q72"
+   ],
+   "bookPage": 39,
+   "referenceConfidence": "low",
+   "reviewNote": "taxi-station sign itself is not in the book; the same yellow station-sign family (bus / urban-train station) is shown on this page"
+  },
+  {
+   "id": "q-tablo-p056-n088",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "b) سرعت بیش از 30 کیلومتر در ساعت برای کامیون و بیش از 50 کیلومتر در ساعت برای سواری ممنوع",
+   "sources": [
+    "tablo.pdf p56 q88"
+   ],
+   "bookPage": 35,
+   "referenceConfidence": "low",
+   "reviewNote": "the combined truck-30 / car-50 speed sign is not in the book; page only has the generic red-circle speed sign (50)"
+  },
+  {
+   "id": "q-tablo-p074-n151",
+   "question": "مفهوم تابلوی روبرو چیست ؟",
+   "keyedAnswer": "d) پایان راه اتومبیل رو",
+   "sources": [
+    "tablo.pdf p74 q151"
+   ],
+   "bookPage": 38,
+   "referenceConfidence": "low",
+   "reviewNote": "image is the blue square with a white car crossed in red («پایان راه اتومبیل رو»); this sign is not in the book, closest is «پایان آزاد راه» (freeway pictogram)"
+  },
+  {
+   "id": "q-tablo-p084-n187",
+   "question": "این علامت به چه معناست ؟",
+   "keyedAnswer": "a) مسیر ویژه اتوبوس شرکت واحد",
+   "sources": [
+    "tablo.pdf p84 q187"
+   ],
+   "bookPage": 37,
+   "referenceConfidence": "low",
+   "reviewNote": "image is a no-entry disc on a yellow plate reading «ویژه اتوبوس شرکت واحد»; this local sign is not in the book (only bus-lane «خط ویژه عبور» signs; p99–100 says bus-only roads are closed to private cars)"
+  },
+  {
+   "id": "q-tablo-p110-n278",
+   "question": "تابلوی مقابل به چه معناست ؟",
+   "keyedAnswer": "d) با مشاهده این تابلو سرعت خود را حداکثر به 30 کیلومتر در ساعت رسانده و تا پایان محدودیت آن را افزایش ندهید",
+   "sources": [
+    "tablo.pdf p110 q278"
+   ],
+   "bookPage": 35,
+   "referenceConfidence": "low",
+   "reviewNote": "question image is broken (shows cropped option text, no sign); book shows the red-circle max-speed sign with 50 (p35) and a 30 speed-limit zone sign (p38)"
+  }
+ ],
+ "resolvedDuringThisPass": {
+  "imageCorrections": "data/question-corrections.js (4 pictures whose option order contradicted the key, 1 missing picture added, 11 unrelated pictures removed from text-only tablo.pdf questions)",
+  "assetRepairs": "data/asset-fix-report.json",
+  "removedQuestions": "data/question-removals.js (q-tablo-p085-n189; removed at the owner's request, with the reason)"
+ }
+}

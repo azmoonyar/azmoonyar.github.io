@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-600-e7-p033-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p037-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e06-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e07-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e08-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p036-n012",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p038-n020",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p038-n021",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p051-n070",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'a red diagonal line means end of city' is stated without limiting it to the city-name signs (on p.38 the same red line also ends the freeway and the residential area, incl. a named residential sign). Minor: 'white sign with black name = entering city' also fits the named residential-area variant (name + silhouette), so say 'only the name'.",
+  "suggestedHint": "مستطیل آبی با نام سفید شهر، ابتدای شهر است؛ تابلوی سفیدی که فقط نام سیاه شهر را دارد «ورود به شهر» است و همین تابلوها با خط مورب قرمز یعنی پایان شهر."
+ },
+ {
+  "id": "q-tablo-p054-n081",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p055-n084",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p057-n092",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p065-n117",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p071-n139",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p086-n193",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p086-n194",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p095-n226",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p114-n289",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p115-n294",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e10-p020-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e12-p024-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p030-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e11-p047-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p056-n17",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e14-p059-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p067-n16",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p069-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p085-n25",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p027-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e11-n05",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'in informational signs a red diagonal line means end' is false within the same book section - the «محدوده توقف ممنوع» signs on p.38 carry a red diagonal (no-stopping symbol) that means prohibition, and zone ends use a grey hatched band. Limit the rule to the tunnel/freeway signs.",
+  "suggestedHint": "خط مورب قرمزی که روی کل تابلوی آبی تونل کشیده شده یعنی «پایان تونل»؛ همین خط روی تابلوی آزادراه هم پایان آزادراه را نشان می‌دهد."
+ },
+ {
+  "id": "q-tablo-p038-n022",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p042-n035",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p048-n060",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p053-n078",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p072-n142",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p072-n143",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p073-n144",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p073-n147",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p079-n167",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p087-n195",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p087-n196",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p093-n221",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p101-n246",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p113-n287",
+  "verdict": "fix",
+  "problem": "Over-general: states that a park-and-ride sign always has «مترو» or the tram symbol next to P, but p.39 also shows the P+R park-and-ride variant; a learner could take a P+R sign for a plain parking sign.",
+  "suggestedHint": "حرف سفید P به‌تنهایی روی مربع آبی یعنی پارکینگ؛ در پارک سوار کنار P واژهٔ «مترو» یا نماد قطار شهری می‌آید، یا روی تابلو «P+R» نوشته شده است."
+ },
+ {
+  "id": "q-visual-e13-p026-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e3-p006-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p057-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e18-p077-n29",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e20-p085-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n03",
+  "verdict": "fix",
+  "problem": "Minor picture misdescription: says both hikers carry sticks («دو کوهنورد عصابه‌دست»), but in the picture only one of the two walkers holds a stick.",
+  "suggestedHint": "دو کوهنورد در حال راه رفتن (یکی با عصا) در مربع سفید تابلوی آبی یعنی شروع محل پیاده‌روی؛ عبور پیاده ممنوع، دایرهٔ حاشیه‌قرمز است."
+ },
+ {
+  "id": "q-600-e4-p019-n09",
+  "verdict": "fix",
+  "problem": "Minor picture misdescription: says both walkers carry sticks («دو پیاده‌روِ عصابه‌دست»), but in the picture only one of them holds a stick.",
+  "suggestedHint": "دو پیاده‌رو در حال راه رفتن (یکی با عصا) روی تابلوی خدمات آبی یعنی شروع محل پیاده‌روی؛ «فقط عبور پیاده» دایرهٔ آبی با بزرگسال و کودک است."
+ },
+ {
+  "id": "q-ayin1-e01-n02",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'three-arrow signs are lane-increase signs' is false for other three-arrow signs in the book (p.37 speed-per-lane signs with three white arrows on blue, and «خط ویژه عبور» with three black arrows, two pointing down). Limit it to three upward black arrows on white.",
+  "suggestedHint": "دو پیکان سفید روی زمینهٔ آبی تیره که ساقهٔ پیکان راست خم شده (ادغام خط)، کاهش خطوط عبور است؛ سه پیکان سیاه رو به بالا روی زمینهٔ سفید، افزایش خطوط است."
+ },
+ {
+  "id": "q-ayin1-e01-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p036-n013",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p037-n017",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p038-n023",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p039-n024",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p039-n026",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p041-n032",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p042-n038",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p051-n069",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p052-n071",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p054-n080",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p058-n094",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p058-n096",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p061-n106",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p062-n108",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p064-n115",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p066-n122",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p072-n141",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p092-n215",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p096-n230",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e11-p022-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e13-p026-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e14-p028-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e5-p010-n06",
+  "verdict": "fix",
+  "problem": "Over-general rule: 'a line whose head ends in a horizontal bar = closed lane' also fits the dead-end signs (p.41 بن بست / سمت راست بن بست: a white road ending in a red bar), one of which is an option in this very picture. Limit it to the lane sign with black arrows.",
+  "suggestedHint": "مربع آبی با دو پیکان سفید و ساقهٔ خمیدهٔ پیکان راست، کاهش خطوط عبور است؛ خطی که کنار پیکان‌های سیاه به‌جای پیکان به نوار افقی ختم شود، یعنی آن خط بسته است."
+ },
+ {
+  "id": "q-visual-e7-p014-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e10-p043-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e13-p055-n10",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p069-n26",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ }
+]

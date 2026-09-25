@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="آزمون‌یار">
+  <defs>
+    <linearGradient id="mark-bg" x1="0.05" y1="-0.04" x2="0.95" y2="1.04"><stop offset="0" stop-color="#5d6ef0"/><stop offset="1" stop-color="#3546bd"/></linearGradient>
+    <radialGradient id="mark-shine" cx="0.22" cy="0.12" r="0.9"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <mask id="mark-lanes" maskUnits="userSpaceOnUse" x="-512" y="-512" width="1536" height="1536"><rect x="-512" y="-512" width="1536" height="1536" fill="#fff"/><path d="M251.6 238L260.4 238L261.1 262L250.9 262ZM250.1 290L261.9 290L262.8 322L249.2 322ZM248.1 360L263.9 360L265.1 404L246.9 404ZM245.5 452L266.5 452L268.2 512L243.8 512ZM242.2 566L269.8 566L271.9 640L240.1 640Z" fill="#000"/></mask>
+    <clipPath id="mark-tile"><rect width="512" height="512" rx="116"/></clipPath>
+  </defs>
+  <g clip-path="url(#mark-tile)">
+    <rect width="512" height="512" rx="116" fill="url(#mark-bg)"/>
+    <rect width="512" height="512" rx="116" fill="url(#mark-shine)"/>
+    <g>
+      <path d="M232 198Q232 190 240 190L272 190Q280 190 280 198L381.4 640L130.6 640Z" fill="#fff" mask="url(#mark-lanes)"/>
+      <path d="M186 132C208 98 236 98 256 122C276 146 304 146 326 112" fill="none" stroke="#ffc53d" stroke-width="32" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

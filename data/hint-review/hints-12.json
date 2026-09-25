@@ -1,0 +1,542 @@
+[
+ {
+  "id": "q-ayin1-e04-n13",
+  "hint": "پاسخ نمونه‌آزمون‌ها «۷۰» است، ولی کتاب آموزشی سقف سرعت خیابان‌های شریانی اصلی در شهر را ۶۰ کیلومتر در ساعت ذکر کرده است.",
+  "basis": "book_conflict",
+  "note": "book p47 gives max 60 km/h for main arterial streets; key says 70",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n13",
+  "hint": "بزرگراه‌های درون‌شهری از معابر شریانی درجه یک‌اند و سقف سرعت در آن‌ها ۱۰۰ کیلومتر در ساعت است؛ عدد ۱۲۵ مخصوص آزادراه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e09-n17",
+  "hint": "معابر محلی و میدان‌ها پایین‌ترین ردهٔ معابر شهری‌اند و حداکثر سرعت مجاز در آن‌ها ۳۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e12-p024-n10",
+  "hint": "در شهر، خیابان شریانی اصلی ۶۰، خیابان شریانی فرعی ۵۰ و معابر محلی و میدان‌ها ۳۰ کیلومتر در ساعت؛ هرچه معبر فرعی‌تر، سقف سرعت کمتر.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e16-p032-n08",
+  "hint": "آزادراه‌های درون‌شهری هم سقف دارند هم کف: حداکثر ۱۲۵ و حداقل ۷۰ کیلومتر در ساعت؛ رانندگی کندتر از ۷۰ در آن‌ها مجاز نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e16-p033-n11",
+  "hint": "خیابان شریانی فرعی یک رده پایین‌تر از شریانی اصلی (۶۰) است و حداکثر سرعت مجاز در آن ۵۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e6-p012-n16",
+  "hint": "در شهرها بزرگراه جزو معابر شریانی درجه یک است و حداکثر سرعت مجاز در آن ۱۰۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p016-n12",
+  "hint": "در راه یک‌طرفه باید فقط در جهت و مسیر مجاز حرکت کرد؛ حرکت خلاف جهت به هر شکلی ممنوع است، حتی برای گردش یا با زدن راهنما.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-49c2af5e",
+  "hint": "در آزادراه‌های برون‌شهری حداقل سرعت مجاز برای همهٔ وسایل نقلیه ۷۰ کیلومتر در ساعت است و نباید کندتر از آن راند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p056-n20",
+  "hint": "در بزرگراه‌های برون‌شهری (رفت و برگشت جدا) سقف سرعت سواری و وانت‌بار ۱۱۰ کیلومتر در ساعت است؛ عدد ۱۲۰ مخصوص آزادراه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p060-n17",
+  "hint": "کف سرعت آزادراه برون‌شهری ۷۰ کیلومتر در ساعت است و این حداقل برای همهٔ وسایل نقلیه، از سواری تا کامیون، یکسان است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p062-n03",
+  "hint": "در آزادراه برون‌شهری سواری و وانت‌بار تا ۱۲۰ مجازند، اما سقف اتوبوس، مینی‌بوس، تریلی، کامیون و کامیونت ۱۱۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e17-p070-n02",
+  "hint": "در بزرگراه‌های برون‌شهری با خطوط رفت و برگشت جدا، سقف سرعت سواری ۱۱۰ است؛ یعنی ۱۰ واحد کمتر از سقف آزادراه (۱۲۰).",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e18-p076-n20",
+  "hint": "در جاده‌های اصلی حداکثر سرعت روزها ۹۵ و شب‌ها ۸۵ کیلومتر در ساعت است؛ عدد بزرگ‌تر مربوط به روز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p079-n13",
+  "hint": "سقف سرعت جاده‌های فرعی ۱۰ واحد کمتر از جاده‌های اصلی است: روزها ۸۵ و شب‌ها ۷۵ کیلومتر در ساعت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p013-n26",
+  "hint": "آزادراه‌های برون‌شهری علاوه بر سقف سرعت، حداقل سرعت هم دارند که برای همهٔ وسایل نقلیه ۷۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p015-n13",
+  "hint": "عدد ۷۰ کف سرعت آزادراه است: در آزادراه‌های برون‌شهری هیچ وسیلهٔ نقلیه‌ای نباید کندتر از ۷۰ کیلومتر در ساعت براند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p017-n27",
+  "hint": "در جاده‌های اصلی سقف سرعت روزها ۹۵ و شب‌ها ۸۵ کیلومتر در ساعت است؛ سقف شبانه ۱۰ واحد کمتر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p018-n01",
+  "hint": "در آزادراه‌های برون‌شهری وانت‌بارها هم‌ردیف سواری‌ها هستند و حداکثر سرعتشان ۱۲۰ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p028-n17",
+  "hint": "خط سوم آزادراه خط سرعت است؛ تردد اتوبوس، مینی‌بوس و بارکش‌ها در آن ممنوع است، اما وانت‌ها از این ممنوعیت مستثنا هستند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p031-n14",
+  "hint": "سقف سرعت شبانه در جاده‌های اصلی ۸۵ کیلومتر در ساعت است، یعنی ۱۰ واحد کمتر از سقف روز که ۹۵ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p032-n18",
+  "hint": "بالاترین سقف سرعت بیرون شهر مربوط به آزادراه است: سواری و وانت‌بار حداکثر ۱۲۰ کیلومتر در ساعت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p034-n03",
+  "hint": "در جاده‌های اصلی حداکثر سرعت مجاز روزها ۹۵ کیلومتر در ساعت است؛ شب‌ها این سقف به ۸۵ کاهش می‌یابد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p038-n03",
+  "hint": "در بزرگراه‌های برون‌شهری وانت‌بار مثل سواری حداکثر ۱۱۰ کیلومتر در ساعت مجاز است؛ سقف اتوبوس و کامیون در آن‌ها ۱۰۰ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n13",
+  "hint": "در آزادراه‌های بیرون شهر رانندگی با سرعت کمتر از ۷۰ کیلومتر در ساعت مجاز نیست؛ این حداقل برای همهٔ وسایل نقلیه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n27",
+  "hint": "جاده‌های اصلی برای همهٔ انواع وسایل نقلیه یک سقف دارند: روزها ۹۵ و شب‌ها ۸۵ کیلومتر در ساعت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n17",
+  "hint": "تردد اتوبوس، مینی‌بوس و انواع بارکش در خط سوم (سرعت) آزادراه ممنوع است؛ تنها بارکشی که مستثناست وانت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e06-n13",
+  "hint": "در آزادراه‌های بیرون شهر، سواری و وانت‌بار حداکثر ۱۲۰ و اتوبوس و کامیون حداکثر ۱۱۰ کیلومتر در ساعت مجازند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e06-n17",
+  "hint": "جاده‌های اصلی بیرون شهر روزها سقف ۹۵ و شب‌ها سقف ۸۵ کیلومتر در ساعت دارند؛ پس حداکثر شبانه ۸۵ است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e13-p027-n21",
+  "hint": "وانت تنها بارکشی است که اجازهٔ تردد در خط سوم (سرعت) آزادراه را دارد؛ اتوبوس، مینی‌بوس و سایر بارکش‌ها ممنوع‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e14-p029-n18",
+  "hint": "در بزرگراه‌های برون‌شهری که خطوط رفت و برگشت جدا دارند، سواری و وانت‌بار حداکثر ۱۱۰ کیلومتر در ساعت مجازند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e14-p029-n19",
+  "hint": "در جاده‌های فرعی حداکثر سرعت روزها ۸۵ و شب‌ها ۷۵ کیلومتر در ساعت است؛ یعنی ۱۰ واحد کمتر از جاده‌های اصلی.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e16-p033-n21",
+  "hint": "وانت‌بار در آزادراه‌های بیرون شهر همان سقف سواری را دارد: حداکثر ۱۲۰ کیلومتر در ساعت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e3-p006-n13",
+  "hint": "سقف سرعت سواری و وانت‌بار در آزادراه برون‌شهری ۱۲۰ کیلومتر در ساعت است؛ ۷۰ حداقل سرعت آزادراه است، نه حداکثر آن.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e4-p008-n10",
+  "hint": "منظور جاده‌های اصلی است که حداکثر سرعت در آن‌ها روزها ۹۵ و شب‌ها ۸۵ کیلومتر در ساعت است.",
+  "basis": "book",
+  "note": "question says only «جاده‌ها»; hint ties 95/85 to main roads (book p48, item پ)",
+  "checked": true
+ },
+ {
+  "id": "q-e6-p013-n17",
+  "hint": "استفاده از حداقل سرعت مجاز در آزادراه فقط در خط عبور سمت راست، یعنی خط کنار شانهٔ راه، مجاز است؛ نه در خط چپ یا همهٔ خطوط.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-132e2bde",
+  "hint": "سبقت اصولاً از سمت چپ است؛ اما از سمت راستِ وسیله‌ای که در حال گردش به چپ است می‌توان سبقت گرفت.",
+  "basis": "book",
+  "note": "revised after independent check: 'the only exception' ignored p60 (emergency vehicles on a mission may overtake on the right); editor wording matches the other overtaking-on-the-right hints.",
+  "editedAfterCheck": true,
+  "checked": true
+ },
+ {
+  "id": "q-600-e1-p008-n17",
+  "hint": "ممنوعیت سبقت در تقاطع راه‌آهن در همان بندی آمده که سبقت را از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن منع می‌کند؛ عدد ۵۰ را به خاطر بسپارید.",
+  "basis": "book",
+  "note": "book p50 states 50 m explicitly for curves; railway crossings are listed in the same clause without their own distance",
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p042-n04",
+  "hint": "سبقت از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن ممنوع است؛ پس از گذشتن ۵۰ متر از پیچ، اگر منع دیگری نباشد، سبقت آزاد است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p042-n08",
+  "hint": "کلید، این مورد را به‌خاطر استثنای راه سه‌خطه ممنوع ندانسته؛ اما کتاب سبقت از وسیلهٔ در حال سبقت را جزو ممنوعیت‌ها آورده، جز در راه با سه خط عبور یا بیشتر.",
+  "basis": "book_conflict",
+  "note": "book p50 lists overtaking an overtaking vehicle as prohibited (allowed only on 3+ lane roads); book's bus/truck ban is urban-only",
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p046-n02",
+  "hint": "قاعدهٔ کلی سبقت از سمت چپ است؛ استثنای آن وسیلهٔ در حال گردش به چپ است که سبقت از سمت راستش مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p052-n17",
+  "hint": "در کتاب، تقاطع راه‌ها در همان بندی آمده که سبقت را از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن ممنوع می‌کند؛ نزدیک تقاطع از ۵۰ متری سبقت نگیرید.",
+  "basis": "book",
+  "note": "book p50 states 50 m explicitly for curves; intersections are listed in the same clause without their own distance",
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p056-n18",
+  "hint": "سبقت از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن ممنوع است، مگر آنکه با علایم، سبقت مجاز اعلام شده باشد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p058-n02",
+  "hint": "سبقت برای اتوبوس‌ها و کامیون‌ها در معابر شهری ممنوع است؛ فاصلهٔ ممنوعیت سبقت هم برای پیچ ۵۰ متر و برای ورودی تونل ۱۰۰ متر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p063-n12",
+  "hint": "سبقت از خودرویی که خودش در حال سبقت است ممنوع است؛ تنها استثنا راهی است که سه خط عبور یا بیشتر دارد و این کار در آن مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p064-n18",
+  "hint": "سبقت از ۱۰۰ متر مانده به ورودی پل‌ها و تونل‌ها تا انتهای آن‌ها ممنوع است، مگر آنکه علایم آن را مجاز کرده باشند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p012-n17",
+  "hint": "هرچند سبقت معمولاً از چپ است، مقررات سبقت از سمت راستِ وسیله‌ای را که در حال گردش به چپ است صراحتاً مجاز دانسته است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e20-p084-n17",
+  "hint": "محدودهٔ ۵۰ متر پیش و ۵۰ متر پس از هر پیچ منطقهٔ ممنوعیت سبقت است، مگر آنکه علایم سبقت را مجاز کرده باشند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p016-n17",
+  "hint": "عدد پیچ‌ها ۵۰ متر است: از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن سبقت ممنوع است؛ در تونل و پل ممنوعیت از ۱۰۰ متر مانده به ورودی تا انتهای آن‌هاست.",
+  "basis": "book",
+  "note": "revised after independent check: Ambiguous: after describing the curve zone as '50 m before to 50 m after', saying 'for tunnels and bridges this distance is 100 m' suggests 100 m before and after. Book p50: from 100 m before the entrance to the end of the tunnel/bridge.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p030-n05",
+  "hint": "تقاطع راه‌ها جزو مکان‌های ممنوعیت سبقت است؛ خلوتی تقاطع یا چراغ چشمک‌زن این حکم را عوض نمی‌کند و فقط علایم ویژه می‌توانند سبقت را مجاز کنند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p036-n17",
+  "hint": "ممنوعیت سبقت از ۱۰۰ متر پیش از ورودی تونل و پل آغاز می‌شود و تا انتهای آن‌ها ادامه دارد؛ پس از انتهای آن‌ها سبقت مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p040-n17",
+  "hint": "از ۱۰۰ متر مانده به ورودی تونل تا انتهای آن سبقت ممنوع است؛ همین فاصله برای پل‌ها هم برقرار است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p040-n21",
+  "hint": "وقتی خودرویی از روبه‌رو در فاصلهٔ نزدیک و ناایمن می‌آید، سبقت ممنوع است؛ مسیر مقابل باید تا فاصله‌ای دور و مطمئن خالی باشد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e03-n17",
+  "hint": "سبقت اصولاً از سمت چپ است، ولی سبقت از سمت راستِ وسیله‌ای که در حال گردش به چپ است طبق مقررات مجاز است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'overtaking on the right is allowed in only one case' is contradicted by book p60, which also allows emergency/police vehicles on an urgent mission (with siren/beacon) to overtake on the right.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e07-n14",
+  "hint": "کلید نمونه‌آزمون «۱۰۰ متری» است؛ اما کتاب سبقت را از ۱۰۰ متر مانده به ورودی تونل و پل تا انتهای آن‌ها ممنوع می‌داند و فاصله‌ای پس از آن‌ها ذکر نکرده است.",
+  "basis": "book_conflict",
+  "note": "book p50: ban runs from 100 m before the tunnel/bridge entrance up to their end; no distance after them",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e09-n10",
+  "hint": "کلید، سبقت از وسیلهٔ در حال سبقت را به‌سبب استثنای راه سه‌خطه ممنوع ندانسته؛ ولی کتاب آن را در فهرست ممنوعیت‌ها آورده و فقط در راه با سه خط یا بیشتر مجاز می‌داند.",
+  "basis": "book_conflict",
+  "note": "book p50 lists overtaking an overtaking vehicle as prohibited (allowed only on 3+ lane roads); book's bus/truck ban is urban-only",
+  "checked": true
+ },
+ {
+  "id": "q-e10-p021-n18",
+  "hint": "کتاب تقاطع راه‌ها و تقاطع راه‌آهن را کنار پیچ‌ها جزو موارد ممنوعیت سبقت آورده است، مگر آنکه علایم، سبقت را مجاز کرده باشند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e10-p021-n22",
+  "hint": "تقاطع راه‌آهن در کتاب در همان بند ممنوعیتِ «۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن» آمده است؛ فاصلهٔ ۵۰ متر را برای آن هم به خاطر بسپارید.",
+  "basis": "book",
+  "note": "book p50 states 50 m explicitly for curves; railway crossings are listed in the same clause without their own distance",
+  "checked": true
+ },
+ {
+  "id": "q-e14-p029-n20",
+  "hint": "ممنوعیت سبقت برای اتوبوس‌ها و کامیون‌ها در کتاب فقط مخصوص معابر شهری است؛ پس در معابر برون‌شهری این مورد جزو ممنوعیت‌ها نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e16-p032-n07",
+  "hint": "در نمونه‌آزمون‌ها پاسخ «۱۰۰ متری» آمده است؛ ولی طبق کتاب، ممنوعیت سبقت از ۱۰۰ متر پیش از ورودی تونل و پل آغاز می‌شود و تا انتهای آن‌ها ادامه دارد.",
+  "basis": "book_conflict",
+  "note": "book p50: ban runs from 100 m before the tunnel/bridge entrance up to their end; no distance after them",
+  "checked": true
+ },
+ {
+  "id": "q-e16-p033-n20",
+  "hint": "در محدودهٔ پیچ سبقت ممنوع است: از ۵۰ متر مانده به پیچ تا ۵۰ متر بعد از آن، مگر آنکه علایم، سبقت را مجاز کرده باشند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e17-p035-n06",
+  "hint": "پیش از سبقت، خط مقابل باید تا فاصله‌ای دور و مطمئن خالی باشد؛ پس اگر خودرویی از روبه‌رو نزدیک و ناایمن است، سبقت ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e3-p007-n15",
+  "hint": "از خودرویی که خودش مشغول سبقت است نباید سبقت گرفت، مگر در راهی که به‌خاطر داشتن سه خط عبور یا بیشتر این کار مجاز باشد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e4-p008-n11",
+  "hint": "سبقت اصولاً از سمت چپ است، اما وقتی وسیلهٔ جلویی در حال گردش به چپ باشد، سبقت از سمت راستِ آن مجاز است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general: 'overtaking on the right is allowed only when the vehicle ahead turns left; otherwise only on the left' is contradicted by book p60 (emergency/police vehicles on an urgent mission with siren/beacon may overtake on the right).",
+  "checked": true
+ },
+ {
+  "id": "q-e4-p008-n14",
+  "hint": "وسیله‌ای که در حال گردش به چپ است از سمت راست قابل سبقت است؛ این استثنای قاعدهٔ «سبقت فقط از سمت چپ» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e5-p010-n12",
+  "hint": "در معابر شهری سبقت گرفتن برای اتوبوس‌ها و کامیون‌ها ممنوع است؛ این از ممنوعیت‌هایی است که برای خودروهای خاص تعیین شده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p017-n21",
+  "hint": "از ۵۰ متر مانده به پیچ تا ۵۰ متر پس از آن سبقت ممنوع است؛ این قاعده حتی بدون نصب تابلو هم برقرار است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-28a8da5a",
+  "hint": "در برخورد راه فرعی با اصلی، حق تقدم با راه اصلی است؛ رانندهٔ فرعی باید پیش از ورود در صورت لزوم توقف کند و با رعایت حق تقدم وارد شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p054-n05",
+  "hint": "در سه‌راه حق تقدم با وسیلهٔ مستقیم‌رو است، پس کامیون اول؛ سپس دوچرخه که در سمت راست سواری قرار دارد و در آخر سواری.",
+  "basis": "book",
+  "note": "T-junction figure: truck goes straight (p51 rule ت); bicycle is on the green car's right (p51 rule ب)",
+  "checked": true
+ },
+ {
+  "id": "q-600-e15-p063-n09",
+  "hint": "قرمز و آبی در راه اصلی‌اند و بر سبزِ راه فرعی مقدم‌اند؛ و چون هر دو به یک خیابان می‌روند، قرمزِ راست‌گرد پیش از آبیِ چپ‌گرد عبور می‌کند.",
+  "basis": "book",
+  "note": "revised after independent check (2026-09-25)",
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p067-n14",
+  "hint": "کلید این نمونه‌آزمون «قرمز، سبز، آبی» است؛ اما طبق کتاب در برخورد راه اصلی با فرعی، حق تقدم با خودروهای راه اصلی است و سبز از راه فرعی می‌آید.",
+  "basis": "book_conflict",
+  "note": "same figure as q-600-e15-p063-n09 (key red, blue, green); book p51 gives main-road cars priority over the side-road green car",
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p078-n06",
+  "hint": "در برخورد راه اصلی با راه فرعی، حق تقدم با وسیله‌ای است که از راه اصلی عبور می‌کند و رانندهٔ راه فرعی باید آن را رعایت کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p015-n14",
+  "hint": "وسیله‌ای که از راه اصلی عبور می‌کند بر وسیلهٔ راه فرعی حق تقدم دارد؛ رانندهٔ فرعی باید پیش از ورود در صورت لزوم توقف کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p019-n13",
+  "hint": "خودروهای راه اصلی حق تقدم دارند؛ پس رانندهٔ راه فرعی پیش از ورود در صورت لزوم می‌ایستد و پس از رعایت حق تقدم آن‌ها وارد می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p025-n30",
+  "hint": "کامیون در این سه‌راه مستقیم می‌رود و حق تقدم اول با اوست؛ سپس دوچرخه که سمت راست سواری است و در پایان سواری عبور می‌کند.",
+  "basis": "book",
+  "note": "T-junction figure: truck goes straight (p51 rule ت); bicycle is on the green car's right (p51 rule ب)",
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p034-n04",
+  "hint": "در تقاطع هم‌عرض وسیلهٔ سمت راست مقدم است: موتورسیکلت سمت راست دوچرخه و دوچرخه سمت راست سواری است؛ سواریِ چپ‌گرد آخر می‌رود.",
+  "basis": "book",
+  "note": "right-hand rule (p51 ب) plus left-turner yields to straight traffic (p52)",
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p039-n09",
+  "hint": "قاعدهٔ سمت راست: موتورسیکلت در سمت راست اتوبوس و اتوبوس در سمت راست سواری است؛ سواریِ چپ‌گرد هم باید به وسیلهٔ مستقیم‌رو راه بدهد.",
+  "basis": "book",
+  "note": "right-hand rule (p51 ب) plus left-turner yields to straight traffic (p52)",
+  "checked": true
+ }
+]

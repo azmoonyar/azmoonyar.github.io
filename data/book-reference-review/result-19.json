@@ -1,0 +1,806 @@
+[
+ {
+  "id": "q-e12-p025-n28",
+  "bookPage": 120,
+  "confidence": "high",
+  "supportingText": "اهرم دنده به طور مستقیم با مجموعه جعبه دنده (گیربکس) ارتباط دارد.",
+  "bookReference": "دسته دنده",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n25",
+  "bookPage": 120,
+  "confidence": "high",
+  "supportingText": "اهرم دنده به طور مستقیم با مجموعه جعبه دنده (گیربکس) ارتباط دارد.",
+  "bookReference": "دسته دنده",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book: gear lever is directly linked to the gearbox, not the clutch"
+ },
+ {
+  "id": "q-600-e12-p050-n05",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "از این نوع ترمز تنها به هنگام توقف خودرو و یا در سرعتهای بسیار پایین می توان استفاده نمود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   134
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p028-n18",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "از این نوع ترمز تنها به هنگام توقف خودرو و یا در سرعتهای بسیار پایین می توان استفاده نمود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   134
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n18",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "از این نوع ترمز تنها به هنگام توقف خودرو و یا در سرعتهای بسیار پایین می توان استفاده نمود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   134
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-18",
+  "bookPage": 121,
+  "confidence": "medium",
+  "supportingText": "وظیفه اصلی ترمز دستی نگه داشتن خودرو در حالت متوقف هنگام پارک کردن و ترک خودرو می باشد.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "covers options a,b; option c (very low speeds) from earlier sentence on same page"
+ },
+ {
+  "id": "q-e17-p036-n16",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "ترمز دستی به عنوان ترمز ثانویه و ترمز پایی به عنوان ترمز اولیه یا ترمز سرویس شناخته می شود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n17",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "ترمز دستی به عنوان ترمز ثانویه و ترمز پایی به عنوان ترمز اولیه یا ترمز سرویس شناخته می شود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   122
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "second blank (rear wheels) stated on p.122"
+ },
+ {
+  "id": "q-e4-p009-n24",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "کشیدن ترمز دستی بدون فشردن ضامن، باعث استهلاک زودتر لنتها می شود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n27",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "از این نوع ترمز تنها به هنگام توقف خودرو و یا در سرعتهای بسیار پایین می توان استفاده نمود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   134
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e10-p044-n18",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز دستی معمولا فقط بر چرخهای عقب عمل می کند",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p062-n04",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز سرویس (ترمز پایی) مطابق با الزامات استانداردهای خودرویی باید بر تمامی چرخها عمل کند.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p075-n15",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز سرویس (ترمز پایی) مطابق با الزامات استانداردهای خودرویی باید بر تمامی چرخها عمل کند.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p078-n08",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز دستی معمولا فقط بر چرخهای عقب عمل می کند",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e10-n18",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "ترمز سرویس (ترمز پایی) مطابق با الزامات استانداردهای خودرویی باید بر تمامی چرخها عمل کند.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n26",
+  "bookPage": 122,
+  "confidence": "medium",
+  "supportingText": "انتقال نیرو در سیستم ترمز دستی توسط سیمهای فلزی انجام می شود",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   135
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book says سیمهای فلزی; option reads سیم های فنری (likely typo)"
+ },
+ {
+  "id": "q-e13-p027-n28",
+  "bookPage": 122,
+  "confidence": "high",
+  "supportingText": "انتقال نیرو در سیستم ترمز دستی توسط سیمهای فلزی انجام می شود اما در سیستم ترمز پایی از روغن ترمز برای این کار استفاده می شود.",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [
+   135
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p108-n272",
+  "bookPage": 30,
+  "confidence": "high",
+  "supportingText": "گذرگاه عابر پیاده",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [
+   39
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "sign 3 = warning sign گذرگاه عابر پیاده (p.30); sign 1 = informational sign گذرگاه پیاده (p.39)"
+ },
+ {
+  "id": "q-600-e1-p007-n14",
+  "bookPage": 124,
+  "confidence": "high",
+  "supportingText": "هدف از تنظیم صندلی تسلط کامل پاها و دستها بر تجهیزات کنترلی همچون پدالها، اهرمها و غربیلک فرمان می باشد.",
+  "bookReference": "راه اندازی خودرو - تنظیم صندلی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n22",
+  "bookPage": 124,
+  "confidence": "high",
+  "supportingText": "هدف از تنظیم صندلی تسلط کامل پاها و دستها بر تجهیزات کنترلی همچون پدالها، اهرمها و غربیلک فرمان می باشد.",
+  "bookReference": "راه اندازی خودرو - تنظیم صندلی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e12-p050-n04",
+  "bookPage": 125,
+  "confidence": "high",
+  "supportingText": "کمربند ایمنی باید حتما از نوع ۳ نقطه ای باشد.",
+  "bookReference": "راه اندازی خودرو - بستن کمربند ایمنی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p016-n20",
+  "bookPage": 125,
+  "confidence": "high",
+  "supportingText": "کمربند ایمنی باید حتما از نوع ۳ نقطه ای باشد.",
+  "bookReference": "راه اندازی خودرو - بستن کمربند ایمنی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n24",
+  "bookPage": 125,
+  "confidence": "high",
+  "supportingText": "کمربند ایمنی باید حتما از نوع ۳ نقطه ای باشد.",
+  "bookReference": "راه اندازی خودرو - بستن کمربند ایمنی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n18",
+  "bookPage": 121,
+  "confidence": "high",
+  "supportingText": "بهتر است این نوع ترمز، ترمز توقف و یا ترمز پارک اسم گذاری شود",
+  "bookReference": "اهرم ترمز دستی",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p054-n04",
+  "bookPage": 127,
+  "confidence": "high",
+  "supportingText": "موتور دستگاهی است که انرژی حرارتی و شیمیایی موجود در سوخت را به انرژی جنبشی یا مکانیکی تبدیل می کند.",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p012-n20",
+  "bookPage": 127,
+  "confidence": "high",
+  "supportingText": "موتور دستگاهی است که انرژی حرارتی و شیمیایی موجود در سوخت را به انرژی جنبشی یا مکانیکی تبدیل می کند.",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ae179a38",
+  "bookPage": 127,
+  "confidence": "high",
+  "supportingText": "موتور دستگاهی است که انرژی حرارتی و شیمیایی موجود در سوخت را به انرژی جنبشی یا مکانیکی تبدیل می کند.",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p032-n09",
+  "bookPage": 127,
+  "confidence": "high",
+  "supportingText": "موتور دستگاهی است که انرژی حرارتی و شیمیایی موجود در سوخت را به انرژی جنبشی یا مکانیکی تبدیل می کند.",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p048-n18",
+  "bookPage": 128,
+  "confidence": "high",
+  "supportingText": "صافی یا فیلتر هوا در مسیر هوای ورودی به موتور قرار داشته و وظیفه آن ممانعت از ورود گرد و غبار و دیگر ذرات معلق به داخل موتور و فضای احتراق می باشد.",
+  "bookReference": "صافی هوا",
+  "secondaryPages": [
+   149
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e5-p025-n26",
+  "bookPage": 128,
+  "confidence": "high",
+  "supportingText": "صافی یا فیلتر هوا در مسیر هوای ورودی به موتور قرار داشته و وظیفه آن ممانعت از ورود گرد و غبار و دیگر ذرات معلق به داخل موتور و فضای احتراق می باشد.",
+  "bookReference": "صافی هوا",
+  "secondaryPages": [
+   149
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n19",
+  "bookPage": 128,
+  "confidence": "high",
+  "supportingText": "صافی یا فیلتر هوا در مسیر هوای ورودی به موتور قرار داشته و وظیفه آن ممانعت از ورود گرد و غبار و دیگر ذرات معلق به داخل موتور و فضای احتراق می باشد.",
+  "bookReference": "صافی هوا",
+  "secondaryPages": [
+   149
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n25",
+  "bookPage": 145,
+  "confidence": "high",
+  "supportingText": "امروزه در خودروهای دیفرانسیل جلو (خودروهایی که چرخهای جلو در آنها محرک است)",
+  "bookReference": "روغن گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n27",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "با فشردن پدال کلاچ، انتقال قدرت میان موتور و گیربکس قطع می شود",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n21",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "سیستم انتقال قدرت دارای ۳ بخش اصلی کلاچ، گیربکس و دیفرانسیل است.",
+  "bookReference": "سیستم انتقال قدرت",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n21",
+  "bookPage": 129,
+  "confidence": "high",
+  "supportingText": "منظور از چرخهای محرک چرخهایی هستند که به حرکت درآورنده خودرو می باشند",
+  "bookReference": "سیستم انتقال قدرت",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n21",
+  "bookPage": 130,
+  "confidence": "high",
+  "supportingText": "وظیفه گیربکس ایجاد تعادل میان سرعت و نیرو است",
+  "bookReference": "کلاچ، گیربکس و دیفرانسیل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p007-n12",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "سیستم تعلیق علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد.",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "NOT-question: page lists comfort, stability and rollover prevention; power/acceleration control is not a suspension duty"
+ },
+ {
+  "id": "q-600-e10-p045-n29",
+  "bookPage": 68,
+  "confidence": "high",
+  "supportingText": "راننده هر وسیله نقلیه که مرتکب تصادف منجر به جرح یا فوت گردد، موظف است بلافاصله وسیله نقلیه را در محل تصادف متوقف ساخته و با نصب علایم ایمنی هشدار دهنده، رانندگان وسایل نقلیه دیگر را از وقوع حادثه آگاه سازد",
+  "bookReference": "مقررات مختلف",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "question stem garbled; options quote this rule on accidents causing injury/death"
+ },
+ {
+  "id": "q-600-e14-p060-n20",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "سیستم تعلیق علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد.",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "NOT-question: page lists comfort, stability and rollover prevention; power/acceleration control is not a suspension duty"
+ },
+ {
+  "id": "q-600-e17-p072-n18",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "بین قطعات متحرک موتور را باید روغنکاری کرد تا از سائیدگی و فرسودگی قطعات جلوگیری به عمل آمده و ضمن روانکاری، خنک نیز بشوند.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e2-p010-n01",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "بین قطعات متحرک موتور را باید روغنکاری کرد تا از سائیدگی و فرسودگی قطعات جلوگیری به عمل آمده و ضمن روانکاری، خنک نیز بشوند.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e3-p016-n19",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "سیستم تعلیق علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد.",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "NOT-question: page lists comfort, stability and rollover prevention; power/acceleration control is not a suspension duty"
+ },
+ {
+  "id": "q-600-e7-p031-n11",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "بین قطعات متحرک موتور را باید روغنکاری کرد تا از سائیدگی و فرسودگی قطعات جلوگیری به عمل آمده و ضمن روانکاری، خنک نیز بشوند.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e01-n19",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "سیستم تعلیق علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد.",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "NOT-question: page lists comfort, stability and rollover prevention; power/acceleration control is not a suspension duty"
+ },
+ {
+  "id": "q-ayin1-e03-n15",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "بین قطعات متحرک موتور را باید روغنکاری کرد تا از سائیدگی و فرسودگی قطعات جلوگیری به عمل آمده و ضمن روانکاری، خنک نیز بشوند.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-24",
+  "bookPage": 138,
+  "confidence": "high",
+  "supportingText": "سیستم تعلیق علاوه بر تامین راحتی راننده و سرنشینان هر خودرو در حین حرکت، وظیفه حفظ تعادل و پایداری خودرو را نیز به هنگام عبور از پستی یا بلندی های راه به عهده دارد.",
+  "bookReference": "سیستم تعلیق",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "NOT-question: page lists comfort, stability and rollover prevention; power/acceleration control is not a suspension duty"
+ },
+ {
+  "id": "q-e14-p029-n27",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "بین قطعات متحرک موتور را باید روغنکاری کرد تا از سائیدگی و فرسودگی قطعات جلوگیری به عمل آمده و ضمن روانکاری، خنک نیز بشوند.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ea486c80",
+  "bookPage": 131,
+  "confidence": "high",
+  "supportingText": "مهمترین وظیفه روغن چرب کنندگی و روانکاری قطعات در حین کار می باشد.",
+  "bookReference": "سیستم روغنکاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e19-p079-n15",
+  "bookPage": 132,
+  "confidence": "high",
+  "supportingText": "در کلیه موتورها برای تصفیه روغن، از فیلتر روغن استفاده می شود.",
+  "bookReference": "فیلتر روغن",
+  "secondaryPages": [
+   145
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p034-n06",
+  "bookPage": 132,
+  "confidence": "high",
+  "supportingText": "در کلیه موتورها برای تصفیه روغن، از فیلتر روغن استفاده می شود.",
+  "bookReference": "فیلتر روغن",
+  "secondaryPages": [
+   145
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e12-p025-n20",
+  "bookPage": 132,
+  "confidence": "high",
+  "supportingText": "در کلیه موتورها برای تصفیه روغن، از فیلتر روغن استفاده می شود.",
+  "bookReference": "فیلتر روغن",
+  "secondaryPages": [
+   145
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n21",
+  "bookPage": 133,
+  "confidence": "high",
+  "supportingText": "وظیفه واتر پمپ به گردش در آوردن آب داخل پوسته موتور و اطراف سیلندرها می باشد.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e4-p009-n23",
+  "bookPage": 133,
+  "confidence": "medium",
+  "supportingText": "سیستم خنک کاری موتور دارای اجزای مختلفی است که مهمترین آنها عبارتند از رادیاتور، در رادیاتور، واترپمپ (پمپ آب)، ترموستات، پروانه یا فن الکتریکی.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "book_conflict: book lists واترپمپ (پمپ آب) among cooling-system components, together with radiator, thermostat and fan"
+ },
+ {
+  "id": "q-600-e10-p044-n20",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "ترموستات وظیفه قطع و وصل کردن مدار آب از موتور به رادیاتور را عهده دار است.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e16-p066-n04",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "ترموستات وظیفه قطع و وصل کردن مدار آب از موتور به رادیاتور را عهده دار است.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n15",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "ترموستات وظیفه قطع و وصل کردن مدار آب از موتور به رادیاتور را عهده دار است.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n24",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "ترموستات وظیفه قطع و وصل کردن مدار آب از موتور به رادیاتور را عهده دار است.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n27",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "استفاده از ترمز دستی در سرعتهای بالا منجر به از دست رفتن پایداری خودرو شده شرایط واژگونی آن را فراهم می آورد.",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e2-p005-n25",
+  "bookPage": 134,
+  "confidence": "high",
+  "supportingText": "پروانه دور خود را توسط تسمه ای به طور مستقیم از میل لنگ موتور می گیرد. البته در خودروهای امروزی پروانه حذف شده به جای آن از فن یا فنهای الکتریکی استفاده می شود. مزیت فن الکتریکی آن است که چرخش آن وابسته به میل لنگ نیست.",
+  "bookReference": "سیستم خنک کاری",
+  "secondaryPages": [
+   148
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p062-n06",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "مهمترین مزیت این موضوع (قفل نشدن چرخها) آن است که فرمان پذیری خودرو را حفظ می کند و از سر خوردن، لغزش خودرو و انحراف آن تا حد زیادی جلوگیری می کند.",
+  "bookReference": "سیستم ترمز - ترمز ضدقفل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p019-n18",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "مهمترین مزیت این موضوع (قفل نشدن چرخها) آن است که فرمان پذیری خودرو را حفظ می کند و از سر خوردن، لغزش خودرو و انحراف آن تا حد زیادی جلوگیری می کند.",
+  "bookReference": "سیستم ترمز - ترمز ضدقفل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n03",
+  "bookPage": 30,
+  "confidence": "high",
+  "supportingText": "چراغ راهنما",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image: red-bordered warning triangle with a traffic light"
+ },
+ {
+  "id": "q-ayin1-e10-n20",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "مهمترین مزیت این موضوع (قفل نشدن چرخها) آن است که فرمان پذیری خودرو را حفظ می کند و از سر خوردن، لغزش خودرو و انحراف آن تا حد زیادی جلوگیری می کند.",
+  "bookReference": "سیستم ترمز - ترمز ضدقفل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-21",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "مهمترین مزیت این موضوع (قفل نشدن چرخها) آن است که فرمان پذیری خودرو را حفظ می کند و از سر خوردن، لغزش خودرو و انحراف آن تا حد زیادی جلوگیری می کند.",
+  "bookReference": "سیستم ترمز - ترمز ضدقفل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n25",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "وظیفه این روغن بر خلاف روغن موتور روغنکاری نبوده بلکه وظیفه انتقال نیرو را به عهده دارد.",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [
+   122
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e5-p011-n23",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "نکته مهم در خصوص عملکرد ترمز ضدقفل آن است که برای ترمزگیری باید پا را به طور ممتد بر روی پدال ترمز فشرد.",
+  "bookReference": "سیستم ترمز - ترمز ضدقفل",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n25",
+  "bookPage": 135,
+  "confidence": "high",
+  "supportingText": "سیستمهایی که برای ترمز اصلی (پایی) خودروهای سواری استفاده می شود از نوع روغنی (هیدرولیکی) می باشد.",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [
+   122
+  ],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e15-p030-n01",
+  "bookPage": 30,
+  "confidence": "high",
+  "supportingText": "چراغ راهنما",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "image: red-bordered warning triangle with a traffic light"
+ },
+ {
+  "id": "q-e3-p007-n20",
+  "bookPage": 136,
+  "confidence": "high",
+  "supportingText": "بوستر ترمز نیروی پدال ترمز را افزایش داده زمان واکنش سیستم ترمز را کاهش می دهد.",
+  "bookReference": "سیستم ترمز",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e2-p005-n19",
+  "bookPage": 128,
+  "confidence": "medium",
+  "supportingText": "نمایی از موتور و قسمتهایی داخل آن",
+  "bookReference": "موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": "question image is this book figure (cut-away engine, cylinders numbered 1-4); cylinder count only visible in the figure"
+ }
+]

@@ -1,0 +1,569 @@
+{
+ "generatedAt": "2026-09-25T13:57:52.806Z",
+ "status": "pass",
+ "summary": {
+  "totalQuestions": 1539,
+  "tierCounts": {
+   "1": 471,
+   "2": 412,
+   "3": 289,
+   "4": 269,
+   "5": 98
+  },
+  "referenced": 1539,
+  "referenceConfidence": {
+   "high": 1358,
+   "medium": 143,
+   "low": 38
+  },
+  "chapterCounts": {
+   "1": 1024,
+   "2": 243,
+   "3": 159,
+   "4": 42,
+   "5": 54,
+   "6": 17
+  },
+  "checksPassed": 30,
+  "checksFailed": 0,
+  "checksSkipped": 0,
+  "sessionsSimulated": 2362
+ },
+ "checks": [
+  {
+   "id": "bank.count",
+   "description": "exactly 1539 questions (the 1540 of the baseline minus 1 documented removals)",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "bank.uniqueIds",
+   "description": "question ids are unique",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "bank.noNewQuestions",
+   "description": "no question outside the pre-change baseline",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "bank.noRemovedQuestions",
+   "description": "every baseline question is still present unless its removal is documented",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "bank.removalsDocumented",
+   "description": "each documented removal is a baseline question, absent from the bank, with a date and a reason",
+   "status": "pass",
+   "failures": 0,
+   "examples": [],
+   "removedQuestions": [
+    "q-tablo-p085-n189"
+   ]
+  },
+  {
+   "id": "bank.contentUnchanged",
+   "description": "text, options, correct answer, image and provenance unchanged (SHA-256 vs baseline)",
+   "status": "pass",
+   "failures": 0,
+   "examples": [],
+   "documentedImageCorrections": [
+    "q-600-e7-p033-n30",
+    "q-ayin1-e12-n01",
+    "q-ayin1-e13-n01",
+    "q-ayin1-e13-n24",
+    "q-b2-16",
+    "q-tablo-p075-n152",
+    "q-tablo-p081-n174",
+    "q-tablo-p091-n213",
+    "q-tablo-p097-n232",
+    "q-tablo-p098-n236",
+    "q-tablo-p102-n248",
+    "q-tablo-p103-n254",
+    "q-tablo-p104-n256",
+    "q-tablo-p107-n267",
+    "q-tablo-p114-n290",
+    "q-tablo-p116-n297"
+   ]
+  },
+  {
+   "id": "bank.correctionsOnlyImages",
+   "description": "documented corrections change nothing but the image file",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "bank.answersValid",
+   "description": "correctOptionId is one of the four options",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "tier.exactlyOne",
+   "description": "every question has exactly one tier in 1..5",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "tier.scoreRange",
+   "description": "priorityScore is an integer 0..100",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "tier.reasons",
+   "description": "every question records at least one tier reason",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "tier.crossSourceDuplicatesTier1",
+   "description": "all questions merged from >=2 PDFs are Tier 1",
+   "status": "pass",
+   "failures": 0,
+   "examples": [],
+   "crossSourceDuplicates": 391
+  },
+  {
+   "id": "tier.importantMatchesTier1",
+   "description": "isImportant (red star) is set exactly for Tier 1",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "tier.provenanceKept",
+   "description": "sources / duplicateCount / sourceCount present",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.validPage",
+   "description": "every book page is a printed page 1..220 present in the transcription",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.pdfPageMapping",
+   "description": "bookPdfPage = bookPage + 2",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.confidenceConsistent",
+   "description": "pages only with high/medium/low; not_found has no page",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.excerptVerbatim",
+   "description": "supportingText is verbatim from the referenced page",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.chapterMatchesPage",
+   "description": "chapterId matches the chapter range of bookPage",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "ref.secondaryValid",
+   "description": "secondary references point to existing pages",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "hints.everyQuestion",
+   "description": "every question has a short study hint",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "hints.length",
+   "description": "hints are at most 190 characters",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "hints.noOptionNumbers",
+   "description": "hints never point at an option number/letter",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "hints.knownIds",
+   "description": "hints exist only for questions of the bank",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "assets.imagesExist",
+   "description": "every question image exists and is a valid PNG",
+   "status": "pass",
+   "failures": 0,
+   "examples": [],
+   "imageQuestions": 810
+  },
+  {
+   "id": "assets.altText",
+   "description": "every question image has alt text",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "sessions.tierModes",
+   "description": "tier / multi-tier / all-tier sessions with every count option",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "sessions.standardExam",
+   "description": "standard exam: 30 questions, 20 chapter-1 + 10 other, higher tiers favoured, varied",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "sessions.rotation",
+   "description": "repeated sessions rotate through the whole pool before repeating",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  },
+  {
+   "id": "sessions.gracefulShortfall",
+   "description": "a count larger than the pool yields the whole pool and reports the shortfall",
+   "status": "pass",
+   "failures": 0,
+   "examples": []
+  }
+ ],
+ "simulations": [
+  {
+   "mode": "Tier 1 only",
+   "count": 10,
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 only",
+   "count": 20,
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 only",
+   "count": 30,
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 only",
+   "count": 50,
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 only",
+   "count": 100,
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 only",
+   "count": "all",
+   "runs": 60,
+   "available": 471,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": 10,
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": 20,
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": 30,
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": 50,
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": 100,
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 1 + Tier 2",
+   "count": "all",
+   "runs": 60,
+   "available": 883,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": 10,
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": 20,
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": 30,
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": 50,
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": 100,
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 3 only",
+   "count": "all",
+   "runs": 60,
+   "available": 289,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": 10,
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": 20,
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": 30,
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": 50,
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": 100,
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Tier 2 + Tier 3 + Tier 4",
+   "count": "all",
+   "runs": 60,
+   "available": 970,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": 10,
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": 20,
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": 30,
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": 50,
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": 100,
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "All tiers",
+   "count": "all",
+   "runs": 60,
+   "available": 1539,
+   "status": "pass",
+   "failures": []
+  },
+  {
+   "mode": "Standard exam (simulation)",
+   "count": 30,
+   "runs": 500,
+   "status": "pass",
+   "failures": [],
+   "tierSharePercent": {
+    "1": 51.4,
+    "2": 28.5,
+    "3": 13.3,
+    "4": 5.5,
+    "5": 1.2
+   },
+   "bankSharePercent": {
+    "1": 30.6,
+    "2": 26.8,
+    "3": 18.8,
+    "4": 17.5,
+    "5": 6.4
+   },
+   "higherTiersFavoured": true,
+   "distinctQuestionsAcrossRuns": 1517,
+   "identicalExams": 0
+  }
+ ],
+ "rotation": [
+  {
+   "tiers": [
+    1
+   ],
+   "pool": 471,
+   "sessionsRun": 18,
+   "fullCoverageAfterSessions": 16,
+   "minimumPossible": 16,
+   "prematureRepeats": 0,
+   "status": "pass"
+  },
+  {
+   "tiers": [
+    3
+   ],
+   "pool": 289,
+   "sessionsRun": 12,
+   "fullCoverageAfterSessions": 10,
+   "minimumPossible": 10,
+   "prematureRepeats": 0,
+   "status": "pass"
+  },
+  {
+   "tiers": [
+    1,
+    2
+   ],
+   "pool": 883,
+   "sessionsRun": 32,
+   "fullCoverageAfterSessions": 30,
+   "minimumPossible": 30,
+   "prematureRepeats": 0,
+   "status": "pass"
+  }
+ ]
+}

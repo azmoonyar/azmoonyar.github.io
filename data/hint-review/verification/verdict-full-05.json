@@ -1,0 +1,512 @@
+[
+ {
+  "id": "q-visual-e15-p030-n09",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p063-n16",
+  "verdict": "fix",
+  "problem": "Over-general visual rule: 'rectangular boards with red diagonal stripes = distance to rail crossing' also matches the edge-marker posts (حاشیه نمای راست/چپ, p44), which are white vertical rectangles with red diagonal stripes. Limit it to these black-framed boards with one to three stripes.",
+  "suggestedHint": "این تابلوهای سفید قاب‌سیاه با یک تا سه نوار مورب قرمز، فاصله تا تقاطع جاده و راه‌آهن را نشان می‌دهند: سه نوار ۳۰۰، دو نوار ۲۰۰ و یک نوار ۱۰۰ متر."
+ },
+ {
+  "id": "q-600-e4-p019-n11",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e6-p029-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e7-p033-n30",
+  "verdict": "fix",
+  "problem": "Over-general visual rule: 'red-bordered triangle with two opposite black arrows = two-way road' also fits the p44 signs شروع/پایان جداکننده (two opposite black arrows with a separator between them). Limit it to two plain arrows with no separator.",
+  "suggestedHint": "مثلث با حاشیهٔ قرمز و دو فلش سیاه در خلاف جهت هم، بدون جداکننده میانشان، یعنی «جاده دوطرفه»؛ دو فلش مخالف در دایره یا مربع، تابلوی حق تقدم است."
+ },
+ {
+  "id": "q-600-e8-p037-n30",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e9-p041-n29",
+  "verdict": "fix",
+  "problem": "Over-general rule 'a train in the warning triangle = crossing without barrier': the tram-in-triangle distractor in this same picture is «تقاطع مسیر قطار شهری» (p32). Tie the cue to the front-view train on the three-stripe post and name the tram.",
+  "suggestedHint": "قطار از نمای جلو در مثلث، روی پایهٔ سه‌نوار قرمز، یعنی تقاطع راه‌آهن بدون راهبند در ۳۰۰ متری؛ نرده یعنی با راهبند و تراموای نیم‌رخ، مسیر قطار شهری."
+ },
+ {
+  "id": "q-ayin1-e05-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e07-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p035-n009",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p040-n029",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p040-n031",
+  "verdict": "fix",
+  "problem": "Over-general: 'a triangle means warning, not prohibition' is false for the inverted triangle, which the book reserves for رعایت حق تقدم and places in the regulatory group (p21, p28). Limit it to the upright red-bordered triangle.",
+  "suggestedHint": "مثلث نشسته روی قاعده با حاشیهٔ قرمز هشدار است، نه ممنوعیت؛ سه خودروی پشت‌سرهم در صف درون آن یعنی «تراکم ترافیک»."
+ },
+ {
+  "id": "q-tablo-p041-n034",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p045-n047",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p045-n049",
+  "verdict": "fix",
+  "problem": "Over-general 'a train in the triangle = crossing without barrier': the tram-in-triangle sign means «تقاطع مسیر قطار شهری» (p32). The picture shows a locomotive; name it.",
+  "suggestedHint": "لوکوموتیو در مثلث هشدار یعنی تقاطع جاده و راه‌آهن بدون راهبند (نرده یعنی با راهبند) و تک نوار مورب قرمز پایه یعنی ۱۰۰ متری؛ دو نوار ۲۰۰ و سه نوار ۳۰۰."
+ },
+ {
+  "id": "q-tablo-p046-n051",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p046-n052",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p048-n058",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p053-n079",
+  "verdict": "fix",
+  "problem": "Over-general 'a train inside the triangle = crossing without barrier': the tram-in-triangle sign is «تقاطع مسیر قطار شهری» (p32). The picture shows a locomotive; name it. (The 'especially dangerous' remark is supported by p99 and is kept.)",
+  "suggestedHint": "لوکوموتیو درون مثلث یعنی تقاطع بدون راهبند (نرده یعنی با راهبند) و سه نوار مورب قرمز پایه یعنی ۳۰۰ متری؛ تقاطع بی‌راهبند به‌ویژه خطرناک است."
+ },
+ {
+  "id": "q-tablo-p069-n132",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p084-n184",
+  "verdict": "fix",
+  "problem": "Over-general: 'warning triangle with two opposite black arrows = two-way road' also fits the p44 signs شروع/پایان جداکننده (same arrows with a separator between them), which the bank asks about. Add 'without a separator'.",
+  "suggestedHint": "مثلث هشدار با دو فلش سیاه مخالف‌جهت و بدون جداکننده میانشان یعنی «جاده دوطرفه»؛ تابلوهای حق تقدم با دو فلش مخالف، دایره یا مربع‌اند نه مثلث."
+ },
+ {
+  "id": "q-tablo-p089-n203",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p090-n207",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p094-n223",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p097-n233",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e15-p031-n18",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e4-p008-n03",
+  "verdict": "fix",
+  "problem": "Implies 'a train symbol in the triangle = crossing without barrier', which also matches the tram sign «تقاطع مسیر قطار شهری» (p32). Name the locomotive instead of 'train'.",
+  "suggestedHint": "ضربدر سفید با حاشیهٔ قرمز، بدون قاب مثلث، «تقاطع با راه‌آهن» است؛ داشتن یا نداشتن راهبند را مثلث با نماد نرده یا لوکوموتیو نشان می‌دهد."
+ },
+ {
+  "id": "q-visual-e5-p010-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e7-p014-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e9-p018-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e15-p063-n15",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p067-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e16-p069-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e17-p071-n13",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p078-n03",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e19-p081-n28",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e3-p014-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e4-p018-n06",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e5-p022-n04",
+  "verdict": "fix",
+  "problem": "Over-general: 'white diamond with a yellow diamond = main street' also describes «پایان خیابان اصلی» (the same diamond with a black diagonal band, p33), which is one of the options. Add 'without a band'.",
+  "suggestedHint": "لوزی سفید با لوزی زرد در وسط و بدون نوار مورب یعنی «خیابان اصلی»؛ اگر نوار مورب سیاه رویش باشد، پایان خیابان اصلی است."
+ },
+ {
+  "id": "q-600-e5-p024-n19",
+  "verdict": "fix",
+  "problem": "Over-general second clause: 'a blue square with a big white arrow gives you priority' also describes «راه یکطرفه» (p37: blue square with a big white up arrow). The priority sign is identified by its red down arrow.",
+  "suggestedHint": "دایره با حاشیهٔ قرمز و فلش قرمز رو به بالا (جهت شما) یعنی حق تقدم با خودروی روبه‌روست؛ مربع آبی با فلش قرمز رو به پایین، حق تقدم را به شما می‌دهد."
+ },
+ {
+  "id": "q-600-e6-p027-n12",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e7-p033-n27",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-600-e8-p037-n27",
+  "verdict": "fix",
+  "problem": "Over-general: 'a motorcycle with a helmeted rider in a red-bordered circle = motorcycles prohibited' also fits «عبور وسایل نقلیه موتوری ممنوع» (p34: the same motorcyclist plus a car), which is option b. Say the motorcycle is alone. (The moped-has-no-rider remark is correct.)",
+  "suggestedHint": "تنها یک موتورسیکلت با راکب کلاه‌دار در دایرهٔ حاشیه‌قرمز یعنی «عبور موتورسیکلت ممنوع»؛ موتورگازی راکب ندارد و موتورسیکلت همراه سواری یعنی وسایل نقلیه موتوری."
+ },
+ {
+  "id": "q-ayin1-e01-n07",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e04-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e05-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e06-n04",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-ayin1-e07-n04",
+  "verdict": "fix",
+  "problem": "Over-general: 'motorcycle with helmeted rider = motorcycles prohibited' also fits «عبور وسائط نقلیه موتوری ممنوع» (p34: same motorcyclist plus a car), which is option b. Say the motorcycle is alone.",
+  "suggestedHint": "حاشیهٔ قرمز یعنی ممنوعیت و نماد درون، نوع آن؛ موتورسیکلتِ تنها با راکب کلاه‌دار یعنی «عبور موتورسیکلت ممنوع» و اگر سواری هم باشد، وسایل نقلیه موتوری."
+ },
+ {
+  "id": "q-tablo-p043-n042",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p044-n043",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p046-n053",
+  "verdict": "fix",
+  "problem": "Over-general: 'a motorcycle in a red-bordered circle = motorcycles prohibited' also fits «عبور وسایط نقلیه موتوری ممنوع» (p34: the same motorcyclist plus a car). Say the motorcycle is alone; the helmet point is fine.",
+  "suggestedHint": "راکب کلاه‌دار فقط بخشی از نماد است، نه موضوع ممنوعیت؛ موتورسیکلتِ تنها در دایره با حاشیهٔ قرمز یعنی «عبور موتورسیکلت ممنوع»."
+ },
+ {
+  "id": "q-tablo-p048-n059",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p050-n064",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p057-n093",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p058-n097",
+  "verdict": "fix",
+  "problem": "The closing clause «خط مورب یعنی پایان» reads as a general rule, which is false for red-bordered prohibition signs where the red diagonal means prohibition (p34-35). Limit it to the diamond.",
+  "suggestedHint": "لوزی زرد خط‌خورده در کتاب «پایان خیابان اصلی» نام دارد؛ لوزی شروع و پایان حق تقدم مسیر را نشان می‌دهد و خط مورب روی این لوزی یعنی پایان."
+ },
+ {
+  "id": "q-tablo-p060-n102",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p060-n103",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p062-n109",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p063-n110",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p064-n113",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p070-n133",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p079-n169",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p080-n171",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p086-n192",
+  "verdict": "fix",
+  "problem": "Over-general: 'a blue square with a big white forward arrow = priority is yours' also describes «راه یکطرفه» (p37: blue square with a big white up arrow); the red down arrow is the cue. Also 'the same arrows in the circle' is inaccurate: the colours are swapped there (black down, red up, p33).",
+  "suggestedHint": "مربع آبی با فلش سفید بزرگ رو به جلو و فلش قرمز رو به پایین یعنی «حق تقدم عبور با شما»؛ دو فلش مخالف در دایرهٔ حاشیه‌قرمز یعنی حق تقدم با خودروی مقابل."
+ },
+ {
+  "id": "q-tablo-p087-n198",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p095-n225",
+  "verdict": "fix",
+  "problem": "Over-general cue: 'red border with an empty white middle' omits the shape, and the yield sign (inverted triangle, red border, empty white middle, p33) is option d. Say 'circle'.",
+  "suggestedHint": "دایره با حاشیهٔ قرمز و وسط سفید خالی یعنی «ورود از هر دو طرف ممنوع»؛ ورود ممنوع دایرهٔ توپر قرمز با نوار سفید است و مثلث وارونهٔ خالی، رعایت حق تقدم."
+ },
+ {
+  "id": "q-tablo-p095-n227",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p097-n234",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p099-n240",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p101-n247",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p102-n249",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p105-n260",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p105-n261",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p106-n263",
+  "verdict": "fix",
+  "problem": "Over-general: 'a blue square = priority is yours' is false for other blue squares, including option 1 in this same picture (blue square with a white up arrow = راه یکطرفه, p37). Name the arrows.",
+  "suggestedHint": "حق تقدم با وسیلهٔ مقابل: دایرهٔ سفید با حاشیهٔ قرمز، فلش سیاه رو به پایین و فلش قرمز رو به بالا؛ مربع آبی با فلش قرمز رو به پایین یعنی حق تقدم با شما."
+ },
+ {
+  "id": "q-tablo-p106-n264",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p108-n271",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p109-n274",
+  "verdict": "fix",
+  "problem": "Over-general: 'white diamond with a yellow diamond in the middle = main street' also describes «پایان خیابان اصلی» (the same diamond with a black diagonal band, p33). Add 'without a band'.",
+  "suggestedHint": "لوزی سفید با لوزی زرد در وسط و بدون نوار مورب، تابلوی خیابان اصلی است؛ طبق کتاب، شکل لوزی برای شروع و پایان حق تقدم مسیر به کار می‌رود."
+ },
+ {
+  "id": "q-tablo-p114-n291",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-tablo-p116-n299",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e12-p024-n02",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e3-p006-n04",
+  "verdict": "fix",
+  "problem": "Over-general first clause: 'a yellow diamond inside a white diamond = main street' also describes «پایان خیابان اصلی» (the same diamond with a black diagonal band, p33). Add 'without a band'. The main-road priority rule is supported (p51, p188).",
+  "suggestedHint": "لوزی زرد درون لوزی سفید، بدون نوار مورب، یعنی خیابان اصلی؛ در برخورد راه اصلی با فرعی، حق تقدم با وسیلهٔ نقلیه‌ای است که از راه اصلی عبور می‌کند."
+ },
+ {
+  "id": "q-visual-e6-p012-n05",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ },
+ {
+  "id": "q-visual-e8-p016-n01",
+  "verdict": "ok",
+  "problem": null,
+  "suggestedHint": null
+ }
+]

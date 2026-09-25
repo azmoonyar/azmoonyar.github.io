@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-09-24T22:48:28+01:00",
+  "status": "complete",
+  "sampleQuestionPdfCount": 8,
+  "totalPagesProcessed": 349,
+  "totalRawQuestions": 2011,
+  "duplicatesMerged": 471,
+  "uniqueQuestions": 1540,
+  "questionsWithImages": 821,
+  "questionsWithResolvedAnswers": 1540,
+  "unresolvedAnswers": 0,
+  "reviewItems": 0,
+  "validation": {
+    "invalidQuestions": 0,
+    "duplicateIds": 0,
+    "missingReferencedAssets": 0,
+    "emptyQuestionTexts": 0,
+    "questionsWithoutFourOptions": 0
+  },
+  "notes": [
+    "All pages of all sample-question PDFs were reviewed and every retained visual reference was resolved.",
+    "The question bank is connected to the quiz UI and contains no pending review items.",
+    "A final schema, asset-integrity, crop, desktop, and mobile QA pass is recorded in extraction-qa-report.json.",
+    "A risk-ranked visual QA pass reviewed 80 high-risk referenced assets and regenerated 57 source-derived crops.",
+    "No local OCR was used."
+  ]
+}

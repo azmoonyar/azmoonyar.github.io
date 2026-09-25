@@ -1,0 +1,542 @@
+[
+ {
+  "id": "q-ayin1-e04-n01",
+  "hint": "دایرهٔ سفید با یک نوار مورب و بدون هیچ نماد، «پایان تمام محدودیت‌ها»ست و به توقف ربطی ندارد؛ بقیه نماد توقف ممنوع را در خود دارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e10-n01",
+  "hint": "سبقت ممنوع: دو سواری کنار هم در دایرهٔ حاشیه‌قرمز که خودروی چپ قرمز است؛ خودروهای خاکستری زیر نوار مورب هاشورخورده یعنی پایان سبقت ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p040-n028",
+  "hint": "بوق در دایرهٔ سفید با نوار مورب هاشورخورده یعنی پایان بوق زدن ممنوع؛ این نوار، مثل پایان سبقت ممنوع، نشانهٔ «پایان» است و بوق زدن ممنوع حاشیه و خط قرمز دارد.",
+  "basis": "book",
+  "note": "Exact sign not in the book; hint uses the p35 horn sign and the p35 pattern of end-of-restriction signs (hatched diagonal).",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p042-n037",
+  "hint": "نوار مورب هاشورخورده روی دایرهٔ سفید نشانهٔ «پایان» است؛ وقتی هیچ نماد یا عددی زیرش نیست، یعنی همهٔ محدودیت‌ها با هم تمام شده‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p051-n068",
+  "hint": "عدد بدون واحد در دایرهٔ حاشیه‌قرمز سقف سرعت است: سرعت بیش از ۳۰ کیلومتر بر ساعت ممنوع؛ عدد سفید روی دایرهٔ آبی برعکس، حداقل سرعت را نشان می‌دهد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule «عدد سیاه در دایرهٔ سفید با حاشیهٔ قرمز سقف سرعت است»: book p.34 has red-bordered circles with black numbers that are not speeds (2m, 3.5m, 5T, 70m, 10m). Only a number without a unit is the speed limit.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p055-n085",
+  "hint": "دو سواری خاکستری که نوار مورب هاشورخورده رویشان کشیده شده، یعنی ممنوعیت سبقت به پایان رسیده است: پایان سبقت ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p055-n086",
+  "hint": "در دایرهٔ حاشیه‌قرمز، کامیون قرمز کنار سواری سیاه آمده، یعنی سبقت برای کامیون ممنوع است؛ در تابلوی سبقت ممنوع به جای کامیون، سواری قرمز هست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p056-n087",
+  "hint": "دو سواری از نمای پشت، یکی قرمز و یکی سیاه، در دایرهٔ حاشیه‌قرمز یعنی سبقت ممنوع؛ پایان آن با نوار مورب هاشورخورده روی خودروها نشان داده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p056-n088",
+  "hint": "در دایرهٔ حاشیه‌قرمز، عدد کنار هر وسیله سقف سرعت همان وسیله است: کامیون ۳۰ و سواری ۵۰؛ کتاب هم محدودیت سرعتِ مخصوص وسایل نقلیهٔ خاص را ذکر کرده است.",
+  "basis": "book",
+  "note": "Combined truck/car sign not in the book; hint uses the p35 max-speed sign and p84 (speed limits for specific vehicles, e.g. trucks).",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p058-n095",
+  "hint": "عدد ۴۰ در دایرهٔ سفید که نوار مورب هاشورخورده رویش کشیده شده، یعنی محدودیت سرعت ۴۰ کیلومتر در ساعت تمام شده است؛ این نوار نشانهٔ «پایان» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p060-n101",
+  "hint": "دایرهٔ حاشیه‌قرمز با نوار سیاه افقی و واژه‌های «ایست» و «بازرسی»، تابلوی ایست بازرسی (گمرک) است؛ تابلوی ایست معمولی هشت‌ضلعی قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p062-n107",
+  "hint": "فلشی که بالا رفته و به عقب برمی‌گردد، زیر خط مورب قرمز، یعنی دور زدن ممنوع؛ در گردش به چپ ممنوع، فلش فقط به چپ می‌پیچد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p063-n111",
+  "hint": "بوق سیاه زیر خط مورب قرمز یعنی بوق زدن ممنوع؛ طبق کتاب، بوق زدن در جاهایی که علائم آن را منع کرده‌اند ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p065-n116",
+  "hint": "دایرهٔ آبی با حاشیهٔ قرمز و یک خط مورب = توقف ممنوع؛ فقط سوار و پیاده کردن، به شرط ماندن راننده پشت فرمان، مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p065-n118",
+  "hint": "وقتی نماد توقف ممنوع درون صفحهٔ مربع سفیدِ قاب‌دار بیاید، «منطقه توقف ممنوع» است؛ ممنوعیت در کل منطقه برقرار است تا تابلوی پایان منطقه.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p067-n124",
+  "hint": "یک خط مورب قرمز روی دایرهٔ آبیِ حاشیه‌قرمز یعنی توقف ممنوع؛ ضربدر (دو خط) یعنی ایستادن ممنوع که همان توقف مطلقاً ممنوع است.",
+  "basis": "book",
+  "note": "revised after independent check: Minor over-general rule «یک خط مورب قرمز روی دایرهٔ آبی یعنی توقف ممنوع»: the book's «پایان حداقل سرعت ۳۰ کیلومتر» (p.37) is also a blue circle with one red diagonal. Adding the red border makes the rule true for the whole book.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p067-n125",
+  "hint": "دو سواری از پشت در دایرهٔ حاشیه‌قرمز، که خودروی چپ قرمز است، یعنی سبقت ممنوع؛ تابلوی حق تقدم با وسیلهٔ مقابل به جای خودرو، دو فلش مخالف دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p074-n149",
+  "hint": "ضربدر قرمز روی دایرهٔ آبی حاشیه‌قرمز یعنی ایستادن ممنوع (توقف مطلقاً ممنوع) برای هر مدتی؛ تابلوهای «منطقه» نماد را درون یک صفحهٔ سفید قاب‌دار نشان می‌دهند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p076-n159",
+  "hint": "صفحهٔ سفید قاب‌دار با نماد خاکستری توقف ممنوع و نوار مورب هاشورخورده روی کل صفحه، پایان منطقه توقف ممنوع است؛ نسخهٔ رنگیِ بی‌نوار، شروع منطقه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p078-n165",
+  "hint": "خط‌های سفید را بشمارید: یک خط عمودی روی نماد توقف ممنوع یعنی روزهای فرد و دو خط یعنی روزهای زوج؛ پس این تابلو توقف در روزهای فرد را منع می‌کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p079-n168",
+  "hint": "ضربدر قرمز (دو خط مورب) روی دایرهٔ آبی نشانهٔ ایستادن ممنوع است؛ توقف ممنوع فقط یک خط مورب دارد، پس این دو تابلو یکی نیستند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p082-n179",
+  "hint": "کامیون و سواری خاکستری در دایرهٔ سفید با نوار مورب هاشورخورده یعنی ممنوعیت سبقت برای کامیون تمام شده است: پایان سبقت ممنوع برای کامیون.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p083-n183",
+  "hint": "عدد بدون واحد در دایرهٔ حاشیه‌قرمز سقف سرعت است؛ با دیدن تابلو سرعت را به ۳۰ کیلومتر بر ساعت برسانید و تا پایان محدودیت از آن بیشتر نکنید.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule «عدد سیاه در دایرهٔ حاشیه‌قرمز سقف سرعت است»: book p.34 has red-bordered circles with black numbers that are not speeds (2m, 3.5m, 5T, 70m, 10m). Only a number without a unit is the speed limit. Rest of the hint is fine; reworded to echo the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p093-n218",
+  "hint": "توقف ممنوع دایرهٔ آبی با حاشیهٔ قرمز و فقط یک خط مورب قرمز است؛ ضربدر یعنی ایستادن ممنوع و دایرهٔ قرمز توپر با نوار سفید، ورود ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p093-n220",
+  "hint": "دو سواری کنار هم که چپی قرمز است یعنی سبقت ممنوع؛ اگر وسیلهٔ قرمز کامیون باشد، سبقت برای کامیون ممنوع است. عبور سواری ممنوع فقط یک سواری سیاه دارد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule «دو خودروی کنار هم یعنی موضوع تابلو سبقت است»: the book's 70 m distance sign (p.34) also shows two cars side by side. In the book the overtaking signs are identified by one red vehicle.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p096-n228",
+  "hint": "نوار مورب هاشورخورده روی دو سواری خاکستری یعنی پایان سبقت ممنوع؛ اگر یکی از دو خودرو کامیون بود، پایان سبقت ممنوع برای کامیون می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p107-n268",
+  "hint": "نوار مورب هاشورخورده نشانهٔ پایان است؛ این تابلو هیچ نماد یا عددی زیر نوار ندارد، پس یعنی پایان تمام محدودیت‌ها.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule «تابلوهای «پایان» با نوار مورب هاشورخورده شناخته می‌شوند»: many end signs in the book use a red or black diagonal line instead (پایان حداقل سرعت, پایان آزاد راه, پایان شهر, پایان خیابان اصلی). Only the reverse (hatched band = end) holds.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p110-n276",
+  "hint": "ایستادن ممنوع با ضربدر قرمز روی دایرهٔ آبی شناخته می‌شود و ایست وسیلهٔ نقلیه را برای هر مدتی منع می‌کند؛ توقف ممنوع فقط یک خط مورب دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p110-n278",
+  "hint": "عدد بدون واحد در دایرهٔ سفید حاشیه‌قرمز سقف سرعت است؛ پس با دیدن تابلو حداکثر با ۳۰ کیلومتر بر ساعت برانید و تا پایان محدودیت، سرعت را بالا نبرید.",
+  "basis": "book",
+  "note": "revised after independent check: 'a black number in a red ring = maximum speed' is false for the 5T/2m/3.5m/70m signs (p34); limited to a number without a unit (editor wording, the suggested hint compared it with another sign).",
+  "editedAfterCheck": true,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p113-n286",
+  "hint": "دو سواری کنار هم (چپی قرمز) در دایرهٔ حاشیه‌قرمز یعنی سبقت ممنوع؛ در سبقت برای کامیون ممنوع وسیلهٔ قرمز کامیون است و عبور سواری یا کامیون ممنوع فقط یک وسیلهٔ سیاه دارد.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'prohibition-of-passage signs show only one vehicle' is false in the book (p34: all-vehicles-prohibited and motor-vehicles-prohibited signs show two or three vehicles). Limit it to the car/truck distractors.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p115-n295",
+  "hint": "نمادِ زیر نوار مورب هاشورخورده می‌گوید چه چیزی تمام شده: دو سواری یعنی پایان سبقت ممنوع، عدد یعنی پایان محدودیت سرعت و بی‌نماد یعنی پایان همهٔ محدودیت‌ها.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p116-n296",
+  "hint": "از دایره‌های آبی حاشیه‌قرمز، آن‌که ضربدر قرمز دارد ایستادن ممنوع است؛ یک خط مورب تنها توقف ممنوع است و دایرهٔ سفیدِ خالی با حاشیهٔ قرمز، ورود از هر دو طرف ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e10-p020-n05",
+  "hint": "دو خط مورب قرمز به شکل ضربدر روی زمینهٔ آبی یعنی ایستادن ممنوع (توقف مطلقاً ممنوع)؛ پس حتی ایستادن کوتاه هم مجاز نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e12-p024-n04",
+  "hint": "دایره با حاشیهٔ قرمز یعنی منع؛ فلشی که بالا رفته و برمی‌گردد، زیر خط مورب قرمز، دور زدن ممنوع است. تابلوهای پیچ، مثلثی و هشداردهنده‌اند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e14-p028-n01",
+  "hint": "عدد سیاه ۵۰ در دایرهٔ سفید با حاشیهٔ قرمز یعنی سرعت بیش از ۵۰ کیلومتر در ساعت ممنوع؛ حداقل سرعت با عدد سفید روی دایرهٔ آبی نشان داده می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e15-p030-n04",
+  "hint": "کامیون قرمز کنار سواری سیاه، درون دایرهٔ حاشیه‌قرمز، یعنی سبقت برای کامیون ممنوع؛ اگر به جای کامیون سواری قرمز بود، تابلو سبقت ممنوع می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e15-p030-n07",
+  "hint": "پایان منطقه توقف ممنوع: مربع سفید قاب‌دار با نماد بی‌رنگ توقف ممنوع و نوار هاشورخورده روی کل صفحه؛ دایرهٔ سفیدی که فقط نوار هاشورخورده دارد، پایان تمام محدودیت‌هاست.",
+  "basis": "book",
+  "note": "revised after independent check: Ambiguous rule: 'a white circle without a symbol = end of all restrictions' also matches the red-bordered empty white circle (no entry from both sides, p33); it must mention the hatched band.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e2-p004-n01",
+  "hint": "سبقت ممنوع: دو سواری کنار هم (چپی قرمز) در دایرهٔ حاشیه‌قرمز؛ کامیون قرمز یعنی سبقت برای کامیون ممنوع و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یعنی حق تقدم با وسیلهٔ مقابل.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'two opposite arrows = priority to the oncoming vehicle' also matches the blue square 'priority is yours' (p33) and the two-way-road warning triangle (p32); it must be limited to the red-bordered circle.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n01",
+  "hint": "تنها تابلوی بی‌ربط به توقف، دایرهٔ سفید با نوار مورب خاکستری و بدون نماد است که پایان تمام محدودیت‌ها را اعلام می‌کند؛ بقیه نماد توقف ممنوع دارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n04",
+  "hint": "خط مورب قرمز روی نماد بوق یعنی بوق زدن ممنوع؛ رنگ قرمز در علائم به معنای منع است، نه آزاد بودن.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e9-p018-n01",
+  "hint": "دایرهٔ حاشیه‌قرمز با نوار سیاه افقی که بالا و پایینش «ایست» و «پلیس» به انگلیسی نوشته شده، ایست بازرسی (گمرک) است؛ ایست معمولی هشت‌ضلعی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p053-n30",
+  "hint": "فقط عبور به راست: دایرهٔ آبی با فلش سفید افقیِ صاف رو به راست؛ فلش خمیده یعنی فقط گردش به راست و فلش مورب یعنی عبور از سمت راست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p055-n15",
+  "hint": "عبور از هر دو سمت مجاز: دایرهٔ آبی با دو فلش سفید مورب که از هم باز می‌شوند و به پایینِ چپ و راست اشاره می‌کنند؛ آبی رنگ حرکات مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p069-n27",
+  "hint": "دو خط سفید یعنی زوج و یک خط یعنی فرد؛ این تابلو دو خط سفید روی نماد توقف ممنوع دارد، پس توقف در روزهای زوج هفته ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p011-n14",
+  "hint": "دایرهٔ آبی با یک فلش سفید رو به بالا فقط جهت حرکت را تعیین می‌کند (فقط عبور مستقیم مجاز)؛ مثلث وارونه و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یا مربع آبی، تابلوهای حق تقدم‌اند.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'signs with two opposite arrows are right-of-way signs' is false for the two-way-road warning triangle (p32) and the divider signs (p44); limit it to the red-bordered circle / blue square.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e20-p085-n30",
+  "hint": "فقط عبور دوچرخه: دایرهٔ آبی که فقط نماد دوچرخه‌سوار دارد؛ اگر عابر هم کنارش باشد مسیر دوچرخه و پیاده است و دوچرخه در دایرهٔ حاشیه‌قرمز یعنی عبور ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p014-n06",
+  "hint": "دایرهٔ آبی با سه فلش سفید خمیده دور یک دایره یعنی جهت عبور در میدان؛ حرکت خلاف این جهت ممنوع است. تابلوی «میدان» مثلثی و هشداری است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p022-n05",
+  "hint": "عدد سفید روی دایرهٔ آبی حداقل سرعت است: کمتر از ۳۰ نرانید. اگر خط مورب قرمز رویش باشد، پایان حداقل سرعت است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-visual-e1-p009-n29",
+  "hint": "دایرهٔ آبی با بزرگسال و کودک دست‌در‌دست یعنی فقط عبور پیاده؛ همین نماد در مثلث حاشیه‌قرمز، هشدار «عبور اطفال» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n06",
+  "hint": "سه فلش خمیده که دور یک دایره می‌چرخند، روی تابلوی گرد آبی، جهت عبور در میدان است؛ هشدارهای «میدان» و «تقاطع» مثلث حاشیه‌قرمزند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e02-n04",
+  "hint": "تابلوی گرد آبی دستور یا اجازه است؛ بزرگسال و کودک دست‌در‌دست در آن یعنی فقط عبور پیاده. عبور اطفال و عبور عابر پیاده، مثلث هشدارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e03-n01",
+  "hint": "مثلث وارونه و دو فلش مخالف در دایرهٔ حاشیه‌قرمز یا مربع آبی، تابلوهای حق تقدم‌اند؛ دایرهٔ آبی با یک فلش سفید رو به بالا فقط عبور مستقیم را مجاز می‌کند و دربارهٔ حق تقدم نیست.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'right-of-way signs have an inverted triangle or two opposite arrows' ignores the main-road diamond (p21, p33) and wrongly includes the two-way-road triangle with opposite arrows (p32); limit it to the signs shown.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e04-n05",
+  "hint": "دایرهٔ آبی با عدد سفید ۳۰ و بدون خط مورب یعنی حداقل سرعت ۳۰؛ رانندگی کندتر از آن مجاز نیست. سقف سرعت با عدد سیاه در دایرهٔ حاشیه‌قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e12-n01",
+  "hint": "روی دایرهٔ آبی، دو فلش سفید مورب که از بالا از هم جدا شده و به پایینِ چپ و راست می‌روند، یعنی عبور از هر دو سمت مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e13-n01",
+  "hint": "فلش افقیِ صاف رو به راست در دایرهٔ آبی یعنی فقط عبور به راست مجاز؛ فلش خمیده فقط گردش به راست، فلش مورب عبور از سمت راست و مستطیل فلش‌دار خیابان یک‌طرفه است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p040-n030",
+  "hint": "عدد سفید روی دایرهٔ آبی، حداقل سرعت را نشان می‌دهد نه فاصله یا سقف سرعت؛ یعنی کمتر از ۳۰ کیلومتر در ساعت نرانید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p068-n127",
+  "hint": "در دایرهٔ آبی، فلشی که از پایین بالا می‌آید و به چپ می‌پیچد یعنی فقط گردش به چپ مجاز؛ فلش افقی رو به چپ «فقط عبور به چپ» و فلش مورب «عبور از سمت چپ» است.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: the rising-then-left arrow is stated without the blue disc; the same arrow in a red ring with a red diagonal means left turn prohibited (p34), so the rule must be tied to the blue disc.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p070-n134",
+  "hint": "دو خط سفید عمودی روی نماد توقف ممنوع (دایرهٔ آبی حاشیه‌قرمز با خط مورب) یعنی توقف در روزهای زوج هفته ممنوع؛ یک خط، روزهای فرد است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p071-n137",
+  "hint": "فلش سفید رو به بالا که شاخه‌ای به چپ از آن جدا می‌شود، روی دایرهٔ آبی (حرکت مجاز)، یعنی عبور مستقیم و گردش به چپ مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p074-n148",
+  "hint": "دایرهٔ آبی تابلوی دستوری حرکت مجاز است؛ فلش رو به بالا با شاخه‌ای به سمت راست یعنی هم عبور مستقیم و هم گردش به راست مجاز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p075-n154",
+  "hint": "نام این تابلو «جهت عبور در میدان» است: دایرهٔ آبی با سه فلش سفید خمیده که یک دایره می‌سازند؛ تابلوی «میدان» مثلث هشداردهنده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p076-n158",
+  "hint": "دو فلش سفید مورب که به پایینِ چپ و پایینِ راست اشاره می‌کنند یعنی عبور از هر دو سمت مجاز است؛ یک فلش مورب تنها فقط همان سمت را مجاز می‌کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p077-n161",
+  "hint": "فلش سفیدی که از پایین بالا می‌رود و به راست می‌پیچد، روی دایرهٔ آبی، یعنی فقط گردش به راست مجاز است؛ فلش افقی صاف یعنی فقط عبور به راست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p077-n162",
+  "hint": "فلش سفید افقی رو به چپ در دایرهٔ آبی دستور حرکت است: فقط عبور به چپ مجاز. تابلوهای یک‌طرفه مربع یا مستطیل آبی‌اند، نه دایره.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p077-n163",
+  "hint": "شکل تابلو را ببینید: دایرهٔ آبی با فلش سفید افقی رو به راست یعنی فقط عبور به راست مجاز؛ خیابان یک‌طرفه مستطیل آبی با فلش و نوشتهٔ «یک طرفه» است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p078-n164",
+  "hint": "رنگ، معنای عدد را عوض می‌کند: عدد سفید روی دایرهٔ آبی حداقل سرعت است، اما سقف سرعت با عدد سیاه در دایرهٔ حاشیه‌قرمز نشان داده می‌شود.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general rule: 'a black number in a red-bordered circle = maximum speed' is false for other book signs with black numbers in a red ring (5T, 2m, 3.5m, 70m, p34); state it in the true direction (the speed limit is shown this way).",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p083-n181",
+  "hint": "فلش سفید رو به بالا در دایرهٔ آبی یعنی فقط عبور مستقیم مجاز؛ راه یک‌طرفه هم فلش رو به بالا دارد، اما روی مربع آبی.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p084-n185",
+  "hint": "نماد سفید بزرگسال و کودک روی دایرهٔ آبی یعنی این مسیر فقط برای عبور پیاده است؛ عبور پیاده ممنوع، آدمک سیاه در دایرهٔ حاشیه‌قرمز است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p085-n188",
+  "hint": "اسب و سوارکار سفید روی دایرهٔ آبی یعنی فقط عبور اسب‌سوار مجاز است؛ هشدار عبور حیوانات اهلی، مثلث حاشیه‌قرمز با نماد گاو است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p088-n201",
+  "hint": "دایره در تابلوها علامت دستوری است؛ دایرهٔ آبی با فلش سفید رو به بالا یعنی فقط عبور مستقیم مجاز. تابلوی راه یک‌طرفه، مربع آبی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p089-n205",
+  "hint": "نماد سفید دوچرخه روی دایرهٔ آبی یعنی این مسیر فقط برای عبور دوچرخه است؛ دوچرخهٔ سیاه در دایرهٔ حاشیه‌قرمز یعنی عبور دوچرخه ممنوع.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p089-n206",
+  "hint": "هشدار و احتیاط دربارهٔ عابر با مثلث حاشیه‌قرمز نشان داده می‌شود؛ دایرهٔ آبی با بزرگسال و کودک دستوری است: فقط عبور پیاده.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p091-n211",
+  "hint": "فلش سفید افقی رو به راست روی دایرهٔ آبی یعنی فقط عبور به راست مجاز؛ اگر فلش مورب رو به پایین‌راست بود، عبور از سمت راست مجاز می‌شد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p092-n217",
+  "hint": "تابلوی فقط به راست مجاز دایرهٔ آبی با فلش سفید افقی رو به راست است؛ مستطیل آبی با همین فلش خیابان یک‌طرفه است و مثلث حاشیه‌قرمز با خط خمیده، هشدار پیچ.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general wording: «مثلث حاشیه‌قرمز، هشدار پیچ» reads as 'any red-bordered triangle = bend warning'; all warning signs are red-bordered triangles (p28-32). Tie it to the curved-line symbol.",
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p100-n242",
+  "hint": "عدد سفید ۳۰ روی دایرهٔ آبی و بدون خط مورب، حداقل سرعت ۳۰ است؛ همین تابلو با خط مورب قرمز، پایان حداقل سرعت می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p103-n251",
+  "hint": "فقط عبور پیاده دایرهٔ آبی با بزرگسال و کودک دست‌در‌دست و بدون خط مورب است؛ مثلث‌های حاشیه‌قرمز با نماد عابر، تابلوی هشدارند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-tablo-p104-n255",
+  "hint": "دوچرخهٔ سفیدِ تنها روی دایرهٔ آبی یعنی فقط عبور دوچرخه؛ دوچرخه در دایرهٔ حاشیه‌قرمز عبور را منع می‌کند و اگر عابر هم کنارش باشد، مسیر دوچرخه و پیاده است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ }
+]

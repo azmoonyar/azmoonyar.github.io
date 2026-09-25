@@ -1,0 +1,834 @@
+[
+ {
+  "id": "q-600-e4-p018-n05",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "قبل از حرکت باید از صحت عملکرد چراغهای خودرو شامل چراغ جلو، چراغ خطر، چراغهای راهنما، چراغ دنده عقب و ... اطمینان حاصل کنید.",
+  "bookReference": "بازدید خودرو - سیستم روشنایی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-a90ff88b",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "به یاد داشته باشید بوق زدن برای اطلاع و آگاه سازی سایر کاربران راه و جلوگیری از بروز سانحه و خطر است.",
+  "bookReference": "بازدید خودرو - بوق",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-b2-22",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "مواردی که باید قبل از شروع حرکت مورد بازبینی و توجه قرار گیرد:",
+  "bookReference": "بازدید خودرو",
+  "secondaryPages": [
+   79,
+   80
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "list spans pp.78-80: lights, horn, glass (78); tyres, brakes, mirrors (79); radiator water (80)"
+ },
+ {
+  "id": "q-e12-p024-n14",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "توجه داشته باشید برای انجام یک رانندگی ایمن در برخی موارد لازم است علی رغم وجود حق قانونی ، شما برای جلوگیری از بروز خطر از حق خود چشم پوشی کنید.",
+  "bookReference": "رانندگی ایمن - مقدمه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p035-n11",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "در صورت کثیف بودن شیشه‌ی چراغها باید آنها را تمیز نمود در غیر این صورت از شدت روشنایی آنها کاسته خواهد شد.",
+  "bookReference": "بازدید خودرو - سیستم روشنایی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n16",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "شکسته بودن یا کثیف بودن شیشه‌های خودرو می تواند بسیار خطر ناک باشد چرا که باعث کاهش دید می شود.",
+  "bookReference": "بازدید خودرو - شیشه های خودرو",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e3-p007-n21",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "قبل از حرکت باید از صحت عملکرد چراغهای خودرو شامل چراغ جلو، چراغ خطر، چراغهای راهنما، چراغ دنده عقب و ... اطمینان حاصل کنید.",
+  "bookReference": "بازدید خودرو - سیستم روشنایی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e7-p015-n23",
+  "bookPage": 144,
+  "confidence": "high",
+  "supportingText": "دست کم هفته ای یک بار به وسیله سیم یا گیج روغن، سطح روغن موتور را کنترل نمایید.",
+  "bookReference": "کنترل و تعویض روغن موتور",
+  "secondaryPages": [],
+  "chapterId": 3,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p019-n28",
+  "bookPage": 78,
+  "confidence": "high",
+  "supportingText": "اکثر سوانح ترافیکی به دلیل عدم رعایت نکات ایمنی توسط کاربران ترافیک حادث می شود.",
+  "bookReference": "رانندگی ایمن - مقدمه",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e1-p008-n20",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "کم باد بودن تایر ها هم باعث افزایش مصرف سوخت، فرسایش تایر و همچنین از دست رفتن تعادل، هدایت و فرمان‌پذیری خودرو به هنگام ترمزگیری خواهد شد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e11-p049-n26",
+  "bookPage": 91,
+  "confidence": "medium",
+  "supportingText": "محدوده نقاط کور خودروهای طویل، علاوه بر چپ و راست، در بخشهایی از جلو و پشت خودرو نیز می باشد.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   92
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book states long vehicles have blind spots in front/rear; the 'see ahead of the truck' part is not stated"
+ },
+ {
+  "id": "q-600-e12-p052-n20",
+  "bookPage": 79,
+  "confidence": "medium",
+  "supportingText": "تایر هایی که شیار مناسب نداشته باشند در هنگام رانندگی در سطوح خیس یا مرطوب به دلیل عدم وجود اصطکاک مورد نیاز احتمال دارد سُر بخورند.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   151
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "'all of the above': reduced friction and skidding are stated; the tyre-damage option is not"
+ },
+ {
+  "id": "q-600-e13-p056-n21",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "عمق شیار تایر ها باید حداقل ۱.۵ میلی متر باشد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   151
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p058-n05",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "طبیعی است که یک خودروی سنگین، مسافت بیشتری برای توقف نسبت به یک خودروی سبک‌تر نیاز دارد. همچنین توقف در سطوح لغزنده و سرازیری، نیازمند طی زمان و مسافت بیشتری می‌باشد.",
+  "bookReference": "بازدید خودرو - ترمزها",
+  "secondaryPages": [
+   94
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e14-p061-n25",
+  "bookPage": 91,
+  "confidence": "medium",
+  "supportingText": "محدوده نقاط کور خودروهای طویل، علاوه بر چپ و راست، در بخشهایی از جلو و پشت خودرو نیز می باشد.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   92
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book states long vehicles have blind spots in front/rear; the 'see ahead of the truck' part is not stated"
+ },
+ {
+  "id": "q-600-e17-p070-n06",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "پر باد بودن تایر ها می تواند فرمان پذیری خودرو را کاهش داده و باعث ایجاد خطر گردد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   152
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e18-p076-n24",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "در شرایط برف و یخبندان لازم است از تایرهای یخ شکن یا زنجیر چرخ استفاده گردد",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   61
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e9-p039-n14",
+  "bookPage": 84,
+  "confidence": "low",
+  "supportingText": "اگر جاده دو طرفه است باید اطمینان حاصل کرد که مسیر تا فاصله دور و مطمئنی از طرف مقابل خالی از هر گونه وسیله نقلیه بوده و تفاوت سرعت بین وسیله نقلیه روبرو و وسیله نقلیه جلویی برای سبقت کافی باشد.",
+  "bookReference": "روش سبقت گرفتن",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+ },
+ {
+  "id": "q-ayin1-e02-n11",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "کم باد بودن تایر ها هم باعث افزایش مصرف سوخت، فرسایش تایر و همچنین از دست رفتن تعادل، هدایت و فرمان‌پذیری خودرو به هنگام ترمزگیری خواهد شد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   151
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e08-n26",
+  "bookPage": 84,
+  "confidence": "low",
+  "supportingText": "اگر جاده دو طرفه است باید اطمینان حاصل کرد که مسیر تا فاصله دور و مطمئنی از طرف مقابل خالی از هر گونه وسیله نقلیه بوده و تفاوت سرعت بین وسیله نقلیه روبرو و وسیله نقلیه جلویی برای سبقت کافی باشد.",
+  "bookReference": "روش سبقت گرفتن",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+ },
+ {
+  "id": "q-ayin1-e11-n26",
+  "bookPage": 91,
+  "confidence": "medium",
+  "supportingText": "محدوده نقاط کور خودروهای طویل، علاوه بر چپ و راست، در بخشهایی از جلو و پشت خودرو نیز می باشد.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   92
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book states long vehicles have blind spots in front/rear; the 'see ahead of the truck' part is not stated"
+ },
+ {
+  "id": "q-b2-28",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "در شرایط برف و یخبندان لازم است از تایرهای یخ شکن یا زنجیر چرخ استفاده گردد چراکه در غیر این صورت به دلیل کم بودن اصطکاک تایرها با سطح آسفالت، احتمال سر خوردن و چرخش به اطراف افزایش خواهد یافت.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p021-n19",
+  "bookPage": 84,
+  "confidence": "low",
+  "supportingText": "اگر جاده دو طرفه است باید اطمینان حاصل کرد که مسیر تا فاصله دور و مطمئنی از طرف مقابل خالی از هر گونه وسیله نقلیه بوده و تفاوت سرعت بین وسیله نقلیه روبرو و وسیله نقلیه جلویی برای سبقت کافی باشد.",
+  "bookReference": "روش سبقت گرفتن",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book does not discuss overtaking long trucks or the extra distance/time they require; only general overtaking conditions"
+ },
+ {
+  "id": "q-e11-p022-n14",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "طبیعی است که یک خودروی سنگین، مسافت بیشتری برای توقف نسبت به یک خودروی سبک‌تر نیاز دارد. همچنین توقف در سطوح لغزنده و سرازیری، نیازمند طی زمان و مسافت بیشتری می‌باشد.",
+  "bookReference": "بازدید خودرو - ترمزها",
+  "secondaryPages": [
+   94
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "answer text says «جاده سنگین تر», evidently meaning a heavier vehicle"
+ },
+ {
+  "id": "q-e11-p023-n23",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "در شرایط برف و یخبندان لازم است از تایرهای یخ شکن یا زنجیر چرخ استفاده گردد",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   61
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e16-p033-n18",
+  "bookPage": 79,
+  "confidence": "medium",
+  "supportingText": "کم باد بودن تایر ها هم باعث افزایش مصرف سوخت، فرسایش تایر و همچنین از دست رفتن تعادل، هدایت و فرمان‌پذیری خودرو به هنگام ترمزگیری خواهد شد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   152
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: book attributes tyre wear and loss of balance/steering when braking to UNDER-inflation (کم باد); for over-inflation it says reduced steerability (also p152)"
+ },
+ {
+  "id": "q-e4-p009-n18",
+  "bookPage": 79,
+  "confidence": "medium",
+  "supportingText": "کم باد بودن تایر ها هم باعث افزایش مصرف سوخت، فرسایش تایر و همچنین از دست رفتن تعادل، هدایت و فرمان‌پذیری خودرو به هنگام ترمزگیری خواهد شد.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "answer wording is the book's over-inflation sentence; for under-inflation the book states loss of balance/steerability when braking"
+ },
+ {
+  "id": "q-e5-p011-n22",
+  "bookPage": 79,
+  "confidence": "medium",
+  "supportingText": "تایر هایی که شیار مناسب نداشته باشند در هنگام رانندگی در سطوح خیس یا مرطوب به دلیل عدم وجود اصطکاک مورد نیاز احتمال دارد سُر بخورند.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [
+   151
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "'all of the above': reduced friction and skidding are stated; the tyre-damage option is not"
+ },
+ {
+  "id": "q-e8-p017-n24",
+  "bookPage": 79,
+  "confidence": "high",
+  "supportingText": "عمق شیار تایر ها باید حداقل ۱.۵ میلی متر باشد. تایر هایی که شیار مناسب نداشته باشند در هنگام رانندگی در سطوح خیس یا مرطوب به دلیل عدم وجود اصطکاک مورد نیاز احتمال دارد سُر بخورند.",
+  "bookReference": "بازدید خودرو - تایر ها",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e9-p018-n12",
+  "bookPage": 91,
+  "confidence": "medium",
+  "supportingText": "محدوده نقاط کور خودروهای طویل، علاوه بر چپ و راست، در بخشهایی از جلو و پشت خودرو نیز می باشد.",
+  "bookReference": "نقاط کور",
+  "secondaryPages": [
+   92
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book states long vehicles have blind spots in front/rear; the 'see ahead of the truck' part is not stated"
+ },
+ {
+  "id": "q-ayin1-e05-n30",
+  "bookPage": 182,
+  "confidence": "low",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": "book_conflict: stem says «تمکین»; the book only defines «تخطی از محدودیت‌های سرعتی» = تجاوز به حریم قانونی دیگران (option d); keyed answer b not stated"
+ },
+ {
+  "id": "q-e10-p021-n15",
+  "bookPage": 80,
+  "confidence": "high",
+  "supportingText": "سرعت مطمئنه سرعتی است که رانندگان با توجه به شرایط محیطی، راه، آب و هوا، وضعیت خود و خودروی خود انتخاب می کنند تا بتوانند در شرایط خطر، از وقوع حادثه جلوگیری کنند.",
+  "bookReference": "سرعت",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n13",
+  "bookPage": 80,
+  "confidence": "high",
+  "supportingText": "بازدید مخزن باید زمانی انجام شود که موتور خاموش و سرد است.",
+  "bookReference": "بازدید خودرو - میزان آب رادیاتور و شیشه شور",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-tablo-p034-n007",
+  "bookPage": 80,
+  "confidence": "low",
+  "supportingText": "معمولا میزان سرعت مجاز با نصب تابلوهای محدودیت سرعت در جاده و خیابانها تعیین می گردد ولی گاهی لازم است با توجه به شرایط گفته شده سرعتی پایین تر از سرعت مجاز را انتخاب نمایید.",
+  "bookReference": "سرعت",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book_conflict: the book lists this red-circle number sign as a maximum speed (p35 «سرعت بیش از۵۰ کیلومتر بر ساعت ممنوع»), i.e. option c; keyed answer not stated"
+ },
+ {
+  "id": "q-600-e12-p052-n21",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "صدمات و تلفات در تصادفات با سرعت زیاد بسیار بیشتر است.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e13-p056-n22",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "در سرعتهای بالا زمان واکنش نسبت به خطرات بسیار کاهش می یابد.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e8-p036-n20",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "هنگامی که شعاع دید کم است باید سرعتی کمتر از محدوده سرعت قانونی را انتخاب نمایید.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [
+   83,
+   81
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "non-standard road and low visibility on p82, pedestrians/cyclists on p83, intro sentence on p81"
+ },
+ {
+  "id": "q-600-e9-p040-n20",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "به دلایل مختلف از جمله موارد زیر، رانندگی با سرعت زیاد خطر آفرین است: - صدمات و تلفات در تصادفات با سرعت زیاد بسیار بیشتر است.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e05-n27",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "۱- تابلوهای بازدارنده یا انتظامی: این تابلوهای بیشتر به شکل دایره با نوار حاشیه ای قرمز رنگ مشخص می گردند و نوع ممنوعیت را نشان می دهند.",
+  "bookReference": "انواع تابلوهای راهنمایی و رانندگی - تابلوهای بازدارنده یا انتظامی",
+  "secondaryPages": [
+   33,
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 4 is the plain red-bordered circle («ورود از هر دو طرف ممنوع», p33)"
+ },
+ {
+  "id": "q-ayin1-e07-n11",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "هنگامی که شعاع دید کم است باید سرعتی کمتر از محدوده سرعت قانونی را انتخاب نمایید.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [
+   83,
+   81
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "non-standard road and low visibility on p82, pedestrians/cyclists on p83, intro sentence on p81"
+ },
+ {
+  "id": "q-ayin1-e08-n11",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "به دلایل مختلف از جمله موارد زیر، رانندگی با سرعت زیاد خطر آفرین است: - صدمات و تلفات در تصادفات با سرعت زیاد بسیار بیشتر است.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e13-p026-n18",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "هنگامی که شعاع دید کم است باید سرعتی کمتر از محدوده سرعت قانونی را انتخاب نمایید.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [
+   83,
+   81
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "non-standard road and low visibility on p82, pedestrians/cyclists on p83, intro sentence on p81"
+ },
+ {
+  "id": "q-e17-p035-n05",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "به دلایل مختلف از جمله موارد زیر، رانندگی با سرعت زیاد خطر آفرین است: - صدمات و تلفات در تصادفات با سرعت زیاد بسیار بیشتر است.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n22",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "در سرعتهای بالا زمان واکنش نسبت به خطرات بسیار کاهش می یابد.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e6-p013-n18",
+  "bookPage": 81,
+  "confidence": "high",
+  "supportingText": "صدمات و تلفات در تصادفات با سرعت زیاد بسیار بیشتر است.",
+  "bookReference": "چرا رانندگی با سرعت زیاد خطرآفرین است؟",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e6-p012-n06",
+  "bookPage": 28,
+  "confidence": "high",
+  "supportingText": "۱- تابلوهای بازدارنده یا انتظامی: این تابلوهای بیشتر به شکل دایره با نوار حاشیه ای قرمز رنگ مشخص می گردند و نوع ممنوعیت را نشان می دهند.",
+  "bookReference": "انواع تابلوهای راهنمایی و رانندگی - تابلوهای بازدارنده یا انتظامی",
+  "secondaryPages": [
+   33,
+   21
+  ],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 is the plain red-bordered circle («ورود از هر دو طرف ممنوع», p33)"
+ },
+ {
+  "id": "q-600-e1-p008-n21",
+  "bookPage": 82,
+  "confidence": "medium",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book presents non-standard roads and fog/rain (low visibility) as hazards; lower accident risk in dry weather on a standard road is an inference"
+ },
+ {
+  "id": "q-600-e6-p029-n23",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image matches the book figure on this page (road with potholes and cones)"
+ },
+ {
+  "id": "q-ayin1-e02-n10",
+  "bookPage": 82,
+  "confidence": "medium",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book presents non-standard roads and fog/rain (low visibility) as hazards; lower accident risk in dry weather on a standard road is an inference"
+ },
+ {
+  "id": "q-ayin1-e05-n23",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image matches the book figure on this page (road with potholes and cones)"
+ },
+ {
+  "id": "q-e9-p019-n19",
+  "bookPage": 82,
+  "confidence": "medium",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book presents non-standard roads and fog/rain (low visibility) as hazards; lower accident risk in dry weather on a standard road is an inference"
+ },
+ {
+  "id": "q-visual-e07-p015-n15",
+  "bookPage": 82,
+  "confidence": "high",
+  "supportingText": "زمانی که شرایط جاده استاندارد نیست باید احتیاط نمود. اگر در جاده ای چاله یا دست انداز وجود دارد و یا در سطح جاده شن و خاشاک وجود دارد باید با سرعت کمتر حرکت نمود.",
+  "bookReference": "انتخاب سرعت در رانندگی",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "question image matches the book figure on this page (road with potholes and cones)"
+ },
+ {
+  "id": "q-600-e10-p045-n28",
+  "bookPage": 90,
+  "confidence": "low",
+  "supportingText": "به یاد داشته باشید موتور سواران و دوچرخه سواران تعادل مناسبی نداشته و احتمال واژگونی آنها حتی در اثر باد خودرو وجود خواهد داشت.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+ },
+ {
+  "id": "q-600-e12-p051-n15",
+  "bookPage": 90,
+  "confidence": "low",
+  "supportingText": "به یاد داشته باشید موتور سواران و دوچرخه سواران تعادل مناسبی نداشته و احتمال واژگونی آنها حتی در اثر باد خودرو وجود خواهد داشت.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+ },
+ {
+  "id": "q-600-e8-p036-n16",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e07-n30",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e09-n28",
+  "bookPage": 90,
+  "confidence": "low",
+  "supportingText": "به یاد داشته باشید موتور سواران و دوچرخه سواران تعادل مناسبی نداشته و احتمال واژگونی آنها حتی در اثر باد خودرو وجود خواهد داشت.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+ },
+ {
+  "id": "q-e15-p031-n26",
+  "bookPage": 182,
+  "confidence": "high",
+  "supportingText": "تخطی از محدودیتهای سرعتی در راهها یعنی تجاوز به حریم قانونی دیگران.",
+  "bookReference": "حقوق شهروندی",
+  "secondaryPages": [],
+  "chapterId": 4,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n07",
+  "bookPage": 90,
+  "confidence": "low",
+  "supportingText": "به یاد داشته باشید موتور سواران و دوچرخه سواران تعادل مناسبی نداشته و احتمال واژگونی آنها حتی در اثر باد خودرو وجود خواهد داشت.",
+  "bookReference": "موتورسوران و دوچرخه سواران",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "book urges caution and distance around cyclists (unstable balance); a sudden swerve into the street is not stated"
+ },
+ {
+  "id": "q-600-e14-p058-n06",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "سبقت گرفتن عبارت است از جلو افتادن و یا پیشی گرفتن از اتومبیل دیگری که در همان مسیر حرکت می کند.",
+  "bookReference": "سبقت",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e15-p064-n21",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "ابتدا باید دقت نمود که ممنوعیتی برای گرفتن سبقت وجود نداشته باشد. اگر جاده دو طرفه است باید اطمینان حاصل کرد که مسیر تا فاصله دور و مطمئنی از طرف مقابل خالی از هر گونه وسیله نقلیه بوده",
+  "bookReference": "روش سبقت گرفتن",
+  "secondaryPages": [
+   50
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e7-p032-n20",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "در هیچ شرایطی نباید مانع سبقت گرفتن خودروی در حال سبقت شد.",
+  "bookReference": "سبقت",
+  "secondaryPages": [
+   50
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-ayin1-e06-n11",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "در هیچ شرایطی نباید مانع سبقت گرفتن خودروی در حال سبقت شد.",
+  "bookReference": "سبقت",
+  "secondaryPages": [
+   50
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e10-p020-n12",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "ابتدا باید دقت نمود که ممنوعیتی برای گرفتن سبقت وجود نداشته باشد. اگر جاده دو طرفه است باید اطمینان حاصل کرد که مسیر تا فاصله دور و مطمئنی از طرف مقابل خالی از هر گونه وسیله نقلیه بوده",
+  "bookReference": "روش سبقت گرفتن",
+  "secondaryPages": [
+   50
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e11-p023-n22",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "سبقت گرفتن عبارت است از جلو افتادن و یا پیشی گرفتن از اتومبیل دیگری که در همان مسیر حرکت می کند.",
+  "bookReference": "سبقت",
+  "secondaryPages": [],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-e17-p036-n20",
+  "bookPage": 84,
+  "confidence": "high",
+  "supportingText": "در هیچ شرایطی نباید مانع سبقت گرفتن خودروی در حال سبقت شد.",
+  "bookReference": "سبقت",
+  "secondaryPages": [
+   50
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-visual-e9-p018-n06",
+  "bookPage": 32,
+  "confidence": "high",
+  "supportingText": "جاده دوطرفه",
+  "bookReference": "تابلوهای اخطاری",
+  "secondaryPages": [],
+  "chapterId": 1,
+  "chapterBasis": "page",
+  "note": "option 1 is the warning triangle with two opposing arrows"
+ },
+ {
+  "id": "q-600-e13-p055-n11",
+  "bookPage": 85,
+  "confidence": "high",
+  "supportingText": "رانندگی برای افرادی که نوشابه الکلی و یا مواد مخدر و داروهای خواب اور مصرف نموده اند تا رفع کامل آثار آن ممنوع است.",
+  "bookReference": "مواد مخدر و نوشیدنی های الکلی",
+  "secondaryPages": [
+   59
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e4-p020-n24",
+  "bookPage": 85,
+  "confidence": "high",
+  "supportingText": "رانندگی برای افرادی که نوشابه الکلی و یا مواد مخدر و داروهای خواب اور مصرف نموده اند تا رفع کامل آثار آن ممنوع است.",
+  "bookReference": "مواد مخدر و نوشیدنی های الکلی",
+  "secondaryPages": [
+   59
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": null
+ },
+ {
+  "id": "q-600-e6-p026-n05",
+  "bookPage": 85,
+  "confidence": "high",
+  "supportingText": "الکل به سرعت جذب خون شده و در تمام بدن حرکت می کند و باعث می شود توانایی ذهنی، هوشیاری و دید انسان کاهش یابد.",
+  "bookReference": "تاثیر الکل و مواد مخدر در رانندگی",
+  "secondaryPages": [
+   86
+  ],
+  "chapterId": 2,
+  "chapterBasis": "page",
+  "note": "speed control and concentration listed on p85, recognising dangerous situations on p86"
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "آزمون‌یار — آزمون آیین‌نامه رانندگی",
+  "short_name": "آزمون‌یار",
+  "description": "تمرین سؤال‌های واقعی آزمون آیین‌نامه رانندگی، سطح‌بندی‌شده بر اساس اهمیت، با نکتهٔ آموزشی و منبع کتاب.",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#f6f7fb",
+  "categories": ["education"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

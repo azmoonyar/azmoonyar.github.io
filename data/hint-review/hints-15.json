@@ -1,0 +1,541 @@
+[
+ {
+  "id": "q-600-e7-p032-n20",
+  "hint": "طبق کتاب، در هیچ شرایطی نباید مانع سبقتِ خودروی در حال سبقت شد؛ بلکه باید راه را برایش باز کرد و بر سرعت خود نیفزود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e9-p039-n14",
+  "hint": "کامیون طویل‌تر از سواری است، پس سبقت از آن مسافت و زمان بیشتری می‌برد؛ برای همین مسیر مقابل باید تا فاصله‌ای دور و مطمئن خالی باشد.",
+  "basis": "answer",
+  "note": "Book does not discuss overtaking long trucks; only the clear-oncoming-road condition comes from p.84.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e06-n11",
+  "hint": "تاریکی هوا، باران و برف یا سرعت زیاد سبقت‌گیرنده هیچ‌کدام مجوز بستن راه نیست؛ به خودرویی که سبقت می‌گیرد راه بدهید و سرعتتان را زیاد نکنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e08-n26",
+  "hint": "هرچه خودروی جلویی طولانی‌تر باشد، مدت بیشتری کنار آن هستید تا سبقت تمام شود؛ همین مسافت و زمان اضافه، سبقت از کامیون طویل را پرخطرتر می‌کند.",
+  "basis": "answer",
+  "note": "Book does not discuss overtaking long trucks or the extra distance/time; hint restates the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-e10-p020-n12",
+  "hint": "کتاب می‌گوید پیش از سبقت اول مطمئن شوید سبقت در آن محل ممنوع نیست، سپس ببینید مسیر مقابل تا فاصلهٔ دور و مطمئنی از هر وسیلهٔ نقلیه خالی است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e10-p021-n19",
+  "hint": "سبقت از کشنده و یدک به‌خاطر طول زیادش مسافت و زمان بیشتری می‌گیرد؛ پس فقط وقتی سبقت بگیرید که راه روبرو تا فاصلهٔ دور و مطمئنی خالی است.",
+  "basis": "answer",
+  "note": "Book does not discuss overtaking long trucks; only the clear-oncoming-road condition comes from p.84.",
+  "checked": true
+ },
+ {
+  "id": "q-e11-p023-n22",
+  "hint": "سبقت یعنی جلو افتادن یا پیشی گرفتن از خودرویی که در همان مسیر می‌رود؛ پس فقط خودرویی که سرعتش از خودروی جلویی بیشتر است می‌تواند سبقت بگیرد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e17-p036-n20",
+  "hint": "رانندهٔ خودرویی که از آن سبقت گرفته می‌شود باید راه را باز کند و بر سرعت خود نیفزاید؛ بستن راه سبقت‌گیرنده در هیچ شرایطی مجاز نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p055-n11",
+  "hint": "رانندگی پس از مصرف الکل، مواد مخدر یا داروی خواب‌آور تا رفع کامل آثار آن ممنوع است؛ مسیر کوتاه، داشتن همراه یا سرعت کم استثنا نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e4-p020-n24",
+  "hint": "ملاک، رفع کامل آثار الکل، مواد مخدر یا داروی خواب‌آور است، نه گذشت مدتی مشخص یا شرایط اضطراری؛ تا آن زمان رانندگی ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p026-n05",
+  "hint": "الکل و مواد مخدر توانایی ذهنی، هوشیاری و دید را کم می‌کنند و کنترل سرعت، تمرکز و تشخیص موقعیت‌های خطرناک را هم ناممکن می‌سازند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n11",
+  "hint": "الکل و مواد مخدر بر همهٔ این موارد اثر منفی دارند: هوشیاری و دید کم می‌شود و تمرکز، کنترل سرعت و تشخیص موقعیت خطرناک از دست می‌رود.",
+  "basis": "book",
+  "note": "Stem is garbled («اشکال و سطح معابر»); hint written for the intended alcohol-and-drugs question.",
+  "checked": true
+ },
+ {
+  "id": "q-e12-p025-n18",
+  "hint": "مواد مخدر هم مانند الکل هوشیاری را پایین می‌آورند و به راننده اعتماد به نفس کاذب می‌دهند؛ برای همین تا رفع کامل آثارشان رانندگی ممنوع است.",
+  "basis": "book",
+  "note": "Book gives reduced alertness (drugs act like alcohol); 'false self-confidence' comes from the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-e7-p015-n26",
+  "hint": "الکل سریع جذب خون می‌شود و توانایی ذهنی، هوشیاری و دید را کاهش می‌دهد؛ مواد مخدر هم اثر مشابهی دارند و تمرکز و کنترل سرعت را از بین می‌برند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p016-n14",
+  "hint": "این مواد توانایی ذهنی، هوشیاری و دید را کاهش می‌دهند؛ برای همین تا وقتی آثارشان کاملاً از بین نرفته، حتی در شرایط اضطراری رانندگی ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p036-n21",
+  "hint": "طبق قانون، بستن کمربند برای سرنشینان ردیف جلو و عقب هر دو الزامی است؛ ضمناً افراد زیر ۱۲ سال اصلاً نباید در ردیف جلو بنشینند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e13-p026-n16",
+  "hint": "کمربند فقط مخصوص صندلی جلو نیست؛ قانون بستن آن را برای همهٔ سرنشینان ردیف جلو و عقب الزامی کرده، چون در بیشتر تصادف‌ها جان‌ها را نجات می‌دهد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p031-n08",
+  "hint": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است؛ در تصادف، فرد به احتمال زیاد به بیرون پرتاب می‌شود و خطر صدمه و مرگ بالا می‌رود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e7-p032-n21",
+  "hint": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است. بقیه دقیق نیستند: سبقت از ۵۰ متر مانده به پیچ و ۱۰۰ متر مانده به تونل و پل ممنوع است و برای اتوبوس و کامیون فقط در معابر شهری.",
+  "basis": "book",
+  "note": "Distractor numbers checked against pp.50 and 85.",
+  "checked": true
+ },
+ {
+  "id": "q-e13-p026-n11",
+  "hint": "کتاب می‌گوید «به هیچ عنوان» و حتی برای مسافت خیلی کوتاه در قسمت بار مسافر حمل نکنید؛ پس رعایت ایمنی یا کوتاهی مسیر هم آن را مجاز نمی‌کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e17-p036-n19",
+  "hint": "حمل مسافر در قسمت بار یا صندوق عقب ممنوع است؛ ولی طبق کتاب سبقت از ۵۰ متر (نه ۱۰۰) مانده به پیچ و ۱۰۰ متر (نه ۱۵۰) مانده به تونل و پل ممنوع است.",
+  "basis": "book",
+  "note": "Distractor numbers checked against pp.50 and 85.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p052-n18",
+  "hint": "کتاب «عدم کنترل آگاهانه بر سرعت خودرو» را از علائم خستگی می‌شمارد؛ تمرکز، کنترل خودرو بین خطوط و واکنش مناسب، نشانهٔ هوشیاری‌اند نه خستگی.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p023-n10",
+  "hint": "ممنوعیت تلفن همراه فقط صحبت کردن نیست؛ ارسال پیامک، دیدن تصاویر و هر نوع استفادهٔ دیگر در حین رانندگی هم ممنوع است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e5-p023-n14",
+  "hint": "علامت خستگی، «ناتوانی» در کنترل خودرو بین خطوط است؛ کنترل خودرو و حرکت منظم بین خطوط یعنی راننده هوشیار است، پس جزو علائم خستگی نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e6-p026-n06",
+  "hint": "سنگینی پلک‌ها، نبود کنترل آگاهانه بر سرعت و بی‌تمرکزی و رؤیاپردازی هر سه در فهرست علائم خستگی کتاب‌اند؛ خستگی سرعت واکنش را کم می‌کند نه زیاد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p035-n10",
+  "hint": "علائم خستگی همه منفی‌اند: سنگینی پلک، نداشتن کنترل آگاهانه بر سرعت، بی‌تمرکزی و رؤیاپردازی؛ کنترل خوب یا واکنش سریع‌تر علامت خستگی نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e04-n11",
+  "hint": "نوسان سر و گردن، سنگینی پلک‌ها، رؤیاپردازی، ناتوانی در کنترل بین خطوط و کاهش سرعت واکنش از علائم خستگی‌اند؛ کنترل درست خودرو بین خطوط علامت خستگی نیست.",
+  "basis": "book",
+  "note": "revised after independent check: Labels a partial list as 'the book's list' of fatigue signs; it leaves out lack of conscious speed control (itself the keyed sign in other items), so a learner could think it is not a book sign.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e05-n10",
+  "hint": "خستگی یعنی سنگینی پلک‌ها، از دست رفتن کنترل آگاهانه بر سرعت و بی‌تمرکزی همراه با رؤیاپردازی؛ کنترل آگاهانه یا افزایش سرعت واکنش نشانهٔ خستگی نیست.",
+  "basis": "book",
+  "note": "Options misspell «رؤیاپردازی» as «رویابرداری»; hint uses the correct word.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e07-n24",
+  "hint": "خستگی هوشیاری را کم می‌کند؛ پس علائمش سنگینی پلک‌ها، کنترل نکردن آگاهانهٔ سرعت و بی‌تمرکزی و رؤیاپردازی است، نه کنترل بهتر یا واکنش سریع‌تر.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e3-p007-n28",
+  "hint": "احساس سنگینی پلک‌ها، نبود کنترل آگاهانه بر سرعت و بی‌تمرکزی از علائم خستگی‌اند؛ اگر هر یک را حس کردید، در نقطه‌ای امن توقف و استراحت کنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p017-n17",
+  "hint": "هر نوع استفاده از تلفن همراه، از صحبت تا پیامک و دیدن تصاویر، ممنوع است؛ چون ذهن راننده را منحرف می‌کند و راننده باید همیشه کاملاً به جلو توجه کند.",
+  "basis": "book",
+  "note": "Distraction/attention wording from p.59.",
+  "checked": true
+ },
+ {
+  "id": "q-e8-p017-n26",
+  "hint": "خستگی سطح هوشیاری را پایین می‌آورد و سرعت واکنش در برابر خطر را کم می‌کند؛ حتی ممکن است ۳ تا ۵ ثانیه هوشیاری را از دست بدهید و به خواب بروید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e9-p018-n13",
+  "hint": "به کلمهٔ «عدم» دقت کنید: علامت خستگی، ناتوانی در کنترل خودرو بین خطوط است؛ خودِ کنترل خودرو و حرکت بین خطوط، رفتار عادی رانندهٔ هوشیار است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p010-n06",
+  "hint": "عابران بیشتر در خط‌کشی عابر، تقاطع‌ها، بین خودروهای پارک‌شده، نزدیک مدارس و محل بازی کودکان و مراکز خرید عبور می‌کنند؛ بزرگراه جزو این فهرست نیست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p015-n10",
+  "hint": "موتورسواران و دوچرخه‌سواران نسبت به خودروها ایمنی کمتری دارند؛ پس مراقبشان باشید و با فاصله و سرعت مناسب و ایمن از کنارشان بگذرید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e01-n10",
+  "hint": "کتاب تأکید می‌کند موتورسواران و دوچرخه‌سواران از خودروها ایمنی کمتری دارند و تعادلشان هم کم است؛ حتی باد خودرو ممکن است واژگونشان کند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e12-p024-n09",
+  "hint": "موتورسیکلت و دوچرخه نسبت به خودروها ایمنی کمتری دارند؛ آن‌ها هم حق برابر در استفاده از راه دارند، پس با فاصله و سرعت ایمن از کنارشان بگذرید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e14-p028-n12",
+  "hint": "در کتاب، خط‌کشی عابر، نزدیکی مدارس و فضای بازی کودکان و مراکز تجمع مثل مراکز خرید از محل‌های پرعبور عابران‌اند؛ بزرگراه و آزادراه در این فهرست نیستند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e10-p045-n28",
+  "hint": "دوچرخه‌سوار تعادل مناسبی ندارد و ممکن است ناگهان به داخل خیابان منحرف شود؛ پس رانندهٔ پشت سر باید با فاصله و سرعت ایمن از کنارش بگذرد.",
+  "basis": "answer",
+  "note": "Book covers cyclists' poor balance and passing at a safe distance/speed (pp.89-90), but not a sudden swerve into the street.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e12-p051-n15",
+  "hint": "دوچرخه‌سوار ممکن است بی‌خبر به داخل خیابان منحرف شود و تعادلش هم کم است؛ پس فضای کافی به او بدهید و از فاصلهٔ خیلی نزدیک از کنارش عبور نکنید.",
+  "basis": "answer",
+  "note": "Book covers cyclists' poor balance and giving them room (pp.83, 90), but not a sudden swerve into the street.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p079-n10",
+  "hint": "ضربدر قرمز یعنی این گردش نادرست است: خودرو جلوی موتورسوارِ کنارش پیچیده؛ هنگام گردش همیشه فضای کافی برای موتورسواران در نظر بگیرید.",
+  "basis": "book",
+  "note": "Picture checked: car turning across a motorcyclist with a red X, as in the p.90 figure.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e8-p035-n09",
+  "hint": "در تصویر، خودرو هنگام گردش مسیر موتورسوار کنار خود را بسته و ضربدر قرمز خطا را نشان می‌دهد؛ موتورسوار هم حق برابر از راه دارد، پس برایش جا بگذارید.",
+  "basis": "book",
+  "note": "Picture checked: car turning across a motorcyclist with a red X.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e09-n28",
+  "hint": "بزرگ‌ترین خطر، انحراف ناگهانی دوچرخه‌سوار به داخل خیابان است؛ کتاب هم می‌گوید تعادل دوچرخه‌سواران کم است و حتی باد خودرو ممکن است واژگونشان کند.",
+  "basis": "answer",
+  "note": "Book covers cyclists' poor balance (p.90), but not a sudden swerve into the street.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n11",
+  "hint": "ضربدر قرمز نشان می‌دهد پیچیدن جلوی موتورسوارِ کنار خودرو نادرست است؛ هنگام گردش مراقب موتورسواران باشید و فضای کافی برایشان در نظر بگیرید.",
+  "basis": "book",
+  "note": "revised after independent check: Second clause (motorcyclists suddenly appearing from beside other cars) comes from a different p.90 figure and closely matches the wrong option 'motorcycles are sometimes in blind spots', so it can seem to support that distractor; the picture is only about turning across the motorcyclist.",
+  "checked": true
+ },
+ {
+  "id": "q-visual-e9-p018-n07",
+  "hint": "دوچرخه‌سوار هر لحظه ممکن است به داخل خیابان منحرف شود؛ رانندهٔ پشت سر باید فضای مناسب عبور به او بدهد و با سرعت و فاصلهٔ ایمن حرکت کند.",
+  "basis": "answer",
+  "note": "Book covers giving cyclists room and passing at a safe distance/speed (pp.83, 89), but not a sudden swerve into the street.",
+  "checked": true
+ },
+ {
+  "id": "q-5f1301a7",
+  "hint": "ناحیهٔ سایه‌دار کنار خودرو نقطهٔ کور راننده است و موتورسوار درست در آن قرار دارد؛ موتور و دوچرخه به‌خاطر ابعاد کوچک راحت در نقطهٔ کور جا می‌گیرند.",
+  "basis": "book",
+  "note": "Picture checked: motorcyclist inside the grey shaded blind-spot zone beside the car.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p049-n26",
+  "hint": "نقاط کور خودروی طویل علاوه بر چپ و راست، بخشی از جلو و پشت آن را هم می‌گیرد؛ با حفظ فاصله، در نقطهٔ کور کامیون نیستید و جلوی آن را بهتر می‌بینید.",
+  "basis": "book",
+  "note": "Book gives long-vehicle front/rear blind spots (p.91); the 'view ahead of the truck' part comes from the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p060-n23",
+  "hint": "ناحیهٔ خاکستری با مرز خط‌چین، نقطهٔ کور خودروست و موتورسوار داخل آن است؛ پس هنگام گردش و حتی در مسیر مستقیم مراقب موتورسواران در نقاط کور باشید.",
+  "basis": "book",
+  "note": "Picture checked: grey dashed blind-spot zone with the motorcyclist inside.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p061-n25",
+  "hint": "اگر پشت کامیون طویل نزدیک شوید، هم در نقطهٔ کور پشت آن قرار می‌گیرید و هم از وضعیت جلوی کامیون بی‌خبر می‌مانید؛ حفظ فاصله هر دو مشکل را رفع می‌کند.",
+  "basis": "book",
+  "note": "Book gives long-vehicle front/rear blind spots (p.91); the 'view ahead of the truck' part comes from the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e16-p068-n22",
+  "hint": "کتاب می‌گوید همهٔ وسایل نقلیه، حتی موتورسیکلت‌ها، نقطهٔ کور دارند و تنظیم آینه‌ها فقط آن را کم می‌کند؛ پس ادعای «موتورسیکلت نقطهٔ کور ندارد» نادرست است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e19-p080-n21",
+  "hint": "با تنظیم دقیق آینه‌ها می‌توان نقاط کور را کاهش داد، ولی هرگز کاملاً حذف نمی‌شوند؛ پس همیشه مراقب کاربران راه در نقاط کور باشید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e3-p017-n23",
+  "hint": "موتورسیکلت به‌خاطر ابعاد کوچک به‌راحتی در نقطهٔ کور خودرو (ناحیهٔ سایه‌دار تصویر) جا می‌گیرد؛ تنظیم آینه‌ها نقطهٔ کور را کم می‌کند ولی حذف نمی‌کند.",
+  "basis": "book",
+  "note": "Picture checked: motorcyclist inside the grey shaded blind-spot zone beside the car.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e11-n26",
+  "hint": "حفظ فاصله با کامیون طویل دو فایده دارد: بیرون از نقطهٔ کور پشت آن می‌مانید و جلوی کامیون را می‌بینید؛ نقاط کور خودروی طویل جلو و پشت را هم می‌گیرد.",
+  "basis": "book",
+  "note": "Book gives long-vehicle front/rear blind spots (p.91); the 'view ahead of the truck' part comes from the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-e11-p022-n13",
+  "hint": "پاسخ نمونه‌آزمون‌ها این جمله را به معنای «موتورسیکلت نقطهٔ کور ندارد» نادرست دانسته، هرچند با نفی دوگانه در ظاهر درست است؛ کتاب می‌گوید حتی موتورسیکلت‌ها نقطهٔ کور دارند.",
+  "basis": "book_conflict",
+  "note": "Keyed option is a double negative that literally agrees with p.91; the intended claim (motorcycles have no blind spot) is what the book refutes.",
+  "checked": true
+ },
+ {
+  "id": "q-e12-p024-n11",
+  "hint": "کتاب می‌گوید با تنظیم دقیق آینه‌ها میزان نقاط کور کم می‌شود، ولی این نقاط همیشه وجود دارند و باید در رانندگی مراقبشان بود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e9-p018-n12",
+  "hint": "نزدیک شدن به کامیون طویل یعنی ماندن در نقطهٔ کور پشت آن و ندیدن جلویش؛ با فاصله گرفتن، هم جلوی کامیون را می‌بینید و هم بیرون از نقطهٔ کور آن هستید.",
+  "basis": "book",
+  "note": "Book gives long-vehicle front/rear blind spots (p.91); the 'view ahead of the truck' part comes from the keyed answer.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e1-p006-n07",
+  "hint": "فاصلهٔ طولی ایمن باعث می‌شود در مواقع ضروری بدون برخورد توقف کنید؛ پس در ترافیک فشرده فاصلهٔ خود را با خودروی جلویی بیشتر کنید.",
+  "basis": "book",
+  "note": "Safe following distance from p.92; dense-traffic crash risk from the p.165 photo caption.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p048-n23",
+  "hint": "نواحی قرمز دور کامیون، نقاط کور راننده‌اند؛ در خودروهای سنگین و طویل این نقاط علاوه بر چپ و راست، بخشی از جلو و پشت خودرو را هم می‌پوشانند.",
+  "basis": "book",
+  "note": "Picture checked: red zones in front of, behind and beside the truck.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e14-p061-n27",
+  "hint": "روش ۲ ثانیه برای تخمین فاصله با خودروی جلویی است: وقتی آن خودرو از یک نقطهٔ ثابت مثل درخت یا تابلو گذشت، بشمارید «هزار و یک، هزار و دو».",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e17-p070-n07",
+  "hint": "هنگام دنده عقب، خودتان به فضای پشت نگاه کنید، میدان دید عقب را کنترل کنید و آرام حرکت کنید؛ چون راننده پشت سرش را کامل نمی‌بیند.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p010-n05",
+  "hint": "راننده نمی‌تواند پشت سرش را درست و کامل ببیند؛ برای همین خطر تصادف در دنده عقب بیشتر است و بهتر است تا حد امکان از آن پرهیز کنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e2-p013-n24",
+  "hint": "قانون ۲ ثانیه برای سنجیدن فاصلهٔ طولی ایمن با خودروی جلویی است تا اگر ناگهان ایستاد، بتوانید به‌موقع توقف کنید و تصادف نکنید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-visual-e1-p006-n08",
+  "hint": "نواحی زردرنگ دور کامیون نقاط کور راننده‌اند؛ در خودروهای طویل این نقاط علاوه بر چپ و راست، بخش‌هایی از جلو و پشت خودرو را هم شامل می‌شوند.",
+  "basis": "book",
+  "note": "Picture checked: this version draws the blind-spot zones in yellow (the book figure uses red).",
+  "checked": true
+ },
+ {
+  "id": "q-8f8f6787",
+  "hint": "کتاب کم بودن فاصلهٔ طولی در ترافیک را عامل خطر تصادف می‌داند؛ با افزایش فاصله از خودروی جلویی، در توقف ناگهانی آن بدون برخورد می‌ایستید.",
+  "basis": "book",
+  "note": "Safe following distance from p.92; dense-traffic crash risk from the p.165 photo caption.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e02-n23",
+  "hint": "در این شکل، محدوده‌های قرمز جلو، پشت و دو طرف کامیون نقاط کور راننده را نشان می‌دهند؛ نقاط کور خودروی طویل فقط به چپ و راست محدود نیست.",
+  "basis": "book",
+  "note": "Picture checked: red zones around the truck.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e02-n24",
+  "hint": "اغلب تصادف‌ها کار رانندگانی است که فاصلهٔ طولی ایمن را رعایت نمی‌کنند؛ در ترافیک فشرده فاصله را زیاد کنید تا در مواقع ضروری بدون برخورد بایستید.",
+  "basis": "book",
+  "note": "Safe following distance from p.92; dense-traffic crash risk from the p.165 photo caption.",
+  "checked": true
+ },
+ {
+  "id": "q-ayin1-e03-n24",
+  "hint": "برای تخمین فاصله با خودروی جلویی، یک نقطهٔ ثابت جلوتر انتخاب کنید و از لحظهٔ عبور آن خودرو دو ثانیه بشمارید؛ این روش از روش یک طول خودرو پرکاربردتر است.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e10-p020-n14",
+  "hint": "راننده موظف است همیشه کاملاً به جلو توجه کند و فاصلهٔ طولی ایمن را نگه دارد؛ کتاب می‌گوید بیشتر تصادف‌ها از رعایت نکردن همین فاصله رخ می‌دهد.",
+  "basis": "book",
+  "note": "Following-distance cause from p.92; the attention-to-the-front duty from p.59.",
+  "checked": true
+ },
+ {
+  "id": "q-e10-p021-n26",
+  "hint": "خطر دنده عقب از این است که راننده پشت سر را درست و کامل نمی‌بیند؛ پس تا حد امکان از آن پرهیز کنید و اگر پارک می‌کنید، با سر پارک کنید.",
+  "basis": "book",
+  "note": "revised after independent check: Over-general claim: the hint states flatly that reversing is not prohibited («دنده عقب ممنوع نیست»), but the book prohibits reversing on freeways (p107) and lists reversing on freeways/expressways as an offence (p71). The rest (reason = poor rear view, avoid it, park nose-in) is correct per p92.",
+  "checked": true
+ },
+ {
+  "id": "q-e16-p032-n10",
+  "hint": "مشکل اصلی دنده عقب، دید ناقص راننده به پشت خودروست؛ پس قبل از حرکت پشت خودرو را کامل و دقیق بررسی کنید و آهسته عقب بروید.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p017-n18",
+  "hint": "طبق کتاب، پیش از دنده عقب باید پشت خودرو را کامل بررسی کرد؛ سپس با نگاه به فضای پشت و کنترل میدان دید عقب، آرام به عقب رفت.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-e8-p017-n28",
+  "hint": "در کتاب، روش ۲ ثانیه زمان برای تعیین و تخمین فاصلهٔ طولی با خودروی جلویی آمده است؛ فاصلهٔ ایمن به شرایط جاده، سرعت و ترافیک هم بستگی دارد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-visual-e6-p012-n07",
+  "hint": "نواحی قرمز شکل، نقاط کور کامیون‌اند که علاوه بر چپ و راست، بخش‌هایی از جلو و پشت آن را هم می‌پوشانند؛ حتی با تنظیم آینه، این نقاط از بین نمی‌روند.",
+  "basis": "book",
+  "note": "Picture checked: red zones around the truck.",
+  "checked": true
+ },
+ {
+  "id": "q-e15-p031-n20",
+  "hint": "پاسخ نمونه‌آزمون‌ها «۵» طول خودرو است، ولی جدول کتاب برای جادهٔ برفی در سرعت ۴۵ کیلومتر، فاصلهٔ ۹ طول خودرو را ذکر کرده است.",
+  "basis": "book_conflict",
+  "note": "p.93 table: snow at 45 km/h = 9 car lengths; 5 is the dry-road value at 75 km/h.",
+  "checked": true
+ },
+ {
+  "id": "q-600-e11-p046-n06",
+  "hint": "مجموع مسافتِ طی‌شده در زمان واکنش و مسافت ترمز، «مسافت توقف» نام دارد؛ مسافت ترمز فقط از لحظهٔ ترمز تا ایستادن خودروست.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e13-p056-n23",
+  "hint": "طبق کتاب، در جاده‌هایی که آسفالت شرایط مطلوبی ندارد یا آغشته به قیر است، و نیز در هوای بد، مسافت توقف افزایش می‌یابد.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ },
+ {
+  "id": "q-600-e18-p077-n25",
+  "hint": "کتاب سه عامل را برای زمان توقف خودرو نام می‌برد: زمان واکنش، مسافت ترمز و مسافت توقف، یعنی مجموع مسافت ترمز و مسافتی که در زمان واکنش طی می‌شود.",
+  "basis": "book",
+  "note": null,
+  "checked": true
+ }
+]
