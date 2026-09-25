@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T14:31:22.092Z",
+ "generatedAt": "2026-09-25T16:15:55.424Z",
  "status": "pass",
  "summary": {
   "totalQuestions": 1539,
@@ -74,12 +74,13 @@
    "status": "pass",
    "failures": 0,
    "examples": [],
-   "documentedImageCorrections": [
+   "documentedCorrections": [
     "q-600-e7-p033-n30",
     "q-ayin1-e12-n01",
     "q-ayin1-e13-n01",
     "q-ayin1-e13-n24",
     "q-b2-16",
+    "q-ayin1-e03-n06",
     "q-tablo-p075-n152",
     "q-tablo-p081-n174",
     "q-tablo-p091-n213",
@@ -94,8 +95,8 @@
    ]
   },
   {
-   "id": "bank.correctionsOnlyImages",
-   "description": "documented corrections change nothing but the image file",
+   "id": "bank.correctionsDocumented",
+   "description": "documented corrections change only the image or mistyped option text, with evidence and the previous value",
    "status": "pass",
    "failures": 0,
    "examples": []

@@ -269,10 +269,15 @@ const withStudyMetadata = (question) => {
   };
 };
 
-/** Applies the documented image corrections (data/question-corrections.js); nothing else may change. */
+/** Applies the documented corrections (data/question-corrections.js): the image, or mistyped option text. */
 const withCorrections = (question) => {
   const correction = questionCorrections[question.id];
-  return correction ? { ...question, image: correction.image } : question;
+  if (!correction) return question;
+  const corrected = "image" in correction ? { ...question, image: correction.image } : { ...question };
+  if (correction.optionText) {
+    corrected.options = question.options.map((option) => (option.id in correction.optionText ? { ...option, text: correction.optionText[option.id] } : option));
+  }
+  return corrected;
 };
 
 /** Questions removed at the owner's request (data/question-removals.js) are left out; nothing else is dropped. */

@@ -1,8 +1,9 @@
 // Documented, evidence-backed corrections applied after merging duplicates (see questions.js).
-// Only the `image` field may be corrected here (swapped, removed or added); question text,
-// options, answer key and sources are never changed. Each entry keeps the value it replaces
-// in `previousImage`, so scripts/tiering/validate_study_bank.mjs can prove that nothing else
-// differs from the pre-change baseline (data/question-bank-baseline.json).
+// Two kinds only: the `image` (swapped, removed or added), and `optionText` where the
+// transcription differs from the source page (a mistyped option). The answer key, question
+// wording and sources are never changed. Each entry keeps the value it replaces
+// (`previousImage` / `previousOptionText`), so scripts/tiering/validate_study_bank.mjs can prove
+// that nothing else differs from the pre-change baseline (data/question-bank-baseline.json).
 
 const asset = (file, alt) => ({ src: `./assets/questions/${file}`, alt });
 const TABLO_ALT = "تصویر تابلوی مربوط به سؤال";
@@ -53,6 +54,15 @@ export const questionCorrections = {
     previousImage: null,
     reason: "The question says «در این شکل» but had no picture; the source prints the parking figure in the question cell.",
     evidence: ["4_5888983329180487891-1.pdf page 4, question 16: figure of a car parking between two parked cars"],
+  },
+  "q-ayin1-e03-n06": {
+    optionText: { b: "خروجی از آزادراه ۱۰۰ متر", d: "خروجی از آزادراه ۲۰۰ متر" },
+    previousOptionText: { b: "خروجی از آزادراه ۱۰۰۰ متر", d: "خروجی از آزادراه ۲۰۰۰ متر" },
+    reason: "Transcription error reported by the project owner: both freeway-exit options had an extra zero. The source page prints ۱۰۰ and ۲۰۰ متر; the pictured sign reads 200 m.",
+    evidence: [
+      "ایین نامه-1.pdf page 8, exam 3, question 6: option ۲ «خروجی از آزادراه ۱۰۰ متر», option ۴ «خروجی از آزادراه ۲۰۰ متر» (green check)",
+      "main book p41: «خروجی از آزاد راه ۲۰۰ متر»",
+    ],
   },
   ...Object.fromEntries(Object.entries(textOnlyTabloQuestions).map(([id, [file, evidence]]) => [id, {
     image: null,

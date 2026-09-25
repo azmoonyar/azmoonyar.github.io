@@ -29,7 +29,6 @@ SOURCE_TEXT_ISSUES = {
     "q-e7-p015-n29": "keyed option «پیش نگه داشتن» looks like «روشن نگه داشتن»",
     "q-e11-p023-n26": "option «سیم های فنری» vs the book's «سیمهای فلزی»",
     "q-600-e9-p038-n08": "answer «فاصله اولیه» is evidently «فاصله طولی»",
-    "q-ayin1-e03-n06": "answer text reads ۲۰۰۰ متر but the pictured sign shows 200 m",
     "q-600-e1-p007-n11": "key says «جسم خیلی قابل اشتعال»; the book says «جسم غیر قابل اشتعال»",
 }
 
@@ -80,6 +79,7 @@ def main(bank_path):
         "lowConfidenceReferences": low,
         "resolvedDuringThisPass": {
             "imageCorrections": "data/question-corrections.js (4 pictures whose option order contradicted the key, 1 missing picture added, 11 unrelated pictures removed from text-only tablo.pdf questions)",
+            "textCorrections": "data/question-corrections.js (q-ayin1-e03-n06: the transcription read ۱۰۰۰ / ۲۰۰۰ متر where the source page prints ۱۰۰ / ۲۰۰ متر)",
             "assetRepairs": "data/asset-fix-report.json",
             "removedQuestions": f"data/question-removals.js ({', '.join(sorted(removed_question_ids())) or 'none'}; removed at the owner's request, with the reason)",
         },

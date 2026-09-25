@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-25T06:38:57+00:00",
+ "generatedAt": "2026-09-25T16:15:53+00:00",
  "policy": "Nothing listed here was changed. Answer keys and wording stay as extracted from the sample PDFs; a human should decide each case against the source PDF and the book.",
  "counts": {
   "answerKeyConflictsWithBook": 31,
   "sameFigureDifferentKeys": 3,
-  "sourceTextIssues": 9,
+  "sourceTextIssues": 8,
   "referenceNotFound": 0,
   "lowConfidenceReferences": 38
  },
@@ -527,17 +527,6 @@
    "issue": "answer «فاصله اولیه» is evidently «فاصله طولی»"
   },
   {
-   "id": "q-ayin1-e03-n06",
-   "question": "این تابلو بیانگر چیست؟",
-   "keyedAnswer": "d) خروجی از آزادراه ۲۰۰۰ متر",
-   "sources": [
-    "ایین نامه-1.pdf p8 q6"
-   ],
-   "bookPage": 41,
-   "referenceConfidence": "medium",
-   "issue": "answer text reads ۲۰۰۰ متر but the pictured sign shows 200 m"
-  },
-  {
    "id": "q-600-e1-p007-n11",
    "question": "در خصوص آتش سوزی خودرو انجام کدام یک از موارد زیر صحیح تر می باشد؟",
    "keyedAnswer": "c) در صورت وجود کپسول آتش نشانی با استفاده از آن آتش را خاموش نموده و در صورت عدم وجود کپسول آتش نشانی با پتو یا جسم خیلی قابل اشتعال شعله ور را خفه کنید.",
@@ -981,6 +970,7 @@
  ],
  "resolvedDuringThisPass": {
   "imageCorrections": "data/question-corrections.js (4 pictures whose option order contradicted the key, 1 missing picture added, 11 unrelated pictures removed from text-only tablo.pdf questions)",
+  "textCorrections": "data/question-corrections.js (q-ayin1-e03-n06: the transcription read ۱۰۰۰ / ۲۰۰۰ متر where the source page prints ۱۰۰ / ۲۰۰ متر)",
   "assetRepairs": "data/asset-fix-report.json",
   "removedQuestions": "data/question-removals.js (q-tablo-p085-n189; removed at the owner's request, with the reason)"
  }

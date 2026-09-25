@@ -54,16 +54,26 @@ check("bank.removalsDocumented", "each documented removal is a baseline question
 // image must reproduce the baseline exactly (so text, options, key and sources are untouched).
 const asBaseline = (question) => {
   const correction = questionCorrections[question.id];
-  return correction ? { ...question, image: correction.previousImage } : question;
+  if (!correction) return question;
+  const restored = "previousImage" in correction ? { ...question, image: correction.previousImage } : { ...question };
+  if (correction.previousOptionText) {
+    restored.options = question.options.map((option) => (option.id in correction.previousOptionText ? { ...option, text: correction.previousOptionText[option.id] } : option));
+  }
+  return restored;
 };
 check("bank.contentUnchanged", "text, options, correct answer, image and provenance unchanged (SHA-256 vs baseline)",
   questionBank.filter((question) => baseline.questions[question.id] && baseline.questions[question.id] !== contentHash(asBaseline(question))).map((question) => question.id),
-  { documentedImageCorrections: Object.keys(questionCorrections) });
-check("bank.correctionsOnlyImages", "documented corrections change nothing but the image file",
+  { documentedCorrections: Object.keys(questionCorrections) });
+check("bank.correctionsDocumented", "documented corrections change only the image or mistyped option text, with evidence and the previous value",
   Object.entries(questionCorrections).filter(([id, correction]) => {
     const question = questionBank.find((item) => item.id === id);
-    const imageOk = correction.image === null ? question?.image === null : question?.image?.src === correction.image.src && fs.existsSync(path.join(root, correction.image.src));
-    return !question || !imageOk || !correction.evidence?.length || !("previousImage" in correction);
+    if (!question || !correction.evidence?.length || !("image" in correction || correction.optionText)) return true;
+    const imageOk = !("image" in correction) || ("previousImage" in correction && (correction.image === null
+      ? question.image === null
+      : question.image?.src === correction.image.src && fs.existsSync(path.join(root, correction.image.src))));
+    const textOk = !correction.optionText || Object.entries(correction.optionText).every(([optionId, text]) =>
+      optionId in (correction.previousOptionText ?? {}) && question.options.find((option) => option.id === optionId)?.text === text);
+    return !imageOk || !textOk;
   }).map(([id]) => id));
 check("bank.answersValid", "correctOptionId is one of the four options",
   questionBank.filter((question) => question.options.length !== 4 || !question.options.some((option) => option.id === question.correctOptionId)).map((q) => q.id));

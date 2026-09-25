@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-25T06:38:55+00:00",
+ "generatedAt": "2026-09-25T16:15:51+00:00",
  "method": "Lexical candidate retrieval over the visual transcription of main book.pdf, then per-question review of the candidates and the full transcription; links were mechanically validated (page range, verbatim excerpt, chapter range). No local OCR.",
  "pageNumbering": "bookPage is the printed page number; bookPdfPage = bookPage + 2 (PDF pages 1-2 are cover/advertisement).",
  "summary": {
