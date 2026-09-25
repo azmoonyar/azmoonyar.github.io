@@ -132,8 +132,9 @@
   },
   "repository": {
    "status": "complete",
-   "remote": "https://github.com/MahdiGraph/azmoonyar (public)",
-   "notes": "2026-09-25: published to GitHub. Not in the repository (gitignored, kept on this computer): pdf's/ (sample exams, textbook), data/book-pages.json (full textbook transcription, copyrighted), tmp/ (renders, originals, review batches). Scripts are grouped: scripts/tiering (study pipeline), scripts/assets (picture repairs), scripts/extraction (one-off bank extraction), plus the web-app and brand scripts (scripts/README.md). validate_study_bank.mjs runs in a fresh clone; only its verbatim-excerpt check needs the local transcription."
+   "remote": "https://github.com/azmoonyar/azmoonyar.github.io (public; moved from MahdiGraph/azmoonyar on 2026-09-25)",
+   "notes": "2026-09-25: published to GitHub. Not in the repository (gitignored, kept on this computer): pdf's/ (sample exams, textbook), data/book-pages.json (full textbook transcription, copyrighted), tmp/ (renders, originals, review batches). Scripts are grouped: scripts/tiering (study pipeline), scripts/assets (picture repairs), scripts/extraction (one-off bank extraction), plus the web-app and brand scripts (scripts/README.md). validate_study_bank.mjs runs in a fresh clone; only its verbatim-excerpt check needs the local transcription.",
+   "site": "https://azmoonyar.github.io/ (GitHub Pages, main branch, repository root)"
   }
  },
  "resume": "Rebuild after any change: node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/merge_references.py BANK.json data/book-reference-review && python3 scripts/tiering/build_metadata.py BANK.json && node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/build_manual_review.py BANK.json && python3 scripts/tiering/merge_hints.py BANK.json data/hint-review && node scripts/tiering/validate_study_bank.mjs  (bump the hints import version in app.js and app.js?v= in index.html when question-hints.js changes)"

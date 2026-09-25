@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahdigraph.github.io/azmoonyar/sitemap.xml
+Sitemap: https://azmoonyar.github.io/sitemap.xml
