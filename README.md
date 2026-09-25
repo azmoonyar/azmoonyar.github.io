@@ -31,9 +31,11 @@ python3 -m http.server 8765
 ## انتشار روی GitHub Pages
 
 در تنظیمات مخزن: **Settings → Pages → Deploy from a branch** و شاخهٔ `main` با پوشهٔ `/ (root)`.
-برنامه روی `https://mahdigraph.github.io/azmoonyar/` باز می‌شود. چون این آدرس HTTPS است، نصب روی گوشی و اجرای بدون اینترنت هم کار می‌کند.
+برنامه روی [mahdigraph.github.io/azmoonyar](https://mahdigraph.github.io/azmoonyar/) باز می‌شود. چون این آدرس HTTPS است، نصب روی گوشی و اجرای بدون اینترنت هم کار می‌کند.
 
 ## ساختار پروژه
+
+<div dir="rtl">
 
 | مسیر | محتوا |
 |---|---|
@@ -45,6 +47,8 @@ python3 -m http.server 8765
 | `manifest.json`، `sw.js`، `pwa.js`، `icons/` | وب‌اپ قابل نصب و کار بدون اینترنت |
 | `branding/` | لوگو و تصویر معرفی مخزن |
 | `scripts/` | بررسی‌ها، ساخت لوگو و داده‌های مطالعه، ترمیم تصویرها و اسکریپت‌های استخراج ([راهنما](scripts/README.md)) |
+
+</div>
 
 ## بررسی‌ها
 
