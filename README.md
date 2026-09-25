@@ -30,7 +30,7 @@ python3 -m http.server 8765
 
 ## انتشار روی GitHub Pages
 
-در تنظیمات مخزن: **Settings → Pages → Deploy from a branch** و شاخهٔ `main` با پوشهٔ `/ (root)`.
+در تنظیمات مخزن: **Settings → Pages → Deploy from a branch**، شاخهٔ `main` و پوشهٔ ریشه (`root`).
 برنامه روی [mahdigraph.github.io/azmoonyar](https://mahdigraph.github.io/azmoonyar/) باز می‌شود. چون این آدرس HTTPS است، نصب روی گوشی و اجرای بدون اینترنت هم کار می‌کند.
 
 ## ساختار پروژه
@@ -44,9 +44,9 @@ python3 -m http.server 8765
 | `exam-builder.js` | ساخت آزمون از سطح‌ها و شبیه‌سازی آزمون اصلی |
 | `data/question-metadata.js`، `data/question-hints.js` | سطح، منبع کتاب و نکتهٔ آموزشی هر سؤال (ساخته‌شده با اسکریپت) |
 | `data/manual-review.json` | مواردی که تصمیمش با انسان است، مثل ناهمخوانی کلید با کتاب |
-| `manifest.json`، `sw.js`، `pwa.js`، `icons/` | وب‌اپ قابل نصب و کار بدون اینترنت |
-| `branding/` | لوگو و تصویر معرفی مخزن |
-| `scripts/` | بررسی‌ها، ساخت لوگو و داده‌های مطالعه، ترمیم تصویرها و اسکریپت‌های استخراج ([راهنما](scripts/README.md)) |
+| `manifest.json`، `sw.js`، `pwa.js`، پوشهٔ `icons` | وب‌اپ قابل نصب و کار بدون اینترنت |
+| پوشهٔ `branding` | لوگو و تصویر معرفی مخزن |
+| پوشهٔ `scripts` | بررسی‌ها، ساخت لوگو و داده‌های مطالعه، ترمیم تصویرها و اسکریپت‌های استخراج ([راهنما](scripts/README.md)) |
 
 </div>
 
