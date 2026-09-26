@@ -126,3 +126,7 @@ body { padding-right: env(safe-area-inset-right); padding-left: env(safe-area-in
 }
 .site-footer a { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); font-weight: 700; text-decoration: none; }
 .site-footer a:hover { color: var(--primary); }
+
+/* Figures taken from the textbook are sharp enough to show larger than the old exam crops (smaller pictures keep their size). */
+.question-image img { max-height: 300px; }
+@media (max-width: 530px) { .question-image img { max-height: 260px; } }

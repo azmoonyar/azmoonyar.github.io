@@ -1,0 +1,2983 @@
+{
+ "description": "Textbook figures that replace small or blurry question pictures cut from the sample exams (owner's request, 2026-09-25). Each box was chosen and checked visually (no OCR); the question keeps its text, options and key. Boxes are pixels of the book page rendered 3000 px tall; bookPage is the printed page (PDF page - 2).",
+ "renderHeight": 3000,
+ "figures": [
+  {
+   "file": "q-book-p012-1.png",
+   "bookPage": 12,
+   "box": [
+    452,
+    1436,
+    1630,
+    1662
+   ],
+   "replaces": [
+    "q-src-600-driveing-p046-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e11-p046-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p046-n08.png",
+      "alt": "نشان خودروی طویل"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p015-1.png",
+   "bookPage": 15,
+   "box": [
+    388,
+    863,
+    636,
+    1436
+   ],
+   "replaces": [
+    "q-src-600-driveing-p022-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e5-p022-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p022-n07.png",
+      "alt": "علامت دست عمودی پلیس"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p015-2.png",
+   "bookPage": 15,
+   "box": [
+    312,
+    1486,
+    722,
+    1960
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p002-n09.png",
+    "q-src-ayin1-e06-p18-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-2b22778c",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p002-n09.png",
+      "alt": "علامت دست افقی پلیس"
+     }
+    },
+    {
+     "id": "q-ayin1-e06-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p18-n07.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p016-1.png",
+   "bookPage": 16,
+   "box": [
+    371,
+    2408,
+    745,
+    2678
+   ],
+   "replaces": [
+    "q-src-600-driveing-p040-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e9-p040-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p040-n24.png",
+      "alt": "علامت دست برای گردش یا تغییر مسیر به راست"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p016-2.png",
+   "bookPage": 16,
+   "box": [
+    888,
+    2408,
+    1355,
+    2678
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p034-n29.png",
+    "q-src-600-driveing-p043-n09.png",
+    "q-src-ayin1-e09-p27-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e16-p034-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p034-n29.png",
+      "alt": "علامت دست افقی راننده برای گردش به چپ"
+     }
+    },
+    {
+     "id": "q-600-e10-p043-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p043-n09.png",
+      "alt": "علامت دست افقی راننده برای گردش به چپ"
+     }
+    },
+    {
+     "id": "q-ayin1-e09-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e09-p27-n07.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p016-3.png",
+   "bookPage": 16,
+   "box": [
+    1426,
+    2408,
+    1804,
+    2678
+   ],
+   "replaces": [
+    "q-src-600-driveing-p064-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e15-p064-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p064-n24.png",
+      "alt": "علامت دست راننده برای توقف"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p020-1.png",
+   "bookPage": 20,
+   "box": [
+    313,
+    714,
+    484,
+    884
+   ],
+   "replaces": [
+    "q-src-ayin1-e07-p21-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e07-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p21-n07.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p020-2.png",
+   "bookPage": 20,
+   "box": [
+    313,
+    971,
+    484,
+    1142
+   ],
+   "replaces": [
+    "q-src-ayin1-e10-p30-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e10-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e10-p30-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p020-3.png",
+   "bookPage": 20,
+   "box": [
+    313,
+    1536,
+    484,
+    1707
+   ],
+   "replaces": [
+    "q-src-600-driveing-p084-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e20-p084-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p084-n23.png",
+      "alt": "نمونه رنگ زرد علائم"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p020-4.png",
+   "bookPage": 20,
+   "box": [
+    313,
+    1789,
+    484,
+    1960
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p006-n12.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e3-p006-n12",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p006-n12.png",
+      "alt": "نمونه رنگ نارنجی علائم"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p020-5.png",
+   "bookPage": 20,
+   "box": [
+    313,
+    2401,
+    663,
+    2575
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p025-n19.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e12-p025-n19",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p025-n19.png",
+      "alt": "نمونه رنگ های سیاه و سفید در علائم"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-1.png",
+   "bookPage": 21,
+   "box": [
+    258,
+    520,
+    417,
+    679
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p030-n14.png",
+    "q-src-600-driveing-p068-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e15-p030-n14",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p030-n14.png",
+      "alt": "شکل هشت گوشه در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-600-e16-p068-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p068-n23.png",
+      "alt": "شکل هشت‌گوشه تابلو ایست"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-2.png",
+   "bookPage": 21,
+   "box": [
+    248,
+    1146,
+    417,
+    1287
+   ],
+   "replaces": [
+    "q-src-600-driveing-p070-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e17-p070-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p070-n08.png",
+      "alt": "شکل مثلث وارونه تابلو رعایت حق تقدم"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-3.png",
+   "bookPage": 21,
+   "box": [
+    273,
+    1334,
+    390,
+    1535
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p026-n14.png",
+    "q-src-600-driveing-p027-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e13-p026-n14",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p026-n14.png",
+      "alt": "شکل مستطیل در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-600-e6-p027-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p027-n08.png",
+      "alt": "شکل مستطیل قائم تابلو"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-4.png",
+   "bookPage": 21,
+   "box": [
+    273,
+    1589,
+    515,
+    1712
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p002-n14.png",
+    "q-src-600-driveing-p074-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-6365ea39",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p002-n14.png",
+      "alt": "شکل تابلو در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-600-e18-p074-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p074-n07.png",
+      "alt": "شکل مستطیل پرچمی علائم راهنما"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-5.png",
+   "bookPage": 21,
+   "box": [
+    238,
+    1749,
+    449,
+    1960
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p029-n25.png",
+    "q-src-600-driveing-p009-n23.png",
+    "q-src-ayin1-e02-p06-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e14-p029-n25",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p029-n25.png",
+      "alt": "شکل لوزی در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-600-visual-e1-p009-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p009-n23.png",
+      "alt": "شکل لوزی در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p06-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-6.png",
+   "bookPage": 21,
+   "box": [
+    248,
+    2248,
+    406,
+    2407
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p024-n15.png",
+    "q-src-600-driveing-p037-n23.png",
+    "q-src-ayin1-e07-p21-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e12-p024-n15",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p024-n15.png",
+      "alt": "شکل دایره در علائم عبور و مرور"
+     }
+    },
+    {
+     "id": "q-600-e8-p037-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p037-n23.png",
+      "alt": "شکل دایره تابلو"
+     }
+    },
+    {
+     "id": "q-ayin1-e07-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p21-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p021-7.png",
+   "bookPage": 21,
+   "box": [
+    232,
+    2457,
+    390,
+    2594
+   ],
+   "replaces": [
+    "q-src-600-driveing-p033-n23.png",
+    "q-src-ayin1-e06-p18-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e7-p033-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p033-n23.png",
+      "alt": "شکل مثلث متساوی‌الاضلاع تابلو"
+     }
+    },
+    {
+     "id": "q-ayin1-e06-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p18-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p022-1.png",
+   "bookPage": 22,
+   "box": [
+    414,
+    1369,
+    1690,
+    2031
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p003-n23.png",
+    "q-src-ayin1-e02-p06-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-142b946c",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p003-n23.png",
+      "alt": "شکل خطوط طولی"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p06-n07.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p022-2.png",
+   "bookPage": 22,
+   "box": [
+    640,
+    1369,
+    1530,
+    2031
+   ],
+   "replaces": [
+    "q-src-600-driveing-p017-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e3-p017-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p017-n24.png",
+      "alt": "خط طولی ممتد در محور راه"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p022-3.png",
+   "bookPage": 22,
+   "box": [
+    1167,
+    2395,
+    1811,
+    2744
+   ],
+   "replaces": [
+    "q-src-600-driveing-p059-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e14-p059-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p059-n09.png",
+      "alt": "خطوط مقطع میان مسیرهای عبور"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p023-1.png",
+   "bookPage": 23,
+   "box": [
+    329,
+    653,
+    1775,
+    1030
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p019-n29.png",
+    "q-src-4-5888983329180487891-1-p036-n14.png",
+    "q-src-600-driveing-p022-n08.png",
+    "q-src-ayin1-e04-p12-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e9-p019-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p019-n29.png",
+      "alt": "دو خودرو در دو سمت خط ممتد و منقطع"
+     }
+    },
+    {
+     "id": "q-visual-e17-p036-n14",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p036-n14.png",
+      "alt": "خط ممتد و مقطع ترکیبی در جاده"
+     }
+    },
+    {
+     "id": "q-600-e5-p022-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p022-n08.png",
+      "alt": "خط ممتد و منقطع در محور راه"
+     }
+    },
+    {
+     "id": "q-ayin1-e04-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p12-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p023-2.png",
+   "bookPage": 23,
+   "box": [
+    611,
+    653,
+    1555,
+    1030
+   ],
+   "replaces": [
+    "q-src-600-driveing-p052-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e12-p052-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p052-n24.png",
+      "alt": "خط‌کشی ممتد و مقطع ترکیبی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p023-3.png",
+   "bookPage": 23,
+   "box": [
+    517,
+    1511,
+    1587,
+    2232
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p022-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e11-p022-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p022-n09.png",
+      "alt": "خطوط هاشور پیرامون موانع راه"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p023-4.png",
+   "bookPage": 23,
+   "box": [
+    517,
+    1866,
+    1587,
+    2232
+   ],
+   "replaces": [
+    "q-src-600-driveing-p011-n09.png",
+    "q-src-600-driveing-p057-n25.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e2-p011-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p011-n09.png",
+      "alt": "خطوط هاشور و مانع در مسیر"
+     }
+    },
+    {
+     "id": "q-600-e13-p057-n25",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p057-n25.png",
+      "alt": "خطوط هاشور پیرامون مانع در مسیر"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p024-1.png",
+   "bookPage": 24,
+   "box": [
+    523,
+    626,
+    1580,
+    991
+   ],
+   "replaces": [
+    "q-src-600-driveing-p047-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e11-p047-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p047-n09.png",
+      "alt": "خطوط پارک افقی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p024-2.png",
+   "bookPage": 24,
+   "box": [
+    523,
+    1001,
+    1580,
+    1478
+   ],
+   "replaces": [
+    "q-src-600-driveing-p010-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-visual-e2-p010-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p010-n08.png",
+      "alt": "خودروهای پارک‌شده به صورت افقی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p024-3.png",
+   "bookPage": 24,
+   "box": [
+    523,
+    1041,
+    1580,
+    1438
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p029-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e14-p029-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p029-n28.png",
+      "alt": "خودروهای پارک شده به صورت افقی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p024-4.png",
+   "bookPage": 24,
+   "box": [
+    517,
+    1614,
+    1584,
+    1933
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p006-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e3-p006-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p006-n09.png",
+      "alt": "خطوط پارک مورب"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p024-5.png",
+   "bookPage": 24,
+   "box": [
+    517,
+    1730,
+    1584,
+    1933
+   ],
+   "replaces": [
+    "q-src-600-driveing-p084-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e20-p084-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p084-n24.png",
+      "alt": "خطوط پارک مورب"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p025-1.png",
+   "bookPage": 25,
+   "box": [
+    510,
+    311,
+    1594,
+    1410
+   ],
+   "replaces": [
+    "q-src-600-driveing-p080-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e19-p080-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p080-n24.png",
+      "alt": "خطوط پارک عمودی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p025-2.png",
+   "bookPage": 25,
+   "box": [
+    337,
+    1933,
+    956,
+    2663
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p012-n09.png",
+    "q-src-600-driveing-p077-n27.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e6-p012-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p012-n09.png",
+      "alt": "خط کشی عرضی عبور پیاده"
+     }
+    },
+    {
+     "id": "q-600-e18-p077-n27",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p077-n27.png",
+      "alt": "خط‌کشی عابر پیاده"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p026-1.png",
+   "bookPage": 26,
+   "box": [
+    315,
+    494,
+    719,
+    865
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p020-n08.png",
+    "q-src-ayin1-e05-p15-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e10-p020-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p020-n08.png",
+      "alt": "خط ممتد ایست و واژه توقف"
+     }
+    },
+    {
+     "id": "q-ayin1-e05-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e05-p15-n07.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p026-2.png",
+   "bookPage": 26,
+   "box": [
+    390,
+    494,
+    719,
+    865
+   ],
+   "replaces": [
+    "q-src-600-driveing-p071-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e17-p071-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p071-n09.png",
+      "alt": "خط توقف در تقاطع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p026-3.png",
+   "bookPage": 26,
+   "box": [
+    290,
+    897,
+    657,
+    1253
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p018-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e9-p018-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p018-n08.png",
+      "alt": "خط توقف منقطع در ورودی راه اصلی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p027-1.png",
+   "bookPage": 27,
+   "box": [
+    585,
+    334,
+    1559,
+    1000
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p016-n11.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e8-p016-n11",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p016-n11.png",
+      "alt": "خطوط شطرنجی در وسط تقاطع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p028-1.png",
+   "bookPage": 28,
+   "box": [
+    333,
+    619,
+    1761,
+    1085
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p008-n08.png",
+    "q-src-4-5888983329180487891-1-p034-n30.png",
+    "q-src-600-driveing-p043-n10.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e4-p008-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p008-n08.png",
+      "alt": "خطوط هاشور اضطراری در حاشیه راه"
+     }
+    },
+    {
+     "id": "q-visual-e16-p034-n30",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p034-n30.png",
+      "alt": "خودروها در کنار خطوط هاشور"
+     }
+    },
+    {
+     "id": "q-600-e10-p043-n10",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p043-n10.png",
+      "alt": "خطوط هاشور حاشیه راه"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p028-2.png",
+   "bookPage": 28,
+   "box": [
+    333,
+    619,
+    1435,
+    1085
+   ],
+   "replaces": [
+    "q-src-ayin1-e01-p03-n08.png",
+    "q-src-ayin1-e09-p27-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e01-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p03-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    },
+    {
+     "id": "q-ayin1-e09-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e09-p27-n08.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p028-3.png",
+   "bookPage": 28,
+   "box": [
+    484,
+    619,
+    1509,
+    1085
+   ],
+   "replaces": [
+    "q-src-600-driveing-p014-n08.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e3-p014-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p014-n08.png",
+      "alt": "حرکت ممنوع روی خطوط هاشور حاشیه راه"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p029-1.png",
+   "bookPage": 29,
+   "box": [
+    1395,
+    961,
+    1687,
+    1251
+   ],
+   "replaces": [
+    "q-src-ayin1-e08-p23-n02.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e08-n02",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e08-p23-n02.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p029-2.png",
+   "bookPage": 29,
+   "box": [
+    413,
+    963,
+    702,
+    1251
+   ],
+   "replaces": [
+    "q-src-ayin1-e06-p17-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e06-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n28.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p029-3.png",
+   "bookPage": 29,
+   "box": [
+    1066,
+    1823,
+    1357,
+    2116
+   ],
+   "replaces": [
+    "q-src-600-driveing-p053-n29.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e12-p053-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p053-n29.png",
+      "alt": "تابلوی برآمدگی"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p029-4.png",
+   "bookPage": 29,
+   "box": [
+    740,
+    2223,
+    1031,
+    2510
+   ],
+   "replaces": [
+    "q-src-ayin1-e10-p29-n02.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e10-n02",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e10-p29-n02.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-1.png",
+   "bookPage": 30,
+   "box": [
+    390,
+    928,
+    682,
+    1204
+   ],
+   "replaces": [
+    "q-src-ayin1-e02-p05-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e02-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-2.png",
+   "bookPage": 30,
+   "box": [
+    391,
+    1315,
+    682,
+    1601
+   ],
+   "replaces": [
+    "q-src-ayin1-e04-p11-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e04-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p11-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-3.png",
+   "bookPage": 30,
+   "box": [
+    1052,
+    1317,
+    1344,
+    1593
+   ],
+   "replaces": [
+    "q-src-ayin1-e03-p08-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e03-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e03-p08-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-4.png",
+   "bookPage": 30,
+   "box": [
+    1053,
+    1699,
+    1344,
+    1991
+   ],
+   "replaces": [
+    "q-src-ayin1-e06-p17-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e06-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-5.png",
+   "bookPage": 30,
+   "box": [
+    1404,
+    2088,
+    1696,
+    2380
+   ],
+   "replaces": [
+    "q-src-ayin1-e08-p23-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e08-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e08-p23-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p030-6.png",
+   "bookPage": 30,
+   "box": [
+    391,
+    2089,
+    683,
+    2379
+   ],
+   "replaces": [
+    "q-src-ayin1-e07-p20-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e07-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p20-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p031-1.png",
+   "bookPage": 31,
+   "box": [
+    1404,
+    920,
+    1696,
+    1211
+   ],
+   "replaces": [
+    "q-src-ayin1-e11-p32-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e11-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p031-2.png",
+   "bookPage": 31,
+   "box": [
+    719,
+    928,
+    1008,
+    1211
+   ],
+   "replaces": [
+    "q-src-ayin1-e10-p29-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e10-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e10-p29-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p031-3.png",
+   "bookPage": 31,
+   "box": [
+    717,
+    1847,
+    1009,
+    2139
+   ],
+   "replaces": [
+    "q-src-600-driveing-p021-n26.png",
+    "q-src-600-driveing-p061-n28.png",
+    "q-src-ayin1-e11-p32-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e4-p021-n26",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p021-n26.png",
+      "alt": "تابلوی ورود به راه اصلی از راست"
+     }
+    },
+    {
+     "id": "q-600-e14-p061-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p061-n28.png",
+      "alt": "تابلوی ورود به راه اصلی از راست"
+     }
+    },
+    {
+     "id": "q-ayin1-e11-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n28.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-1.png",
+   "bookPage": 33,
+   "box": [
+    717,
+    562,
+    1008,
+    853
+   ],
+   "replaces": [
+    "q-src-tablo-p086-n191.png",
+    "q-src-600-driveing-p081-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-tablo-p086-n191",
+     "previousImage": {
+      "src": "./assets/questions/q-src-tablo-p086-n191.png",
+      "alt": "تصویر تابلوی مربوط به سؤال"
+     }
+    },
+    {
+     "id": "q-600-e19-p081-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p081-n28.png",
+      "alt": "تابلوی ایست"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-2.png",
+   "bookPage": 33,
+   "box": [
+    394,
+    951,
+    683,
+    1243
+   ],
+   "replaces": [
+    "q-src-ayin1-e04-p11-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e04-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p11-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-3.png",
+   "bookPage": 33,
+   "box": [
+    1404,
+    951,
+    1696,
+    1243
+   ],
+   "replaces": [
+    "q-src-ayin1-e05-p14-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e05-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e05-p14-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-4.png",
+   "bookPage": 33,
+   "box": [
+    717,
+    1490,
+    1009,
+    1782
+   ],
+   "replaces": [
+    "q-src-tablo-p106-n264.png"
+   ],
+   "questions": [
+    {
+     "id": "q-tablo-p106-n264",
+     "previousImage": {
+      "src": "./assets/questions/q-src-tablo-p106-n264.png",
+      "alt": "تصویر تابلوی مربوط به سؤال"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-5.png",
+   "bookPage": 33,
+   "box": [
+    1404,
+    1490,
+    1696,
+    1782
+   ],
+   "replaces": [
+    "q-src-ayin1-e07-p20-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e07-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p20-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p033-6.png",
+   "bookPage": 33,
+   "box": [
+    390,
+    1954,
+    683,
+    2245
+   ],
+   "replaces": [
+    "q-src-ayin1-e06-p17-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e06-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-1.png",
+   "bookPage": 34,
+   "box": [
+    1404,
+    531,
+    1696,
+    822
+   ],
+   "replaces": [
+    "q-src-600-driveing-p043-n14.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e10-p043-n14",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p043-n14.png",
+      "alt": "تابلوی عبور گاری ممنوع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-2.png",
+   "bookPage": 34,
+   "box": [
+    1404,
+    994,
+    1697,
+    1288
+   ],
+   "replaces": [
+    "q-src-600-driveing-p041-n30.png",
+    "q-src-ayin1-e08-p23-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e9-p041-n30",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p041-n30.png",
+      "alt": "تابلوی عبور وسایل نقلیه با محموله خطرناک ممنوع"
+     }
+    },
+    {
+     "id": "q-ayin1-e08-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e08-p23-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-3.png",
+   "bookPage": 34,
+   "box": [
+    392,
+    1536,
+    680,
+    1825
+   ],
+   "replaces": [
+    "q-src-ayin1-e10-p29-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e10-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e10-p29-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-4.png",
+   "bookPage": 34,
+   "box": [
+    725,
+    1536,
+    1015,
+    1825
+   ],
+   "replaces": [
+    "q-src-ayin1-e11-p32-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e11-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-5.png",
+   "bookPage": 34,
+   "box": [
+    1405,
+    1538,
+    1692,
+    1825
+   ],
+   "replaces": [
+    "q-src-ayin1-e01-p02-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e01-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p02-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p034-6.png",
+   "bookPage": 34,
+   "box": [
+    391,
+    2000,
+    682,
+    2290
+   ],
+   "replaces": [
+    "q-src-ayin1-e03-p08-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e03-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e03-p08-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p035-1.png",
+   "bookPage": 35,
+   "box": [
+    1405,
+    530,
+    1685,
+    820
+   ],
+   "replaces": [
+    "q-src-600-driveing-p077-n30.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e18-p077-n30",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p077-n30.png",
+      "alt": "تابلوی دور زدن ممنوع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p036-1.png",
+   "bookPage": 36,
+   "box": [
+    390,
+    555,
+    688,
+    825
+   ],
+   "replaces": [
+    "q-src-600-driveing-p069-n27.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e16-p069-n27",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p069-n27.png",
+      "alt": "تابلوی توقف در روزهای زوج ممنوع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p036-2.png",
+   "bookPage": 36,
+   "box": [
+    1053,
+    1473,
+    1341,
+    1760
+   ],
+   "replaces": [
+    "q-src-ayin1-e01-p02-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e01-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p02-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p036-3.png",
+   "bookPage": 36,
+   "box": [
+    718,
+    1933,
+    1009,
+    2224
+   ],
+   "replaces": [
+    "q-src-ayin1-e02-p05-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e02-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p036-4.png",
+   "bookPage": 36,
+   "box": [
+    1400,
+    1936,
+    1700,
+    2226
+   ],
+   "replaces": [
+    "q-src-ayin1-e04-p11-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e04-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p11-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p037-1.png",
+   "bookPage": 37,
+   "box": [
+    392,
+    530,
+    682,
+    815
+   ],
+   "replaces": [
+    "q-src-ayin1-e04-p11-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e04-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p11-n28.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p038-1.png",
+   "bookPage": 38,
+   "box": [
+    731,
+    563,
+    995,
+    850
+   ],
+   "replaces": [
+    "q-src-600-driveing-p033-n26.png",
+    "q-src-ayin1-e06-p17-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e7-p033-n26",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p033-n26.png",
+      "alt": "تابلوی پایان آزادراه"
+     }
+    },
+    {
+     "id": "q-ayin1-e06-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p038-2.png",
+   "bookPage": 38,
+   "box": [
+    1038,
+    574,
+    1364,
+    840
+   ],
+   "replaces": [
+    "q-src-ayin1-e07-p20-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e07-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p20-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p038-3.png",
+   "bookPage": 38,
+   "box": [
+    1424,
+    1890,
+    1676,
+    2219
+   ],
+   "replaces": [
+    "q-src-ayin1-e10-p29-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e10-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e10-p29-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p039-1.png",
+   "bookPage": 39,
+   "box": [
+    423,
+    536,
+    659,
+    860
+   ],
+   "replaces": [
+    "q-src-ayin1-e11-p32-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e11-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p039-2.png",
+   "bookPage": 39,
+   "box": [
+    1073,
+    1815,
+    1324,
+    2138
+   ],
+   "replaces": [
+    "q-src-ayin1-e05-p14-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e05-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e05-p14-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p040-1.png",
+   "bookPage": 40,
+   "box": [
+    733,
+    1250,
+    993,
+    1556
+   ],
+   "replaces": [
+    "q-src-ayin1-e01-p02-n03.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e01-n03",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p02-n03.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p041-1.png",
+   "bookPage": 41,
+   "box": [
+    784,
+    932,
+    950,
+    1287
+   ],
+   "replaces": [
+    "q-src-ayin1-e03-p08-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e03-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e03-p08-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p041-2.png",
+   "bookPage": 41,
+   "box": [
+    400,
+    1571,
+    682,
+    1830
+   ],
+   "replaces": [
+    "q-src-ayin1-e02-p05-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e02-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n05.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p041-3.png",
+   "bookPage": 41,
+   "box": [
+    1429,
+    1946,
+    1672,
+    2256
+   ],
+   "replaces": [
+    "q-src-ayin1-e04-p11-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e04-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e04-p11-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p044-1.png",
+   "bookPage": 44,
+   "box": [
+    696,
+    541,
+    994,
+    826
+   ],
+   "replaces": [
+    "q-src-ayin1-e02-p05-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e02-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p044-2.png",
+   "bookPage": 44,
+   "box": [
+    1024,
+    545,
+    1318,
+    820
+   ],
+   "replaces": [
+    "q-src-ayin1-e06-p17-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e06-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p044-3.png",
+   "bookPage": 44,
+   "box": [
+    704,
+    958,
+    1020,
+    1248
+   ],
+   "replaces": [
+    "q-src-ayin1-e01-p02-n04.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e01-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p02-n04.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p044-4.png",
+   "bookPage": 44,
+   "box": [
+    377,
+    967,
+    694,
+    1243
+   ],
+   "replaces": [
+    "q-src-ayin1-e07-p20-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e07-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e07-p20-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p045-1.png",
+   "bookPage": 45,
+   "box": [
+    385,
+    569,
+    696,
+    866
+   ],
+   "replaces": [
+    "q-src-ayin1-e11-p32-n06.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e11-n06",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n06.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p045-2.png",
+   "bookPage": 45,
+   "box": [
+    1408,
+    576,
+    1683,
+    857
+   ],
+   "replaces": [
+    "q-src-600-driveing-p065-n25.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e15-p065-n25",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p065-n25.png",
+      "alt": "نشان راننده ناشنوا"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p082-1.png",
+   "bookPage": 82,
+   "box": [
+    529,
+    1356,
+    1573,
+    1900
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p015-n15.png",
+    "q-src-600-driveing-p029-n23.png",
+    "q-src-ayin1-e05-p14-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e07-p015-n15",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p015-n15.png",
+      "alt": "دید راننده از مسیر دارای مانع و دست انداز"
+     }
+    },
+    {
+     "id": "q-600-e6-p029-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p029-n23.png",
+      "alt": "جاده دارای چاله و دست‌انداز"
+     }
+    },
+    {
+     "id": "q-ayin1-e05-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e05-p14-n23.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p090-1.png",
+   "bookPage": 90,
+   "box": [
+    1331,
+    657,
+    1816,
+    1145
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p012-n11.png",
+    "q-src-600-driveing-p035-n09.png",
+    "q-src-600-driveing-p079-n10.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e6-p012-n11",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p012-n11.png",
+      "alt": "خودرو در حال گردش و موتورسوار در کنار آن"
+     }
+    },
+    {
+     "id": "q-600-e8-p035-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p035-n09.png",
+      "alt": "خودرو در حال گردش و موتورسوار در کنار آن"
+     }
+    },
+    {
+     "id": "q-600-e19-p079-n10",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p079-n10.png",
+      "alt": "خودرو در حال گردش و موتورسوار در فضای کناری"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p091-1.png",
+   "bookPage": 91,
+   "box": [
+    482,
+    1827,
+    988,
+    2347
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p002-n07.png",
+    "q-src-600-driveing-p017-n23.png",
+    "q-src-600-driveing-p060-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-5f1301a7",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p002-n07.png",
+      "alt": "نقطه کور خودرو و موتور سوار"
+     }
+    },
+    {
+     "id": "q-600-e3-p017-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p017-n23.png",
+      "alt": "قرار گرفتن موتورسوار در نقطه کور خودرو"
+     }
+    },
+    {
+     "id": "q-600-e14-p060-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p060-n23.png",
+      "alt": "موتورسوار در نقطه کور خودروی سواری"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p092-1.png",
+   "bookPage": 92,
+   "box": [
+    317,
+    330,
+    1778,
+    848
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p012-n07.png",
+    "q-src-600-driveing-p048-n23.png",
+    "q-src-ayin1-e02-p05-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e6-p012-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p012-n07.png",
+      "alt": "محدوده نقاط کور خودروی سنگین"
+     }
+    },
+    {
+     "id": "q-600-e11-p048-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p048-n23.png",
+      "alt": "محدوده نقاط کور خودروی سنگین"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n23.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p096-1.png",
+   "bookPage": 96,
+   "box": [
+    505,
+    311,
+    1598,
+    904
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p011-n15.png",
+    "q-src-600-driveing-p013-n23.png",
+    "q-src-600-driveing-p051-n09.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e5-p011-n15",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p011-n15.png",
+      "alt": "فاصله تابش نور پایین نسبت به خودروی جلویی"
+     }
+    },
+    {
+     "id": "q-600-e2-p013-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p013-n23.png",
+      "alt": "مقایسه نور خودروها در فاصله کمتر از ۱۵۰ متر"
+     }
+    },
+    {
+     "id": "q-600-e12-p051-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p051-n09.png",
+      "alt": "فاصله دو خودرو و محدوده نور چراغ‌ها"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p100-1.png",
+   "bookPage": 100,
+   "box": [
+    414,
+    1367,
+    636,
+    1962
+   ],
+   "replaces": [
+    "q-src-600-driveing-p039-n11.png",
+    "q-src-600-driveing-p074-n08.png",
+    "q-src-600-driveing-p078-n05.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e9-p039-n11",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p039-n11.png",
+      "alt": "چراغ قرمز چشمک‌زن"
+     }
+    },
+    {
+     "id": "q-600-e18-p074-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p074-n08.png",
+      "alt": "چراغ چشمک‌زن قرمز"
+     }
+    },
+    {
+     "id": "q-600-e19-p078-n05",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p078-n05.png",
+      "alt": "چراغ چشمک‌زن قرمز"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p100-2.png",
+   "bookPage": 100,
+   "box": [
+    438,
+    2059,
+    636,
+    2682
+   ],
+   "replaces": [
+    "q-src-600-driveing-p067-n12.png",
+    "q-src-600-driveing-p073-n26.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e16-p067-n12",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p067-n12.png",
+      "alt": "چراغ چشمک‌زن زرد"
+     }
+    },
+    {
+     "id": "q-600-e17-p073-n26",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p073-n26.png",
+      "alt": "چراغ چشمک‌زن زرد"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p101-1.png",
+   "bookPage": 101,
+   "box": [
+    436,
+    353,
+    656,
+    990
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p006-n08.png",
+    "q-src-600-driveing-p013-n29.png",
+    "q-src-600-driveing-p021-n27.png",
+    "q-src-ayin1-e03-p08-n29.png",
+    "q-src-ayin1-e11-p32-n29.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e3-p006-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p006-n08.png",
+      "alt": "چراغ سبز راهنمایی"
+     }
+    },
+    {
+     "id": "q-600-e2-p013-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p013-n29.png",
+      "alt": "چراغ سبز راهنمایی"
+     }
+    },
+    {
+     "id": "q-600-e4-p021-n27",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p021-n27.png",
+      "alt": "چراغ سبز راهنمایی"
+     }
+    },
+    {
+     "id": "q-ayin1-e03-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e03-p08-n29.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    },
+    {
+     "id": "q-ayin1-e11-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e11-p32-n29.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p101-2.png",
+   "bookPage": 101,
+   "box": [
+    416,
+    1134,
+    666,
+    1764
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p014-n09.png",
+    "q-src-600-driveing-p017-n29.png",
+    "q-src-ayin1-e01-p02-n29.png",
+    "q-src-ayin1-e06-p17-n30.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e7-p014-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p014-n09.png",
+      "alt": "چراغ چشمک زن زرد"
+     }
+    },
+    {
+     "id": "q-600-e3-p017-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p017-n29.png",
+      "alt": "چراغ چشمک‌زن زرد"
+     }
+    },
+    {
+     "id": "q-ayin1-e01-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e01-p02-n29.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    },
+    {
+     "id": "q-ayin1-e06-n30",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e06-p17-n30.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p102-1.png",
+   "bookPage": 102,
+   "box": [
+    341,
+    2329,
+    697,
+    2776
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p008-n07.png",
+    "q-src-600-driveing-p015-n11.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e4-p008-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p008-n07.png",
+      "alt": "چراغ سبز و پیکان قرمز"
+     }
+    },
+    {
+     "id": "q-600-e3-p015-n11",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p015-n11.png",
+      "alt": "چراغ سبز مستقیم و پیکان قرمز"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p104-1.png",
+   "bookPage": 104,
+   "box": [
+    676,
+    1294,
+    1435,
+    1731
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p006-n07.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e3-p006-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p006-n07.png",
+      "alt": "دو خودرو و تابلوهای حق تقدم در تقاطع"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p104-2.png",
+   "bookPage": 104,
+   "box": [
+    288,
+    2238,
+    1036,
+    2681
+   ],
+   "replaces": [
+    "q-src-600-driveing-p056-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e13-p056-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p056-n24.png",
+      "alt": "چهار خودرو در تقاطع و یک خودرو مشخص‌شده با دایره"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p106-1.png",
+   "bookPage": 106,
+   "box": [
+    338,
+    1074,
+    827,
+    1561
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p033-n17.png",
+    "q-src-600-driveing-p008-n19.png",
+    "q-src-ayin1-e02-p06-n12.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e16-p033-n17",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p033-n17.png",
+      "alt": "دو خودرو در میدان و خودروی مشخص‌شده با دایره"
+     }
+    },
+    {
+     "id": "q-600-visual-e1-p008-n19",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p008-n19.png",
+      "alt": "دو خودرو در میدان و خودروی مشخص‌شده با دایره"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n12",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p06-n12.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p106-2.png",
+   "bookPage": 106,
+   "box": [
+    301,
+    1694,
+    896,
+    2147
+   ],
+   "replaces": [
+    "q-src-600-driveing-p030-n04.png",
+    "q-src-ayin1-e02-p06-n19.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e7-p030-n04",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p030-n04.png",
+      "alt": "سه خودرو در تقاطع سه‌راه"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n19",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p06-n19.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p111-1.png",
+   "bookPage": 111,
+   "box": [
+    533,
+    311,
+    1574,
+    849
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p004-n16.png"
+   ],
+   "questions": [
+    {
+     "id": "q-b2-16",
+     "previousImage": null
+    }
+   ]
+  },
+  {
+   "file": "q-book-p112-1.png",
+   "bookPage": 112,
+   "box": [
+    222,
+    552,
+    900,
+    1152
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p016-n07.png",
+    "q-src-600-driveing-p044-n23.png",
+    "q-src-600-driveing-p072-n23.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e8-p016-n07",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p016-n07.png",
+      "alt": "قرارگیری چرخ های خودرو هنگام پارک در سرازیری دارای جدول"
+     }
+    },
+    {
+     "id": "q-600-e10-p044-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p044-n23.png",
+      "alt": "جهت چرخ خودرو هنگام پارک در سرازیری دارای جدول"
+     }
+    },
+    {
+     "id": "q-600-e17-p072-n23",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p072-n23.png",
+      "alt": "جهت چرخ‌ها هنگام پارک در سرازیری دارای جدول"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p117-1.png",
+   "bookPage": 117,
+   "box": [
+    405,
+    505,
+    1050,
+    1160
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p018-n14.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e9-p018-n14",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p018-n14.png",
+      "alt": "اجزای کابین راننده و پدال های شماره گذاری شده"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p117-2.png",
+   "bookPage": 117,
+   "box": [
+    600,
+    614,
+    975,
+    1085
+   ],
+   "replaces": [
+    "q-src-600-driveing-p079-n09.png",
+    "q-src-600-driveing-p083-n10.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e19-p079-n09",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p079-n09.png",
+      "alt": "محل پدال‌های گاز، ترمز و کلاچ در خودرو"
+     }
+    },
+    {
+     "id": "q-600-e20-p083-n10",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p083-n10.png",
+      "alt": "محل پدال‌های گاز، ترمز و کلاچ"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p121-1.png",
+   "bookPage": 121,
+   "box": [
+    381,
+    677,
+    809,
+    1238
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p007-n25.png",
+    "q-src-600-driveing-p075-n10.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e3-p007-n25",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p007-n25.png",
+      "alt": "اهرم دنده و الگوی دنده ها"
+     }
+    },
+    {
+     "id": "q-600-e18-p075-n10",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p075-n10.png",
+      "alt": "اهرم دسته‌دنده و الگوی دنده‌ها"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p128-1.png",
+   "bookPage": 128,
+   "box": [
+    475,
+    376,
+    1550,
+    1172
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p005-n19.png",
+    "q-src-600-driveing-p072-n24.png"
+   ],
+   "questions": [
+    {
+     "id": "q-visual-e2-p005-n19",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p005-n19.png",
+      "alt": "نمای داخلی موتور چهار سیلندر"
+     }
+    },
+    {
+     "id": "q-600-e17-p072-n24",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p072-n24.png",
+      "alt": "نمای داخلی موتور چهار سیلندر"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p133-1.png",
+   "bookPage": 133,
+   "box": [
+    314,
+    403,
+    1713,
+    1519
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p033-n15.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e16-p033-n15",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p033-n15.png",
+      "alt": "نمودار مدار خنک‌کاری موتور و رادیاتور"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p141-1.png",
+   "bookPage": 141,
+   "box": [
+    441,
+    645,
+    1657,
+    1319
+   ],
+   "replaces": [
+    "q-src-600-driveing-p067-n10.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e16-p067-n10",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p067-n10.png",
+      "alt": "محل مبدل کاتالیستی در خودرو"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p146-1.png",
+   "bookPage": 146,
+   "box": [
+    375,
+    945,
+    1152,
+    1747
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p009-n29.png",
+    "q-src-ayin1-e02-p05-n28.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e4-p009-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p009-n29.png",
+      "alt": "رادیاتور خودرو"
+     }
+    },
+    {
+     "id": "q-ayin1-e02-n28",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e02-p05-n28.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p151-1.png",
+   "bookPage": 151,
+   "box": [
+    1224,
+    1113,
+    1619,
+    1628
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p013-n25.png",
+    "q-src-600-driveing-p019-n17.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e6-p013-n25",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p013-n25.png",
+      "alt": "الگوی جابه جایی دوره ای تایرها"
+     }
+    },
+    {
+     "id": "q-600-e4-p019-n17",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p019-n17.png",
+      "alt": "الگوی جابه‌جایی تایرها"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p165-1.png",
+   "bookPage": 165,
+   "box": [
+    292,
+    314,
+    1810,
+    1100
+   ],
+   "replaces": [
+    "q-src-600-driveing-p038-n08.png",
+    "q-src-600-driveing-p075-n12.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e9-p038-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p038-n08.png",
+      "alt": "خودروی دارای فاصله ناکافی با خودروی جلویی"
+     }
+    },
+    {
+     "id": "q-600-e18-p075-n12",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p075-n12.png",
+      "alt": "خودروها در ترافیک و فاصله طولی نامناسب"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p165-2.png",
+   "bookPage": 165,
+   "box": [
+    306,
+    327,
+    1740,
+    1005
+   ],
+   "replaces": [
+    "q-src-ayin1-e08-p24-n22.png"
+   ],
+   "questions": [
+    {
+     "id": "q-ayin1-e08-n22",
+     "previousImage": {
+      "src": "./assets/questions/q-src-ayin1-e08-p24-n22.png",
+      "alt": "تصویر مربوط به سؤال در برگه آزمون"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p165-3.png",
+   "bookPage": 165,
+   "box": [
+    462,
+    327,
+    1290,
+    910
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p002-n11.png"
+   ],
+   "questions": [
+    {
+     "id": "q-3e0d19f1",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p002-n11.png",
+      "alt": "تصویر فاصله طولی خودروها"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p186-1.png",
+   "bookPage": 186,
+   "box": [
+    493,
+    494,
+    1610,
+    1546
+   ],
+   "replaces": [
+    "q-src-600-driveing-p035-n08.png",
+    "q-src-600-driveing-p079-n11.png"
+   ],
+   "questions": [
+    {
+     "id": "q-600-e8-p035-n08",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p035-n08.png",
+      "alt": "خودرو خارج از خطوط عبور"
+     }
+    },
+    {
+     "id": "q-600-e19-p079-n11",
+     "previousImage": {
+      "src": "./assets/questions/q-src-600-driveing-p079-n11.png",
+      "alt": "خودروهای خارج از خطوط حرکت"
+     }
+    }
+   ]
+  },
+  {
+   "file": "q-book-p186-2.png",
+   "bookPage": 186,
+   "box": [
+    603,
+    690,
+    1534,
+    1515
+   ],
+   "replaces": [
+    "q-src-4-5888983329180487891-1-p027-n29.png"
+   ],
+   "questions": [
+    {
+     "id": "q-e13-p027-n29",
+     "previousImage": {
+      "src": "./assets/questions/q-src-4-5888983329180487891-1-p027-n29.png",
+      "alt": "خودروهای خارج شده از خطوط عبور"
+     }
+    }
+   ]
+  }
+ ]
+}

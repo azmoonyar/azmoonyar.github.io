@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-09-25T13:57:27+00:00",
+ "updatedAt": "2026-09-26T02:07:24+00:00",
  "status": "complete",
  "phases": {
   "bookStructure": {
@@ -135,6 +135,18 @@
    "remote": "https://github.com/azmoonyar/azmoonyar.github.io (public; moved from MahdiGraph/azmoonyar on 2026-09-25)",
    "notes": "2026-09-25: published to GitHub. Not in the repository (gitignored, kept on this computer): pdf's/ (sample exams, textbook), data/book-pages.json (full textbook transcription, copyrighted), tmp/ (renders, originals, review batches). Scripts are grouped: scripts/tiering (study pipeline), scripts/assets (picture repairs), scripts/extraction (one-off bank extraction), plus the web-app and brand scripts (scripts/README.md). validate_study_bank.mjs runs in a fresh clone; only its verbatim-excerpt check needs the local transcription.",
    "site": "https://azmoonyar.github.io/ (GitHub Pages, main branch, repository root)"
+  },
+  "bookFigures": {
+   "status": "complete",
+   "list": "data/book-figure-crops.json",
+   "script": "scripts/assets/crop_book_figures.py",
+   "output": "assets/questions/q-book-*.png, data/book-figures.js (folded into data/question-corrections.js)",
+   "counts": {
+    "picturesChecked": 304,
+    "questionsReplaced": 173,
+    "bookCrops": 114
+   },
+   "notes": "2026-09-26, owner's request: small or blurry exam pictures (203 figures + 101 blurriest signs) were compared with the textbook page; where the book prints the same figure (same labels, numbers, colours, orientation) and it is clearly better, the book crop replaces it. Every crop was reviewed side by side with the old picture and the question; captions and legends that name the answer are left out. Question text, options and keys are unchanged; the previous picture stays documented for the SHA-256 check. Question pictures may now display up to 300 px tall (260 px on phones)."
   }
  },
  "resume": "Rebuild after any change: node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/merge_references.py BANK.json data/book-reference-review && python3 scripts/tiering/build_metadata.py BANK.json && node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/build_manual_review.py BANK.json && python3 scripts/tiering/merge_hints.py BANK.json data/hint-review && node scripts/tiering/validate_study_bank.mjs  (bump the hints import version in app.js and app.js?v= in index.html when question-hints.js changes)"
