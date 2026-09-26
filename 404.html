@@ -6,12 +6,23 @@
     <meta name="robots" content="noindex" />
     <title>صفحه پیدا نشد | آزمون‌یار</title>
     <link rel="icon" href="https://azmoonyar.github.io/icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <script>
+      // Same theme as the app: the saved choice, otherwise the device setting.
+      (function () {
+        var theme = null;
+        try { theme = localStorage.getItem("ayeen.theme"); } catch (error) {}
+        if (theme !== "dark" && theme !== "light") theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
     <style>
-      body { display: grid; place-items: center; min-height: 100vh; margin: 0; padding: 24px; box-sizing: border-box; color: #172033; background: #f7f8fc; font-family: Vazirmatn, Tahoma, sans-serif; text-align: center; }
+      :root { color-scheme: light; --ink: #172033; --canvas: #f7f8fc; --muted: #6c768b; --button: #4559e6; }
+      :root[data-theme="dark"] { color-scheme: dark; --ink: #e6e9f2; --canvas: #0f1320; --muted: #929bb1; --button: #5163e8; }
+      body { display: grid; place-items: center; min-height: 100vh; margin: 0; padding: 24px; box-sizing: border-box; color: var(--ink); background: var(--canvas); font-family: Vazirmatn, Tahoma, sans-serif; text-align: center; }
       img { width: 64px; height: 64px; }
       h1 { margin: 16px 0 6px; font-size: 1.4rem; }
-      p { margin: 0 0 22px; color: #6c768b; }
-      a { display: inline-block; padding: 11px 22px; border-radius: 12px; color: #fff; background: #4559e6; font-weight: 700; text-decoration: none; }
+      p { margin: 0 0 22px; color: var(--muted); }
+      a { display: inline-block; padding: 11px 22px; border-radius: 12px; color: #fff; background: var(--button); font-weight: 700; text-decoration: none; }
     </style>
   </head>
   <body>

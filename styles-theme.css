@@ -1,0 +1,158 @@
+/* Colour tokens for the light and the dark theme. The theme is set on <html data-theme="light|dark"> before the
+   first paint (inline script in index.html) and switched by the toggle in the page headers (theme.js). */
+
+:root {
+  color-scheme: light;
+  --canvas: #f7f8fc;
+  --surface: #fff;
+  --glass: 255, 255, 255;
+  --glass-border: rgba(255, 255, 255, .8);
+  --ink: #172033;
+  --ink-soft: #39425a;
+  --ink-2: #4a5370;
+  --ink-3: #5b6479;
+  --muted: #6c768b;
+  --line: #e8ebf1;
+  --line-strong: #c9cfdc;
+  --fill: #f2f4f8;
+  --fill-soft: #fafbfd;
+  --track: #eceef4;
+  --primary: #4559e6;
+  --primary-dark: #3547cd;
+  --primary-solid: #4559e6;
+  --primary-solid-hover: #3547cd;
+  --primary-bg: #eef0ff;
+  --primary-bg-soft: #f5f6ff;
+  --primary-line: #d5dafe;
+  --primary-line-strong: #b3bcfa;
+  --primary-glow: #e9edff;
+  --primary-ring: rgba(69, 89, 230, .12);
+  --focus-ring: rgba(69, 89, 230, .3);
+  --success: #16845b;
+  --success-bg: #eaf8f1;
+  --success-line: #92d6b7;
+  --success-ink: #116c49;
+  --success-solid: #16845b;
+  --danger: #d64b5b;
+  --danger-bg: #fff0f2;
+  --danger-line: #f0adb6;
+  --danger-ink: #c23a4a;
+  --danger-solid: #d64b5b;
+  --warn-bg: #fffaf0;
+  --warn-line: #e3bd6f;
+  --warn-ink: #9a6400;
+  --amber-bg: #fffbf2;
+  --amber-line: #f1ddb0;
+  --amber-fill: #fdefcf;
+  --amber-ink: #8f5f05;
+  --ios-blue: #0a7aff;
+  --shadow: 0 18px 50px rgba(22, 32, 61, .08);
+
+  /* Importance levels (سطح ۱ تا ۵) */
+  --tier-1: #db2f48; --tier-1-bg: #fff0f2; --tier-1-line: #f6c3cb; --tier-1-solid: #db2f48;
+  --tier-2: #d96d0c; --tier-2-bg: #fff5e8; --tier-2-line: #f7d5ae; --tier-2-solid: #d96d0c;
+  --tier-3: #4559e6; --tier-3-bg: #eef0ff; --tier-3-line: #cdd4fb; --tier-3-solid: #4559e6;
+  --tier-4: #11838a; --tier-4-bg: #e7f6f6; --tier-4-line: #b5e2e2; --tier-4-solid: #11838a;
+  --tier-5: #667085; --tier-5-bg: #f2f4f7; --tier-5-line: #d9dde5; --tier-5-solid: #667085;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #0f1320;
+  --surface: #171c2b;
+  --glass: 23, 28, 43;
+  --glass-border: rgba(255, 255, 255, .06);
+  --ink: #e6e9f2;
+  --ink-soft: #d1d6e3;
+  --ink-2: #c2c8d8;
+  --ink-3: #a9b1c4;
+  --muted: #929bb1;
+  --line: #283047;
+  --line-strong: #434c66;
+  --fill: #212839;
+  --fill-soft: #1a2030;
+  --track: #2b3346;
+  --primary: #8391ff;
+  --primary-dark: #9ba7ff;
+  --primary-solid: #5163e8;
+  --primary-solid-hover: #6272f0;
+  --primary-bg: #252c50;
+  --primary-bg-soft: #1c2240;
+  --primary-line: #39437d;
+  --primary-line-strong: #5563b8;
+  --primary-glow: #1c2450;
+  --primary-ring: rgba(131, 145, 255, .2);
+  --focus-ring: rgba(131, 145, 255, .6);
+  --success: #45d196;
+  --success-bg: #12332a;
+  --success-line: #22694c;
+  --success-ink: #7fe2b5;
+  --success-solid: #177f55;
+  --danger: #ff7384;
+  --danger-bg: #3a1c25;
+  --danger-line: #7b3543;
+  --danger-ink: #ff8d9a;
+  --danger-solid: #cc4454;
+  --warn-bg: #2b2413;
+  --warn-line: #6f5520;
+  --warn-ink: #f0c46a;
+  --amber-bg: #29231a;
+  --amber-line: #574720;
+  --amber-fill: #3d3218;
+  --amber-ink: #f1c36b;
+  --ios-blue: #4da3ff;
+  --shadow: 0 18px 50px rgba(0, 0, 0, .35);
+
+  --tier-1: #ff6b80; --tier-1-bg: #3a1c25; --tier-1-line: #6d2c3a; --tier-1-solid: #c9374d;
+  --tier-2: #ffa24d; --tier-2-bg: #36261a; --tier-2-line: #6b4a27; --tier-2-solid: #b55a0b;
+  --tier-3: #7f8dff; --tier-3-bg: #252c50; --tier-3-line: #3b4680; --tier-3-solid: #4d5fe0;
+  --tier-4: #43c7cf; --tier-4-bg: #133235; --tier-4-line: #255c60; --tier-4-solid: #0f7a80;
+  --tier-5: #a6aec0; --tier-5-bg: #252b38; --tier-5-line: #3b4355; --tier-5-solid: #5d6679;
+}
+
+.tier-1 { --tier-solid: var(--tier-1-solid); }
+.tier-2 { --tier-solid: var(--tier-2-solid); }
+.tier-3 { --tier-solid: var(--tier-3-solid); }
+.tier-4 { --tier-solid: var(--tier-4-solid); }
+.tier-5 { --tier-solid: var(--tier-5-solid); }
+
+/* Dialogs need a darker backdrop and a visible edge on the dark page. */
+:root[data-theme="dark"] .install-sheet { border: 1px solid var(--line-strong); box-shadow: 0 24px 60px rgba(0, 0, 0, .5); }
+:root[data-theme="dark"] .install-sheet::backdrop { background: rgba(4, 7, 15, .7); }
+:root[data-theme="dark"] .nav-backdrop { background: rgba(4, 7, 15, .62); }
+
+/* Question pictures keep their own (mostly white) background; tone them down a little on the dark page. */
+:root[data-theme="dark"] .question-image img { filter: brightness(.92); }
+
+/* Theme toggle in the page headers */
+.topbar-actions { display: flex; align-items: center; gap: 8px; }
+.theme-toggle {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  color: var(--ink-2);
+  background: rgba(var(--glass), .92);
+  cursor: pointer;
+  transition: border-color .15s, color .15s, transform .15s;
+}
+.theme-toggle:hover { border-color: var(--primary-line-strong); color: var(--primary); transform: translateY(-1px); }
+.theme-toggle svg { width: 18px; height: 18px; }
+.theme-toggle .icon-sun,
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+.topbar .theme-toggle { width: 34px; height: 34px; border-radius: 11px; }
+
+@media (max-width: 530px) {
+  .theme-toggle { width: 36px; height: 36px; }
+  /* The exam title is hidden here: keep the toggle next to «پایان آزمون» instead of centred. */
+  .topbar .theme-toggle { margin-inline-start: auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle { transition: none; }
+}

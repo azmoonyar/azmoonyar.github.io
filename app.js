@@ -4,6 +4,7 @@ import {
   buildSimulationSession, buildTierSession, countByTier, normalizeTiers, poolForTiers, resolveCount,
 } from "./exam-builder.js";
 import { handleInstall, onInstallChange, renderInstallButton } from "./pwa.js";
+import { renderThemeToggle, toggleTheme } from "./theme.js";
 
 const app = document.querySelector("#app");
 
@@ -195,7 +196,7 @@ function renderIntro() {
   const referencedCount = questionBank.filter((question) => question.bookPage).length;
   app.innerHTML = `
     <section class="intro-page setup-page" aria-labelledby="exam-title">
-      <div class="setup-topbar"><div class="brand">${BRAND_LOGO}<span>آزمون‌یار</span></div><div class="install-slot">${renderInstallButton()}</div></div>
+      <div class="setup-topbar"><div class="brand">${BRAND_LOGO}<span>آزمون‌یار</span></div><div class="topbar-actions"><div class="install-slot">${renderInstallButton()}</div>${renderThemeToggle()}</div></div>
       <div class="setup-card">
         <header class="setup-hero">
           <p class="eyebrow">آماده‌سازی آزمون</p>
@@ -240,7 +241,7 @@ function renderHeader(stats) {
   const progress = Math.round((stats.answered / total) * 100);
   return `
     <header class="exam-header">
-      <div class="topbar"><a href="#" class="brand" data-action="exit">${BRAND_LOGO}<span>آزمون‌یار</span></a><span class="exam-name">${sessionTitle()}</span><button class="text-button" data-action="finish">${state.phase === "review" ? "بازگشت به نتیجه" : "پایان آزمون"}</button></div>
+      <div class="topbar"><a href="#" class="brand" data-action="exit">${BRAND_LOGO}<span>آزمون‌یار</span></a><span class="exam-name">${sessionTitle()}</span>${renderThemeToggle()}<button class="text-button" data-action="finish">${state.phase === "review" ? "بازگشت به نتیجه" : "پایان آزمون"}</button></div>
       <div class="metrics" aria-label="وضعیت آزمون">
         <div class="metric metric-question"><span>سؤال</span><strong>${faNumber(state.currentIndex + 1)} <em>از</em> ${faNumber(total)}</strong></div>
         <div class="metric metric-correct"><span>✓ صحیح</span><strong>${faNumber(stats.correct)}</strong></div>
@@ -433,7 +434,7 @@ function renderResults() {
   const total = state.session.length;
   const percentage = Math.round((stats.correct / total) * 100);
   const breakdown = tierBreakdown();
-  app.innerHTML = `<section class="results-page"><div class="brand">${BRAND_LOGO}<span>آزمون‌یار</span></div><div class="results-card"><div class="result-icon">${percentage >= 50 ? "✓" : "!"}</div><p class="eyebrow">نتیجهٔ ${sessionTitle()}</p><h1>آزمون شما به پایان رسید</h1><p class="result-copy">${stats.answered === total ? "همهٔ سؤال‌ها پاسخ داده شده‌اند." : "می‌توانید پاسخ‌های ثبت‌شده و سؤال‌های بدون پاسخ را مرور کنید."}</p><div class="score-ring" style="--score:${percentage}"><strong>${faNumber(percentage)}٪</strong><span>پاسخ صحیح</span></div><div class="result-stats"><div><strong>${faNumber(total)}</strong><span>کل سؤال‌ها</span></div><div class="correct"><strong>${faNumber(stats.correct)}</strong><span>صحیح</span></div><div class="wrong"><strong>${faNumber(stats.wrong)}</strong><span>غلط</span></div><div><strong>${faNumber(stats.unanswered)}</strong><span>بدون پاسخ</span></div><div><strong>${formatTime(state.elapsedSeconds)}</strong><span>زمان صرف‌شده</span></div></div>
+  app.innerHTML = `<section class="results-page"><div class="setup-topbar"><div class="brand">${BRAND_LOGO}<span>آزمون‌یار</span></div>${renderThemeToggle()}</div><div class="results-card"><div class="result-icon">${percentage >= 50 ? "✓" : "!"}</div><p class="eyebrow">نتیجهٔ ${sessionTitle()}</p><h1>آزمون شما به پایان رسید</h1><p class="result-copy">${stats.answered === total ? "همهٔ سؤال‌ها پاسخ داده شده‌اند." : "می‌توانید پاسخ‌های ثبت‌شده و سؤال‌های بدون پاسخ را مرور کنید."}</p><div class="score-ring" style="--score:${percentage}"><strong>${faNumber(percentage)}٪</strong><span>پاسخ صحیح</span></div><div class="result-stats"><div><strong>${faNumber(total)}</strong><span>کل سؤال‌ها</span></div><div class="correct"><strong>${faNumber(stats.correct)}</strong><span>صحیح</span></div><div class="wrong"><strong>${faNumber(stats.wrong)}</strong><span>غلط</span></div><div><strong>${faNumber(stats.unanswered)}</strong><span>بدون پاسخ</span></div><div><strong>${formatTime(state.elapsedSeconds)}</strong><span>زمان صرف‌شده</span></div></div>
     ${breakdown.length > 1 || state.sessionInfo?.mode === "simulation" ? `<div class="tier-breakdown" aria-label="عملکرد بر اساس سطح"><p class="eyebrow">عملکرد بر اساس سطح</p>${breakdown.map((row) => `<div class="breakdown-row"><span class="tier-chip tier-${row.tier}">${row.tier === 1 ? "★ " : ""}${tierName(row.tier)}</span><div class="breakdown-bar"><i class="tier-${row.tier}" style="width:${Math.round((row.correct / row.total) * 100)}%"></i></div><strong>${faNumber(row.correct)} از ${faNumber(row.total)}</strong></div>`).join("")}</div>` : ""}
     <div class="results-actions"><button class="button button-primary button-large" data-action="review">مشاهدهٔ پاسخ‌ها <span>←</span></button><button class="button button-secondary button-large" data-action="new-exam">آزمون جدید</button></div></div></section>`;
 }
@@ -612,6 +613,7 @@ app.addEventListener("click", (event) => {
     return;
   }
   if (action === "install") handleInstall();
+  if (action === "theme") toggleTheme();
   if (action === "start") startExam();
   if (action === "finish") finishExam();
   if (action === "review") { state.phase = "review"; state.currentIndex = 0; resetNavigator(); render(); }

@@ -9,6 +9,16 @@
     <meta name="google-site-verification" content="ldW4rFqDgbdR46jFqGJREjSHYkQdgPwjdxbTS6_ZxFs" />
     <link rel="canonical" href="https://azmoonyar.github.io/" />
     <meta name="theme-color" content="#f6f7fb" />
+    <script>
+      // Theme before the first paint: the saved choice, otherwise the device setting (theme.js keeps it in sync).
+      (function () {
+        var theme = null;
+        try { theme = localStorage.getItem("ayeen.theme"); } catch (error) {}
+        if (theme !== "dark" && theme !== "light") theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        document.documentElement.setAttribute("data-theme", theme);
+        if (theme === "dark") document.querySelector('meta[name="theme-color"]').setAttribute("content", "#0f1320");
+      })();
+    </script>
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="آزمون‌یار" />
@@ -53,10 +63,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="./styles.css" />
-    <link rel="stylesheet" href="./styles-tiers.css?v=20260925-6" />
-    <link rel="stylesheet" href="./styles-navigator.css?v=20260925-4" />
-    <link rel="stylesheet" href="./styles-app.css?v=20260926-1" />
+    <link rel="stylesheet" href="./styles-theme.css?v=20260926-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260926-1" />
+    <link rel="stylesheet" href="./styles-tiers.css?v=20260926-1" />
+    <link rel="stylesheet" href="./styles-navigator.css?v=20260926-1" />
+    <link rel="stylesheet" href="./styles-app.css?v=20260926-2" />
   </head>
   <body>
     <main id="app" class="app-shell">
@@ -87,6 +98,6 @@
         <span>کد منبع در GitHub</span>
       </a>
     </footer>
-    <script type="module" src="./app.js?v=20260925-14"></script>
+    <script type="module" src="./app.js?v=20260926-1"></script>
   </body>
 </html>

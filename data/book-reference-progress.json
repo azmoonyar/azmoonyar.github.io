@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-09-26T02:07:24+00:00",
+ "updatedAt": "2026-09-26T03:24:05+00:00",
  "status": "complete",
  "phases": {
   "bookStructure": {
@@ -147,6 +147,17 @@
     "bookCrops": 114
    },
    "notes": "2026-09-26, owner's request: small or blurry exam pictures (203 figures + 101 blurriest signs) were compared with the textbook page; where the book prints the same figure (same labels, numbers, colours, orientation) and it is clearly better, the book crop replaces it. Every crop was reviewed side by side with the old picture and the question; captions and legends that name the answer are left out. Question text, options and keys are unchanged; the previous picture stays documented for the SHA-256 check. Question pictures may now display up to 300 px tall (260 px on phones)."
+  },
+  "darkTheme": {
+   "status": "complete",
+   "files": [
+    "styles-theme.css",
+    "theme.js",
+    "index.html",
+    "app.js",
+    "404.html"
+   ],
+   "notes": "2026-09-26, owner's request: dark theme with a toggle (moon / sun) in the setup, exam and results headers. All colours are tokens in styles-theme.css (light values unchanged, dark values under :root[data-theme=\"dark\"]); an inline script in index.html sets data-theme before the first paint from localStorage ayeen.theme, otherwise the device setting, which the page keeps following until the toggle is used. Solid fills behind white text have their own *-solid tokens; text in every screen was checked for WCAG AA contrast in the dark theme."
   }
  },
  "resume": "Rebuild after any change: node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/merge_references.py BANK.json data/book-reference-review && python3 scripts/tiering/build_metadata.py BANK.json && node scripts/tiering/dump_bank.mjs BANK.json && python3 scripts/tiering/build_manual_review.py BANK.json && python3 scripts/tiering/merge_hints.py BANK.json data/hint-review && node scripts/tiering/validate_study_bank.mjs  (bump the hints import version in app.js and app.js?v= in index.html when question-hints.js changes)"
